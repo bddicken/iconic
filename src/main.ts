@@ -10,7 +10,7 @@ import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 import '@fontsource/rubik/latin-500.css';
 import '@fontsource/rubik/latin-ext-500.css';
 import './style.css';
-import { buildStyle, type LandCoverTiles } from './basemap';
+import { buildStyle, COUNTRY_LABELS, countryAreas, countryLabelFilter, type LandCoverTiles } from './basemap';
 import { selectLandmarks } from './select';
 import type { Landmark, LandmarkData } from './types';
 
@@ -18,6 +18,14 @@ import type { Landmark, LandmarkData } from './types';
 const MAX_VISIBLE = 15;
 /** Zoom the camera flies to when a landmark is opened (kept if already closer). */
 const FOCUS_ZOOM = 5.6;
+/**
+ * A country is named once it covers at least this share of the screen, so zooming in
+ * brings up the big countries first and the small ones later. The pixel floor keeps the
+ * rule sensible on small screens, where 1% is too little room for a label.
+ */
+const COUNTRY_LABEL_SCREEN_SHARE = 0.01;
+const COUNTRY_LABEL_MIN_PIXELS = 7000;
+const EARTH_CIRCUMFERENCE_M = 40075016.686;
 /** Idle spin before the first interaction, in degrees of longitude per second. */
 const SPIN_SPEED = 3.5;
 
@@ -172,12 +180,35 @@ async function start(): Promise<void> {
     }
   }
 
+  // ----- country names: only for countries that are big enough on screen -----
+
+  let namedCountries = -1;
+  function updateCountryLabels(): void {
+    if (!map.getLayer(COUNTRY_LABELS)) return;
+    const canvas = map.getCanvas();
+    // ground size of one screen pixel at the centre of the view
+    const metresPerPixel =
+      (EARTH_CIRCUMFERENCE_M * Math.cos((map.getCenter().lat * Math.PI) / 180)) / (512 * 2 ** map.getZoom());
+    const pixels = Math.max(
+      COUNTRY_LABEL_SCREEN_SHARE * canvas.clientWidth * canvas.clientHeight,
+      COUNTRY_LABEL_MIN_PIXELS,
+    );
+    const minAreaKm2 = pixels * (metresPerPixel / 1000) ** 2;
+    // countryAreas is sorted largest first; count how many clear the bar
+    let count = 0;
+    while (count < countryAreas.length && countryAreas[count] >= minAreaKm2) count++;
+    if (count === namedCountries) return; // same set as before: leave the layer alone
+    namedCountries = count;
+    map.setFilter(COUNTRY_LABELS, countryLabelFilter(count ? countryAreas[count - 1] : Infinity));
+  }
+
   let frame = 0;
   const scheduleRender = (): void => {
     if (!frame) {
       frame = requestAnimationFrame(() => {
         frame = 0;
         render();
+        updateCountryLabels();
       });
     }
   };
@@ -340,6 +371,7 @@ async function start(): Promise<void> {
       render();
       requestAnimationFrame(spin);
     }
+    updateCountryLabels();
   });
   window.addEventListener('hashchange', () => {
     const lm = byId.get(decodeURIComponent(location.hash.slice(1)));

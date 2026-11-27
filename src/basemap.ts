@@ -1,4 +1,5 @@
-import type { LayerSpecification, StyleSpecification } from 'maplibre-gl';
+import type { FilterSpecification, LayerSpecification, StyleSpecification } from 'maplibre-gl';
+import countries from './countries.json';
 import rubik500 from '@fontsource/rubik/files/rubik-latin-500-normal.woff2?url';
 import rubik500Ext from '@fontsource/rubik/files/rubik-latin-ext-500-normal.woff2?url';
 import rubik600 from '@fontsource/rubik/files/rubik-latin-600-normal.woff2?url';
@@ -16,7 +17,8 @@ import rubik500ItalicExt from '@fontsource/rubik/files/rubik-latin-ext-500-itali
  *   land colour   LAND_COVER_TILES when present (true biome colours at globe zoom),
  *                 otherwise an elevation tint; OpenStreetMap land cover from zoom 7
  *   terrain       hillshade from Mapterhorn elevation tiles
- *   water, rivers, borders, roads, names   OpenFreeMap vector tiles (OpenStreetMap)
+ *   water, rivers, borders, roads, city and sea names   OpenFreeMap vector tiles (OpenStreetMap)
+ *   country names   src/countries.json, shown by on-screen size
  *
  * None of the sources needs an API key.
  */
@@ -39,6 +41,7 @@ export const palette = {
   border: '#ffffff',
   road: '#fff6e0',
   ink: '#27304f',
+  cityInk: '#5a3d2b',
   waterInk: '#0f5f8f',
 } as const;
 
@@ -67,6 +70,24 @@ export interface LandCoverTiles {
  * Anything those files do not cover (Arabic, CJK, Cyrillic place names...) still falls
  * back to the matching Noto Sans glyphs, which is why the stacks are named after them.
  */
+const CITY_FILTER: FilterSpecification = [
+  'any',
+  ['all', ['==', ['get', 'class'], 'city'], ['<=', ['coalesce', ['get', 'rank'], 99], 7]],
+  ['all', ['>=', ['zoom'], 8], ['in', ['get', 'class'], ['literal', ['city', 'town']]]],
+];
+
+export const COUNTRY_LABELS = 'country-names';
+
+/** Shows only the countries whose land area is at least `minAreaKm2`. */
+export function countryLabelFilter(minAreaKm2: number): FilterSpecification {
+  return ['>=', ['get', 'area'], Number.isFinite(minAreaKm2) ? minAreaKm2 : 1e12];
+}
+
+/** Land areas of every labelled country, largest first. */
+export const countryAreas: number[] = (countries as CountryRow[]).map((c) => c[4]);
+
+type CountryRow = [code: string, name: string, lat: number, lng: number, areaKm2: number];
+
 const FONT_COUNTRY = ['Noto Sans Bold'];
 const FONT_CITY = ['Noto Sans Regular'];
 const FONT_WATER = ['Noto Sans Italic'];
@@ -266,26 +287,47 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
       },
     },
     {
-      id: 'country-names',
+      // Country names come from our own point list rather than the vector tiles, so that
+      // each one can appear only when its country is big enough on screen (see
+      // countryLabelFilter). They are deliberately faint: readable, but behind the map.
+      id: COUNTRY_LABELS,
       type: 'symbol',
-      source: 'osm',
-      'source-layer': 'place',
-      minzoom: 2.2,
-      maxzoom: 7.5,
-      filter: ['==', ['get', 'class'], 'country'],
+      source: 'countries',
+      maxzoom: 9,
+      filter: countryLabelFilter(Infinity),
       layout: {
-        'text-field': NAME,
+        'text-field': ['get', 'name'],
         'text-font': FONT_COUNTRY,
-        'text-size': ['interpolate', ['linear'], ['zoom'], 2, 11, 6, 17],
+        'text-size': ['interpolate', ['linear'], ['zoom'], 1.5, 11, 6, 17],
         'text-transform': 'uppercase',
-        'text-letter-spacing': 0.08,
+        'text-letter-spacing': 0.1,
         'text-max-width': 7,
-        'symbol-sort-key': ['coalesce', ['get', 'rank'], 99],
+        // biggest countries claim their space first
+        'symbol-sort-key': ['-', 0, ['get', 'area']],
       },
       paint: {
         'text-color': palette.ink,
-        'text-halo-color': 'rgba(255,255,255,0.85)',
-        'text-halo-width': 1.6,
+        'text-opacity': 0.55,
+        'text-halo-color': 'rgba(255,255,255,0.7)',
+        'text-halo-width': 1.2,
+      },
+    },
+    // Cities read differently from countries at a glance: a small dot, smaller mixed-case
+    // lettering in warm brown (countries are spaced navy capitals), and likewise faint.
+    {
+      id: 'city-dots',
+      type: 'circle',
+      source: 'osm',
+      'source-layer': 'place',
+      minzoom: 4.5,
+      filter: CITY_FILTER,
+      paint: {
+        'circle-radius': ['interpolate', ['linear'], ['zoom'], 4.5, 1.8, 10, 3],
+        'circle-color': '#ffffff',
+        'circle-opacity': 0.75,
+        'circle-stroke-color': palette.cityInk,
+        'circle-stroke-width': 1,
+        'circle-stroke-opacity': 0.55,
       },
     },
     {
@@ -294,22 +336,23 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
       source: 'osm',
       'source-layer': 'place',
       minzoom: 4.5,
-      filter: [
-        'any',
-        ['all', ['==', ['get', 'class'], 'city'], ['<=', ['coalesce', ['get', 'rank'], 99], 7]],
-        ['all', ['>=', ['zoom'], 8], ['in', ['get', 'class'], ['literal', ['city', 'town']]]],
-      ],
+      filter: CITY_FILTER,
       layout: {
         'text-field': NAME,
         'text-font': FONT_CITY,
-        'text-size': ['interpolate', ['linear'], ['zoom'], 4, 11.5, 10, 15.5],
+        'text-size': ['interpolate', ['linear'], ['zoom'], 4.5, 10.5, 10, 13.5],
         'text-max-width': 8,
+        // sit beside the dot, on whichever side has room
+        'text-variable-anchor': ['left', 'right', 'top', 'bottom'],
+        'text-radial-offset': 0.5,
+        'text-justify': 'auto',
         'symbol-sort-key': ['coalesce', ['get', 'rank'], 99],
       },
       paint: {
-        'text-color': palette.ink,
-        'text-halo-color': 'rgba(255,255,255,0.9)',
-        'text-halo-width': 1.5,
+        'text-color': palette.cityInk,
+        'text-opacity': 0.72,
+        'text-halo-color': 'rgba(255,255,255,0.7)',
+        'text-halo-width': 1.1,
       },
     },
   );
@@ -340,6 +383,17 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
         url: 'https://tiles.openfreemap.org/planet',
         attribution:
           '<a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
+      },
+      countries: {
+        type: 'geojson',
+        data: {
+          type: 'FeatureCollection',
+          features: (countries as CountryRow[]).map(([code, name, lat, lng, area]) => ({
+            type: 'Feature',
+            properties: { code, name, area },
+            geometry: { type: 'Point', coordinates: [lng, lat] },
+          })),
+        },
       },
       elevation,
       ...(landCover
