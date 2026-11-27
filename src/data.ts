@@ -9,7 +9,7 @@ import type { Landmark, LandmarkDetails } from './types';
  * Development only (`npm run dev:local`): read the pipeline's output file instead of the
  * API, to look at landmarks that have been built on this machine but not deployed yet.
  */
-const LOCAL = import.meta.env.DEV && Boolean(import.meta.env.VITE_LOCAL_DATA);
+export const LOCAL = import.meta.env.DEV && Boolean(import.meta.env.VITE_LOCAL_DATA);
 
 async function getJson<T>(url: string): Promise<T> {
   const res = await fetch(url);

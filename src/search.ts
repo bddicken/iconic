@@ -5,7 +5,8 @@
 // landmark ids, best first; this module turns them into a results list and, for filters,
 // into the set of landmarks the globe is allowed to show.
 
-import type { Landmark } from './types';
+import { LOCAL } from './data';
+import type { Landmark, LandmarkDetails } from './types';
 
 interface SearchResponse {
   ids: string[];
@@ -60,8 +61,30 @@ export function mountSearch(opts: SearchOptions): void {
 
   // ----- talking to the API -----
 
+  /**
+   * A plain match in the browser, for when the API cannot answer. Every word must appear
+   * somewhere in the landmark's name and place (and its blurb, when the local data has it).
+   */
+  function matchHere(query: Query): SearchResponse {
+    const words = (query.q ?? '').toLowerCase().split(/\s+/).filter(Boolean);
+    const hits = landmarks.filter((l) => {
+      if (query.region && l.region !== query.region) return false;
+      if (query.category && l.category !== query.category) return false;
+      const { description, summary } = l as Partial<LandmarkDetails>;
+      const text = `${l.name} ${l.country} ${l.region} ${l.category} ${description ?? ''} ${summary ?? ''}`.toLowerCase();
+      return words.every((w) => text.includes(w));
+    });
+    // a match in the name comes before one found only in the blurb; otherwise most popular first
+    const named = (l: Landmark): number => (words.every((w) => l.name.toLowerCase().includes(w)) ? 0 : 1);
+    if (words.length) hits.sort((a, b) => named(a) - named(b) || a.rank - b.rank);
+    return { ids: hits.slice(0, query.limit).map((l) => l.id), total: hits.length, mode: words.length ? 'exact' : 'all' };
+  }
+
   let warned = false;
   async function ask(query: Query, signal?: AbortSignal): Promise<SearchResponse> {
+    // `npm run dev:local` shows landmarks that are not in the database yet, which the API
+    // cannot know about, so they are matched here instead.
+    if (LOCAL) return matchHere(query);
     const params = new URLSearchParams();
     if (query.q) params.set('q', query.q);
     if (query.region) params.set('region', query.region);
@@ -77,14 +100,7 @@ export function mountSearch(opts: SearchOptions): void {
       // the box dead, fall back to a plain name-and-place match in the browser.
       if (!warned) console.warn('Search API unavailable; using basic in-browser matching instead.', err);
       warned = true;
-      const words = (query.q ?? '').toLowerCase().split(/\s+/).filter(Boolean);
-      const hits = landmarks.filter((l) => {
-        if (query.region && l.region !== query.region) return false;
-        if (query.category && l.category !== query.category) return false;
-        const text = `${l.name} ${l.country} ${l.region} ${l.category}`.toLowerCase();
-        return words.every((w) => text.includes(w));
-      });
-      return { ids: hits.slice(0, query.limit).map((l) => l.id), total: hits.length, mode: words.length ? 'exact' : 'all' };
+      return matchHere(query);
     }
   }
 

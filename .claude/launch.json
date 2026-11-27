@@ -6,6 +6,12 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev", "--", "--port", "5183", "--strictPort"],
       "port": 5183
+    },
+    {
+      "name": "iconic-local",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev:local", "--", "--port", "5185", "--strictPort"],
+      "port": 5185
     }
   ]
 }

@@ -58,7 +58,8 @@ its own and asks the API for everything.
 - **In development:** `npm run dev` forwards `/api/` to the live site, so you see what
   visitors see without running a database. `npm run dev:local` reads the landmarks from
   `public/data/landmarks.json` instead, to preview ones you have built but not deployed
-  (search still asks the live site, so it will not find them yet). To try a Worker
+  (search then does a plain word match in the browser, since the database has not seen
+  them; the ranked, typo-tolerant search is the live one). To try a Worker
   version that is uploaded but not live, put `ICONIC_API_VERSION=<version id>` in
   `.env.local`.
 
@@ -137,8 +138,9 @@ cities, stadiums, rivers and the like) and prints its pick: per region, the most
 of each country, then the rest by page views under a per-country cap. Set `QUOTA` and `CAP`
 at the top of the script for the batch size, read the list, move anything unwanted into
 `drops.txt`, rerun, and finish with `--apply` to append the pick to the seed file. Then
-build and review as above. Places already in the seed are skipped, so the same pool serves
-every later round; add new ideas to `pool/9-more.txt`.
+build, review and deploy as above (`npm run deploy` is what loads them into the database
+and makes them searchable). Places already in the seed are skipped, so the same pool
+serves every later round; add new ideas to `pool/9-more.txt`.
 
 ## Photo galleries
 
