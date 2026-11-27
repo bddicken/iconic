@@ -1,7 +1,7 @@
 # Iconic
 
 A globe of the world's most iconic places. Spin it, zoom in, and the landmarks of that
-part of the world reveal themselves. At most 15 are shown at once, most popular first.
+part of the world reveal themselves. At most 12 are shown at once, most popular first.
 
 ```bash
 npm install
@@ -16,7 +16,7 @@ npm run dev
 | `scripts/build-data.mjs` | Turns the seed into everything the app needs (coordinates, popularity, photo, photo credit). |
 | `public/data/landmarks.json` | Generated. The structured dataset the app loads, sorted by rank. |
 | `public/images/full/`, `public/images/thumb/` | Generated. One 1600px photo and one 256px marker thumbnail per landmark. |
-| `src/select.ts` | Decides which landmarks are drawn for the current camera (the "max 15" rule). |
+| `src/select.ts` | Decides which landmarks are drawn for the current camera and where: at most 12 (`MAX_VISIBLE` in `src/main.ts`), most popular first, with crowded ones huddled close beside each other (tied together by a faint line) instead of hidden, then drifting onto their true spots as you zoom in. `MAX_NUDGE` in `src/main.ts` sets how far. |
 | `src/main.ts` | The globe, markers and detail card. |
 | `src/basemap.ts` | The illustrated map style. |
 | `scripts/build-landcover.mjs` | Renders the land-colour tiles in `public/tiles/landcover/`. |

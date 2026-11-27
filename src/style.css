@@ -212,6 +212,35 @@ button {
   transform: scale(0.5);
 }
 
+/* Markers bunched together are tied to each other by a faint line, photo to photo. */
+.pin-link {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 1.5px;
+  margin-top: -0.75px;
+  border-radius: 1px;
+  background: #fff;
+  box-shadow: 0 0 0 0.5px rgba(29, 35, 64, 0.2);
+  transform-origin: 0 50%;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.pin.linked .pin-link {
+  opacity: 0.7;
+}
+
+.pin.leaving .pin-link {
+  opacity: 0;
+}
+
+/* whichever marker is under the pointer comes to the front of a cluster */
+.pin:hover {
+  z-index: 200000 !important;
+}
+
 @keyframes pin-in {
   from {
     opacity: 0;

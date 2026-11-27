@@ -14,11 +14,20 @@ import '@fontsource/rubik/latin-600.css';
 import '@fontsource/rubik/latin-ext-500.css';
 import './style.css';
 import { buildStyle, COUNTRY_LABELS, countryAreas, countryLabelFilter, type LandCoverTiles } from './basemap';
-import { selectLandmarks } from './select';
+import { layoutLandmarks, type Footprint } from './select';
 import type { Landmark, LandmarkData } from './types';
 
 /** The most landmarks ever drawn at once, whatever the position or zoom. */
-const MAX_VISIBLE = 15;
+const MAX_VISIBLE = 12;
+/**
+ * When landmarks crowd together, the less popular ones huddle beside the most popular one
+ * instead of being hidden, and drift onto their true spots as zooming in makes room. This
+ * is the furthest, in pixels, a marker may sit from its landmark; raise it to fit more
+ * into dense areas, lower it for a tidier map.
+ */
+const MAX_NUDGE = 130;
+/** ...but less when the whole globe is in view, where that many pixels is half a continent. */
+const MAX_NUDGE_ZOOMED_OUT = 95;
 /** Zoom the camera flies to when a landmark is opened (kept if already closer). */
 const FOCUS_ZOOM = 5.6;
 /**
@@ -119,13 +128,35 @@ async function start(): Promise<void> {
   interface Pin {
     marker: Marker;
     el: HTMLButtonElement;
+    inner: HTMLElement;
+    /** A faint line from this marker to the neighbour it is bunched against (hidden when it stands alone). */
+    link: HTMLElement;
+    linkTo: { x: number; y: number } | null;
     leaving: number | null;
+    /** Where the photo is drawn relative to the landmark's true position, and where it is heading. */
+    x: number;
+    y: number;
+    targetX: number;
+    targetY: number;
   }
   const pins = new Map<string, Pin>();
   let selected: Landmark | null = null;
 
-  function createPin(lm: Landmark): Pin {
-    const tier = lm.rank <= 10 ? 'tier-1' : lm.rank <= 35 ? 'tier-2' : 'tier-3';
+  const tierOf = (lm: Landmark): 1 | 2 | 3 => (lm.rank <= 10 ? 1 : lm.rank <= 35 ? 2 : 3);
+
+  /** Rough on-screen size of a marker (kept in step with .pin / .pin-label in style.css). */
+  function footprint(lm: Landmark): Footprint {
+    const narrow = isNarrow();
+    const size = (narrow ? [60, 52, 46] : [74, 62, 54])[tierOf(lm) - 1];
+    const charWidth = narrow ? 5.9 : 6.4;
+    const maxWidth = narrow ? 100 : 132;
+    const oneLine = lm.name.length * charWidth + 20;
+    return oneLine <= maxWidth
+      ? { size, labelWidth: oneLine, labelHeight: 23 }
+      : { size, labelWidth: Math.min(maxWidth, (lm.name.length / 2) * charWidth + 34), labelHeight: 38 };
+  }
+
+  function createPin(lm: Landmark, dx: number, dy: number): Pin {
     const photo = h('img', {
       class: 'pin-photo',
       src: asset(lm.image.thumb),
@@ -134,11 +165,9 @@ async function start(): Promise<void> {
       decoding: 'async',
     });
     photo.style.backgroundColor = lm.image.color;
-    const el = h(
-      'button',
-      { class: `pin ${tier}`, type: 'button', title: lm.name },
-      h('span', { class: 'pin-inner' }, photo, h('span', { class: 'pin-label' }, lm.name)),
-    );
+    const inner = h('span', { class: 'pin-inner' }, photo, h('span', { class: 'pin-label' }, lm.name));
+    const link = h('span', { class: 'pin-link' });
+    const el = h('button', { class: `pin tier-${tierOf(lm)}`, type: 'button', title: lm.name }, link, inner);
     el.setAttribute('aria-label', `${lm.name}, ${lm.country}`);
     el.style.zIndex = String(100000 - lm.rank);
     el.addEventListener('click', (e) => {
@@ -146,41 +175,100 @@ async function start(): Promise<void> {
       select(lm);
     });
     const marker = new Marker({ element: el, anchor: 'center' }).setLngLat([lm.lng, lm.lat]).addTo(map);
-    return { marker, el, leaving: null };
+    const pin: Pin = { marker, el, inner, link, linkTo: null, leaving: null, x: dx, y: dy, targetX: dx, targetY: dy };
+    drawOffset(pin);
+    return pin;
+  }
+
+  function drawOffset(pin: Pin): void {
+    const at = `${pin.x.toFixed(1)}px ${pin.y.toFixed(1)}px`;
+    pin.inner.style.translate = at;
+    pin.el.classList.toggle('nudged', Math.hypot(pin.x, pin.y) > 6);
+    // The line runs photo to photo (never to a spot on the map); both ends tuck under the photos.
+    pin.el.classList.toggle('linked', pin.linkTo !== null);
+    if (pin.linkTo) {
+      const lx = pin.linkTo.x - pin.x;
+      const ly = pin.linkTo.y - pin.y;
+      pin.link.style.translate = at;
+      pin.link.style.width = `${Math.hypot(lx, ly).toFixed(1)}px`;
+      pin.link.style.rotate = `${Math.atan2(ly, lx).toFixed(4)}rad`;
+    }
+  }
+
+  // Nudged markers glide to their new spot rather than jumping.
+  let gliding = 0;
+  function glide(): void {
+    gliding = 0;
+    let moving = false;
+    for (const pin of pins.values()) {
+      const dx = pin.targetX - pin.x;
+      const dy = pin.targetY - pin.y;
+      if (!dx && !dy) continue;
+      if (reducedMotion || Math.abs(dx) + Math.abs(dy) < 0.5) {
+        pin.x = pin.targetX;
+        pin.y = pin.targetY;
+      } else {
+        pin.x += dx * 0.22;
+        pin.y += dy * 0.22;
+        moving = true;
+      }
+      drawOffset(pin);
+    }
+    if (moving) gliding = requestAnimationFrame(glide);
+  }
+
+  /** Short nudges at world view, growing to the full reach by the time a region fills the screen. */
+  function nudgeReach(): number {
+    const t = Math.max(0, Math.min(1, (map.getZoom() - 2) / 2.5));
+    return MAX_NUDGE_ZOOMED_OUT + (MAX_NUDGE - MAX_NUDGE_ZOOMED_OUT) * t;
   }
 
   function render(): void {
     const narrow = isNarrow();
-    const shown = selectLandmarks(map, landmarks, {
+    const previous = new Map<string, { dx: number; dy: number }>();
+    for (const [id, pin] of pins) {
+      if (pin.leaving === null) previous.set(id, { dx: pin.targetX, dy: pin.targetY });
+    }
+    const placements = layoutLandmarks(map, landmarks, {
       max: MAX_VISIBLE,
-      gapX: narrow ? 92 : 118,
-      gapY: narrow ? 92 : 112,
       inset: { top: narrow ? 70 : 60, right: 24, bottom: 40, left: 24 },
       pinned: selected,
+      footprint,
+      maxOffset: nudgeReach() * (narrow ? 0.8 : 1),
+      previous,
     });
 
     const wanted = new Set<string>();
-    for (const lm of shown) {
+    for (const { lm, dx, dy, link } of placements) {
       wanted.add(lm.id);
       let pin = pins.get(lm.id);
       if (!pin) {
-        pin = createPin(lm);
+        pin = createPin(lm, dx, dy);
         pins.set(lm.id, pin);
       } else if (pin.leaving !== null) {
         clearTimeout(pin.leaving);
         pin.leaving = null;
         pin.el.classList.remove('leaving');
       }
+      pin.targetX = dx;
+      pin.targetY = dy;
+      pin.linkTo = link;
+      drawOffset(pin);
       pin.el.classList.toggle('selected', lm === selected);
     }
     for (const [id, pin] of pins) {
       if (wanted.has(id) || pin.leaving !== null) continue;
       pin.el.classList.add('leaving');
+      pin.targetX = pin.x; // stay put while fading out
+      pin.targetY = pin.y;
+      pin.linkTo = null;
+      drawOffset(pin);
       pin.leaving = window.setTimeout(() => {
         pin.marker.remove();
         pins.delete(id);
       }, 210);
     }
+    if (!gliding) gliding = requestAnimationFrame(glide);
   }
 
   // ----- country names: only for countries that are big enough on screen -----
