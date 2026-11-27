@@ -425,13 +425,12 @@ async function start(): Promise<void> {
 
   // Icons for the round buttons are drawn as SVG rather than typed as characters ("‹", "×"):
   // a character sits wherever its font puts it, so it never lands dead centre in a circle.
-  // (Fixed markup, not data. index.html has the same three for the full-screen view.)
+  // (Fixed markup, not data. index.html has the same arrows, and a cross, for the full-screen view.)
   const svgIcon = (d: string): string =>
     `<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="${d}"/></svg>`;
   const ICON = {
     prev: svgIcon('M15.25 5.5 8.75 12l6.5 6.5'),
     next: svgIcon('M8.75 5.5 15.25 12l-6.5 6.5'),
-    close: svgIcon('M6.5 6.5l11 11M17.5 6.5l-11 11'),
   };
 
   /** One photo of a landmark: its main one or one from its gallery. */
@@ -550,16 +549,12 @@ async function start(): Promise<void> {
         // the whole photo is a button that opens it full screen
         const open = h('button', { class: 'card-photo-open', type: 'button', title: 'View larger' }, img);
         open.setAttribute('aria-label', `View photo of ${lm.name} larger`);
-        const close = h('button', { class: 'icon-btn card-close', type: 'button' });
-        close.innerHTML = ICON.close;
-        close.setAttribute('aria-label', 'Close');
-        close.addEventListener('click', () => select(null));
+        // (no close button: clicking anywhere off the card, or pressing Esc, closes it)
         const frame = h(
           'div',
           { class: 'card-photo' },
           open,
           h('span', { class: 'card-rank' }, `#${lm.rank} of ${landmarks.length}`),
-          close,
         );
         let swiped = false;
         open.addEventListener('click', () => {

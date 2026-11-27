@@ -479,13 +479,6 @@ button {
   transform: scale(1.1) rotate(90deg);
 }
 
-.card-close {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  z-index: 2;
-}
-
 /* photo gallery: step arrows at the sides, a row of dots bottom centre
    (beside the rank sticker) */
 .card-photo.has-gallery {
