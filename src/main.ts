@@ -9,11 +9,13 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 import '@fontsource/caprasimo/latin-400.css';
 import '@fontsource/caprasimo/latin-ext-400.css';
+import '@fontsource/rubik/latin-400.css';
+import '@fontsource/rubik/latin-ext-400.css';
 import '@fontsource/rubik/latin-500.css';
 import '@fontsource/rubik/latin-600.css';
 import '@fontsource/rubik/latin-ext-500.css';
 import './style.css';
-import { buildStyle, COUNTRY_LABELS, countryAreas, countryLabelFilter, type LandCoverTiles } from './basemap';
+import { buildStyle, COUNTRY_LABELS, countryAreas, countryLabelFilter, SEA_FLOOR, seaFloorColour, type LandCoverTiles, type SeaFloorTiles, type TileSet } from './basemap';
 import { layoutLandmarks, type Footprint } from './select';
 import type { Landmark, LandmarkData } from './types';
 
@@ -89,17 +91,22 @@ async function start(): Promise<void> {
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const isNarrow = (): boolean => window.innerWidth <= 700;
 
-  // Pre-rendered land-cover tiles are optional (npm run landcover); without them the
-  // style falls back to an elevation tint.
-  const landCover: LandCoverTiles | null = await fetch(asset('tiles/landcover/tiles.json'))
-    .then((r) => (r.ok && r.headers.get('content-type')?.includes('json') ? r.json() : null))
-    // (join as strings: new URL() would percent-encode the {z}/{x}/{y} placeholders)
-    .then((meta) => (meta ? { ...meta, tiles: new URL(BASE, location.href).href + meta.tiles } : null))
-    .catch(() => null);
+  // Pre-rendered tiles are optional: without land cover (npm run landcover) the style
+  // falls back to an elevation tint, without the sea floor (npm run ocean) to a plain sea.
+  const tileSet = <T extends TileSet>(name: string): Promise<T | null> =>
+    fetch(asset(`tiles/${name}/tiles.json`))
+      .then((r) => (r.ok && r.headers.get('content-type')?.includes('json') ? r.json() : null))
+      // (join as strings: new URL() would percent-encode the {z}/{x}/{y} placeholders)
+      .then((meta) => (meta ? { ...meta, tiles: new URL(BASE, location.href).href + meta.tiles } : null))
+      .catch(() => null);
+  const [landCover, seaFloor] = await Promise.all([
+    tileSet<LandCoverTiles>('landcover'),
+    tileSet<SeaFloorTiles>('ocean'),
+  ]);
 
   const map = new GlobeMap({
     container: 'map',
-    style: buildStyle(landCover),
+    style: buildStyle(landCover, seaFloor),
     center: [12, 26],
     zoom: globeFitZoom(0.82),
     minZoom: globeFitZoom(0.5),
@@ -123,13 +130,63 @@ async function start(): Promise<void> {
   if (import.meta.env.DEV) Object.assign(window, { __map: map });
   map.addControl(new NavigationControl({ showCompass: false }), 'bottom-right');
 
+  // ----- sea floor -----
+
+  // The bands of depth are re-coloured as the zoom changes, to keep their edges equally
+  // crisp at every scale (see seaFloorColour). Half a zoom level at a time is fine enough.
+  if (seaFloor) {
+    let step = NaN;
+    const sharpenSeaFloor = (): void => {
+      const now = Math.round(map.getZoom() * 2) / 2;
+      if (now === step || !map.getLayer(SEA_FLOOR)) return;
+      step = now;
+      map.setPaintProperty(SEA_FLOOR, 'color-relief-color', seaFloorColour(seaFloor, now));
+    };
+    map.on('zoom', sharpenSeaFloor);
+    map.once('load', sharpenSeaFloor);
+  }
+
+  // ----- sphere lighting -----
+
+  // The map itself is lit flat, like a paper disc. A soft highlight towards the upper left,
+  // a shadow creeping in from the lower right and a thin glow of air around the edge make
+  // it read as a ball. All of it fades away on the way in, where the horizon leaves the screen.
+  const shade = h('div', { class: 'globe-shade' });
+  map.getCanvas().after(shade); // above the map, beneath every marker
+  function updateShade(): void {
+    const { width, height } = map.getCanvas().getBoundingClientRect();
+    const centre = map.getCenter();
+    // Radius of the globe in pixels, then of its outline as the camera sees it (a little
+    // smaller: the camera is close enough that the horizon sits in front of the middle).
+    const radius = (512 * 2 ** map.getZoom()) / (2 * Math.PI * Math.cos((centre.lat * Math.PI) / 180));
+    const camera = height / 2 / Math.tan((map.getVerticalFieldOfView() * Math.PI) / 360);
+    const outline = (camera * radius) / Math.sqrt(camera * camera + 2 * radius * camera);
+    const fade = 1 - (outline - 0.45 * Math.min(width, height)) / (0.9 * Math.max(width, height));
+    if (!(fade > 0) || !Number.isFinite(outline)) {
+      shade.style.display = 'none';
+      return;
+    }
+    shade.style.display = '';
+    shade.style.opacity = String(Math.min(1, fade));
+    // (the element is a fixed 1000px disc, scaled: cheaper than resizing it every frame)
+    shade.style.transform = `translate(${width / 2}px, ${height / 2}px) scale(${outline / 500})`;
+  }
+  map.on('move', updateShade);
+  map.on('resize', updateShade);
+  updateShade();
+
   // ----- markers -----
 
   interface Pin {
     marker: Marker;
     el: HTMLButtonElement;
     inner: HTMLElement;
-    /** A faint line from this marker to the neighbour it is bunched against (hidden when it stands alone). */
+    /**
+     * A faint line from this marker to the neighbour it is bunched against (hidden when it
+     * stands alone). It lives in a marker of its own, stacked beneath every photo and label,
+     * so a line can never be drawn across another landmark.
+     */
+    linkMarker: Marker;
     link: HTMLElement;
     linkTo: { x: number; y: number } | null;
     leaving: number | null;
@@ -167,7 +224,10 @@ async function start(): Promise<void> {
     photo.style.backgroundColor = lm.image.color;
     const inner = h('span', { class: 'pin-inner' }, photo, h('span', { class: 'pin-label' }, lm.name));
     const link = h('span', { class: 'pin-link' });
-    const el = h('button', { class: `pin tier-${tierOf(lm)}`, type: 'button', title: lm.name }, link, inner);
+    const linkMarker = new Marker({ element: h('div', { class: 'pin-link-anchor' }, link), anchor: 'center' })
+      .setLngLat([lm.lng, lm.lat])
+      .addTo(map);
+    const el = h('button', { class: `pin tier-${tierOf(lm)}`, type: 'button', title: lm.name }, inner);
     el.setAttribute('aria-label', `${lm.name}, ${lm.country}`);
     el.style.zIndex = String(100000 - lm.rank);
     el.addEventListener('click', (e) => {
@@ -175,7 +235,7 @@ async function start(): Promise<void> {
       select(lm);
     });
     const marker = new Marker({ element: el, anchor: 'center' }).setLngLat([lm.lng, lm.lat]).addTo(map);
-    const pin: Pin = { marker, el, inner, link, linkTo: null, leaving: null, x: dx, y: dy, targetX: dx, targetY: dy };
+    const pin: Pin = { marker, el, inner, linkMarker, link, linkTo: null, leaving: null, x: dx, y: dy, targetX: dx, targetY: dy };
     drawOffset(pin);
     return pin;
   }
@@ -185,7 +245,7 @@ async function start(): Promise<void> {
     pin.inner.style.translate = at;
     pin.el.classList.toggle('nudged', Math.hypot(pin.x, pin.y) > 6);
     // The line runs photo to photo (never to a spot on the map); both ends tuck under the photos.
-    pin.el.classList.toggle('linked', pin.linkTo !== null);
+    pin.link.classList.toggle('on', pin.linkTo !== null);
     if (pin.linkTo) {
       const lx = pin.linkTo.x - pin.x;
       const ly = pin.linkTo.y - pin.y;
@@ -265,6 +325,7 @@ async function start(): Promise<void> {
       drawOffset(pin);
       pin.leaving = window.setTimeout(() => {
         pin.marker.remove();
+        pin.linkMarker.remove();
         pins.delete(id);
       }, 210);
     }
@@ -357,11 +418,50 @@ async function start(): Promise<void> {
     scheduleRender();
   }
 
+  // ----- full-screen photo -----
+
+  const lightbox = $<HTMLDialogElement>('lightbox');
+  const lightboxImg = $<HTMLImageElement>('lightbox-img');
+
+  function expandIcon(): HTMLElement {
+    const badge = h('span', { class: 'card-photo-expand' });
+    // (fixed markup, not data: two arrows pointing to opposite corners)
+    badge.innerHTML =
+      '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>';
+    return badge;
+  }
+
+  /** One photo of a landmark: its main one or one from its gallery. */
+  type Photo = Pick<Landmark['image'], 'src' | 'width' | 'height' | 'color' | 'credit'>;
+  /** Steps the open card's gallery; set while a card with several photos is showing. */
+  let stepPhoto: ((delta: number) => void) | null = null;
+
+  function showInLightbox(lm: Landmark, photo: Photo): void {
+    const credit = photo.credit;
+    lightboxImg.src = asset(photo.src);
+    lightboxImg.alt = lm.name;
+    lightboxImg.style.backgroundColor = photo.color;
+    // let the browser size the frame before the photo has loaded
+    lightboxImg.style.aspectRatio = `${photo.width} / ${photo.height}`;
+    $('lightbox-title').textContent = lm.name;
+    $('lightbox-credit').replaceChildren(
+      `Photo: ${credit.author ?? credit.credit ?? 'Unknown author'} · `,
+      credit.licenseUrl ? extLink(credit.licenseUrl, credit.license ?? 'License') : (credit.license ?? 'see source'),
+      ' · ',
+      extLink(credit.sourcePage, 'Wikimedia Commons ↗'),
+    );
+    if (!lightbox.open) lightbox.showModal();
+  }
+  // Click anywhere except the caption's links to close (Esc works too, natively).
+  lightbox.addEventListener('click', (e) => {
+    if (!(e.target as HTMLElement).closest('a')) lightbox.close();
+  });
+
   function renderCard(lm: Landmark): void {
     // The main photo first, then the rest of the gallery.
-    const photos = [lm.image, ...(lm.gallery ?? [])];
+    const photos: Photo[] = [lm.image, ...(lm.gallery ?? [])];
     const img = h('img', { alt: lm.name, decoding: 'async', draggable: false });
-    const creditLine = h('p', { class: 'card-credit' });
+    const creditList = h('dl', { class: 'card-credit' });
     const dots = photos.map((_, i) => {
       const dot = h('button', { class: 'card-dot', type: 'button' });
       dot.setAttribute('aria-label', `Photo ${i + 1} of ${photos.length}`);
@@ -379,54 +479,29 @@ async function start(): Promise<void> {
         dot.classList.toggle('on', j === shown);
         dot.setAttribute('aria-current', String(j === shown));
       });
-      creditLine.replaceChildren(
-        'Photo: ',
-        credit.author ?? credit.credit ?? 'Unknown author',
-        ' · ',
-        credit.licenseUrl
-          ? extLink(credit.licenseUrl, credit.license ?? 'License')
-          : (credit.license ?? 'See source for license'),
-        ' · ',
-        extLink(credit.sourcePage, 'Wikimedia Commons'),
+      creditList.replaceChildren(
+        h('dt', {}, 'Photo'),
+        h('dd', {}, credit.author ?? credit.credit ?? 'Unknown author'),
+        h('dt', {}, 'License'),
+        h(
+          'dd',
+          {},
+          credit.licenseUrl ? extLink(credit.licenseUrl, credit.license ?? 'License') : (credit.license ?? 'See source'),
+        ),
+        h('dt', {}, 'Source'),
+        h('dd', {}, extLink(credit.sourcePage, 'Wikimedia Commons ↗')),
       );
+      if (lightbox.open) showInLightbox(lm, photo);
       // fetch the following photo now, so stepping on is instant
       if (photos.length > 1) new Image().src = asset(photos[(shown + 1) % photos.length].src);
     }
+    stepPhoto = photos.length > 1 ? (delta) => showPhoto(shown + delta) : null;
     const stepButton = (delta: number, label: string, glyph: string): HTMLButtonElement => {
       const b = h('button', { class: `icon-btn card-step ${delta < 0 ? 'prev' : 'next'}`, type: 'button' }, glyph);
       b.setAttribute('aria-label', label);
       b.addEventListener('click', () => showPhoto(shown + delta));
       return b;
     };
-    const photoFrame = h('div', { class: 'card-photo' }, img);
-    if (photos.length > 1) {
-      photoFrame.classList.add('has-gallery');
-      photoFrame.append(
-        stepButton(-1, 'Previous photo', '‹'),
-        stepButton(1, 'Next photo', '›'),
-        h('div', { class: 'card-dots' }, ...dots),
-      );
-      // tap the photo for the next one, or swipe either way
-      let downX: number | null = null;
-      let swiped = false;
-      img.addEventListener('click', () => {
-        // a swipe ends with a click on the photo too; it has already been handled
-        if (!swiped) showPhoto(shown + 1);
-      });
-      photoFrame.addEventListener('pointerdown', (e) => {
-        downX = e.clientX;
-        swiped = false;
-      });
-      photoFrame.addEventListener('pointerup', (e) => {
-        const dx = downX === null ? 0 : e.clientX - downX;
-        downX = null;
-        if (Math.abs(dx) > 40) {
-          swiped = true;
-          showPhoto(shown + (dx < 0 ? 1 : -1));
-        }
-      });
-    }
-    showPhoto(0);
 
     const prev = landmarks[lm.rank - 2];
     const next = landmarks[lm.rank];
@@ -441,16 +516,52 @@ async function start(): Promise<void> {
 
     card.replaceChildren(
       (() => {
+        // the whole photo is a button that opens it full screen
+        const open = h('button', { class: 'card-photo-open', type: 'button', title: 'View larger' }, img, expandIcon());
+        open.setAttribute('aria-label', `View photo of ${lm.name} larger`);
         const close = h('button', { class: 'icon-btn card-close', type: 'button' }, '×');
         close.setAttribute('aria-label', 'Close');
         close.addEventListener('click', () => select(null));
-        photoFrame.append(h('span', { class: 'card-rank' }, `#${lm.rank} of ${landmarks.length}`), close);
-        return photoFrame;
+        const frame = h(
+          'div',
+          { class: 'card-photo' },
+          open,
+          h('span', { class: 'card-rank' }, `#${lm.rank} of ${landmarks.length}`),
+          close,
+        );
+        let swiped = false;
+        open.addEventListener('click', () => {
+          // a swipe ends with a click on the photo too; it has already been handled
+          if (!swiped) showInLightbox(lm, photos[shown]);
+        });
+        if (photos.length > 1) {
+          // arrows and dots step through the photos; so does a sideways swipe
+          frame.classList.add('has-gallery');
+          frame.append(
+            stepButton(-1, 'Previous photo', '‹'),
+            stepButton(1, 'Next photo', '›'),
+            h('div', { class: 'card-dots' }, ...dots),
+          );
+          let downX: number | null = null;
+          frame.addEventListener('pointerdown', (e) => {
+            downX = e.clientX;
+            swiped = false;
+          });
+          frame.addEventListener('pointerup', (e) => {
+            const dx = downX === null ? 0 : e.clientX - downX;
+            downX = null;
+            if (Math.abs(dx) > 40) {
+              swiped = true;
+              showPhoto(shown + (dx < 0 ? 1 : -1));
+            }
+          });
+        }
+        return frame;
       })(),
       h(
         'div',
         { class: 'card-body' },
-        h('p', { class: 'card-kicker' }, `${lm.region} · ${lm.category}`),
+        h('p', { class: 'card-tags' }, h('span', {}, lm.region), h('span', {}, lm.category)),
         h('h2', {}, lm.name),
         h('p', { class: 'card-place' }, lm.description ? `${lm.country} · ${lm.description}` : lm.country),
         h('p', { class: 'card-summary' }, lm.summary),
@@ -458,15 +569,16 @@ async function start(): Promise<void> {
           'div',
           { class: 'card-pop' },
           h('span', {}, 'Popularity'),
-          h('b', {}, `${Math.round(lm.popularity)} / 100`),
+          // a score on a fixed 0-100 scale (not "out of however many landmarks there are")
+          h('b', {}, `${Math.round(lm.popularity)}`),
           (() => {
             const fill = h('i');
             fill.style.width = `${Math.max(2, Math.min(100, lm.popularity))}%`;
             return h('span', { class: 'card-pop-bar' }, fill);
           })(),
         ),
-        h('p', { class: 'card-links' }, extLink(lm.wikipedia, 'Read more on Wikipedia ↗')),
-        creditLine,
+        h('p', { class: 'card-links' }, extLink(lm.wikipedia, 'Wikipedia ↗')),
+        creditList,
       ),
       h(
         'div',
@@ -475,6 +587,7 @@ async function start(): Promise<void> {
         navButton(next, next ? `#${next.rank} ${next.name} →` : ''),
       ),
     );
+    showPhoto(0);
     card.hidden = false;
     // restart the entrance animation when hopping between landmarks
     card.style.animation = 'none';
@@ -487,6 +600,12 @@ async function start(): Promise<void> {
   });
   window.addEventListener('keydown', (e) => {
     if (!selected) return;
+    if (lightbox.open) {
+      // while the photo is open, Esc closes just the photo and the arrows step through the gallery
+      if (e.key === 'ArrowRight') stepPhoto?.(1);
+      else if (e.key === 'ArrowLeft') stepPhoto?.(-1);
+      return;
+    }
     if (e.key === 'Escape') select(null);
     else if (e.key === 'ArrowRight' && landmarks[selected.rank]) select(landmarks[selected.rank]);
     else if (e.key === 'ArrowLeft' && landmarks[selected.rank - 2]) select(landmarks[selected.rank - 2]);
