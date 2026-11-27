@@ -28,6 +28,17 @@
 
     <aside id="card" class="card" aria-live="polite" hidden></aside>
 
+    <dialog id="lightbox" class="lightbox" aria-label="Photo">
+      <button id="lightbox-close" type="button" class="icon-btn lightbox-close" aria-label="Close">×</button>
+      <figure>
+        <img id="lightbox-img" alt="" />
+        <figcaption>
+          <strong id="lightbox-title"></strong>
+          <span id="lightbox-credit"></span>
+        </figcaption>
+      </figure>
+    </dialog>
+
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>

@@ -9,6 +9,8 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 import '@fontsource/caprasimo/latin-400.css';
 import '@fontsource/caprasimo/latin-ext-400.css';
+import '@fontsource/rubik/latin-400.css';
+import '@fontsource/rubik/latin-ext-400.css';
 import '@fontsource/rubik/latin-500.css';
 import '@fontsource/rubik/latin-600.css';
 import '@fontsource/rubik/latin-ext-500.css';
@@ -129,7 +131,12 @@ async function start(): Promise<void> {
     marker: Marker;
     el: HTMLButtonElement;
     inner: HTMLElement;
-    /** A faint line from this marker to the neighbour it is bunched against (hidden when it stands alone). */
+    /**
+     * A faint line from this marker to the neighbour it is bunched against (hidden when it
+     * stands alone). It lives in a marker of its own, stacked beneath every photo and label,
+     * so a line can never be drawn across another landmark.
+     */
+    linkMarker: Marker;
     link: HTMLElement;
     linkTo: { x: number; y: number } | null;
     leaving: number | null;
@@ -167,7 +174,10 @@ async function start(): Promise<void> {
     photo.style.backgroundColor = lm.image.color;
     const inner = h('span', { class: 'pin-inner' }, photo, h('span', { class: 'pin-label' }, lm.name));
     const link = h('span', { class: 'pin-link' });
-    const el = h('button', { class: `pin tier-${tierOf(lm)}`, type: 'button', title: lm.name }, link, inner);
+    const linkMarker = new Marker({ element: h('div', { class: 'pin-link-anchor' }, link), anchor: 'center' })
+      .setLngLat([lm.lng, lm.lat])
+      .addTo(map);
+    const el = h('button', { class: `pin tier-${tierOf(lm)}`, type: 'button', title: lm.name }, inner);
     el.setAttribute('aria-label', `${lm.name}, ${lm.country}`);
     el.style.zIndex = String(100000 - lm.rank);
     el.addEventListener('click', (e) => {
@@ -175,7 +185,7 @@ async function start(): Promise<void> {
       select(lm);
     });
     const marker = new Marker({ element: el, anchor: 'center' }).setLngLat([lm.lng, lm.lat]).addTo(map);
-    const pin: Pin = { marker, el, inner, link, linkTo: null, leaving: null, x: dx, y: dy, targetX: dx, targetY: dy };
+    const pin: Pin = { marker, el, inner, linkMarker, link, linkTo: null, leaving: null, x: dx, y: dy, targetX: dx, targetY: dy };
     drawOffset(pin);
     return pin;
   }
@@ -185,7 +195,7 @@ async function start(): Promise<void> {
     pin.inner.style.translate = at;
     pin.el.classList.toggle('nudged', Math.hypot(pin.x, pin.y) > 6);
     // The line runs photo to photo (never to a spot on the map); both ends tuck under the photos.
-    pin.el.classList.toggle('linked', pin.linkTo !== null);
+    pin.link.classList.toggle('on', pin.linkTo !== null);
     if (pin.linkTo) {
       const lx = pin.linkTo.x - pin.x;
       const ly = pin.linkTo.y - pin.y;
@@ -265,6 +275,7 @@ async function start(): Promise<void> {
       drawOffset(pin);
       pin.leaving = window.setTimeout(() => {
         pin.marker.remove();
+        pin.linkMarker.remove();
         pins.delete(id);
       }, 210);
     }
@@ -357,6 +368,40 @@ async function start(): Promise<void> {
     scheduleRender();
   }
 
+  // ----- full-screen photo -----
+
+  const lightbox = $<HTMLDialogElement>('lightbox');
+  const lightboxImg = $<HTMLImageElement>('lightbox-img');
+
+  function expandIcon(): HTMLElement {
+    const badge = h('span', { class: 'card-photo-expand' });
+    // (fixed markup, not data: two arrows pointing to opposite corners)
+    badge.innerHTML =
+      '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>';
+    return badge;
+  }
+
+  function openLightbox(lm: Landmark): void {
+    const credit = lm.image.credit;
+    lightboxImg.src = asset(lm.image.src);
+    lightboxImg.alt = lm.name;
+    lightboxImg.style.backgroundColor = lm.image.color;
+    // let the browser size the frame before the photo has loaded
+    lightboxImg.style.aspectRatio = `${lm.image.width} / ${lm.image.height}`;
+    $('lightbox-title').textContent = lm.name;
+    $('lightbox-credit').replaceChildren(
+      `Photo: ${credit.author ?? credit.credit ?? 'Unknown author'} · `,
+      credit.licenseUrl ? extLink(credit.licenseUrl, credit.license ?? 'License') : (credit.license ?? 'see source'),
+      ' · ',
+      extLink(credit.sourcePage, 'Wikimedia Commons ↗'),
+    );
+    lightbox.showModal();
+  }
+  // Click anywhere except the caption's links to close (Esc works too, natively).
+  lightbox.addEventListener('click', (e) => {
+    if (!(e.target as HTMLElement).closest('a')) lightbox.close();
+  });
+
   function renderCard(lm: Landmark): void {
     const credit = lm.image.credit;
     const img = h('img', { src: asset(lm.image.src), alt: lm.name, decoding: 'async' });
@@ -377,7 +422,13 @@ async function start(): Promise<void> {
       h(
         'div',
         { class: 'card-photo' },
-        img,
+        (() => {
+          // the whole photo is a button that opens it full screen
+          const open = h('button', { class: 'card-photo-open', type: 'button', title: 'View larger' }, img, expandIcon());
+          open.setAttribute('aria-label', `View photo of ${lm.name} larger`);
+          open.addEventListener('click', () => openLightbox(lm));
+          return open;
+        })(),
         h('span', { class: 'card-rank' }, `#${lm.rank} of ${landmarks.length}`),
         (() => {
           const close = h('button', { class: 'icon-btn card-close', type: 'button' }, '×');
@@ -389,7 +440,7 @@ async function start(): Promise<void> {
       h(
         'div',
         { class: 'card-body' },
-        h('p', { class: 'card-kicker' }, `${lm.region} · ${lm.category}`),
+        h('p', { class: 'card-tags' }, h('span', {}, lm.region), h('span', {}, lm.category)),
         h('h2', {}, lm.name),
         h('p', { class: 'card-place' }, lm.description ? `${lm.country} · ${lm.description}` : lm.country),
         h('p', { class: 'card-summary' }, lm.summary),
@@ -397,25 +448,30 @@ async function start(): Promise<void> {
           'div',
           { class: 'card-pop' },
           h('span', {}, 'Popularity'),
-          h('b', {}, `${Math.round(lm.popularity)} / 100`),
+          // a score on a fixed 0-100 scale (not "out of however many landmarks there are")
+          h('b', {}, `${Math.round(lm.popularity)}`),
           (() => {
             const fill = h('i');
             fill.style.width = `${Math.max(2, Math.min(100, lm.popularity))}%`;
             return h('span', { class: 'card-pop-bar' }, fill);
           })(),
         ),
-        h('p', { class: 'card-links' }, extLink(lm.wikipedia, 'Read more on Wikipedia ↗')),
+        h('p', { class: 'card-links' }, extLink(lm.wikipedia, 'Wikipedia ↗')),
         h(
-          'p',
+          'dl',
           { class: 'card-credit' },
-          'Photo: ',
-          credit.author ?? credit.credit ?? 'Unknown author',
-          ' · ',
-          credit.licenseUrl
-            ? extLink(credit.licenseUrl, credit.license ?? 'License')
-            : (credit.license ?? 'See source for license'),
-          ' · ',
-          extLink(credit.sourcePage, 'Wikimedia Commons'),
+          h('dt', {}, 'Photo'),
+          h('dd', {}, credit.author ?? credit.credit ?? 'Unknown author'),
+          h('dt', {}, 'License'),
+          h(
+            'dd',
+            {},
+            credit.licenseUrl
+              ? extLink(credit.licenseUrl, credit.license ?? 'License')
+              : (credit.license ?? 'See source'),
+          ),
+          h('dt', {}, 'Source'),
+          h('dd', {}, extLink(credit.sourcePage, 'Wikimedia Commons ↗')),
         ),
       ),
       h(
@@ -436,7 +492,7 @@ async function start(): Promise<void> {
     if (selected) select(null);
   });
   window.addEventListener('keydown', (e) => {
-    if (!selected) return;
+    if (!selected || lightbox.open) return; // while the photo is open, Esc closes just the photo
     if (e.key === 'Escape') select(null);
     else if (e.key === 'ArrowRight' && landmarks[selected.rank]) select(landmarks[selected.rank]);
     else if (e.key === 'ArrowLeft' && landmarks[selected.rank - 2]) select(landmarks[selected.rank - 2]);
