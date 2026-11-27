@@ -1,3 +1,4 @@
+import type { Feature } from 'geojson';
 import type { FilterSpecification, LayerSpecification, StyleSpecification } from 'maplibre-gl';
 import countries from './countries.json';
 import rubik500 from '@fontsource/rubik/files/rubik-latin-500-normal.woff2?url';
@@ -75,6 +76,29 @@ const CITY_FILTER: FilterSpecification = [
   ['all', ['==', ['get', 'class'], 'city'], ['<=', ['coalesce', ['get', 'rank'], 99], 7]],
   ['all', ['>=', ['zoom'], 8], ['in', ['get', 'class'], ['literal', ['city', 'town']]]],
 ];
+
+/** The latitude at which Web Mercator map tiles end. */
+const MERCATOR_MAX_LAT = 85.0511287798;
+
+/** A strip right around the globe between two latitudes. */
+function polarBand(pole: 'north' | 'south', south: number, north: number): Feature {
+  return {
+    type: 'Feature',
+    properties: { pole },
+    geometry: {
+      type: 'Polygon',
+      coordinates: [
+        [
+          [-180, south],
+          [180, south],
+          [180, north],
+          [-180, north],
+          [-180, south],
+        ],
+      ],
+    },
+  };
+}
 
 export const COUNTRY_LABELS = 'country-names';
 
@@ -226,6 +250,35 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
         'line-width': ['interpolate', ['linear'], ['zoom'], 1, 0.7, 6, 1.4, 11, 2],
         'line-opacity': 0.9,
       },
+    },
+    // Map tiles stop at 85° north and south; the globe fills the small caps beyond by smearing
+    // out whatever is on the last row. That leaves a purple disc of terrain shading (plus a
+    // sliver of sea) on the South Pole and a ring of coastline around the North Pole, so
+    // lay a plain band over each edge: ice in the south, open ocean in the north.
+    {
+      id: 'south-pole',
+      type: 'fill',
+      source: 'poles',
+      filter: ['==', ['get', 'pole'], 'south'],
+      paint: { 'fill-color': palette.ice, 'fill-antialias': false },
+    },
+    {
+      id: 'north-pole',
+      type: 'fill',
+      source: 'poles',
+      filter: ['==', ['get', 'pole'], 'north'],
+      paint: { 'fill-color': palette.ocean, 'fill-antialias': false },
+    },
+    // Likewise the ocean is cut along the 180° meridian, and at the lowest zooms that cut
+    // gets drawn as if it were a shoreline. Paint over it in ocean colour wherever the
+    // meridian runs through sea (everywhere except north-east Siberia).
+    {
+      id: 'date-line',
+      type: 'line',
+      source: 'poles',
+      maxzoom: 2.5,
+      filter: ['==', ['get', 'pole'], 'seam'],
+      paint: { 'line-color': palette.ocean, 'line-width': 9 },
     },
     {
       id: 'rivers',
@@ -383,6 +436,35 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
         url: 'https://tiles.openfreemap.org/planet',
         attribution:
           '<a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
+      },
+      poles: {
+        type: 'geojson',
+        data: {
+          type: 'FeatureCollection',
+          features: [
+            polarBand('south', -MERCATOR_MAX_LAT, -84.4),
+            polarBand('north', 84.7, MERCATOR_MAX_LAT),
+            ...[-180, 180].map(
+              (lng): Feature => ({
+                type: 'Feature',
+                properties: { pole: 'seam' },
+                geometry: {
+                  type: 'MultiLineString',
+                  coordinates: [
+                    [
+                      [lng, -84.4], // (the map data treats the Ross Ice Shelf as sea, right down to the cap)
+                      [lng, 64.5],
+                    ],
+                    [
+                      [lng, 69.5],
+                      [lng, 84.7],
+                    ],
+                  ],
+                },
+              }),
+            ),
+          ],
+        },
       },
       countries: {
         type: 'geojson',
