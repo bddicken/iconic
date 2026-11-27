@@ -1,0 +1,11 @@
+# Cache rules for the deployed site (Cloudflare reads this file from the build output).
+
+# Fingerprinted by the build: safe to cache forever.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Landmark photos and map tiles change rarely.
+/images/*
+  Cache-Control: public, max-age=604800
+/tiles/*
+  Cache-Control: public, max-age=604800

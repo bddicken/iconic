@@ -1,0 +1,11 @@
+// Cloudflare Workers configuration: the built site (dist/) is served as static assets
+// at https://iconic.place. Deploy with `npm run deploy`.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "iconic",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist"
+  },
+  "routes": [{ "pattern": "iconic.place", "custom_domain": true }]
+}

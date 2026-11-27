@@ -6,3 +6,8 @@ data/cache
 data/originals
 data/sheets
 data/naturalearth
+# Cloudflare CLI state and local secrets
+.wrangler
+.dev.vars
+.env
+.env.*

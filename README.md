@@ -8,6 +8,18 @@ npm install
 npm run dev
 ```
 
+## Deploying
+
+The site is static and is served from Cloudflare at <https://iconic.place>.
+
+```bash
+npm run deploy
+```
+
+That builds `dist/` and uploads it with Wrangler (config in `wrangler.jsonc`, cache rules
+in `public/_headers`). It needs a Cloudflare login on the machine (`npx wrangler login`);
+no keys or tokens live in this repo. `npm run og` redraws the share image, `public/og.jpg`.
+
 ## How it fits together
 
 | Path | What it is |
