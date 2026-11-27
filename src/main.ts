@@ -354,12 +354,7 @@ async function start(): Promise<void> {
     else if (e.key === 'ArrowLeft' && landmarks[selected.rank - 2]) select(landmarks[selected.rank - 2]);
   });
 
-  const randomButton = $('random');
-  randomButton.addEventListener('animationend', () => randomButton.classList.remove('rolling'));
-  randomButton.addEventListener('click', () => {
-    randomButton.classList.remove('rolling');
-    void randomButton.offsetWidth; // restart the tumble if it is pressed again mid-roll
-    randomButton.classList.add('rolling');
+  $('random').addEventListener('click', () => {
     let pick: Landmark;
     do pick = landmarks[Math.floor(Math.random() * landmarks.length)];
     while (pick === selected && landmarks.length > 1);
