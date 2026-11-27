@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Draws public/og.jpg, the 1200x630 picture shown when the site is shared in a chat or
-// on social media: the wordmark and a line of copy beside an illustrated globe carrying
-// a few landmark photos, in the app's own colours and typefaces.
+// on social media: just the wordmark beside an illustrated globe carrying a few landmark
+// photos, in the app's own colours and typeface. No other words.
 //
 //   node scripts/build-og.mjs
 //
@@ -27,7 +27,8 @@ const FEATURED = [
   'eiffel-tower', 'pyramids-of-giza', 'taj-mahal', 'mount-kilimanjaro', 'saint-basils-cathedral',
   'table-mountain', 'burj-khalifa', 'victoria-falls', 'hagia-sophia', 'mount-everest', 'petra',
 ];
-const PHOTO = 82;
+const PHOTO = 86;
+const MAX_PHOTOS = 5;
 const COLORS = { ocean: [0x45, 0xb9, 0xea], shallows: [0x8f, 0xe3, 0xf7], ink: '#1d2340', accent: '#ffc857' };
 
 // ---- type: glyph outlines straight from the bundled fonts, so no font needs installing ----
@@ -37,8 +38,6 @@ const loadFont = async (pkg, file) => {
   return opentype.parse(buf.buffer.slice(buf.byteOffset, buf.byteOffset + buf.byteLength));
 };
 const caprasimo = await loadFont('caprasimo', 'caprasimo-latin-400-normal.woff');
-const rubik500 = await loadFont('rubik', 'rubik-latin-500-normal.woff');
-const rubik600 = await loadFont('rubik', 'rubik-latin-600-normal.woff');
 
 /**
  * Lays a string out glyph by glyph (with kerning). opentype.js's own text shaping trips
@@ -56,8 +55,6 @@ function layout(font, str, size) {
   });
   return { placed, width: x };
 }
-
-const textWidth = (font, str, size) => layout(font, str, size).width;
 
 /** SVG path for a line of text. `anchor` is 'start' or 'middle'; y is the baseline. */
 function text(font, str, x, y, size, fill, anchor = 'start') {
@@ -183,7 +180,7 @@ function project(lng, lat) {
 }
 
 // ---- compose ----
-const { landmarks, count } = JSON.parse(await readFile(path.join(ROOT, 'public/data/landmarks.json'), 'utf8'));
+const { landmarks } = JSON.parse(await readFile(path.join(ROOT, 'public/data/landmarks.json'), 'utf8'));
 const byId = new Map(landmarks.map((l) => [l.id, l]));
 
 const pins = [];
@@ -192,10 +189,9 @@ for (const id of FEATURED) {
   const p = lm && project(lm.lng, lm.lat);
   if (!p) continue;
   if (p.x > W - 70 || p.y < 60 || p.y > H - 80) continue;
-  // footprint: the photo, plus the name pill underneath it
-  const half = Math.max(PHOTO / 2 + 6, textWidth(rubik600, lm.name, 15) / 2 + 16);
-  if (pins.some((q) => Math.abs(q.x - p.x) < half + q.half && Math.abs(q.y - p.y) < PHOTO + 40)) continue;
-  pins.push({ lm, half, ...p });
+  if (pins.some((q) => Math.hypot(q.x - p.x, q.y - p.y) < PHOTO + 26)) continue;
+  pins.push({ lm, ...p });
+  if (pins.length === MAX_PHOTOS) break;
 }
 
 const stars = Array.from({ length: 90 }, (_, i) => {
@@ -219,30 +215,13 @@ const background = Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="$
   <circle cx="${GLOBE.cx}" cy="${GLOBE.cy}" r="${GLOBE.radius + 34}" fill="url(#air)"/>
 </svg>`);
 
-const pillText = `${count} landmarks to explore`;
-const pillSize = 26;
-const pillWidth = textWidth(rubik600, pillText, pillSize) + 52;
-
 const overlay = Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <defs>
     <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#000" flood-opacity="0.45"/></filter>
     <filter id="soft" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000" flood-opacity="0.35"/></filter>
   </defs>
-  ${pins
-    .map(({ lm, x, y }) => {
-      const labelSize = 15;
-      const w = textWidth(rubik600, lm.name, labelSize) + 24;
-      const top = y + PHOTO / 2 + 6;
-      return `<circle cx="${x}" cy="${y}" r="${PHOTO / 2 + 4}" fill="#fff" filter="url(#shadow)"/>
-        <rect x="${x - w / 2}" y="${top}" width="${w}" height="26" rx="13" fill="#fff" filter="url(#soft)"/>
-        ${text(rubik600, lm.name, x, top + 18.5, labelSize, COLORS.ink, 'middle')}`;
-    })
-    .join('\n')}
-  ${text(caprasimo, 'Iconic', 66, 262, 168, '#fff')}
-  ${text(rubik500, 'Spin the globe and explore', 72, 330, 34, '#d9dcf3')}
-  ${text(rubik500, 'the world’s most iconic places.', 72, 374, 34, '#d9dcf3')}
-  <rect x="72" y="424" width="${pillWidth}" height="58" rx="29" fill="${COLORS.accent}" stroke="#fff" stroke-width="5" filter="url(#shadow)"/>
-  ${text(rubik600, pillText, 72 + 26, 424 + 38, pillSize, COLORS.ink)}
+  ${pins.map(({ x, y }) => `<circle cx="${x}" cy="${y}" r="${PHOTO / 2 + 4}" fill="#fff" filter="url(#shadow)"/>`).join('\n')}
+  ${text(caprasimo, 'Iconic', 58, 372, 158, '#fff')}
 </svg>`);
 
 const circle = Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="${PHOTO}" height="${PHOTO}"><circle cx="${PHOTO / 2}" cy="${PHOTO / 2}" r="${PHOTO / 2}"/></svg>`);
@@ -266,4 +245,4 @@ const info = await sharp(background)
   ])
   .jpeg({ quality: 90, mozjpeg: true })
   .toFile(path.join(ROOT, 'public/og.jpg'));
-console.log(`Wrote public/og.jpg (${info.width}x${info.height}, ${(info.size / 1024).toFixed(0)} KB) with ${pins.length} landmarks: ${pins.map((p) => p.lm.name).join(', ')}`);
+console.log(`Wrote public/og.jpg (${info.width}x${info.height}, ${(info.size / 1024).toFixed(0)} KB) with ${pins.length} photos: ${pins.map((p) => p.lm.name).join(', ')}`);
