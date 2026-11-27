@@ -358,9 +358,75 @@ async function start(): Promise<void> {
   }
 
   function renderCard(lm: Landmark): void {
-    const credit = lm.image.credit;
-    const img = h('img', { src: asset(lm.image.src), alt: lm.name, decoding: 'async' });
-    img.style.backgroundColor = lm.image.color;
+    // The main photo first, then the rest of the gallery.
+    const photos = [lm.image, ...(lm.gallery ?? [])];
+    const img = h('img', { alt: lm.name, decoding: 'async', draggable: false });
+    const creditLine = h('p', { class: 'card-credit' });
+    const dots = photos.map((_, i) => {
+      const dot = h('button', { class: 'card-dot', type: 'button' });
+      dot.setAttribute('aria-label', `Photo ${i + 1} of ${photos.length}`);
+      dot.addEventListener('click', () => showPhoto(i));
+      return dot;
+    });
+    let shown = 0;
+    function showPhoto(i: number): void {
+      shown = (i + photos.length) % photos.length;
+      const photo = photos[shown];
+      const credit = photo.credit;
+      img.style.backgroundColor = photo.color;
+      img.src = asset(photo.src);
+      dots.forEach((dot, j) => {
+        dot.classList.toggle('on', j === shown);
+        dot.setAttribute('aria-current', String(j === shown));
+      });
+      creditLine.replaceChildren(
+        'Photo: ',
+        credit.author ?? credit.credit ?? 'Unknown author',
+        ' · ',
+        credit.licenseUrl
+          ? extLink(credit.licenseUrl, credit.license ?? 'License')
+          : (credit.license ?? 'See source for license'),
+        ' · ',
+        extLink(credit.sourcePage, 'Wikimedia Commons'),
+      );
+      // fetch the following photo now, so stepping on is instant
+      if (photos.length > 1) new Image().src = asset(photos[(shown + 1) % photos.length].src);
+    }
+    const stepButton = (delta: number, label: string, glyph: string): HTMLButtonElement => {
+      const b = h('button', { class: `icon-btn card-step ${delta < 0 ? 'prev' : 'next'}`, type: 'button' }, glyph);
+      b.setAttribute('aria-label', label);
+      b.addEventListener('click', () => showPhoto(shown + delta));
+      return b;
+    };
+    const photoFrame = h('div', { class: 'card-photo' }, img);
+    if (photos.length > 1) {
+      photoFrame.classList.add('has-gallery');
+      photoFrame.append(
+        stepButton(-1, 'Previous photo', '‹'),
+        stepButton(1, 'Next photo', '›'),
+        h('div', { class: 'card-dots' }, ...dots),
+      );
+      // tap the photo for the next one, or swipe either way
+      let downX: number | null = null;
+      let swiped = false;
+      img.addEventListener('click', () => {
+        // a swipe ends with a click on the photo too; it has already been handled
+        if (!swiped) showPhoto(shown + 1);
+      });
+      photoFrame.addEventListener('pointerdown', (e) => {
+        downX = e.clientX;
+        swiped = false;
+      });
+      photoFrame.addEventListener('pointerup', (e) => {
+        const dx = downX === null ? 0 : e.clientX - downX;
+        downX = null;
+        if (Math.abs(dx) > 40) {
+          swiped = true;
+          showPhoto(shown + (dx < 0 ? 1 : -1));
+        }
+      });
+    }
+    showPhoto(0);
 
     const prev = landmarks[lm.rank - 2];
     const next = landmarks[lm.rank];
@@ -374,18 +440,13 @@ async function start(): Promise<void> {
     };
 
     card.replaceChildren(
-      h(
-        'div',
-        { class: 'card-photo' },
-        img,
-        h('span', { class: 'card-rank' }, `#${lm.rank} of ${landmarks.length}`),
-        (() => {
-          const close = h('button', { class: 'icon-btn card-close', type: 'button' }, '×');
-          close.setAttribute('aria-label', 'Close');
-          close.addEventListener('click', () => select(null));
-          return close;
-        })(),
-      ),
+      (() => {
+        const close = h('button', { class: 'icon-btn card-close', type: 'button' }, '×');
+        close.setAttribute('aria-label', 'Close');
+        close.addEventListener('click', () => select(null));
+        photoFrame.append(h('span', { class: 'card-rank' }, `#${lm.rank} of ${landmarks.length}`), close);
+        return photoFrame;
+      })(),
       h(
         'div',
         { class: 'card-body' },
@@ -405,18 +466,7 @@ async function start(): Promise<void> {
           })(),
         ),
         h('p', { class: 'card-links' }, extLink(lm.wikipedia, 'Read more on Wikipedia ↗')),
-        h(
-          'p',
-          { class: 'card-credit' },
-          'Photo: ',
-          credit.author ?? credit.credit ?? 'Unknown author',
-          ' · ',
-          credit.licenseUrl
-            ? extLink(credit.licenseUrl, credit.license ?? 'License')
-            : (credit.license ?? 'See source for license'),
-          ' · ',
-          extLink(credit.sourcePage, 'Wikimedia Commons'),
-        ),
+        creditLine,
       ),
       h(
         'div',

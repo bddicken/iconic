@@ -4,5 +4,6 @@ dist
 # raw API responses and untouched source downloads; everything the app needs is in public/
 data/cache
 data/originals
+data/gallery-originals
 data/sheets
 data/naturalearth

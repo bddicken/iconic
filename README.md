@@ -13,9 +13,10 @@ npm run dev
 | Path | What it is |
 | --- | --- |
 | `data/landmarks.seed.json` | The curated list. One entry per landmark: id, name, Wikipedia article, country, region, category. **This is the file you edit.** |
-| `scripts/build-data.mjs` | Turns the seed into everything the app needs (coordinates, popularity, photo, photo credit). |
+| `scripts/build-data.mjs` | Turns the seed into everything the app needs (coordinates, popularity, photos, photo credits). |
 | `public/data/landmarks.json` | Generated. The structured dataset the app loads, sorted by rank. |
 | `public/images/full/`, `public/images/thumb/` | Generated. One 1600px photo and one 256px marker thumbnail per landmark. |
+| `public/images/gallery/` | Generated. Up to three more 900px photos per landmark, shown in the card's gallery. |
 | `src/select.ts` | Decides which landmarks are drawn for the current camera and where: at most 12 (`MAX_VISIBLE` in `src/main.ts`), most popular first, with crowded ones huddled close beside each other (tied together by a faint line) instead of hidden, then drifting onto their true spots as you zoom in. `MAX_NUDGE` in `src/main.ts` sets how far. |
 | `src/main.ts` | The globe, markers and detail card. |
 | `src/basemap.ts` | The illustrated map style. |
@@ -33,7 +34,8 @@ npm run dev
 
 2. Run `npm run data`. It is incremental: only new or changed entries are fetched.
 3. Run `npm run data:sheet` and look through `data/sheets/` to check the photos and their
-   round marker crops.
+   round marker crops. `npm run data:sheet -- --gallery` shows each landmark's main photo
+   beside its gallery photos instead.
 
 Optional seed fields:
 
@@ -43,12 +45,35 @@ Optional seed fields:
 - `thumbPosition`: how the square marker thumbnail is cropped (`"top"`, `"bottom"`,
   `"left"`, `"right"`, `"centre"`); default is automatic.
 - `boost`: editorial nudge added to the popularity score.
+- `gallery`: use exactly these Commons files as the extra photos, e.g.
+  `"gallery": ["First.jpg", "Second.jpg"]`.
+- `galleryExclude`: Commons files never to use as extra photos; the next best candidate
+  takes their place.
+- `gallerySearch`: words to search Commons for instead of the article title.
 
-`npm run data -- --only=id1,id2` re-fetches specific entries, `-- --refresh` re-fetches all.
+`npm run data -- --only=id1,id2` re-fetches specific entries, `-- --refresh` re-fetches all,
+and `-- --no-gallery` skips the gallery step (galleries already built are kept).
 
 Wikimedia rate-limits anonymous scripts, so a first full run takes several minutes (it
 waits out the limits by itself). Setting `WIKIMEDIA_CONTACT` to a URL or email identifies
 the script the way Wikimedia asks and is worth doing before building thousands of entries.
+
+## Photo galleries
+
+Opening a landmark shows its main photo first, then up to three more. The build picks them
+automatically, best first:
+
+1. the photos used in the landmark's Wikipedia article, in article order, those named after
+   the landmark leading;
+2. if the article has too few, Commons files tagged as depicting the landmark, then a plain
+   Commons search for its name.
+
+A candidate is skipped if it is not a large, freely licensed JPEG, if its name suggests a
+map, drawing, old photograph or museum piece, if it turns out to be black and white or a
+scan on paper, or if it is a near-duplicate of a photo already chosen. Landmarks with fewer
+good candidates simply get fewer photos. When a pick is wrong, add the file to
+`galleryExclude` (or list the right ones in `gallery`) and run `npm run data` again; the
+search results are cached, so this needs no new requests.
 
 ## Popularity and rank
 
@@ -60,9 +85,9 @@ any `boost`. Both use fixed scales, so scores stay comparable as the list grows.
 ## Image credits
 
 Every image comes from Wikimedia Commons. For each one, `landmarks.json` records under
-`image.credit` the author, license and license URL, the Commons page (`sourcePage`), the
-original file URL and the exact URL the bytes were downloaded from. The app shows the
-credit on a landmark's card when you open it.
+`image.credit` (and `gallery[].credit` for gallery photos) the author, license and license
+URL, the Commons page (`sourcePage`), the original file URL and the exact URL the bytes
+were downloaded from. The app shows the credit of whichever photo is on screen.
 
 ## The globe's look
 

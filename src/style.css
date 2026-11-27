@@ -407,6 +407,71 @@ button {
   z-index: 2;
 }
 
+/* photo gallery: step arrows at the sides, a row of dots bottom right */
+.card-photo.has-gallery {
+  /* sideways swipes change the photo; vertical ones still scroll the page */
+  touch-action: pan-y;
+}
+
+.card-photo.has-gallery img {
+  cursor: pointer;
+}
+
+.card-step {
+  position: absolute;
+  top: 50%;
+  z-index: 2;
+  width: 34px;
+  height: 34px;
+  transform: translateY(-50%);
+  padding-bottom: 3px;
+  background: rgba(0, 0, 0, 0.6);
+  font-size: 22px;
+}
+
+.card-step.prev {
+  left: 10px;
+}
+
+.card-step.next {
+  right: 10px;
+}
+
+.card-dots {
+  position: absolute;
+  right: 12px;
+  bottom: 10px;
+  z-index: 1;
+  display: flex;
+  padding: 2px 5px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.card-dot {
+  /* a small dot inside a comfortably large hit area */
+  width: 18px;
+  height: 22px;
+  padding: 7px 5px;
+  border: 0;
+  background: none;
+}
+
+.card-dot::before {
+  content: '';
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.4);
+  transition: background 0.15s ease;
+}
+
+.card-dot.on::before {
+  background: var(--accent);
+}
+
 .card-body {
   flex: 1 1 auto;
   min-height: 0;

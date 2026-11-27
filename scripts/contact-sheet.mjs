@@ -4,6 +4,7 @@
 //
 //   node scripts/contact-sheet.mjs            # all landmarks, 20 per sheet
 //   node scripts/contact-sheet.mjs --ids=a,b  # just these
+//   node scripts/contact-sheet.mjs --gallery  # each landmark's main photo followed by its gallery photos
 
 import { mkdir, readFile, rm } from 'node:fs/promises';
 import path from 'node:path';
@@ -27,6 +28,48 @@ const list = only.length ? landmarks.filter((l) => only.includes(l.id)) : landma
 
 await rm(OUT, { recursive: true, force: true });
 await mkdir(OUT, { recursive: true });
+
+if (process.argv.includes('--gallery')) {
+  // One strip per landmark: the main photo, then its gallery photos numbered 1-3, as the card crops them (3:2).
+  const G_PER_SHEET = 36;
+  const G_COLS = 3;
+  const SHOT_W = 156;
+  const SHOT_H = 104;
+  const STRIP_W = SHOT_W * 4 + 12;
+  const STRIP_H = SHOT_H + 26;
+  for (let s = 0; s * G_PER_SHEET < list.length; s++) {
+    const chunk = list.slice(s * G_PER_SHEET, (s + 1) * G_PER_SHEET);
+    const layers = [];
+    for (const [i, l] of chunk.entries()) {
+      const left = (i % G_COLS) * STRIP_W;
+      const top = Math.floor(i / G_COLS) * STRIP_H;
+      for (const [n, src] of [l.image.src, ...(l.gallery ?? []).map((g) => g.src)].entries()) {
+        layers.push({
+          input: await sharp(path.join(ROOT, 'public', src)).resize(SHOT_W - 2, SHOT_H, { fit: 'cover', position: 'top' }).png().toBuffer(),
+          left: left + n * SHOT_W,
+          top: top + 24,
+        });
+      }
+      layers.push({
+        input: Buffer.from(
+          `<svg xmlns="http://www.w3.org/2000/svg" width="${STRIP_W - 12}" height="24"><rect width="100%" height="100%" fill="#111"/>` +
+            `<text x="4" y="17" font-family="Helvetica, Arial" font-size="14" fill="#fff">${esc(l.id)} — main + ${(l.gallery ?? []).length}</text></svg>`,
+        ),
+        left,
+        top,
+      });
+    }
+    const file = path.join(OUT, `gallery-${String(s + 1).padStart(2, '0')}.jpg`);
+    await sharp({
+      create: { width: G_COLS * STRIP_W, height: Math.ceil(chunk.length / G_COLS) * STRIP_H, channels: 3, background: '#000' },
+    })
+      .composite(layers)
+      .jpeg({ quality: 82 })
+      .toFile(file);
+    console.log(path.relative(ROOT, file));
+  }
+  process.exit(0);
+}
 
 for (let s = 0; s * PER_SHEET < list.length; s++) {
   const chunk = list.slice(s * PER_SHEET, (s + 1) * PER_SHEET);

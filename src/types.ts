@@ -39,6 +39,17 @@ export interface Landmark {
     color: string;
     credit: ImageCredit;
   };
+  /** Up to three more photos, shown after the main one when the card is open. */
+  gallery?: GalleryImage[];
+}
+
+export interface GalleryImage {
+  src: string;
+  width: number;
+  height: number;
+  /** Dominant colour, shown while the photo loads. */
+  color: string;
+  credit: ImageCredit;
 }
 
 export interface LandmarkData {
