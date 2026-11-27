@@ -174,6 +174,33 @@ button {
   outline-offset: 2px;
 }
 
+/* A small credit in the corner, styled like the landmark name pills. */
+.made-by {
+  position: fixed;
+  left: 16px;
+  bottom: max(14px, env(safe-area-inset-bottom));
+  /* (no z-index: the info card comes later in the page and so opens on top of it) */
+  padding: 4px 11px 5px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.94);
+  color: #1d2340;
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.4),
+    0 0 0 1px rgba(0, 0, 0, 0.2);
+  font-family: var(--map);
+  font-size: 12px;
+  font-weight: 500;
+  text-decoration: none;
+  transition:
+    transform 0.18s cubic-bezier(0.2, 0.9, 0.3, 1.4),
+    background 0.15s;
+}
+
+.made-by:hover {
+  background: var(--accent);
+  transform: translateY(-1px) rotate(-2deg) scale(1.05);
+}
+
 .notice {
   position: fixed;
   left: 50%;
