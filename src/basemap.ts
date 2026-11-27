@@ -1,6 +1,7 @@
 import type { Feature } from 'geojson';
-import type { FilterSpecification, LayerSpecification, StyleSpecification } from 'maplibre-gl';
+import type { ExpressionSpecification, FilterSpecification, LayerSpecification, StyleSpecification } from 'maplibre-gl';
 import countries from './countries.json';
+import seam from './seam.json';
 import rubik500 from '@fontsource/rubik/files/rubik-latin-500-normal.woff2?url';
 import rubik500Ext from '@fontsource/rubik/files/rubik-latin-ext-500-normal.woff2?url';
 import rubik600 from '@fontsource/rubik/files/rubik-latin-600-normal.woff2?url';
@@ -11,13 +12,15 @@ import rubik500ItalicExt from '@fontsource/rubik/files/rubik-latin-ext-500-itali
 /**
  * The globe's look: an illustrated map rather than satellite photography.
  *
- * It is still geographically honest (real coastlines, rivers, borders, land cover and
- * terrain) but drawn with a bright storybook palette, chunky relief shading and a
- * sticker-like white coastline.
+ * It is still geographically honest (real coastlines, rivers, borders, land cover,
+ * terrain and sea floor) but drawn with a bright storybook palette, chunky relief
+ * shading, a sea in layered bands of blue and a sticker-like white coastline.
  *
  *   land colour   LAND_COVER_TILES when present (true biome colours at globe zoom),
  *                 otherwise an elevation tint; OpenStreetMap land cover from zoom 7
- *   terrain       hillshade from Mapterhorn elevation tiles
+ *   terrain       hillshade from Mapterhorn elevation tiles, paling to snow on the
+ *                 highest ground
+ *   ocean depth   sea-floor tiles when present: bands of blue, darker with depth
  *   water, rivers, borders, roads, city and sea names   OpenFreeMap vector tiles (OpenStreetMap)
  *   country names   src/countries.json, shown by on-screen size
  *
@@ -26,8 +29,15 @@ import rubik500ItalicExt from '@fontsource/rubik/files/rubik-latin-ext-500-itali
 
 export const palette = {
   space: '#0a0b1e',
-  ocean: '#45b9ea',
-  shallows: '#8fe3f7',
+  /** Lakes, and sea shallower than about 200 m: the continental shelves. */
+  water: '#74d3f4',
+  /**
+   * Deeper sea, band by band: shelf edge, slope, rise, abyssal plain, trench. (The depths
+   * at which they start are BAND_EDGES in scripts/build-ocean.mjs.)
+   */
+  deep: ['#63c8f1', '#4fb8ed', '#40a5e6', '#3693de', '#2e80d2'],
+  river: '#4fbdee',
+  shallows: '#a6ecfb',
   coast: '#ffffff',
   land: '#bfe58d',
   forest: '#56bd6c',
@@ -37,25 +47,66 @@ export const palette = {
   sand: '#f8de8a',
   rock: '#cdb89b',
   ice: '#ffffff',
-  shadow: '#5a4a9c',
-  highlight: '#fff8dc',
+  shadow: '#2f5560',
+  highlight: '#fff3c4',
   border: '#ffffff',
   road: '#fff6e0',
   ink: '#27304f',
   cityInk: '#5a3d2b',
-  waterInk: '#0f5f8f',
+  waterInk: '#ffffff',
+  waterHalo: 'rgba(30, 104, 180, 0.75)',
 } as const;
 
-/**
- * Optional pre-rendered land-cover tiles (see scripts/build-landcover.mjs). When the
- * folder exists they give deserts, forests, tundra and ice their real colours at globe
- * zoom, where the vector tiles carry no land cover at all.
- */
-export interface LandCoverTiles {
+/** A set of pre-rendered tiles in public/tiles/. Both sets are optional. */
+export interface TileSet {
   /** URL template with {z}/{x}/{y}. */
   tiles: string;
   maxzoom: number;
   attribution: string;
+}
+
+/**
+ * Land cover (scripts/build-landcover.mjs) gives deserts, forests, tundra and ice their
+ * real colours at globe zoom, where the vector tiles carry no land cover at all.
+ */
+export type LandCoverTiles = TileSet;
+
+/**
+ * The sea floor (scripts/build-ocean.mjs) says where each band of depth begins. Its tiles
+ * hold one number per pixel that climbs past each of `edges` in turn as the sea gets
+ * deeper, by `levelsPerPixel` for each pixel crossed. Without them the sea is one plain colour.
+ */
+export interface SeaFloorTiles extends TileSet {
+  edges: number[];
+  levelsPerPixel: number;
+}
+
+/**
+ * The sea's colour for a sea-floor number, as the stops of an `interpolate` expression:
+ * `surface` before the first edge, then the bands of `palette.deep`. Each edge blends
+ * over `width` screen pixels at a map zoom of `zoom`, which keeps it crisp but not jagged.
+ */
+function seaStops(seaFloor: SeaFloorTiles, surface: string, zoom: number, width = 1.5): (number | string)[] {
+  // (past the tiles' own zoom each of their pixels is stretched over several on screen)
+  const stretch = Math.max(1, 2 ** (zoom - seaFloor.maxzoom));
+  const half = Math.max(0.02, (seaFloor.levelsPerPixel * width) / stretch / 2);
+  return seaFloor.edges.flatMap((edge, i) => [
+    edge - half,
+    i ? palette.deep[i - 1] : surface,
+    edge + half,
+    palette.deep[i],
+  ]);
+}
+
+export const SEA_FLOOR = 'depth';
+
+/**
+ * The colours of the sea-floor layer at a map zoom. They depend on zoom only to keep the
+ * band edges equally crisp at every scale, so set this again as the zoom changes.
+ */
+export function seaFloorColour(seaFloor: SeaFloorTiles, zoom: number): ExpressionSpecification {
+  // (the first band fades in from nothing over the plain water colour)
+  return ['interpolate', ['linear'], ['elevation'], ...seaStops(seaFloor, 'rgba(99, 200, 241, 0)', zoom)];
 }
 
 /**
@@ -100,6 +151,30 @@ function polarBand(pole: 'north' | 'south', south: number, north: number): Featu
   };
 }
 
+/**
+ * The 180° meridian in pieces, each with the sea-floor number of the sea beneath it, to
+ * patch the seam there in the right colours (see the `date-line` layer).
+ */
+function seamPieces(): Feature[] {
+  const pieces: Feature[] = [];
+  for (const lng of [-180, 180]) {
+    for (const [top, bottom, value] of seam as [north: number, south: number, value: number][]) {
+      // Stop short of the polar bands. (The map data treats the Ross Ice Shelf as sea,
+      // right down to the southern cap.)
+      const north = Math.min(top, 84.7);
+      const south = Math.max(bottom, -84.4);
+      // Skip north-east Siberia, the one place the meridian crosses land.
+      if (north <= south || (north > 64.5 && south < 69.5)) continue;
+      pieces.push({
+        type: 'Feature',
+        properties: { pole: 'seam', value },
+        geometry: { type: 'LineString', coordinates: [[lng, north], [lng, south]] }, // prettier-ignore
+      });
+    }
+  }
+  return pieces;
+}
+
 export const COUNTRY_LABELS = 'country-names';
 
 /** Shows only the countries whose land area is at least `minAreaKm2`. */
@@ -124,7 +199,7 @@ const faces = (latin: string, latinExt: string) => [
 ];
 const NAME = ['coalesce', ['get', 'name:en'], ['get', 'name']] as never;
 
-export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification {
+export function buildStyle(landCover: LandCoverTiles | null, seaFloor: SeaFloorTiles | null): StyleSpecification {
   const layers: LayerSpecification[] = [{ id: 'land', type: 'background', paint: { 'background-color': palette.land } }];
 
   if (landCover) {
@@ -145,7 +220,7 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
     layers.push({
       id: 'elevation-tint',
       type: 'color-relief',
-      source: 'elevation-tint',
+      source: 'elevation-colour',
       paint: {
         'color-relief-color': [
           'interpolate',
@@ -209,21 +284,64 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
       filter: ['in', ['get', 'class'], ['literal', ['residential', 'suburb', 'neighbourhood', 'commercial', 'industrial']]],
       paint: { 'fill-color': '#f3e6d3', 'fill-opacity': 0.55 },
     },
+  );
+
+  if (landCover) {
+    // The highest ground pales towards white: a dusting on the Alps and the Rockies, a
+    // bright crest along the Andes and the Himalaya. (The elevation tint already does this.)
+    layers.push({
+      id: 'snow',
+      type: 'color-relief',
+      source: 'elevation-colour',
+      paint: {
+        'color-relief-color': [
+          'interpolate',
+          ['linear'],
+          ['elevation'],
+          3400,
+          'rgba(255,255,255,0)',
+          4600,
+          'rgba(255,255,255,0.28)',
+          5400,
+          'rgba(255,255,255,0.6)',
+          6400,
+          'rgba(255,255,255,0.95)',
+        ],
+      },
+    });
+  }
+
+  layers.push(
     {
       id: 'relief',
       type: 'hillshade',
       source: 'elevation',
       paint: {
-        'hillshade-method': 'standard',
+        // Shadows in deep green-blue and warm sunlit slopes, so mountains stay colourful
+        // instead of greying out the land colour underneath.
+        'hillshade-method': 'igor',
         'hillshade-illumination-direction': 315,
         // strong, chunky relief on the globe; gentler up close so mountain regions stay bright
-        'hillshade-exaggeration': ['interpolate', ['linear'], ['zoom'], 1, 0.7, 5, 0.55, 8, 0.3, 12, 0.22],
+        'hillshade-exaggeration': ['interpolate', ['linear'], ['zoom'], 1, 0.65, 5, 0.5, 8, 0.3, 12, 0.22],
         'hillshade-shadow-color': palette.shadow,
         'hillshade-highlight-color': palette.highlight,
-        'hillshade-accent-color': '#7b62b8',
       },
     },
-    { id: 'water', type: 'fill', source: 'osm', 'source-layer': 'water', paint: { 'fill-color': palette.ocean } },
+    { id: 'water', type: 'fill', source: 'osm', 'source-layer': 'water', paint: { 'fill-color': palette.water } },
+  );
+
+  if (seaFloor) {
+    // The sea floor, drawn over the plain water colour: see-through near every shore
+    // (and over land), then darker band by band.
+    layers.push({
+      id: SEA_FLOOR,
+      type: 'color-relief',
+      source: 'sea-floor',
+      paint: { 'color-relief-color': seaFloorColour(seaFloor, 0) },
+    });
+  }
+
+  layers.push(
     // A soft band of pale shallows hugging every shore, then a crisp white "sticker" edge.
     {
       id: 'shallows',
@@ -267,18 +385,23 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
       type: 'fill',
       source: 'poles',
       filter: ['==', ['get', 'pole'], 'north'],
-      paint: { 'fill-color': palette.ocean, 'fill-antialias': false },
+      paint: { 'fill-color': seaFloor ? palette.deep[2] : palette.water, 'fill-antialias': false },
     },
     // Likewise the ocean is cut along the 180° meridian, and at the lowest zooms that cut
-    // gets drawn as if it were a shoreline. Paint over it in ocean colour wherever the
-    // meridian runs through sea (everywhere except north-east Siberia).
+    // gets drawn as if it were a shoreline. Paint over it, in the colour of the sea at
+    // each point, wherever the meridian runs through sea.
     {
       id: 'date-line',
       type: 'line',
       source: 'poles',
       maxzoom: 2.5,
       filter: ['==', ['get', 'pole'], 'seam'],
-      paint: { 'line-color': palette.ocean, 'line-width': 9 },
+      paint: {
+        'line-color': seaFloor
+          ? ['interpolate', ['linear'], ['get', 'value'], ...seaStops(seaFloor, palette.water, 0)]
+          : palette.water,
+        'line-width': 9,
+      },
     },
     {
       id: 'rivers',
@@ -288,7 +411,7 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
       filter: ['==', ['get', 'class'], 'river'],
       layout: { 'line-cap': 'round', 'line-join': 'round' },
       paint: {
-        'line-color': palette.ocean,
+        'line-color': palette.river,
         'line-width': ['interpolate', ['linear'], ['zoom'], 3, 0.6, 8, 1.8, 12, 4],
       },
     },
@@ -334,9 +457,10 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
         'text-max-width': 6,
       },
       paint: {
+        // white lettering with a blue halo reads on the pale shelves and the deep sea alike
         'text-color': palette.waterInk,
-        'text-halo-color': 'rgba(255,255,255,0.45)',
-        'text-halo-width': 1,
+        'text-halo-color': palette.waterHalo,
+        'text-halo-width': 1.3,
       },
     },
     {
@@ -444,25 +568,7 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
           features: [
             polarBand('south', -MERCATOR_MAX_LAT, -84.4),
             polarBand('north', 84.7, MERCATOR_MAX_LAT),
-            ...[-180, 180].map(
-              (lng): Feature => ({
-                type: 'Feature',
-                properties: { pole: 'seam' },
-                geometry: {
-                  type: 'MultiLineString',
-                  coordinates: [
-                    [
-                      [lng, -84.4], // (the map data treats the Ross Ice Shelf as sea, right down to the cap)
-                      [lng, 64.5],
-                    ],
-                    [
-                      [lng, 69.5],
-                      [lng, 84.7],
-                    ],
-                  ],
-                },
-              }),
-            ),
+            ...seamPieces(),
           ],
         },
       },
@@ -478,6 +584,27 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
         },
       },
       elevation,
+      // A second handle on the same elevation tiles, for the snow or the elevation tint:
+      // MapLibre wants a source per terrain-style layer.
+      'elevation-colour': elevation,
+      ...(seaFloor
+        ? {
+            // "Elevation" here is the sea-floor number, held in the red channel alone. (The
+            // green factor only lets the style's stops fall between whole numbers.)
+            'sea-floor': {
+              type: 'raster-dem' as const,
+              tiles: [seaFloor.tiles],
+              tileSize: 256,
+              maxzoom: seaFloor.maxzoom,
+              encoding: 'custom' as const,
+              redFactor: 1,
+              greenFactor: 1 / 256,
+              blueFactor: 0,
+              baseShift: 0,
+              attribution: seaFloor.attribution,
+            },
+          }
+        : {}),
       ...(landCover
         ? {
             landcover: {
@@ -488,8 +615,7 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
               attribution: landCover.attribution,
             },
           }
-        : // A second handle on the same elevation tiles: MapLibre wants a source per terrain-style layer.
-          { 'elevation-tint': elevation }),
+        : {}),
     },
     sky: {
       'atmosphere-blend': ['interpolate', ['linear'], ['zoom'], 0, 1, 4.5, 0.9, 7, 0],

@@ -15,7 +15,7 @@ import '@fontsource/rubik/latin-500.css';
 import '@fontsource/rubik/latin-600.css';
 import '@fontsource/rubik/latin-ext-500.css';
 import './style.css';
-import { buildStyle, COUNTRY_LABELS, countryAreas, countryLabelFilter, type LandCoverTiles } from './basemap';
+import { buildStyle, COUNTRY_LABELS, countryAreas, countryLabelFilter, SEA_FLOOR, seaFloorColour, type LandCoverTiles, type SeaFloorTiles, type TileSet } from './basemap';
 import { layoutLandmarks, type Footprint } from './select';
 import type { Landmark, LandmarkData } from './types';
 
@@ -91,17 +91,22 @@ async function start(): Promise<void> {
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const isNarrow = (): boolean => window.innerWidth <= 700;
 
-  // Pre-rendered land-cover tiles are optional (npm run landcover); without them the
-  // style falls back to an elevation tint.
-  const landCover: LandCoverTiles | null = await fetch(asset('tiles/landcover/tiles.json'))
-    .then((r) => (r.ok && r.headers.get('content-type')?.includes('json') ? r.json() : null))
-    // (join as strings: new URL() would percent-encode the {z}/{x}/{y} placeholders)
-    .then((meta) => (meta ? { ...meta, tiles: new URL(BASE, location.href).href + meta.tiles } : null))
-    .catch(() => null);
+  // Pre-rendered tiles are optional: without land cover (npm run landcover) the style
+  // falls back to an elevation tint, without the sea floor (npm run ocean) to a plain sea.
+  const tileSet = <T extends TileSet>(name: string): Promise<T | null> =>
+    fetch(asset(`tiles/${name}/tiles.json`))
+      .then((r) => (r.ok && r.headers.get('content-type')?.includes('json') ? r.json() : null))
+      // (join as strings: new URL() would percent-encode the {z}/{x}/{y} placeholders)
+      .then((meta) => (meta ? { ...meta, tiles: new URL(BASE, location.href).href + meta.tiles } : null))
+      .catch(() => null);
+  const [landCover, seaFloor] = await Promise.all([
+    tileSet<LandCoverTiles>('landcover'),
+    tileSet<SeaFloorTiles>('ocean'),
+  ]);
 
   const map = new GlobeMap({
     container: 'map',
-    style: buildStyle(landCover),
+    style: buildStyle(landCover, seaFloor),
     center: [12, 26],
     zoom: globeFitZoom(0.82),
     minZoom: globeFitZoom(0.5),
@@ -124,6 +129,51 @@ async function start(): Promise<void> {
   });
   if (import.meta.env.DEV) Object.assign(window, { __map: map });
   map.addControl(new NavigationControl({ showCompass: false }), 'bottom-right');
+
+  // ----- sea floor -----
+
+  // The bands of depth are re-coloured as the zoom changes, to keep their edges equally
+  // crisp at every scale (see seaFloorColour). Half a zoom level at a time is fine enough.
+  if (seaFloor) {
+    let step = NaN;
+    const sharpenSeaFloor = (): void => {
+      const now = Math.round(map.getZoom() * 2) / 2;
+      if (now === step || !map.getLayer(SEA_FLOOR)) return;
+      step = now;
+      map.setPaintProperty(SEA_FLOOR, 'color-relief-color', seaFloorColour(seaFloor, now));
+    };
+    map.on('zoom', sharpenSeaFloor);
+    map.once('load', sharpenSeaFloor);
+  }
+
+  // ----- sphere lighting -----
+
+  // The map itself is lit flat, like a paper disc. A soft highlight towards the upper left,
+  // a shadow creeping in from the lower right and a thin glow of air around the edge make
+  // it read as a ball. All of it fades away on the way in, where the horizon leaves the screen.
+  const shade = h('div', { class: 'globe-shade' });
+  map.getCanvas().after(shade); // above the map, beneath every marker
+  function updateShade(): void {
+    const { width, height } = map.getCanvas().getBoundingClientRect();
+    const centre = map.getCenter();
+    // Radius of the globe in pixels, then of its outline as the camera sees it (a little
+    // smaller: the camera is close enough that the horizon sits in front of the middle).
+    const radius = (512 * 2 ** map.getZoom()) / (2 * Math.PI * Math.cos((centre.lat * Math.PI) / 180));
+    const camera = height / 2 / Math.tan((map.getVerticalFieldOfView() * Math.PI) / 360);
+    const outline = (camera * radius) / Math.sqrt(camera * camera + 2 * radius * camera);
+    const fade = 1 - (outline - 0.45 * Math.min(width, height)) / (0.9 * Math.max(width, height));
+    if (!(fade > 0) || !Number.isFinite(outline)) {
+      shade.style.display = 'none';
+      return;
+    }
+    shade.style.display = '';
+    shade.style.opacity = String(Math.min(1, fade));
+    // (the element is a fixed 1000px disc, scaled: cheaper than resizing it every frame)
+    shade.style.transform = `translate(${width / 2}px, ${height / 2}px) scale(${outline / 500})`;
+  }
+  map.on('move', updateShade);
+  map.on('resize', updateShade);
+  updateShade();
 
   // ----- markers -----
 

@@ -1,0 +1,13 @@
+{
+  "tiles": "tiles/ocean/{z}/{x}/{y}.webp",
+  "maxzoom": 5,
+  "attribution": "Sea floor: <a href=\"https://github.com/tilezen/joerd/blob/master/docs/attribution.md\" target=\"_blank\" rel=\"noopener\">Mapzen terrain tiles</a>",
+  "edges": [
+    25,
+    75,
+    125,
+    175,
+    225
+  ],
+  "levelsPerPixel": 8.333333333333334
+}

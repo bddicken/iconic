@@ -11,6 +11,7 @@
     "data:sheet": "node scripts/contact-sheet.mjs",
     "landcover": "node scripts/build-landcover.mjs",
     "countries": "node scripts/build-countries.mjs",
+    "ocean": "node scripts/build-ocean.mjs",
     "og": "node scripts/build-og.mjs",
     "deploy": "npm run build && wrangler deploy"
   },
