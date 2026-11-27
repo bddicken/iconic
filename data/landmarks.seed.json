@@ -598,7 +598,7 @@
   { "id": "kjeragbolten", "name": "Kjeragbolten", "wiki": "Kjeragbolten", "country": "Norway", "region": "Europe", "category": "natural" },
   { "id": "bryggen", "name": "Bryggen", "wiki": "Bryggen", "country": "Norway", "region": "Europe", "category": "urban" },
   { "id": "atlantic-ocean-road", "name": "Atlantic Ocean Road", "wiki": "Atlantic Ocean Road", "country": "Norway", "region": "Europe", "category": "bridge", "image": "Atlantic Ocean Road (177685745).jpeg", "galleryExclude": ["Eldhusøya by the Atlantic Ocean Road.jpg", "In Atlantic Ocean - panoramio.jpg"] },
-  { "id": "auschwitz-birkenau-memorial", "name": "Auschwitz-Birkenau Memorial", "wiki": "Auschwitz concentration camp", "country": "Poland", "region": "Europe", "category": "monument" },
+  { "id": "main-square-krakow", "name": "Main Square, Kraków", "wiki": "Main Square, Kraków", "country": "Poland", "region": "Europe", "category": "urban" },
   { "id": "malbork-castle", "name": "Malbork Castle", "wiki": "Malbork Castle", "country": "Poland", "region": "Europe", "category": "building" },
   { "id": "jeronimos-monastery", "name": "Jerónimos Monastery", "wiki": "Jerónimos Monastery", "country": "Portugal", "region": "Europe", "category": "religious" },
   { "id": "benagil-cave", "name": "Benagil Cave", "wiki": "Benagil", "country": "Portugal", "region": "Europe", "category": "natural", "image": "BENAGIL (51844729713).jpg" },

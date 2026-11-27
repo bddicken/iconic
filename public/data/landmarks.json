@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T06:20:40.867Z",
+ "generatedAt": "2026-11-27T14:19:15.081Z",
  "count": 1000,
  "popularity": "Score 0-100 = 55% English Wikipedia pageviews over the last 12 months (log scale) + 45% number of Wikipedia language editions with an article, plus any editorial boost from the seed. rank 1 = most popular.",
  "landmarks": [
@@ -2525,96 +2525,6 @@
   },
   {
    "rank": 29,
-   "id": "auschwitz-birkenau-memorial",
-   "name": "Auschwitz-Birkenau Memorial",
-   "country": "Poland",
-   "region": "Europe",
-   "category": "monument",
-   "lat": 50.03583,
-   "lng": 19.17833,
-   "description": "Nazi concentration camp in Poland (1940–1945)",
-   "summary": "Auschwitz, also known as Oświęcim, was a complex of over 40 concentration and extermination camps operated by Nazi Germany in occupied Poland during World War II and the Holocaust.",
-   "popularity": 61,
-   "metrics": {
-    "pageviews": 1265563,
-    "wikipediaLanguages": 105
-   },
-   "wikipedia": "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp",
-   "wikidata": "Q7341",
-   "image": {
-    "src": "images/full/auschwitz-birkenau-memorial.webp",
-    "thumb": "images/thumb/auschwitz-birkenau-memorial.webp",
-    "width": 1600,
-    "height": 1071,
-    "color": "#e8e8e8",
-    "credit": {
-     "title": "File:Auschwitz I (22 May 2010) b.jpg",
-     "author": "File:Auschwitz I (22 May 2010).jpg : xiquinhosilva derivative work: Georgfotoart",
-     "credit": "This file was derived from: Auschwitz I (22 May 2010).jpg :",
-     "license": "CC BY 2.0",
-     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-     "attributionRequired": true,
-     "sourcePage": "https://commons.wikimedia.org/wiki/File:Auschwitz_I_(22_May_2010)_b.jpg",
-     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Auschwitz_I_%2822_May_2010%29_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Auschwitz_I_%2822_May_2010%29_b.jpg/1920px-Auschwitz_I_%2822_May_2010%29_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    }
-   },
-   "gallery": [
-    {
-     "src": "images/gallery/auschwitz-birkenau-memorial-1.webp",
-     "width": 900,
-     "height": 660,
-     "color": "#c8c8c8",
-     "credit": {
-      "title": "File:Auschwitz (10901104645).jpg",
-      "author": "Jason M Ramos",
-      "credit": "Auschwitz",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "attributionRequired": true,
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Auschwitz_(10901104645).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Auschwitz_%2810901104645%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Auschwitz_%2810901104645%29.jpg/1280px-Auschwitz_%2810901104645%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-     }
-    },
-    {
-     "src": "images/gallery/auschwitz-birkenau-memorial-2.webp",
-     "width": 900,
-     "height": 675,
-     "color": "#888868",
-     "credit": {
-      "title": "File:Auschwitz I - Birkenau, Oświęcim, Polonia - panoramio (5).jpg",
-      "author": "Nelson Pérez",
-      "credit": "https://web.archive.org/web/20161029171905/http://www.panoramio.com/photo/93573545",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "attributionRequired": true,
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Auschwitz_I_-_Birkenau,_O%C5%9Bwi%C4%99cim,_Polonia_-_panoramio_(5).jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Auschwitz_I_-_Birkenau%2C_O%C5%9Bwi%C4%99cim%2C_Polonia_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Auschwitz_I_-_Birkenau%2C_O%C5%9Bwi%C4%99cim%2C_Polonia_-_panoramio_%285%29.jpg/1280px-Auschwitz_I_-_Birkenau%2C_O%C5%9Bwi%C4%99cim%2C_Polonia_-_panoramio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-     }
-    },
-    {
-     "src": "images/gallery/auschwitz-birkenau-memorial-3.webp",
-     "width": 900,
-     "height": 581,
-     "color": "#080808",
-     "credit": {
-      "title": "File:Auschwitz I visitor reception centre, July 2014 (panoramio) cropped.jpg",
-      "author": "ekuacion",
-      "credit": "https://web.archive.org/web/20161102183843/http://www.panoramio.com/photo/110615834",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "attributionRequired": true,
-      "sourcePage": "https://commons.wikimedia.org/wiki/File:Auschwitz_I_visitor_reception_centre,_July_2014_(panoramio)_cropped.jpg",
-      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Auschwitz_I_visitor_reception_centre%2C_July_2014_%28panoramio%29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Auschwitz_I_visitor_reception_centre%2C_July_2014_%28panoramio%29_cropped.jpg/1280px-Auschwitz_I_visitor_reception_centre%2C_July_2014_%28panoramio%29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-     }
-    }
-   ]
-  },
-  {
-   "rank": 30,
    "id": "mount-vesuvius",
    "name": "Mount Vesuvius",
    "country": "Italy",
@@ -2704,7 +2614,7 @@
    ]
   },
   {
-   "rank": 31,
+   "rank": 30,
    "id": "k2",
    "name": "K2",
    "country": "Pakistan / China",
@@ -2794,7 +2704,7 @@
    ]
   },
   {
-   "rank": 32,
+   "rank": 31,
    "id": "pompeii",
    "name": "Pompeii",
    "country": "Italy",
@@ -2884,7 +2794,7 @@
    ]
   },
   {
-   "rank": 33,
+   "rank": 32,
    "id": "niagara-falls",
    "name": "Niagara Falls",
    "country": "Canada / United States",
@@ -2974,7 +2884,7 @@
    ]
   },
   {
-   "rank": 34,
+   "rank": 33,
    "id": "galapagos-islands",
    "name": "Galápagos Islands",
    "country": "Ecuador",
@@ -3064,7 +2974,7 @@
    ]
   },
   {
-   "rank": 35,
+   "rank": 34,
    "id": "mount-rushmore",
    "name": "Mount Rushmore",
    "country": "United States",
@@ -3154,7 +3064,7 @@
    ]
   },
   {
-   "rank": 36,
+   "rank": 35,
    "id": "carthage",
    "name": "Carthage",
    "country": "Tunisia",
@@ -3227,7 +3137,7 @@
    ]
   },
   {
-   "rank": 37,
+   "rank": 36,
    "id": "notre-dame-de-paris",
    "name": "Notre-Dame de Paris",
    "country": "France",
@@ -3317,7 +3227,7 @@
    ]
   },
   {
-   "rank": 38,
+   "rank": 37,
    "id": "petra",
    "name": "Petra",
    "country": "Jordan",
@@ -3407,7 +3317,7 @@
    ]
   },
   {
-   "rank": 39,
+   "rank": 38,
    "id": "leaning-tower-of-pisa",
    "name": "Leaning Tower of Pisa",
    "country": "Italy",
@@ -3497,7 +3407,7 @@
    ]
   },
   {
-   "rank": 40,
+   "rank": 39,
    "id": "palace-of-versailles",
    "name": "Palace of Versailles",
    "country": "France",
@@ -3587,7 +3497,7 @@
    ]
   },
   {
-   "rank": 41,
+   "rank": 40,
    "id": "lake-tanganyika",
    "name": "Lake Tanganyika",
    "country": "Tanzania",
@@ -3677,7 +3587,7 @@
    ]
   },
   {
-   "rank": 42,
+   "rank": 41,
    "id": "golden-gate-bridge",
    "name": "Golden Gate Bridge",
    "country": "United States",
@@ -3767,7 +3677,7 @@
    ]
   },
   {
-   "rank": 43,
+   "rank": 42,
    "id": "mont-blanc",
    "name": "Mont Blanc",
    "country": "France / Italy",
@@ -3857,7 +3767,7 @@
    ]
   },
   {
-   "rank": 44,
+   "rank": 43,
    "id": "mount-etna",
    "name": "Mount Etna",
    "country": "Italy",
@@ -3947,7 +3857,7 @@
    ]
   },
   {
-   "rank": 45,
+   "rank": 44,
    "id": "timbuktu",
    "name": "Timbuktu",
    "country": "Mali",
@@ -4037,7 +3947,7 @@
    ]
   },
   {
-   "rank": 46,
+   "rank": 45,
    "id": "grand-canyon",
    "name": "Grand Canyon",
    "country": "United States",
@@ -4127,7 +4037,7 @@
    ]
   },
   {
-   "rank": 47,
+   "rank": 46,
    "id": "denali",
    "name": "Denali",
    "country": "United States",
@@ -4217,7 +4127,7 @@
    ]
   },
   {
-   "rank": 48,
+   "rank": 47,
    "id": "forbidden-city",
    "name": "Forbidden City",
    "country": "China",
@@ -4307,7 +4217,7 @@
    ]
   },
   {
-   "rank": 49,
+   "rank": 48,
    "id": "taipei-101",
    "name": "Taipei 101",
    "country": "Taiwan",
@@ -4397,7 +4307,7 @@
    ]
   },
   {
-   "rank": 50,
+   "rank": 49,
    "id": "lake-titicaca",
    "name": "Lake Titicaca",
    "country": "Peru / Bolivia",
@@ -4487,7 +4397,7 @@
    ]
   },
   {
-   "rank": 51,
+   "rank": 50,
    "id": "chichen-itza",
    "name": "Chichén Itzá",
    "country": "Mexico",
@@ -4577,7 +4487,7 @@
    ]
   },
   {
-   "rank": 52,
+   "rank": 51,
    "id": "christ-the-redeemer",
    "name": "Christ the Redeemer",
    "country": "Brazil",
@@ -4667,7 +4577,7 @@
    ]
   },
   {
-   "rank": 53,
+   "rank": 52,
    "id": "neuschwanstein-castle",
    "name": "Neuschwanstein Castle",
    "country": "Germany",
@@ -4757,7 +4667,7 @@
    ]
   },
   {
-   "rank": 54,
+   "rank": 53,
    "id": "terracotta-army",
    "name": "Terracotta Army",
    "country": "China",
@@ -4847,7 +4757,7 @@
    ]
   },
   {
-   "rank": 55,
+   "rank": 54,
    "id": "mont-saint-michel",
    "name": "Mont-Saint-Michel",
    "country": "France",
@@ -4937,7 +4847,7 @@
    ]
   },
   {
-   "rank": 56,
+   "rank": 55,
    "id": "three-gorges-dam",
    "name": "Three Gorges Dam",
    "country": "China",
@@ -5027,7 +4937,7 @@
    ]
   },
   {
-   "rank": 57,
+   "rank": 56,
    "id": "gobekli-tepe",
    "name": "Göbekli Tepe",
    "country": "Turkey",
@@ -5117,7 +5027,7 @@
    ]
   },
   {
-   "rank": 58,
+   "rank": 57,
    "id": "buckingham-palace",
    "name": "Buckingham Palace",
    "country": "United Kingdom",
@@ -5207,7 +5117,7 @@
    ]
   },
   {
-   "rank": 59,
+   "rank": 58,
    "id": "willis-tower",
    "name": "Willis Tower",
    "country": "United States",
@@ -5297,7 +5207,7 @@
    ]
   },
   {
-   "rank": 60,
+   "rank": 59,
    "id": "aconcagua",
    "name": "Aconcagua",
    "country": "Argentina",
@@ -5387,7 +5297,7 @@
    ]
   },
   {
-   "rank": 61,
+   "rank": 60,
    "id": "mount-olympus",
    "name": "Mount Olympus",
    "country": "Greece",
@@ -5477,7 +5387,7 @@
    ]
   },
   {
-   "rank": 62,
+   "rank": 61,
    "id": "british-museum",
    "name": "British Museum",
    "country": "United Kingdom",
@@ -5567,7 +5477,7 @@
    ]
   },
   {
-   "rank": 63,
+   "rank": 62,
    "id": "pantheon-rome",
    "name": "Pantheon, Rome",
    "country": "Italy",
@@ -5657,7 +5567,7 @@
    ]
   },
   {
-   "rank": 64,
+   "rank": 63,
    "id": "cologne-cathedral",
    "name": "Cologne Cathedral",
    "country": "Germany",
@@ -5747,7 +5657,7 @@
    ]
   },
   {
-   "rank": 65,
+   "rank": 64,
    "id": "al-aqsa-mosque",
    "name": "Al-Aqsa Mosque",
    "country": "Jerusalem",
@@ -5837,7 +5747,7 @@
    ]
   },
   {
-   "rank": 66,
+   "rank": 65,
    "id": "mount-elbrus",
    "name": "Mount Elbrus",
    "country": "Russia",
@@ -5927,7 +5837,7 @@
    ]
   },
   {
-   "rank": 67,
+   "rank": 66,
    "id": "mount-ararat",
    "name": "Mount Ararat",
    "country": "Turkey",
@@ -6017,7 +5927,7 @@
    ]
   },
   {
-   "rank": 68,
+   "rank": 67,
    "id": "one-world-trade-center",
    "name": "One World Trade Center",
    "country": "United States",
@@ -6107,7 +6017,7 @@
    ]
   },
   {
-   "rank": 69,
+   "rank": 68,
    "id": "mount-kailash",
    "name": "Mount Kailash",
    "country": "China (Tibet)",
@@ -6197,7 +6107,7 @@
    ]
   },
   {
-   "rank": 70,
+   "rank": 69,
    "id": "acropolis-of-athens",
    "name": "Acropolis of Athens",
    "country": "Greece",
@@ -6287,7 +6197,7 @@
    ]
   },
   {
-   "rank": 71,
+   "rank": 70,
    "id": "alhambra",
    "name": "Alhambra",
    "country": "Spain",
@@ -6377,7 +6287,7 @@
    ]
   },
   {
-   "rank": 72,
+   "rank": 71,
    "id": "big-ben",
    "name": "Big Ben",
    "country": "United Kingdom",
@@ -6450,7 +6360,7 @@
    ]
   },
   {
-   "rank": 73,
+   "rank": 72,
    "id": "dubrovnik",
    "name": "Dubrovnik Old Town",
    "country": "Croatia",
@@ -6540,7 +6450,7 @@
    ]
   },
   {
-   "rank": 74,
+   "rank": 73,
    "id": "tower-of-london",
    "name": "Tower of London",
    "country": "United Kingdom",
@@ -6630,7 +6540,7 @@
    ]
   },
   {
-   "rank": 75,
+   "rank": 74,
    "id": "mount-st-helens",
    "name": "Mount St. Helens",
    "country": "United States",
@@ -6720,7 +6630,7 @@
    ]
   },
   {
-   "rank": 76,
+   "rank": 75,
    "id": "krakatoa",
    "name": "Krakatoa",
    "country": "Indonesia",
@@ -6793,7 +6703,7 @@
    ]
   },
   {
-   "rank": 77,
+   "rank": 76,
    "id": "persepolis",
    "name": "Persepolis",
    "country": "Iran",
@@ -6883,7 +6793,7 @@
    ]
   },
   {
-   "rank": 78,
+   "rank": 77,
    "id": "westminster-abbey",
    "name": "Westminster Abbey",
    "country": "United Kingdom",
@@ -6973,7 +6883,7 @@
    ]
   },
   {
-   "rank": 79,
+   "rank": 78,
    "id": "arc-de-triomphe",
    "name": "Arc de Triomphe",
    "country": "France",
@@ -7063,7 +6973,7 @@
    ]
   },
   {
-   "rank": 80,
+   "rank": 79,
    "id": "socotra",
    "name": "Socotra",
    "country": "Yemen",
@@ -7153,7 +7063,7 @@
    ]
   },
   {
-   "rank": 81,
+   "rank": 80,
    "id": "sydney-opera-house",
    "name": "Sydney Opera House",
    "country": "Australia",
@@ -7243,7 +7153,7 @@
    ]
   },
   {
-   "rank": 82,
+   "rank": 81,
    "id": "church-of-the-holy-sepulchre",
    "name": "Church of the Holy Sepulchre",
    "country": "Jerusalem",
@@ -7333,7 +7243,7 @@
    ]
   },
   {
-   "rank": 83,
+   "rank": 82,
    "id": "dome-of-the-rock",
    "name": "Dome of the Rock",
    "country": "Jerusalem",
@@ -7423,7 +7333,7 @@
    ]
   },
   {
-   "rank": 84,
+   "rank": 83,
    "id": "kangchenjunga",
    "name": "Kangchenjunga",
    "country": "India",
@@ -7513,7 +7423,7 @@
    ]
   },
   {
-   "rank": 85,
+   "rank": 84,
    "id": "uluru",
    "name": "Uluru",
    "country": "Australia",
@@ -7603,7 +7513,7 @@
    ]
   },
   {
-   "rank": 86,
+   "rank": 85,
    "id": "victoria-falls",
    "name": "Victoria Falls",
    "country": "Zambia / Zimbabwe",
@@ -7693,7 +7603,7 @@
    ]
   },
   {
-   "rank": 87,
+   "rank": 86,
    "id": "ephesus",
    "name": "Ephesus",
    "country": "Turkey",
@@ -7783,7 +7693,7 @@
    ]
   },
   {
-   "rank": 88,
+   "rank": 87,
    "id": "petronas-towers",
    "name": "Petronas Towers",
    "country": "Malaysia",
@@ -7873,7 +7783,7 @@
    ]
   },
   {
-   "rank": 89,
+   "rank": 88,
    "id": "windsor-castle",
    "name": "Windsor Castle",
    "country": "United Kingdom",
@@ -7963,7 +7873,7 @@
    ]
   },
   {
-   "rank": 90,
+   "rank": 89,
    "id": "cappadocia",
    "name": "Cappadocia",
    "country": "Turkey",
@@ -8053,7 +7963,7 @@
    ]
   },
   {
-   "rank": 91,
+   "rank": 90,
    "id": "cartagena",
    "name": "Cartagena Old Town",
    "country": "Colombia",
@@ -8143,7 +8053,7 @@
    ]
   },
   {
-   "rank": 92,
+   "rank": 91,
    "id": "hadrians-wall",
    "name": "Hadrian's Wall",
    "country": "United Kingdom",
@@ -8233,7 +8143,7 @@
    ]
   },
   {
-   "rank": 93,
+   "rank": 92,
    "id": "cape-of-good-hope",
    "name": "Cape of Good Hope",
    "country": "South Africa",
@@ -8323,7 +8233,7 @@
    ]
   },
   {
-   "rank": 94,
+   "rank": 93,
    "id": "mycenae",
    "name": "Mycenae",
    "country": "Greece",
@@ -8413,7 +8323,7 @@
    ]
   },
   {
-   "rank": 95,
+   "rank": 94,
    "id": "sistine-chapel",
    "name": "Sistine Chapel",
    "country": "Italy",
@@ -8503,7 +8413,7 @@
    ]
   },
   {
-   "rank": 96,
+   "rank": 95,
    "id": "western-wall",
    "name": "Western Wall",
    "country": "Jerusalem",
@@ -8593,7 +8503,7 @@
    ]
   },
   {
-   "rank": 97,
+   "rank": 96,
    "id": "matterhorn",
    "name": "Matterhorn",
    "country": "Switzerland / Italy",
@@ -8683,7 +8593,7 @@
    ]
   },
   {
-   "rank": 98,
+   "rank": 97,
    "id": "golden-temple",
    "name": "Golden Temple",
    "country": "India",
@@ -8773,7 +8683,7 @@
    ]
   },
   {
-   "rank": 99,
+   "rank": 98,
    "id": "brooklyn-bridge",
    "name": "Brooklyn Bridge",
    "country": "United States",
@@ -8863,7 +8773,7 @@
    ]
   },
   {
-   "rank": 100,
+   "rank": 99,
    "id": "moscow-kremlin",
    "name": "Moscow Kremlin",
    "country": "Russia",
@@ -8953,7 +8863,7 @@
    ]
   },
   {
-   "rank": 101,
+   "rank": 100,
    "id": "central-park",
    "name": "Central Park",
    "country": "United States",
@@ -9043,7 +8953,7 @@
    ]
   },
   {
-   "rank": 102,
+   "rank": 101,
    "id": "pripyat",
    "name": "Pripyat",
    "country": "Ukraine",
@@ -9133,7 +9043,7 @@
    ]
   },
   {
-   "rank": 103,
+   "rank": 102,
    "id": "great-sphinx-of-giza",
    "name": "Great Sphinx of Giza",
    "country": "Egypt",
@@ -9223,7 +9133,7 @@
    ]
   },
   {
-   "rank": 104,
+   "rank": 103,
    "id": "mauna-kea",
    "name": "Mauna Kea",
    "country": "United States",
@@ -9313,7 +9223,7 @@
    ]
   },
   {
-   "rank": 105,
+   "rank": 104,
    "id": "hollywood-walk-of-fame",
    "name": "Hollywood Walk of Fame",
    "country": "United States",
@@ -9403,7 +9313,7 @@
    ]
   },
   {
-   "rank": 106,
+   "rank": 105,
    "id": "nineveh",
    "name": "Nineveh",
    "country": "Iraq",
@@ -9459,7 +9369,7 @@
    ]
   },
   {
-   "rank": 107,
+   "rank": 106,
    "id": "cn-tower",
    "name": "CN Tower",
    "country": "Canada",
@@ -9549,7 +9459,7 @@
    ]
   },
   {
-   "rank": 108,
+   "rank": 107,
    "id": "metropolitan-museum-of-art",
    "name": "Metropolitan Museum of Art",
    "country": "United States",
@@ -9639,7 +9549,7 @@
    ]
   },
   {
-   "rank": 109,
+   "rank": 108,
    "id": "moai-easter-island",
    "name": "Moai of Easter Island",
    "country": "Chile",
@@ -9729,7 +9639,7 @@
    ]
   },
   {
-   "rank": 110,
+   "rank": 109,
    "id": "iguazu-falls",
    "name": "Iguazu Falls",
    "country": "Argentina / Brazil",
@@ -9819,7 +9729,7 @@
    ]
   },
   {
-   "rank": 111,
+   "rank": 110,
    "id": "maracana-stadium",
    "name": "Maracanã Stadium",
    "country": "Brazil",
@@ -9909,7 +9819,7 @@
    ]
   },
   {
-   "rank": 112,
+   "rank": 111,
    "id": "valparaiso",
    "name": "Valparaíso",
    "country": "Chile",
@@ -9999,7 +9909,7 @@
    ]
   },
   {
-   "rank": 113,
+   "rank": 112,
    "id": "st-pauls-cathedral",
    "name": "St Paul's Cathedral",
    "country": "United Kingdom",
@@ -10089,7 +9999,7 @@
    ]
   },
   {
-   "rank": 114,
+   "rank": 113,
    "id": "mohenjo-daro",
    "name": "Mohenjo-daro",
    "country": "Pakistan",
@@ -10179,7 +10089,7 @@
    ]
   },
   {
-   "rank": 115,
+   "rank": 114,
    "id": "tower-bridge",
    "name": "Tower Bridge",
    "country": "United Kingdom",
@@ -10269,7 +10179,7 @@
    ]
   },
   {
-   "rank": 116,
+   "rank": 115,
    "id": "mount-sinai",
    "name": "Mount Sinai",
    "country": "Egypt",
@@ -10359,7 +10269,7 @@
    ]
   },
   {
-   "rank": 117,
+   "rank": 116,
    "id": "mount-teide",
    "name": "Mount Teide",
    "country": "Spain (Canary Islands)",
@@ -10449,7 +10359,7 @@
    ]
   },
   {
-   "rank": 118,
+   "rank": 117,
    "id": "teotihuacan",
    "name": "Teotihuacan",
    "country": "Mexico",
@@ -10539,7 +10449,7 @@
    ]
   },
   {
-   "rank": 119,
+   "rank": 118,
    "id": "mount-rainier",
    "name": "Mount Rainier",
    "country": "United States",
@@ -10629,7 +10539,7 @@
    ]
   },
   {
-   "rank": 120,
+   "rank": 119,
    "id": "pyramids-of-giza",
    "name": "Pyramids of Giza",
    "country": "Egypt",
@@ -10719,7 +10629,7 @@
    ]
   },
   {
-   "rank": 121,
+   "rank": 120,
    "id": "sea-of-galilee",
    "name": "Sea of Galilee",
    "country": "Israel",
@@ -10809,7 +10719,7 @@
    ]
   },
   {
-   "rank": 122,
+   "rank": 121,
    "id": "brandenburg-gate",
    "name": "Brandenburg Gate",
    "country": "Germany",
@@ -10899,7 +10809,7 @@
    ]
   },
   {
-   "rank": 123,
+   "rank": 122,
    "id": "buddhas-of-bamiyan",
    "name": "Buddhas of Bamiyan",
    "country": "Afghanistan",
@@ -10989,7 +10899,7 @@
    ]
   },
   {
-   "rank": 124,
+   "rank": 123,
    "id": "palmyra",
    "name": "Palmyra",
    "country": "Syria",
@@ -11079,7 +10989,7 @@
    ]
   },
   {
-   "rank": 125,
+   "rank": 124,
    "id": "us-capitol",
    "name": "United States Capitol",
    "country": "United States",
@@ -11169,7 +11079,7 @@
    ]
   },
   {
-   "rank": 126,
+   "rank": 125,
    "id": "hoover-dam",
    "name": "Hoover Dam",
    "country": "United States",
@@ -11259,7 +11169,7 @@
    ]
   },
   {
-   "rank": 127,
+   "rank": 126,
    "id": "statue-of-unity",
    "name": "Statue of Unity",
    "country": "India",
@@ -11332,7 +11242,7 @@
    ]
   },
   {
-   "rank": 128,
+   "rank": 127,
    "id": "chrysler-building",
    "name": "Chrysler Building",
    "country": "United States",
@@ -11422,7 +11332,7 @@
    ]
   },
   {
-   "rank": 129,
+   "rank": 128,
    "id": "nanga-parbat",
    "name": "Nanga Parbat",
    "country": "Pakistan",
@@ -11512,7 +11422,7 @@
    ]
   },
   {
-   "rank": 130,
+   "rank": 129,
    "id": "angel-falls",
    "name": "Angel Falls",
    "country": "Venezuela",
@@ -11602,7 +11512,7 @@
    ]
   },
   {
-   "rank": 131,
+   "rank": 130,
    "id": "santorini",
    "name": "Santorini",
    "country": "Greece",
@@ -11692,7 +11602,7 @@
    ]
   },
   {
-   "rank": 132,
+   "rank": 131,
    "id": "milan-cathedral",
    "name": "Milan Cathedral",
    "country": "Italy",
@@ -11782,7 +11692,7 @@
    ]
   },
   {
-   "rank": 133,
+   "rank": 132,
    "id": "red-square",
    "name": "Red Square",
    "country": "Russia",
@@ -11872,7 +11782,7 @@
    ]
   },
   {
-   "rank": 134,
+   "rank": 133,
    "id": "trevi-fountain",
    "name": "Trevi Fountain",
    "country": "Italy",
@@ -11962,7 +11872,7 @@
    ]
   },
   {
-   "rank": 135,
+   "rank": 134,
    "id": "lake-chad",
    "name": "Lake Chad",
    "country": "Chad",
@@ -12052,7 +11962,7 @@
    ]
   },
   {
-   "rank": 136,
+   "rank": 135,
    "id": "blue-mosque",
    "name": "Blue Mosque",
    "country": "Turkey",
@@ -12142,7 +12052,7 @@
    ]
   },
   {
-   "rank": 137,
+   "rank": 136,
    "id": "borobudur",
    "name": "Borobudur",
    "country": "Indonesia",
@@ -12232,7 +12142,7 @@
    ]
   },
   {
-   "rank": 138,
+   "rank": 137,
    "id": "delphi",
    "name": "Delphi",
    "country": "Greece",
@@ -12322,7 +12232,7 @@
    ]
   },
   {
-   "rank": 139,
+   "rank": 138,
    "id": "red-fort",
    "name": "Red Fort",
    "country": "India",
@@ -12412,7 +12322,7 @@
    ]
   },
   {
-   "rank": 140,
+   "rank": 139,
    "id": "washington-monument",
    "name": "Washington Monument",
    "country": "United States",
@@ -12502,7 +12412,7 @@
    ]
   },
   {
-   "rank": 141,
+   "rank": 140,
    "id": "times-square",
    "name": "Times Square",
    "country": "United States",
@@ -12592,7 +12502,7 @@
    ]
   },
   {
-   "rank": 142,
+   "rank": 141,
    "id": "abu-simbel",
    "name": "Abu Simbel",
    "country": "Egypt",
@@ -12682,7 +12592,7 @@
    ]
   },
   {
-   "rank": 143,
+   "rank": 142,
    "id": "lake-como",
    "name": "Lake Como",
    "country": "Italy",
@@ -12772,7 +12682,7 @@
    ]
   },
   {
-   "rank": 144,
+   "rank": 143,
    "id": "prophets-mosque",
    "name": "Prophet's Mosque",
    "country": "Saudi Arabia",
@@ -12862,7 +12772,7 @@
    ]
   },
   {
-   "rank": 145,
+   "rank": 144,
    "id": "ajanta-caves",
    "name": "Ajanta Caves",
    "country": "India",
@@ -12952,7 +12862,7 @@
    ]
   },
   {
-   "rank": 146,
+   "rank": 145,
    "id": "burj-al-arab",
    "name": "Burj Al Arab",
    "country": "United Arab Emirates",
@@ -13042,7 +12952,7 @@
    ]
   },
   {
-   "rank": 147,
+   "rank": 146,
    "id": "baikonur-cosmodrome",
    "name": "Baikonur Cosmodrome",
    "country": "Kazakhstan",
@@ -13132,7 +13042,7 @@
    ]
   },
   {
-   "rank": 148,
+   "rank": 147,
    "id": "bikini-atoll",
    "name": "Bikini Atoll",
    "country": "Marshall Islands",
@@ -13222,7 +13132,7 @@
    ]
   },
   {
-   "rank": 149,
+   "rank": 148,
    "id": "lake-tahoe",
    "name": "Lake Tahoe",
    "country": "United States",
@@ -13312,7 +13222,7 @@
    ]
   },
   {
-   "rank": 150,
+   "rank": 149,
    "id": "tokyo-skytree",
    "name": "Tokyo Skytree",
    "country": "Japan",
@@ -13402,7 +13312,7 @@
    ]
   },
   {
-   "rank": 151,
+   "rank": 150,
    "id": "ben-nevis",
    "name": "Ben Nevis",
    "country": "United Kingdom",
@@ -13492,7 +13402,7 @@
    ]
   },
   {
-   "rank": 152,
+   "rank": 151,
    "id": "london-eye",
    "name": "London Eye",
    "country": "United Kingdom",
@@ -13582,7 +13492,7 @@
    ]
   },
   {
-   "rank": 153,
+   "rank": 152,
    "id": "valley-of-the-kings",
    "name": "Valley of the Kings",
    "country": "Egypt",
@@ -13672,7 +13582,7 @@
    ]
   },
   {
-   "rank": 154,
+   "rank": 153,
    "id": "bora-bora",
    "name": "Bora Bora",
    "country": "French Polynesia",
@@ -13762,7 +13672,7 @@
    ]
   },
   {
-   "rank": 155,
+   "rank": 154,
    "id": "mount-athos",
    "name": "Mount Athos",
    "country": "Greece",
@@ -13852,7 +13762,7 @@
    ]
   },
   {
-   "rank": 156,
+   "rank": 155,
    "id": "loch-ness",
    "name": "Loch Ness",
    "country": "United Kingdom",
@@ -13942,7 +13852,7 @@
    ]
   },
   {
-   "rank": 157,
+   "rank": 156,
    "id": "fallingwater",
    "name": "Fallingwater",
    "country": "United States",
@@ -14032,7 +13942,7 @@
    ]
   },
   {
-   "rank": 158,
+   "rank": 157,
    "id": "giants-causeway",
    "name": "Giant's Causeway",
    "country": "United Kingdom",
@@ -14122,7 +14032,7 @@
    ]
   },
   {
-   "rank": 159,
+   "rank": 158,
    "id": "nazca-lines",
    "name": "Nazca Lines",
    "country": "Peru",
@@ -14212,7 +14122,7 @@
    ]
   },
   {
-   "rank": 160,
+   "rank": 159,
    "id": "reichstag",
    "name": "Reichstag Building",
    "country": "Germany",
@@ -14302,7 +14212,7 @@
    ]
   },
   {
-   "rank": 161,
+   "rank": 160,
    "id": "florence-cathedral",
    "name": "Florence Cathedral",
    "country": "Italy",
@@ -14392,7 +14302,7 @@
    ]
   },
   {
-   "rank": 162,
+   "rank": 161,
    "id": "kennedy-space-center",
    "name": "Kennedy Space Center",
    "country": "United States",
@@ -14482,7 +14392,7 @@
    ]
   },
   {
-   "rank": 163,
+   "rank": 162,
    "id": "mount-kosciuszko",
    "name": "Mount Kosciuszko",
    "country": "Australia",
@@ -14572,7 +14482,7 @@
    ]
   },
   {
-   "rank": 164,
+   "rank": 163,
    "id": "saint-basils-cathedral",
    "name": "Saint Basil's Cathedral",
    "country": "Russia",
@@ -14662,7 +14572,7 @@
    ]
   },
   {
-   "rank": 165,
+   "rank": 164,
    "id": "maldives",
    "name": "Maldives",
    "country": "Maldives",
@@ -14752,7 +14662,7 @@
    ]
   },
   {
-   "rank": 166,
+   "rank": 165,
    "id": "topkap-palace",
    "name": "Topkapı Palace",
    "country": "Turkey",
@@ -14842,7 +14752,7 @@
    ]
   },
   {
-   "rank": 167,
+   "rank": 166,
    "id": "trafalgar-square",
    "name": "Trafalgar Square",
    "country": "United Kingdom",
@@ -14932,7 +14842,7 @@
    ]
   },
   {
-   "rank": 168,
+   "rank": 167,
    "id": "arlington-national-cemetery",
    "name": "Arlington National Cemetery",
    "country": "United States",
@@ -15022,7 +14932,7 @@
    ]
   },
   {
-   "rank": 169,
+   "rank": 168,
    "id": "cape-horn",
    "name": "Cape Horn",
    "country": "Chile",
@@ -15095,7 +15005,7 @@
    ]
   },
   {
-   "rank": 170,
+   "rank": 169,
    "id": "potala-palace",
    "name": "Potala Palace",
    "country": "China (Tibet)",
@@ -15185,7 +15095,7 @@
    ]
   },
   {
-   "rank": 171,
+   "rank": 170,
    "id": "alcatraz-island",
    "name": "Alcatraz Island",
    "country": "United States",
@@ -15275,7 +15185,7 @@
    ]
   },
   {
-   "rank": 172,
+   "rank": 171,
    "id": "himeji-castle",
    "name": "Himeji Castle",
    "country": "Japan",
@@ -15365,7 +15275,7 @@
    ]
   },
   {
-   "rank": 173,
+   "rank": 172,
    "id": "winter-palace",
    "name": "Winter Palace",
    "country": "Russia",
@@ -15455,7 +15365,7 @@
    ]
   },
   {
-   "rank": 174,
+   "rank": 173,
    "id": "knossos",
    "name": "Knossos",
    "country": "Greece",
@@ -15545,7 +15455,7 @@
    ]
   },
   {
-   "rank": 175,
+   "rank": 174,
    "id": "qutb-minar",
    "name": "Qutb Minar",
    "country": "India",
@@ -15635,7 +15545,7 @@
    ]
   },
   {
-   "rank": 176,
+   "rank": 175,
    "id": "abraj-al-bait",
    "name": "Abraj Al Bait",
    "country": "Saudi Arabia",
@@ -15725,7 +15635,7 @@
    ]
   },
   {
-   "rank": 177,
+   "rank": 176,
    "id": "lake-malawi",
    "name": "Lake Malawi",
    "country": "Malawi",
@@ -15815,7 +15725,7 @@
    ]
   },
   {
-   "rank": 178,
+   "rank": 177,
    "id": "chimborazo",
    "name": "Chimborazo",
    "country": "Ecuador",
@@ -15905,7 +15815,7 @@
    ]
   },
   {
-   "rank": 179,
+   "rank": 178,
    "id": "great-zimbabwe",
    "name": "Great Zimbabwe",
    "country": "Zimbabwe",
@@ -15995,7 +15905,7 @@
    ]
   },
   {
-   "rank": 180,
+   "rank": 179,
    "id": "capri",
    "name": "Capri",
    "country": "Italy",
@@ -16085,7 +15995,7 @@
    ]
   },
   {
-   "rank": 181,
+   "rank": 180,
    "id": "the-shard",
    "name": "The Shard",
    "country": "United Kingdom",
@@ -16175,7 +16085,7 @@
    ]
   },
   {
-   "rank": 182,
+   "rank": 181,
    "id": "blenheim-palace",
    "name": "Blenheim Palace",
    "country": "United Kingdom",
@@ -16265,7 +16175,7 @@
    ]
   },
   {
-   "rank": 183,
+   "rank": 182,
    "id": "herculaneum",
    "name": "Herculaneum",
    "country": "Italy",
@@ -16355,7 +16265,7 @@
    ]
   },
   {
-   "rank": 184,
+   "rank": 183,
    "id": "gjirokaster",
    "name": "Gjirokastër",
    "country": "Albania",
@@ -16445,7 +16355,7 @@
    ]
   },
   {
-   "rank": 185,
+   "rank": 184,
    "id": "lake-garda",
    "name": "Lake Garda",
    "country": "Italy",
@@ -16535,7 +16445,7 @@
    ]
   },
   {
-   "rank": 186,
+   "rank": 185,
    "id": "jaffa",
    "name": "Jaffa",
    "country": "Israel",
@@ -16625,7 +16535,7 @@
    ]
   },
   {
-   "rank": 187,
+   "rank": 186,
    "id": "kilauea",
    "name": "Kīlauea",
    "country": "United States",
@@ -16715,7 +16625,7 @@
    ]
   },
   {
-   "rank": 188,
+   "rank": 187,
    "id": "tokyo-tower",
    "name": "Tokyo Tower",
    "country": "Japan",
@@ -16805,7 +16715,7 @@
    ]
   },
   {
-   "rank": 189,
+   "rank": 188,
    "id": "baalbek",
    "name": "Baalbek",
    "country": "Lebanon",
@@ -16895,7 +16805,7 @@
    ]
   },
   {
-   "rank": 190,
+   "rank": 189,
    "id": "bondi-beach",
    "name": "Bondi Beach",
    "country": "Australia",
@@ -16985,7 +16895,7 @@
    ]
   },
   {
-   "rank": 191,
+   "rank": 190,
    "id": "museo-del-prado",
    "name": "Museo del Prado",
    "country": "Spain",
@@ -17075,7 +16985,7 @@
    ]
   },
   {
-   "rank": 192,
+   "rank": 191,
    "id": "hallstatt",
    "name": "Hallstatt",
    "country": "Austria",
@@ -17165,7 +17075,7 @@
    ]
   },
   {
-   "rank": 193,
+   "rank": 192,
    "id": "manneken-pis",
    "name": "Manneken Pis",
    "country": "Belgium",
@@ -17255,7 +17165,7 @@
    ]
   },
   {
-   "rank": 194,
+   "rank": 193,
    "id": "resund-bridge",
    "name": "Øresund Bridge",
    "country": "Denmark",
@@ -17345,7 +17255,7 @@
    ]
   },
   {
-   "rank": 195,
+   "rank": 194,
    "id": "pantheon-paris",
    "name": "Panthéon, Paris",
    "country": "France",
@@ -17435,7 +17345,7 @@
    ]
   },
   {
-   "rank": 196,
+   "rank": 195,
    "id": "saint-catherines-monastery",
    "name": "Saint Catherine's Monastery",
    "country": "Egypt",
@@ -17525,7 +17435,7 @@
    ]
   },
   {
-   "rank": 197,
+   "rank": 196,
    "id": "ellora-caves",
    "name": "Ellora Caves",
    "country": "India",
@@ -17615,7 +17525,7 @@
    ]
   },
   {
-   "rank": 198,
+   "rank": 197,
    "id": "wrangel-island",
    "name": "Wrangel Island",
    "country": "Russia",
@@ -17705,7 +17615,7 @@
    ]
   },
   {
-   "rank": 199,
+   "rank": 198,
    "id": "sacre-coeur",
    "name": "Sacré-Cœur",
    "country": "France",
@@ -17795,7 +17705,7 @@
    ]
   },
   {
-   "rank": 200,
+   "rank": 199,
    "id": "ellis-island",
    "name": "Ellis Island",
    "country": "United States",
@@ -17885,7 +17795,7 @@
    ]
   },
   {
-   "rank": 201,
+   "rank": 200,
    "id": "mosque-cathedral-of-cordoba",
    "name": "Mosque–Cathedral of Córdoba",
    "country": "Spain",
@@ -17975,7 +17885,7 @@
    ]
   },
   {
-   "rank": 202,
+   "rank": 201,
    "id": "mcmurdo-station",
    "name": "McMurdo Station",
    "country": "Antarctica",
@@ -18065,7 +17975,7 @@
    ]
   },
   {
-   "rank": 203,
+   "rank": 202,
    "id": "puncak-jaya",
    "name": "Puncak Jaya",
    "country": "Indonesia",
@@ -18138,7 +18048,7 @@
    ]
   },
   {
-   "rank": 204,
+   "rank": 203,
    "id": "roman-forum",
    "name": "Roman Forum",
    "country": "Italy",
@@ -18228,7 +18138,7 @@
    ]
   },
   {
-   "rank": 205,
+   "rank": 204,
    "id": "temple-of-heaven",
    "name": "Temple of Heaven",
    "country": "China",
@@ -18318,7 +18228,7 @@
    ]
   },
   {
-   "rank": 206,
+   "rank": 205,
    "id": "tyre",
    "name": "Tyre",
    "country": "Lebanon",
@@ -18408,7 +18318,7 @@
    ]
   },
   {
-   "rank": 207,
+   "rank": 206,
    "id": "mayon-volcano",
    "name": "Mayon Volcano",
    "country": "Philippines",
@@ -18498,7 +18408,7 @@
    ]
   },
   {
-   "rank": 208,
+   "rank": 207,
    "id": "svalbard-global-seed-vault",
    "name": "Svalbard Global Seed Vault",
    "country": "Norway",
@@ -18588,7 +18498,7 @@
    ]
   },
   {
-   "rank": 209,
+   "rank": 208,
    "id": "lumbini",
    "name": "Lumbini",
    "country": "Nepal",
@@ -18678,7 +18588,7 @@
    ]
   },
   {
-   "rank": 210,
+   "rank": 209,
    "id": "shanghai-tower",
    "name": "Shanghai Tower",
    "country": "China",
@@ -18768,7 +18678,7 @@
    ]
   },
   {
-   "rank": 211,
+   "rank": 210,
    "id": "sydney-harbour-bridge",
    "name": "Sydney Harbour Bridge",
    "country": "Australia",
@@ -18858,7 +18768,7 @@
    ]
   },
   {
-   "rank": 212,
+   "rank": 211,
    "id": "umayyad-mosque",
    "name": "Umayyad Mosque",
    "country": "Syria",
@@ -18948,7 +18858,7 @@
    ]
   },
   {
-   "rank": 213,
+   "rank": 212,
    "id": "mount-pinatubo",
    "name": "Mount Pinatubo",
    "country": "Philippines",
@@ -19038,7 +18948,7 @@
    ]
   },
   {
-   "rank": 214,
+   "rank": 213,
    "id": "schonbrunn-palace",
    "name": "Schönbrunn Palace",
    "country": "Austria",
@@ -19128,7 +19038,7 @@
    ]
   },
   {
-   "rank": 215,
+   "rank": 214,
    "id": "sigiriya",
    "name": "Sigiriya",
    "country": "Sri Lanka",
@@ -19218,7 +19128,7 @@
    ]
   },
   {
-   "rank": 216,
+   "rank": 215,
    "id": "sundarbans",
    "name": "Sundarbans",
    "country": "Bangladesh / India",
@@ -19308,7 +19218,7 @@
    ]
   },
   {
-   "rank": 217,
+   "rank": 216,
    "id": "agra-fort",
    "name": "Agra Fort",
    "country": "India",
@@ -19398,7 +19308,7 @@
    ]
   },
   {
-   "rank": 218,
+   "rank": 217,
    "id": "darvaza-gas-crater",
    "name": "Darvaza Gas Crater",
    "country": "Turkmenistan",
@@ -19488,7 +19398,7 @@
    ]
   },
   {
-   "rank": 219,
+   "rank": 218,
    "id": "guggenheim-bilbao",
    "name": "Guggenheim Museum Bilbao",
    "country": "Spain",
@@ -19578,7 +19488,7 @@
    ]
   },
   {
-   "rank": 220,
+   "rank": 219,
    "id": "cinque-terre",
    "name": "Cinque Terre",
    "country": "Italy",
@@ -19668,7 +19578,7 @@
    ]
   },
   {
-   "rank": 221,
+   "rank": 220,
    "id": "pergamon",
    "name": "Pergamon",
    "country": "Turkey",
@@ -19758,7 +19668,7 @@
    ]
   },
   {
-   "rank": 222,
+   "rank": 221,
    "id": "canterbury-cathedral",
    "name": "Canterbury Cathedral",
    "country": "United Kingdom",
@@ -19848,7 +19758,7 @@
    ]
   },
   {
-   "rank": 223,
+   "rank": 222,
    "id": "masada",
    "name": "Masada",
    "country": "Israel",
@@ -19938,7 +19848,7 @@
    ]
   },
   {
-   "rank": 224,
+   "rank": 223,
    "id": "mount-erebus",
    "name": "Mount Erebus",
    "country": "Antarctica",
@@ -20028,7 +19938,7 @@
    ]
   },
   {
-   "rank": 225,
+   "rank": 224,
    "id": "prague-castle",
    "name": "Prague Castle",
    "country": "Czech Republic",
@@ -20118,7 +20028,7 @@
    ]
   },
   {
-   "rank": 226,
+   "rank": 225,
    "id": "amalfi-coast",
    "name": "Amalfi Coast",
    "country": "Italy",
@@ -20208,7 +20118,7 @@
    ]
   },
   {
-   "rank": 227,
+   "rank": 226,
    "id": "byblos",
    "name": "Byblos",
    "country": "Lebanon",
@@ -20298,7 +20208,7 @@
    ]
   },
   {
-   "rank": 228,
+   "rank": 227,
    "id": "devils-tower",
    "name": "Devils Tower",
    "country": "United States",
@@ -20388,7 +20298,7 @@
    ]
   },
   {
-   "rank": 229,
+   "rank": 228,
    "id": "merv",
    "name": "Merv",
    "country": "Turkmenistan",
@@ -20478,7 +20388,7 @@
    ]
   },
   {
-   "rank": 230,
+   "rank": 229,
    "id": "crater-lake",
    "name": "Crater Lake",
    "country": "United States",
@@ -20568,7 +20478,7 @@
    ]
   },
   {
-   "rank": 231,
+   "rank": 230,
    "id": "edinburgh-castle",
    "name": "Edinburgh Castle",
    "country": "United Kingdom",
@@ -20658,7 +20568,7 @@
    ]
   },
   {
-   "rank": 232,
+   "rank": 231,
    "id": "flatiron-building",
    "name": "Flatiron Building",
    "country": "United States",
@@ -20748,7 +20658,7 @@
    ]
   },
   {
-   "rank": 233,
+   "rank": 232,
    "id": "khyber-pass",
    "name": "Khyber Pass",
    "country": "Pakistan",
@@ -20821,7 +20731,7 @@
    ]
   },
   {
-   "rank": 234,
+   "rank": 233,
    "id": "konark-sun-temple",
    "name": "Konark Sun Temple",
    "country": "India",
@@ -20911,7 +20821,7 @@
    ]
   },
   {
-   "rank": 235,
+   "rank": 234,
    "id": "les-invalides",
    "name": "Les Invalides",
    "country": "France",
@@ -21001,7 +20911,7 @@
    ]
   },
   {
-   "rank": 236,
+   "rank": 235,
    "id": "castel-santangelo",
    "name": "Castel Sant'Angelo",
    "country": "Italy",
@@ -21091,7 +21001,7 @@
    ]
   },
   {
-   "rank": 237,
+   "rank": 236,
    "id": "oymyakon",
    "name": "Oymyakon",
    "country": "Russia",
@@ -21181,7 +21091,7 @@
    ]
   },
   {
-   "rank": 238,
+   "rank": 237,
    "id": "shaolin-monastery",
    "name": "Shaolin Monastery",
    "country": "China",
@@ -21271,7 +21181,7 @@
    ]
   },
   {
-   "rank": 239,
+   "rank": 238,
    "id": "kiyomizu-dera",
    "name": "Kiyomizu-dera",
    "country": "Japan",
@@ -21361,7 +21271,7 @@
    ]
   },
   {
-   "rank": 240,
+   "rank": 239,
    "id": "mount-logan",
    "name": "Mount Logan",
    "country": "Canada",
@@ -21434,7 +21344,7 @@
    ]
   },
   {
-   "rank": 241,
+   "rank": 240,
    "id": "issyk-kul",
    "name": "Issyk-Kul",
    "country": "Kyrgyzstan",
@@ -21524,7 +21434,7 @@
    ]
   },
   {
-   "rank": 242,
+   "rank": 241,
    "id": "ha-long-bay",
    "name": "Ha Long Bay",
    "country": "Vietnam",
@@ -21614,7 +21524,7 @@
    ]
   },
   {
-   "rank": 243,
+   "rank": 242,
    "id": "mount-kenya",
    "name": "Mount Kenya",
    "country": "Kenya",
@@ -21704,7 +21614,7 @@
    ]
   },
   {
-   "rank": 244,
+   "rank": 243,
    "id": "mount-of-olives",
    "name": "Mount of Olives",
    "country": "Jerusalem",
@@ -21794,7 +21704,7 @@
    ]
   },
   {
-   "rank": 245,
+   "rank": 244,
    "id": "vinson-massif",
    "name": "Vinson Massif",
    "country": "Antarctica",
@@ -21850,7 +21760,7 @@
    ]
   },
   {
-   "rank": 246,
+   "rank": 245,
    "id": "mount-damavand",
    "name": "Mount Damavand",
    "country": "Iran",
@@ -21940,7 +21850,7 @@
    ]
   },
   {
-   "rank": 247,
+   "rank": 246,
    "id": "lake-toba",
    "name": "Lake Toba",
    "country": "Indonesia",
@@ -22030,7 +21940,7 @@
    ]
   },
   {
-   "rank": 248,
+   "rank": 247,
    "id": "tikal",
    "name": "Tikal",
    "country": "Guatemala",
@@ -22120,7 +22030,7 @@
    ]
   },
   {
-   "rank": 249,
+   "rank": 248,
    "id": "lanse-aux-meadows",
    "name": "L'Anse aux Meadows",
    "country": "Canada",
@@ -22210,7 +22120,7 @@
    ]
   },
   {
-   "rank": 250,
+   "rank": 249,
    "id": "cyrene",
    "name": "Cyrene",
    "country": "Libya",
@@ -22300,7 +22210,7 @@
    ]
   },
   {
-   "rank": 251,
+   "rank": 250,
    "id": "hiroshima-peace-memorial",
    "name": "Hiroshima Peace Memorial",
    "country": "Japan",
@@ -22390,7 +22300,7 @@
    ]
   },
   {
-   "rank": 252,
+   "rank": 251,
    "id": "karnak",
    "name": "Karnak",
    "country": "Egypt",
@@ -22480,7 +22390,7 @@
    ]
   },
   {
-   "rank": 253,
+   "rank": 252,
    "id": "meteora",
    "name": "Meteora",
    "country": "Greece",
@@ -22570,7 +22480,7 @@
    ]
   },
   {
-   "rank": 254,
+   "rank": 253,
    "id": "sphere",
    "name": "Sphere",
    "country": "United States",
@@ -22660,7 +22570,7 @@
    ]
   },
   {
-   "rank": 255,
+   "rank": 254,
    "id": "cave-of-the-patriarchs",
    "name": "Cave of the Patriarchs",
    "country": "Palestine",
@@ -22750,7 +22660,7 @@
    ]
   },
   {
-   "rank": 256,
+   "rank": 255,
    "id": "christmas-island",
    "name": "Christmas Island",
    "country": "Australia",
@@ -22840,7 +22750,7 @@
    ]
   },
   {
-   "rank": 257,
+   "rank": 256,
    "id": "ryugyong-hotel",
    "name": "Ryugyong Hotel",
    "country": "North Korea",
@@ -22930,7 +22840,7 @@
    ]
   },
   {
-   "rank": 258,
+   "rank": 257,
    "id": "derinkuyu-underground-city",
    "name": "Derinkuyu Underground City",
    "country": "Turkey",
@@ -23020,7 +22930,7 @@
    ]
   },
   {
-   "rank": 259,
+   "rank": 258,
    "id": "hawa-mahal",
    "name": "Hawa Mahal",
    "country": "India",
@@ -23110,7 +23020,7 @@
    ]
   },
   {
-   "rank": 260,
+   "rank": 259,
    "id": "lincoln-memorial",
    "name": "Lincoln Memorial",
    "country": "United States",
@@ -23183,7 +23093,7 @@
    ]
   },
   {
-   "rank": 261,
+   "rank": 260,
    "id": "lofoten",
    "name": "Lofoten",
    "country": "Norway",
@@ -23273,7 +23183,7 @@
    ]
   },
   {
-   "rank": 262,
+   "rank": 261,
    "id": "macquarie-island",
    "name": "Macquarie Island",
    "country": "Macquarie Island",
@@ -23363,7 +23273,7 @@
    ]
   },
   {
-   "rank": 263,
+   "rank": 262,
    "id": "monument-valley",
    "name": "Monument Valley",
    "country": "United States",
@@ -23453,7 +23363,7 @@
    ]
   },
   {
-   "rank": 264,
+   "rank": 263,
    "id": "st-marks-basilica",
    "name": "St Mark's Basilica",
    "country": "Italy",
@@ -23543,7 +23453,7 @@
    ]
   },
   {
-   "rank": 265,
+   "rank": 264,
    "id": "table-mountain",
    "name": "Table Mountain",
    "country": "South Africa",
@@ -23633,7 +23543,7 @@
    ]
   },
   {
-   "rank": 266,
+   "rank": 265,
    "id": "taxila",
    "name": "Taxila",
    "country": "Pakistan",
@@ -23723,7 +23633,7 @@
    ]
   },
   {
-   "rank": 267,
+   "rank": 266,
    "id": "gateway-arch",
    "name": "Gateway Arch",
    "country": "United States",
@@ -23813,7 +23723,7 @@
    ]
   },
   {
-   "rank": 268,
+   "rank": 267,
    "id": "krak-des-chevaliers",
    "name": "Krak des Chevaliers",
    "country": "Syria",
@@ -23903,7 +23813,7 @@
    ]
   },
   {
-   "rank": 269,
+   "rank": 268,
    "id": "sainte-chapelle",
    "name": "Sainte-Chapelle",
    "country": "France",
@@ -23993,7 +23903,7 @@
    ]
   },
   {
-   "rank": 270,
+   "rank": 269,
    "id": "palais-garnier",
    "name": "Palais Garnier",
    "country": "France",
@@ -24083,7 +23993,7 @@
    ]
   },
   {
-   "rank": 271,
+   "rank": 270,
    "id": "hashima-island",
    "name": "Hashima Island",
    "country": "Japan",
@@ -24173,7 +24083,7 @@
    ]
   },
   {
-   "rank": 272,
+   "rank": 271,
    "id": "hampi",
    "name": "Hampi",
    "country": "India",
@@ -24263,7 +24173,7 @@
    ]
   },
   {
-   "rank": 273,
+   "rank": 272,
    "id": "malbork-castle",
    "name": "Malbork Castle",
    "country": "Poland",
@@ -24353,7 +24263,7 @@
    ]
   },
   {
-   "rank": 274,
+   "rank": 273,
    "id": "salar-de-uyuni",
    "name": "Salar de Uyuni",
    "country": "Bolivia",
@@ -24443,7 +24353,7 @@
    ]
   },
   {
-   "rank": 275,
+   "rank": 274,
    "id": "tristan-da-cunha",
    "name": "Tristan da Cunha",
    "country": "Saint Helena",
@@ -24533,7 +24443,7 @@
    ]
   },
   {
-   "rank": 276,
+   "rank": 275,
    "id": "st-stephens-cathedral-vienna",
    "name": "St. Stephen's Cathedral, Vienna",
    "country": "Austria",
@@ -24623,7 +24533,7 @@
    ]
   },
   {
-   "rank": 277,
+   "rank": 276,
    "id": "drakensberg",
    "name": "Drakensberg",
    "country": "South Africa / Lesotho",
@@ -24713,7 +24623,7 @@
    ]
   },
   {
-   "rank": 278,
+   "rank": 277,
    "id": "richat-structure",
    "name": "Richat Structure",
    "country": "Mauritania",
@@ -24786,7 +24696,7 @@
    ]
   },
   {
-   "rank": 279,
+   "rank": 278,
    "id": "rub-al-khali",
    "name": "Rub' al Khali",
    "country": "Saudi Arabia",
@@ -24876,7 +24786,7 @@
    ]
   },
   {
-   "rank": 280,
+   "rank": 279,
    "id": "golestan-palace",
    "name": "Golestan Palace",
    "country": "Iran",
@@ -24966,7 +24876,7 @@
    ]
   },
   {
-   "rank": 281,
+   "rank": 280,
    "id": "hollywood-sign",
    "name": "Hollywood Sign",
    "country": "United States",
@@ -25056,7 +24966,7 @@
    ]
   },
   {
-   "rank": 282,
+   "rank": 281,
    "id": "aoraki-mount-cook",
    "name": "Aoraki / Mount Cook",
    "country": "New Zealand",
@@ -25146,7 +25056,7 @@
    ]
   },
   {
-   "rank": 283,
+   "rank": 282,
    "id": "biltmore-estate",
    "name": "Biltmore Estate",
    "country": "United States",
@@ -25236,7 +25146,7 @@
    ]
   },
   {
-   "rank": 284,
+   "rank": 283,
    "id": "prambanan",
    "name": "Prambanan",
    "country": "Indonesia",
@@ -25326,7 +25236,7 @@
    ]
   },
   {
-   "rank": 285,
+   "rank": 284,
    "id": "bran-castle",
    "name": "Bran Castle",
    "country": "Romania",
@@ -25416,7 +25326,7 @@
    ]
   },
   {
-   "rank": 286,
+   "rank": 285,
    "id": "church-of-the-nativity",
    "name": "Church of the Nativity",
    "country": "Palestine",
@@ -25506,7 +25416,7 @@
    ]
   },
   {
-   "rank": 287,
+   "rank": 286,
    "id": "itsukushima-shrine",
    "name": "Itsukushima Shrine",
    "country": "Japan",
@@ -25596,7 +25506,7 @@
    ]
   },
   {
-   "rank": 288,
+   "rank": 287,
    "id": "coober-pedy",
    "name": "Coober Pedy",
    "country": "Australia",
@@ -25686,7 +25596,7 @@
    ]
   },
   {
-   "rank": 289,
+   "rank": 288,
    "id": "india-gate",
    "name": "India Gate",
    "country": "India",
@@ -25776,7 +25686,7 @@
    ]
   },
   {
-   "rank": 290,
+   "rank": 289,
    "id": "pantanal",
    "name": "Pantanal",
    "country": "Brazil",
@@ -25866,7 +25776,7 @@
    ]
   },
   {
-   "rank": 291,
+   "rank": 290,
    "id": "lake-kivu",
    "name": "Lake Kivu",
    "country": "Rwanda",
@@ -25956,7 +25866,7 @@
    ]
   },
   {
-   "rank": 292,
+   "rank": 291,
    "id": "rothenburg-ob-der-tauber",
    "name": "Rothenburg ob der Tauber",
    "country": "Germany",
@@ -26046,7 +25956,7 @@
    ]
   },
   {
-   "rank": 293,
+   "rank": 292,
    "id": "space-needle",
    "name": "Space Needle",
    "country": "United States",
@@ -26136,7 +26046,7 @@
    ]
   },
   {
-   "rank": 294,
+   "rank": 293,
    "id": "las-vegas-strip",
    "name": "Las Vegas Strip",
    "country": "United States",
@@ -26226,7 +26136,7 @@
    ]
   },
   {
-   "rank": 295,
+   "rank": 294,
    "id": "marina-bay-sands",
    "name": "Marina Bay Sands",
    "country": "Singapore",
@@ -26316,7 +26226,7 @@
    ]
   },
   {
-   "rank": 296,
+   "rank": 295,
    "id": "rock-of-gibraltar",
    "name": "Rock of Gibraltar",
    "country": "Gibraltar",
@@ -26406,7 +26316,7 @@
    ]
   },
   {
-   "rank": 297,
+   "rank": 296,
    "id": "lotus-temple",
    "name": "Lotus Temple",
    "country": "India",
@@ -26496,7 +26406,7 @@
    ]
   },
   {
-   "rank": 298,
+   "rank": 297,
    "id": "ushuaia",
    "name": "Ushuaia",
    "country": "Argentina",
@@ -26586,7 +26496,7 @@
    ]
   },
   {
-   "rank": 299,
+   "rank": 298,
    "id": "osaka-castle",
    "name": "Osaka Castle",
    "country": "Japan",
@@ -26676,7 +26586,7 @@
    ]
   },
   {
-   "rank": 300,
+   "rank": 299,
    "id": "pyramid-of-djoser",
    "name": "Pyramid of Djoser",
    "country": "Egypt",
@@ -26766,7 +26676,7 @@
    ]
   },
   {
-   "rank": 301,
+   "rank": 300,
    "id": "hungarian-parliament",
    "name": "Hungarian Parliament Building",
    "country": "Hungary",
@@ -26856,7 +26766,7 @@
    ]
   },
   {
-   "rank": 302,
+   "rank": 301,
    "id": "mount-kinabalu",
    "name": "Mount Kinabalu",
    "country": "Malaysia",
@@ -26946,7 +26856,7 @@
    ]
   },
   {
-   "rank": 303,
+   "rank": 302,
    "id": "stone-town",
    "name": "Stone Town, Zanzibar",
    "country": "Tanzania",
@@ -27036,7 +26946,7 @@
    ]
   },
   {
-   "rank": 304,
+   "rank": 303,
    "id": "belem-tower",
    "name": "Belém Tower",
    "country": "Portugal",
@@ -27126,7 +27036,7 @@
    ]
   },
   {
-   "rank": 305,
+   "rank": 304,
    "id": "glacier-national-park",
    "name": "Glacier National Park",
    "country": "United States",
@@ -27216,7 +27126,7 @@
    ]
   },
   {
-   "rank": 306,
+   "rank": 305,
    "id": "tokyo-imperial-palace",
    "name": "Tokyo Imperial Palace",
    "country": "Japan",
@@ -27306,7 +27216,7 @@
    ]
   },
   {
-   "rank": 307,
+   "rank": 306,
    "id": "charles-bridge",
    "name": "Charles Bridge",
    "country": "Czech Republic",
@@ -27396,7 +27306,7 @@
    ]
   },
   {
-   "rank": 308,
+   "rank": 307,
    "id": "hohenzollern-castle",
    "name": "Hohenzollern Castle",
    "country": "Germany",
@@ -27486,7 +27396,7 @@
    ]
   },
   {
-   "rank": 309,
+   "rank": 308,
    "id": "palace-of-the-parliament",
    "name": "Palace of the Parliament",
    "country": "Romania",
@@ -27559,7 +27469,7 @@
    ]
   },
   {
-   "rank": 310,
+   "rank": 309,
    "id": "okavango-delta",
    "name": "Okavango Delta",
    "country": "Botswana",
@@ -27649,7 +27559,7 @@
    ]
   },
   {
-   "rank": 311,
+   "rank": 310,
    "id": "prague-astronomical-clock",
    "name": "Prague Astronomical Clock",
    "country": "Czech Republic",
@@ -27739,7 +27649,7 @@
    ]
   },
   {
-   "rank": 312,
+   "rank": 311,
    "id": "robben-island",
    "name": "Robben Island",
    "country": "South Africa",
@@ -27829,7 +27739,7 @@
    ]
   },
   {
-   "rank": 313,
+   "rank": 312,
    "id": "zion-national-park",
    "name": "Zion National Park",
    "country": "United States",
@@ -27919,7 +27829,7 @@
    ]
   },
   {
-   "rank": 314,
+   "rank": 313,
    "id": "pamukkale",
    "name": "Pamukkale",
    "country": "Turkey",
@@ -28009,7 +27919,7 @@
    ]
   },
   {
-   "rank": 315,
+   "rank": 314,
    "id": "ait-benhaddou",
    "name": "Aït Benhaddou",
    "country": "Morocco",
@@ -28099,7 +28009,7 @@
    ]
   },
   {
-   "rank": 316,
+   "rank": 315,
    "id": "checkpoint-charlie",
    "name": "Checkpoint Charlie",
    "country": "Germany",
@@ -28172,7 +28082,7 @@
    ]
   },
   {
-   "rank": 317,
+   "rank": 316,
    "id": "devils-island",
    "name": "Devil's Island",
    "country": "French Guiana",
@@ -28262,7 +28172,7 @@
    ]
   },
   {
-   "rank": 318,
+   "rank": 317,
    "id": "eiger",
    "name": "Eiger",
    "country": "Switzerland",
@@ -28352,7 +28262,7 @@
    ]
   },
   {
-   "rank": 319,
+   "rank": 318,
    "id": "meenakshi-temple",
    "name": "Meenakshi Temple",
    "country": "India",
@@ -28442,7 +28352,7 @@
    ]
   },
   {
-   "rank": 320,
+   "rank": 319,
    "id": "summer-palace",
    "name": "Summer Palace",
    "country": "China",
@@ -28532,7 +28442,7 @@
    ]
   },
   {
-   "rank": 321,
+   "rank": 320,
    "id": "casa-batllo",
    "name": "Casa Batlló",
    "country": "Spain",
@@ -28622,7 +28532,7 @@
    ]
   },
   {
-   "rank": 322,
+   "rank": 321,
    "id": "essaouira",
    "name": "Essaouira",
    "country": "Morocco",
@@ -28712,7 +28622,7 @@
    ]
   },
   {
-   "rank": 323,
+   "rank": 322,
    "id": "sucre",
    "name": "Sucre",
    "country": "Bolivia",
@@ -28802,7 +28712,7 @@
    ]
   },
   {
-   "rank": 324,
+   "rank": 323,
    "id": "tiwanaku",
    "name": "Tiwanaku",
    "country": "Bolivia",
@@ -28892,7 +28802,7 @@
    ]
   },
   {
-   "rank": 325,
+   "rank": 324,
    "id": "bouvet-island",
    "name": "Bouvet Island",
    "country": "Bouvet Island",
@@ -28965,7 +28875,7 @@
    ]
   },
   {
-   "rank": 326,
+   "rank": 325,
    "id": "cotopaxi",
    "name": "Cotopaxi",
    "country": "Ecuador",
@@ -29055,7 +28965,7 @@
    ]
   },
   {
-   "rank": 327,
+   "rank": 326,
    "id": "leshan-giant-buddha",
    "name": "Leshan Giant Buddha",
    "country": "China",
@@ -29145,7 +29055,7 @@
    ]
   },
   {
-   "rank": 328,
+   "rank": 327,
    "id": "park-guell",
    "name": "Park Güell",
    "country": "Spain",
@@ -29235,7 +29145,7 @@
    ]
   },
   {
-   "rank": 329,
+   "rank": 328,
    "id": "gyeongbokgung",
    "name": "Gyeongbokgung Palace",
    "country": "South Korea",
@@ -29325,7 +29235,7 @@
    ]
   },
   {
-   "rank": 330,
+   "rank": 329,
    "id": "khajuraho",
    "name": "Khajuraho",
    "country": "India",
@@ -29415,7 +29325,7 @@
    ]
   },
   {
-   "rank": 331,
+   "rank": 330,
    "id": "pont-du-gard",
    "name": "Pont du Gard",
    "country": "France",
@@ -29505,7 +29415,7 @@
    ]
   },
   {
-   "rank": 332,
+   "rank": 331,
    "id": "vatican-museums",
    "name": "Vatican Museums",
    "country": "Vatican City",
@@ -29595,7 +29505,7 @@
    ]
   },
   {
-   "rank": 333,
+   "rank": 332,
    "id": "kinkaku-ji",
    "name": "Kinkaku-ji (Golden Pavilion)",
    "country": "Japan",
@@ -29685,7 +29595,7 @@
    ]
   },
   {
-   "rank": 334,
+   "rank": 333,
    "id": "diocletians-palace",
    "name": "Diocletian's Palace",
    "country": "Croatia",
@@ -29775,7 +29685,7 @@
    ]
   },
   {
-   "rank": 335,
+   "rank": 334,
    "id": "mahabodhi-temple",
    "name": "Mahabodhi Temple",
    "country": "India",
@@ -29848,7 +29758,7 @@
    ]
   },
   {
-   "rank": 336,
+   "rank": 335,
    "id": "mount-roraima",
    "name": "Mount Roraima",
    "country": "Venezuela / Brazil / Guyana",
@@ -29938,7 +29848,7 @@
    ]
   },
   {
-   "rank": 337,
+   "rank": 336,
    "id": "cozumel",
    "name": "Cozumel",
    "country": "Mexico",
@@ -30028,7 +29938,7 @@
    ]
   },
   {
-   "rank": 338,
+   "rank": 337,
    "id": "newgrange",
    "name": "Newgrange",
    "country": "Ireland",
@@ -30118,7 +30028,7 @@
    ]
   },
   {
-   "rank": 339,
+   "rank": 338,
    "id": "serengeti",
    "name": "Serengeti National Park",
    "country": "Tanzania",
@@ -30208,7 +30118,7 @@
    ]
   },
   {
-   "rank": 340,
+   "rank": 339,
    "id": "caesarea",
    "name": "Caesarea",
    "country": "Israel",
@@ -30298,7 +30208,7 @@
    ]
   },
   {
-   "rank": 341,
+   "rank": 340,
    "id": "cliffs-of-moher",
    "name": "Cliffs of Moher",
    "country": "Ireland",
@@ -30388,7 +30298,7 @@
    ]
   },
   {
-   "rank": 342,
+   "rank": 341,
    "id": "fernando-de-noronha",
    "name": "Fernando de Noronha",
    "country": "Brazil",
@@ -30478,7 +30388,7 @@
    ]
   },
   {
-   "rank": 343,
+   "rank": 342,
    "id": "joshua-tree-national-park",
    "name": "Joshua Tree National Park",
    "country": "United States",
@@ -30568,7 +30478,7 @@
    ]
   },
   {
-   "rank": 344,
+   "rank": 343,
    "id": "roatan",
    "name": "Roatán",
    "country": "Honduras",
@@ -30658,7 +30568,7 @@
    ]
   },
   {
-   "rank": 345,
+   "rank": 344,
    "id": "badshahi-mosque",
    "name": "Badshahi Mosque",
    "country": "Pakistan",
@@ -30748,7 +30658,7 @@
    ]
   },
   {
-   "rank": 346,
+   "rank": 345,
    "id": "annapurna",
    "name": "Annapurna",
    "country": "Nepal",
@@ -30838,7 +30748,7 @@
    ]
   },
   {
-   "rank": 347,
+   "rank": 346,
    "id": "bryce-canyon",
    "name": "Bryce Canyon",
    "country": "United States",
@@ -30928,7 +30838,7 @@
    ]
   },
   {
-   "rank": 348,
+   "rank": 347,
    "id": "canton-tower",
    "name": "Canton Tower",
    "country": "China",
@@ -31018,7 +30928,7 @@
    ]
   },
   {
-   "rank": 349,
+   "rank": 348,
    "id": "chateau-de-chambord",
    "name": "Château de Chambord",
    "country": "France",
@@ -31108,7 +31018,7 @@
    ]
   },
   {
-   "rank": 350,
+   "rank": 349,
    "id": "itaipu-dam",
    "name": "Itaipu Dam",
    "country": "Brazil",
@@ -31198,7 +31108,7 @@
    ]
   },
   {
-   "rank": 351,
+   "rank": 350,
    "id": "mdina",
    "name": "Mdina",
    "country": "Malta",
@@ -31288,7 +31198,7 @@
    ]
   },
   {
-   "rank": 352,
+   "rank": 351,
    "id": "nan-madol",
    "name": "Nan Madol",
    "country": "Micronesia",
@@ -31378,7 +31288,7 @@
    ]
   },
   {
-   "rank": 353,
+   "rank": 352,
    "id": "basilica-cistern",
    "name": "Basilica Cistern",
    "country": "Turkey",
@@ -31468,7 +31378,7 @@
    ]
   },
   {
-   "rank": 354,
+   "rank": 353,
    "id": "ziggurat-of-ur",
    "name": "Ziggurat of Ur",
    "country": "Iraq",
@@ -31558,7 +31468,7 @@
    ]
   },
   {
-   "rank": 355,
+   "rank": 354,
    "id": "kerguelen-islands",
    "name": "Kerguelen Islands",
    "country": "French Southern Lands",
@@ -31648,7 +31558,7 @@
    ]
   },
   {
-   "rank": 356,
+   "rank": 355,
    "id": "kruger-national-park",
    "name": "Kruger National Park",
    "country": "South Africa",
@@ -31738,7 +31648,7 @@
    ]
   },
   {
-   "rank": 357,
+   "rank": 356,
    "id": "mogao-caves",
    "name": "Mogao Caves",
    "country": "China",
@@ -31828,7 +31738,7 @@
    ]
   },
   {
-   "rank": 358,
+   "rank": 357,
    "id": "spanish-steps",
    "name": "Spanish Steps",
    "country": "Italy",
@@ -31918,7 +31828,7 @@
    ]
   },
   {
-   "rank": 359,
+   "rank": 358,
    "id": "tulum",
    "name": "Tulum",
    "country": "Mexico",
@@ -32008,7 +31918,7 @@
    ]
   },
   {
-   "rank": 360,
+   "rank": 359,
    "id": "nahanni",
    "name": "Virginia Falls, Nahanni",
    "country": "Canada",
@@ -32098,7 +32008,7 @@
    ]
   },
   {
-   "rank": 361,
+   "rank": 360,
    "id": "atomium",
    "name": "Atomium",
    "country": "Belgium",
@@ -32188,7 +32098,7 @@
    ]
   },
   {
-   "rank": 362,
+   "rank": 361,
    "id": "great-blue-hole",
    "name": "Great Blue Hole",
    "country": "Belize",
@@ -32278,7 +32188,7 @@
    ]
   },
   {
-   "rank": 363,
+   "rank": 362,
    "id": "leptis-magna",
    "name": "Leptis Magna",
    "country": "Libya",
@@ -32368,7 +32278,7 @@
    ]
   },
   {
-   "rank": 364,
+   "rank": 363,
    "id": "grand-teton",
    "name": "Grand Teton",
    "country": "United States",
@@ -32458,7 +32368,7 @@
    ]
   },
   {
-   "rank": 365,
+   "rank": 364,
    "id": "ngorongoro-crater",
    "name": "Ngorongoro Crater",
    "country": "Tanzania",
@@ -32548,7 +32458,7 @@
    ]
   },
   {
-   "rank": 366,
+   "rank": 365,
    "id": "pashupatinath-temple",
    "name": "Pashupatinath Temple",
    "country": "Nepal",
@@ -32638,7 +32548,7 @@
    ]
   },
   {
-   "rank": 367,
+   "rank": 366,
    "id": "ponte-vecchio",
    "name": "Ponte Vecchio",
    "country": "Italy",
@@ -32728,7 +32638,7 @@
    ]
   },
   {
-   "rank": 368,
+   "rank": 367,
    "id": "sedlec-ossuary",
    "name": "Sedlec Ossuary",
    "country": "Czech Republic",
@@ -32818,7 +32728,7 @@
    ]
   },
   {
-   "rank": 369,
+   "rank": 368,
    "id": "catatumbo-lightning",
    "name": "Catatumbo Lightning",
    "country": "Venezuela",
@@ -32908,7 +32818,7 @@
    ]
   },
   {
-   "rank": 370,
+   "rank": 369,
    "id": "kyiv-pechersk-lavra",
    "name": "Kyiv Pechersk Lavra",
    "country": "Ukraine",
@@ -32998,7 +32908,7 @@
    ]
   },
   {
-   "rank": 371,
+   "rank": 370,
    "id": "lencois-maranhenses",
    "name": "Lençóis Maranhenses",
    "country": "Brazil",
@@ -33088,7 +32998,7 @@
    ]
   },
   {
-   "rank": 372,
+   "rank": 371,
    "id": "maasai-mara",
    "name": "Maasai Mara",
    "country": "Kenya",
@@ -33178,7 +33088,7 @@
    ]
   },
   {
-   "rank": 373,
+   "rank": 372,
    "id": "bagan",
    "name": "Bagan",
    "country": "Myanmar",
@@ -33268,7 +33178,7 @@
    ]
   },
   {
-   "rank": 374,
+   "rank": 373,
    "id": "batu-caves",
    "name": "Batu Caves",
    "country": "Malaysia",
@@ -33358,7 +33268,7 @@
    ]
   },
   {
-   "rank": 375,
+   "rank": 374,
    "id": "fushimi-inari-taisha",
    "name": "Fushimi Inari Taisha",
    "country": "Japan",
@@ -33448,7 +33358,7 @@
    ]
   },
   {
-   "rank": 376,
+   "rank": 375,
    "id": "galata-tower",
    "name": "Galata Tower",
    "country": "Turkey",
@@ -33538,7 +33448,7 @@
    ]
   },
   {
-   "rank": 377,
+   "rank": 376,
    "id": "independence-hall",
    "name": "Independence Hall",
    "country": "United States",
@@ -33628,7 +33538,7 @@
    ]
   },
   {
-   "rank": 378,
+   "rank": 377,
    "id": "palenque",
    "name": "Palenque",
    "country": "Mexico",
@@ -33718,7 +33628,7 @@
    ]
   },
   {
-   "rank": 379,
+   "rank": 378,
    "id": "queenstown",
    "name": "Queenstown",
    "country": "New Zealand",
@@ -33808,7 +33718,7 @@
    ]
   },
   {
-   "rank": 380,
+   "rank": 379,
    "id": "everglades-national-park",
    "name": "Everglades National Park",
    "country": "United States",
@@ -33898,7 +33808,7 @@
    ]
   },
   {
-   "rank": 381,
+   "rank": 380,
    "id": "gateway-of-india",
    "name": "Gateway of India",
    "country": "India",
@@ -33988,7 +33898,7 @@
    ]
   },
   {
-   "rank": 382,
+   "rank": 381,
    "id": "copacabana",
    "name": "Copacabana Beach",
    "country": "Brazil",
@@ -34078,7 +33988,7 @@
    ]
   },
   {
-   "rank": 383,
+   "rank": 382,
    "id": "death-valley",
    "name": "Death Valley",
    "country": "United States",
@@ -34168,7 +34078,7 @@
    ]
   },
   {
-   "rank": 384,
+   "rank": 383,
    "id": "palm-jumeirah",
    "name": "Palm Jumeirah",
    "country": "United Arab Emirates",
@@ -34258,7 +34168,7 @@
    ]
   },
   {
-   "rank": 385,
+   "rank": 384,
    "id": "acadia-national-park",
    "name": "Acadia National Park",
    "country": "United States",
@@ -34348,7 +34258,7 @@
    ]
   },
   {
-   "rank": 386,
+   "rank": 385,
    "id": "cu-chi-tunnels",
    "name": "Củ Chi Tunnels",
    "country": "Vietnam",
@@ -34438,7 +34348,7 @@
    ]
   },
   {
-   "rank": 387,
+   "rank": 386,
    "id": "shibam",
    "name": "Shibam",
    "country": "Yemen",
@@ -34528,7 +34438,7 @@
    ]
   },
   {
-   "rank": 388,
+   "rank": 387,
    "id": "tirumala-venkateswara-temple",
    "name": "Tirumala Venkateswara Temple",
    "country": "India",
@@ -34618,7 +34528,7 @@
    ]
   },
   {
-   "rank": 389,
+   "rank": 388,
    "id": "amber-fort",
    "name": "Amber Fort",
    "country": "India",
@@ -34708,7 +34618,7 @@
    ]
   },
   {
-   "rank": 390,
+   "rank": 389,
    "id": "alamut-castle",
    "name": "Alamut Castle",
    "country": "Iran",
@@ -34798,7 +34708,7 @@
    ]
   },
   {
-   "rank": 391,
+   "rank": 390,
    "id": "musandam-fjords",
    "name": "Musandam Fjords",
    "country": "Oman",
@@ -34871,7 +34781,7 @@
    ]
   },
   {
-   "rank": 392,
+   "rank": 391,
    "id": "alcazar-of-seville",
    "name": "Alcázar of Seville",
    "country": "Spain",
@@ -34961,7 +34871,7 @@
    ]
   },
   {
-   "rank": 393,
+   "rank": 392,
    "id": "taal-volcano",
    "name": "Taal Volcano",
    "country": "Philippines",
@@ -35051,7 +34961,7 @@
    ]
   },
   {
-   "rank": 394,
+   "rank": 393,
    "id": "lake-bled",
    "name": "Lake Bled",
    "country": "Slovenia",
@@ -35141,7 +35051,7 @@
    ]
   },
   {
-   "rank": 395,
+   "rank": 394,
    "id": "skellig-michael",
    "name": "Skellig Michael",
    "country": "Ireland",
@@ -35231,7 +35141,7 @@
    ]
   },
   {
-   "rank": 396,
+   "rank": 395,
    "id": "antigua-guatemala",
    "name": "Antigua Guatemala",
    "country": "Guatemala",
@@ -35321,7 +35231,7 @@
    ]
   },
   {
-   "rank": 397,
+   "rank": 396,
    "id": "chefchaouen",
    "name": "Chefchaouen",
    "country": "Morocco",
@@ -35411,7 +35321,7 @@
    ]
   },
   {
-   "rank": 398,
+   "rank": 397,
    "id": "jeronimos-monastery",
    "name": "Jerónimos Monastery",
    "country": "Portugal",
@@ -35501,7 +35411,7 @@
    ]
   },
   {
-   "rank": 399,
+   "rank": 398,
    "id": "ross-ice-shelf",
    "name": "Ross Ice Shelf",
    "country": "Antarctica",
@@ -35591,7 +35501,7 @@
    ]
   },
   {
-   "rank": 400,
+   "rank": 399,
    "id": "stari-most",
    "name": "Stari Most",
    "country": "Bosnia and Herzegovina",
@@ -35681,7 +35591,7 @@
    ]
   },
   {
-   "rank": 401,
+   "rank": 400,
    "id": "grytviken",
    "name": "Grytviken",
    "country": "South Georgia",
@@ -35771,7 +35681,7 @@
    ]
   },
   {
-   "rank": 402,
+   "rank": 401,
    "id": "humayuns-tomb",
    "name": "Humayun's Tomb",
    "country": "India",
@@ -35861,7 +35771,7 @@
    ]
   },
   {
-   "rank": 403,
+   "rank": 402,
    "id": "lotte-world-tower",
    "name": "Lotte World Tower",
    "country": "South Korea",
@@ -35951,7 +35861,7 @@
    ]
   },
   {
-   "rank": 404,
+   "rank": 403,
    "id": "paektu-mountain",
    "name": "Paektu Mountain",
    "country": "North Korea / China",
@@ -36041,7 +35951,7 @@
    ]
   },
   {
-   "rank": 405,
+   "rank": 404,
    "id": "wadi-rum",
    "name": "Wadi Rum",
    "country": "Jordan",
@@ -36131,7 +36041,7 @@
    ]
   },
   {
-   "rank": 406,
+   "rank": 405,
    "id": "boracay",
    "name": "Boracay",
    "country": "Philippines",
@@ -36204,7 +36114,7 @@
    ]
   },
   {
-   "rank": 407,
+   "rank": 406,
    "id": "luxor-temple",
    "name": "Luxor Temple",
    "country": "Egypt",
@@ -36294,7 +36204,7 @@
    ]
   },
   {
-   "rank": 408,
+   "rank": 407,
    "id": "hassan-ii-mosque",
    "name": "Hassan II Mosque",
    "country": "Morocco",
@@ -36384,7 +36294,7 @@
    ]
   },
   {
-   "rank": 409,
+   "rank": 408,
    "id": "mount-pelee",
    "name": "Mount Pelée",
    "country": "Martinique",
@@ -36474,7 +36384,7 @@
    ]
   },
   {
-   "rank": 410,
+   "rank": 409,
    "id": "imam-ali-shrine",
    "name": "Imam Ali Shrine",
    "country": "Iraq",
@@ -36564,7 +36474,7 @@
    ]
   },
   {
-   "rank": 411,
+   "rank": 410,
    "id": "sacsayhuaman",
    "name": "Sacsayhuamán",
    "country": "Peru",
@@ -36654,7 +36564,7 @@
    ]
   },
   {
-   "rank": 412,
+   "rank": 411,
    "id": "huangshan",
    "name": "Huangshan (Yellow Mountain)",
    "country": "China",
@@ -36744,7 +36654,7 @@
    ]
   },
   {
-   "rank": 413,
+   "rank": 412,
    "id": "todai-ji",
    "name": "Tōdai-ji",
    "country": "Japan",
@@ -36834,7 +36744,7 @@
    ]
   },
   {
-   "rank": 414,
+   "rank": 413,
    "id": "lake-ohrid",
    "name": "Lake Ohrid",
    "country": "North Macedonia / Albania",
@@ -36924,7 +36834,7 @@
    ]
   },
   {
-   "rank": 415,
+   "rank": 414,
    "id": "sugarloaf-mountain",
    "name": "Sugarloaf Mountain",
    "country": "Brazil",
@@ -37014,7 +36924,7 @@
    ]
   },
   {
-   "rank": 416,
+   "rank": 415,
    "id": "george-town-penang",
    "name": "George Town, Penang",
    "country": "Malaysia",
@@ -37104,7 +37014,7 @@
    ]
   },
   {
-   "rank": 417,
+   "rank": 416,
    "id": "grand-palace-bangkok",
    "name": "Grand Palace, Bangkok",
    "country": "Thailand",
@@ -37194,7 +37104,7 @@
    ]
   },
   {
-   "rank": 418,
+   "rank": 417,
    "id": "hallgrimskirkja",
    "name": "Hallgrímskirkja",
    "country": "Iceland",
@@ -37284,7 +37194,7 @@
    ]
   },
   {
-   "rank": 419,
+   "rank": 418,
    "id": "oriental-pearl-tower",
    "name": "Oriental Pearl Tower",
    "country": "China",
@@ -37374,7 +37284,7 @@
    ]
   },
   {
-   "rank": 420,
+   "rank": 419,
    "id": "the-bund",
    "name": "The Bund",
    "country": "China",
@@ -37464,7 +37374,7 @@
    ]
   },
   {
-   "rank": 421,
+   "rank": 420,
    "id": "handelskade-willemstad",
    "name": "Handelskade, Willemstad",
    "country": "Curaçao",
@@ -37554,7 +37464,7 @@
    ]
   },
   {
-   "rank": 422,
+   "rank": 421,
    "id": "mysore-palace",
    "name": "Mysore Palace",
    "country": "India",
@@ -37644,7 +37554,7 @@
    ]
   },
   {
-   "rank": 423,
+   "rank": 422,
    "id": "meroe",
    "name": "Pyramids of Meroë",
    "country": "Sudan",
@@ -37734,7 +37644,7 @@
    ]
   },
   {
-   "rank": 424,
+   "rank": 423,
    "id": "tassili-najjer",
    "name": "Tassili n'Ajjer",
    "country": "Algeria",
@@ -37824,7 +37734,7 @@
    ]
   },
   {
-   "rank": 425,
+   "rank": 424,
    "id": "torres-del-paine",
    "name": "Torres del Paine",
    "country": "Chile",
@@ -37914,7 +37824,7 @@
    ]
   },
   {
-   "rank": 426,
+   "rank": 425,
    "id": "cueva-de-las-manos",
    "name": "Cueva de las Manos",
    "country": "Argentina",
@@ -38004,7 +37914,7 @@
    ]
   },
   {
-   "rank": 427,
+   "rank": 426,
    "id": "guiana-space-centre",
    "name": "Guiana Space Centre",
    "country": "French Guiana",
@@ -38094,7 +38004,7 @@
    ]
   },
   {
-   "rank": 428,
+   "rank": 427,
    "id": "zhangjiajie",
    "name": "Zhangjiajie National Forest Park",
    "country": "China",
@@ -38184,7 +38094,7 @@
    ]
   },
   {
-   "rank": 429,
+   "rank": 428,
    "id": "hegra",
    "name": "Hegra (Mada'in Salih)",
    "country": "Saudi Arabia",
@@ -38274,7 +38184,7 @@
    ]
   },
   {
-   "rank": 430,
+   "rank": 429,
    "id": "jiuzhaigou",
    "name": "Jiuzhaigou",
    "country": "China",
@@ -38364,7 +38274,7 @@
    ]
   },
   {
-   "rank": 431,
+   "rank": 430,
    "id": "sakurajima",
    "name": "Sakurajima",
    "country": "Japan",
@@ -38454,7 +38364,7 @@
    ]
   },
   {
-   "rank": 432,
+   "rank": 431,
    "id": "wat-arun",
    "name": "Wat Arun",
    "country": "Thailand",
@@ -38544,7 +38454,7 @@
    ]
   },
   {
-   "rank": 433,
+   "rank": 432,
    "id": "carlsbad-caverns",
    "name": "Carlsbad Caverns",
    "country": "United States",
@@ -38617,7 +38527,7 @@
    ]
   },
   {
-   "rank": 434,
+   "rank": 433,
    "id": "half-dome",
    "name": "Half Dome, Yosemite",
    "country": "United States",
@@ -38707,7 +38617,7 @@
    ]
   },
   {
-   "rank": 435,
+   "rank": 434,
    "id": "shwedagon-pagoda",
    "name": "Shwedagon Pagoda",
    "country": "Myanmar",
@@ -38797,7 +38707,7 @@
    ]
   },
   {
-   "rank": 436,
+   "rank": 435,
    "id": "guanajuato",
    "name": "Guanajuato",
    "country": "Mexico",
@@ -38887,7 +38797,7 @@
    ]
   },
   {
-   "rank": 437,
+   "rank": 436,
    "id": "anne-frank-house",
    "name": "Anne Frank House",
    "country": "Netherlands",
@@ -38977,7 +38887,7 @@
    ]
   },
   {
-   "rank": 438,
+   "rank": 437,
    "id": "chateau-de-chenonceau",
    "name": "Château de Chenonceau",
    "country": "France",
@@ -39067,7 +38977,7 @@
    ]
   },
   {
-   "rank": 439,
+   "rank": 438,
    "id": "chateau-frontenac",
    "name": "Château Frontenac",
    "country": "Canada",
@@ -39157,7 +39067,7 @@
    ]
   },
   {
-   "rank": 440,
+   "rank": 439,
    "id": "ise-grand-shrine",
    "name": "Ise Grand Shrine",
    "country": "Japan",
@@ -39247,7 +39157,7 @@
    ]
   },
   {
-   "rank": 441,
+   "rank": 440,
    "id": "azadi-tower",
    "name": "Azadi Tower",
    "country": "Iran",
@@ -39337,7 +39247,7 @@
    ]
   },
   {
-   "rank": 442,
+   "rank": 441,
    "id": "mount-nemrut",
    "name": "Mount Nemrut",
    "country": "Turkey",
@@ -39427,7 +39337,7 @@
    ]
   },
   {
-   "rank": 443,
+   "rank": 442,
    "id": "national-palace-museum",
    "name": "National Palace Museum",
    "country": "Taiwan",
@@ -39483,7 +39393,7 @@
    ]
   },
   {
-   "rank": 444,
+   "rank": 443,
    "id": "grand-place",
    "name": "Grand-Place, Brussels",
    "country": "Belgium",
@@ -39573,7 +39483,7 @@
    ]
   },
   {
-   "rank": 445,
+   "rank": 444,
    "id": "minaret-of-jam",
    "name": "Minaret of Jam",
    "country": "Afghanistan",
@@ -39663,7 +39573,7 @@
    ]
   },
   {
-   "rank": 446,
+   "rank": 445,
    "id": "plitvice-lakes",
    "name": "Plitvice Lakes",
    "country": "Croatia",
@@ -39753,7 +39663,7 @@
    ]
   },
   {
-   "rank": 447,
+   "rank": 446,
    "id": "kronborg",
    "name": "Kronborg",
    "country": "Denmark",
@@ -39843,7 +39753,7 @@
    ]
   },
   {
-   "rank": 448,
+   "rank": 447,
    "id": "peterhof-palace",
    "name": "Peterhof Palace",
    "country": "Russia",
@@ -39933,7 +39843,7 @@
    ]
   },
   {
-   "rank": 449,
+   "rank": 448,
    "id": "ama-dablam",
    "name": "Ama Dablam",
    "country": "Nepal",
@@ -40023,7 +39933,7 @@
    ]
   },
   {
-   "rank": 450,
+   "rank": 449,
    "id": "copan",
    "name": "Copán",
    "country": "Honduras",
@@ -40113,7 +40023,7 @@
    ]
   },
   {
-   "rank": 451,
+   "rank": 450,
    "id": "etchmiadzin-cathedral",
    "name": "Etchmiadzin Cathedral",
    "country": "Armenia",
@@ -40203,7 +40113,7 @@
    ]
   },
   {
-   "rank": 452,
+   "rank": 451,
    "id": "great-mosque-of-djenne",
    "name": "Great Mosque of Djenné",
    "country": "Mali",
@@ -40293,7 +40203,7 @@
    ]
   },
   {
-   "rank": 453,
+   "rank": 452,
    "id": "adams-peak",
    "name": "Adam's Peak",
    "country": "Sri Lanka",
@@ -40383,7 +40293,7 @@
    ]
   },
   {
-   "rank": 454,
+   "rank": 453,
    "id": "badlands",
    "name": "Badlands National Park",
    "country": "United States",
@@ -40473,7 +40383,7 @@
    ]
   },
   {
-   "rank": 455,
+   "rank": 454,
    "id": "basilica-of-our-lady-of-peace",
    "name": "Basilica of Our Lady of Peace",
    "country": "Ivory Coast",
@@ -40563,7 +40473,7 @@
    ]
   },
   {
-   "rank": 456,
+   "rank": 455,
    "id": "cocos-island",
    "name": "Cocos Island",
    "country": "Costa Rica",
@@ -40653,7 +40563,7 @@
    ]
   },
   {
-   "rank": 457,
+   "rank": 456,
    "id": "kumsusan-palace-of-the-sun",
    "name": "Kumsusan Palace of the Sun",
    "country": "North Korea",
@@ -40743,7 +40653,7 @@
    ]
   },
   {
-   "rank": 458,
+   "rank": 457,
    "id": "saint-sophia-kyiv",
    "name": "Saint Sophia Cathedral, Kyiv",
    "country": "Ukraine",
@@ -40833,7 +40743,7 @@
    ]
   },
   {
-   "rank": 459,
+   "rank": 458,
    "id": "paro-taktsang",
    "name": "Tiger's Nest (Paro Taktsang)",
    "country": "Bhutan",
@@ -40923,7 +40833,7 @@
    ]
   },
   {
-   "rank": 460,
+   "rank": 459,
    "id": "west-lake",
    "name": "West Lake, Hangzhou",
    "country": "China",
@@ -41013,7 +40923,7 @@
    ]
   },
   {
-   "rank": 461,
+   "rank": 460,
    "id": "church-of-saint-sava",
    "name": "Church of Saint Sava",
    "country": "Serbia",
@@ -41103,7 +41013,7 @@
    ]
   },
   {
-   "rank": 462,
+   "rank": 461,
    "id": "mount-nebo",
    "name": "Mount Nebo",
    "country": "Jordan",
@@ -41193,7 +41103,7 @@
    ]
   },
   {
-   "rank": 463,
+   "rank": 462,
    "id": "shibuya-crossing",
    "name": "Shibuya Crossing",
    "country": "Japan",
@@ -41283,7 +41193,7 @@
    ]
   },
   {
-   "rank": 464,
+   "rank": 463,
    "id": "gardens-by-the-bay",
    "name": "Gardens by the Bay",
    "country": "Singapore",
@@ -41373,7 +41283,7 @@
    ]
   },
   {
-   "rank": 465,
+   "rank": 464,
    "id": "tianmen-mountain",
    "name": "Tianmen Mountain",
    "country": "China",
@@ -41463,7 +41373,7 @@
    ]
   },
   {
-   "rank": 466,
+   "rank": 465,
    "id": "triglav",
    "name": "Triglav",
    "country": "Slovenia",
@@ -41536,7 +41446,7 @@
    ]
   },
   {
-   "rank": 467,
+   "rank": 466,
    "id": "catherine-palace",
    "name": "Catherine Palace",
    "country": "Russia",
@@ -41626,7 +41536,7 @@
    ]
   },
   {
-   "rank": 468,
+   "rank": 467,
    "id": "old-faithful",
    "name": "Old Faithful, Yellowstone",
    "country": "United States",
@@ -41716,7 +41626,7 @@
    ]
   },
   {
-   "rank": 469,
+   "rank": 468,
    "id": "antelope-canyon",
    "name": "Antelope Canyon",
    "country": "United States",
@@ -41806,7 +41716,7 @@
    ]
   },
   {
-   "rank": 470,
+   "rank": 469,
    "id": "komodo-national-park",
    "name": "Komodo National Park",
    "country": "Indonesia",
@@ -41896,7 +41806,7 @@
    ]
   },
   {
-   "rank": 471,
+   "rank": 470,
    "id": "griffith-observatory",
    "name": "Griffith Observatory",
    "country": "United States",
@@ -41986,7 +41896,7 @@
    ]
   },
   {
-   "rank": 472,
+   "rank": 471,
    "id": "preah-vihear-temple",
    "name": "Preah Vihear Temple",
    "country": "Cambodia",
@@ -42076,7 +41986,7 @@
    ]
   },
   {
-   "rank": 473,
+   "rank": 472,
    "id": "jungfrau",
    "name": "Jungfrau",
    "country": "Switzerland",
@@ -42166,7 +42076,7 @@
    ]
   },
   {
-   "rank": 474,
+   "rank": 473,
    "id": "rwenzori",
    "name": "Rwenzori Mountains",
    "country": "Uganda / DR Congo",
@@ -42256,7 +42166,7 @@
    ]
   },
   {
-   "rank": 475,
+   "rank": 474,
    "id": "timgad",
    "name": "Timgad",
    "country": "Algeria",
@@ -42346,7 +42256,7 @@
    ]
   },
   {
-   "rank": 476,
+   "rank": 475,
    "id": "virunga",
    "name": "Virunga National Park",
    "country": "DR Congo",
@@ -42436,7 +42346,7 @@
    ]
   },
   {
-   "rank": 477,
+   "rank": 476,
    "id": "colonia-del-sacramento",
    "name": "Colonia del Sacramento",
    "country": "Uruguay",
@@ -42526,7 +42436,7 @@
    ]
   },
   {
-   "rank": 478,
+   "rank": 477,
    "id": "pena-palace",
    "name": "Pena Palace",
    "country": "Portugal",
@@ -42616,7 +42526,7 @@
    ]
   },
   {
-   "rank": 479,
+   "rank": 478,
    "id": "deception-island",
    "name": "Deception Island",
    "country": "Antarctica",
@@ -42706,7 +42616,7 @@
    ]
   },
   {
-   "rank": 480,
+   "rank": 479,
    "id": "mount-nyiragongo",
    "name": "Mount Nyiragongo",
    "country": "DR Congo",
@@ -42796,7 +42706,7 @@
    ]
   },
   {
-   "rank": 481,
+   "rank": 480,
    "id": "nevado-del-ruiz",
    "name": "Nevado del Ruiz",
    "country": "Colombia",
@@ -42886,7 +42796,7 @@
    ]
   },
   {
-   "rank": 482,
+   "rank": 481,
    "id": "taos-pueblo",
    "name": "Taos Pueblo",
    "country": "United States",
@@ -42976,7 +42886,7 @@
    ]
   },
   {
-   "rank": 483,
+   "rank": 482,
    "id": "monte-carlo-casino",
    "name": "Monte Carlo Casino",
    "country": "Monaco",
@@ -43066,7 +42976,7 @@
    ]
   },
   {
-   "rank": 484,
+   "rank": 483,
    "id": "senso-ji",
    "name": "Sensō-ji",
    "country": "Japan",
@@ -43156,7 +43066,7 @@
    ]
   },
   {
-   "rank": 485,
+   "rank": 484,
    "id": "monte-alban",
    "name": "Monte Albán",
    "country": "Mexico",
@@ -43246,7 +43156,7 @@
    ]
   },
   {
-   "rank": 486,
+   "rank": 485,
    "id": "robinson-crusoe-island",
    "name": "Robinson Crusoe Island",
    "country": "Chile",
@@ -43336,7 +43246,7 @@
    ]
   },
   {
-   "rank": 487,
+   "rank": 486,
    "id": "uxmal",
    "name": "Uxmal",
    "country": "Mexico",
@@ -43426,7 +43336,7 @@
    ]
   },
   {
-   "rank": 488,
+   "rank": 487,
    "id": "habitat-67",
    "name": "Habitat 67",
    "country": "Canada",
@@ -43516,7 +43426,7 @@
    ]
   },
   {
-   "rank": 489,
+   "rank": 488,
    "id": "great-pyramid-of-cholula",
    "name": "Great Pyramid of Cholula",
    "country": "Mexico",
@@ -43606,7 +43516,7 @@
    ]
   },
   {
-   "rank": 490,
+   "rank": 489,
    "id": "registan",
    "name": "Registan",
    "country": "Uzbekistan",
@@ -43696,7 +43606,7 @@
    ]
   },
   {
-   "rank": 491,
+   "rank": 490,
    "id": "tiananmen",
    "name": "Tiananmen",
    "country": "China",
@@ -43786,7 +43696,7 @@
    ]
   },
   {
-   "rank": 492,
+   "rank": 491,
    "id": "ho-chi-minh-mausoleum",
    "name": "Ho Chi Minh Mausoleum",
    "country": "Vietnam",
@@ -43876,7 +43786,7 @@
    ]
   },
   {
-   "rank": 493,
+   "rank": 492,
    "id": "plain-of-jars",
    "name": "Plain of Jars",
    "country": "Laos",
@@ -43966,7 +43876,7 @@
    ]
   },
   {
-   "rank": 494,
+   "rank": 493,
    "id": "rhine-falls",
    "name": "Rhine Falls",
    "country": "Switzerland",
@@ -44056,7 +43966,7 @@
    ]
   },
   {
-   "rank": 495,
+   "rank": 494,
    "id": "saint-isaacs-cathedral",
    "name": "Saint Isaac's Cathedral",
    "country": "Russia",
@@ -44146,7 +44056,7 @@
    ]
   },
   {
-   "rank": 496,
+   "rank": 495,
    "id": "durdle-door",
    "name": "Durdle Door",
    "country": "United Kingdom",
@@ -44236,7 +44146,7 @@
    ]
   },
   {
-   "rank": 497,
+   "rank": 496,
    "id": "grand-prismatic-spring",
    "name": "Grand Prismatic Spring, Yellowstone",
    "country": "United States",
@@ -44326,7 +44236,7 @@
    ]
   },
   {
-   "rank": 498,
+   "rank": 497,
    "id": "hoggar-mountains",
    "name": "Hoggar Mountains",
    "country": "Algeria",
@@ -44416,7 +44326,7 @@
    ]
   },
   {
-   "rank": 499,
+   "rank": 498,
    "id": "victoria-peak",
    "name": "Victoria Peak",
    "country": "Hong Kong",
@@ -44506,7 +44416,7 @@
    ]
   },
   {
-   "rank": 500,
+   "rank": 499,
    "id": "bay-of-kotor",
    "name": "Bay of Kotor",
    "country": "Montenegro",
@@ -44596,7 +44506,7 @@
    ]
   },
   {
-   "rank": 501,
+   "rank": 500,
    "id": "fitz-roy",
    "name": "Mount Fitz Roy",
    "country": "Argentina / Chile",
@@ -44686,7 +44596,7 @@
    ]
   },
   {
-   "rank": 502,
+   "rank": 501,
    "id": "skeleton-coast",
    "name": "Skeleton Coast",
    "country": "Namibia",
@@ -44776,7 +44686,7 @@
    ]
   },
   {
-   "rank": 503,
+   "rank": 502,
    "id": "beagle-channel",
    "name": "Beagle Channel",
    "country": "Argentina",
@@ -44866,7 +44776,7 @@
    ]
   },
   {
-   "rank": 504,
+   "rank": 503,
    "id": "chocolate-hills",
    "name": "Chocolate Hills",
    "country": "Philippines",
@@ -44956,7 +44866,7 @@
    ]
   },
   {
-   "rank": 505,
+   "rank": 504,
    "id": "eilean-donan",
    "name": "Eilean Donan",
    "country": "United Kingdom",
@@ -45046,7 +44956,7 @@
    ]
   },
   {
-   "rank": 506,
+   "rank": 505,
    "id": "mount-bromo",
    "name": "Mount Bromo",
    "country": "Indonesia",
@@ -45136,7 +45046,7 @@
    ]
   },
   {
-   "rank": 507,
+   "rank": 506,
    "id": "kakadu",
    "name": "Kakadu National Park",
    "country": "Australia",
@@ -45226,7 +45136,7 @@
    ]
   },
   {
-   "rank": 508,
+   "rank": 507,
    "id": "naqsh-e-jahan-square",
    "name": "Naqsh-e Jahan Square",
    "country": "Iran",
@@ -45316,7 +45226,7 @@
    ]
   },
   {
-   "rank": 509,
+   "rank": 508,
    "id": "raja-ampat",
    "name": "Raja Ampat",
    "country": "Indonesia",
@@ -45406,7 +45316,7 @@
    ]
   },
   {
-   "rank": 510,
+   "rank": 509,
    "id": "church-of-our-lady-mary-of-zion",
    "name": "Church of Our Lady Mary of Zion",
    "country": "Ethiopia",
@@ -45496,7 +45406,7 @@
    ]
   },
   {
-   "rank": 511,
+   "rank": 510,
    "id": "klyuchevskaya-sopka",
    "name": "Klyuchevskaya Sopka",
    "country": "Russia",
@@ -45586,7 +45496,7 @@
    ]
   },
   {
-   "rank": 512,
+   "rank": 511,
    "id": "milford-sound",
    "name": "Milford Sound",
    "country": "New Zealand",
@@ -45676,7 +45586,7 @@
    ]
   },
   {
-   "rank": 513,
+   "rank": 512,
    "id": "grand-canal-venice",
    "name": "Grand Canal, Venice",
    "country": "Italy",
@@ -45766,7 +45676,7 @@
    ]
   },
   {
-   "rank": 514,
+   "rank": 513,
    "id": "phi-phi-islands",
    "name": "Phi Phi Islands",
    "country": "Thailand",
@@ -45856,7 +45766,7 @@
    ]
   },
   {
-   "rank": 515,
+   "rank": 514,
    "id": "haleakala",
    "name": "Haleakalā",
    "country": "United States",
@@ -45946,7 +45856,7 @@
    ]
   },
   {
-   "rank": 516,
+   "rank": 515,
    "id": "twelve-apostles",
    "name": "Twelve Apostles",
    "country": "Australia",
@@ -46036,7 +45946,7 @@
    ]
   },
   {
-   "rank": 517,
+   "rank": 516,
    "id": "chuuk-lagoon",
    "name": "Chuuk Lagoon",
    "country": "Micronesia",
@@ -46126,7 +46036,7 @@
    ]
   },
   {
-   "rank": 518,
+   "rank": 517,
    "id": "jerash",
    "name": "Jerash",
    "country": "Jordan",
@@ -46216,7 +46126,7 @@
    ]
   },
   {
-   "rank": 519,
+   "rank": 518,
    "id": "meiji-shrine",
    "name": "Meiji Shrine",
    "country": "Japan",
@@ -46306,7 +46216,7 @@
    ]
   },
   {
-   "rank": 520,
+   "rank": 519,
    "id": "pangong-tso",
    "name": "Pangong Tso",
    "country": "India",
@@ -46396,7 +46306,7 @@
    ]
   },
   {
-   "rank": 521,
+   "rank": 520,
    "id": "goree",
    "name": "Gorée Island",
    "country": "Senegal",
@@ -46486,7 +46396,7 @@
    ]
   },
   {
-   "rank": 522,
+   "rank": 521,
    "id": "hill-of-crosses",
    "name": "Hill of Crosses",
    "country": "Lithuania",
@@ -46576,7 +46486,7 @@
    ]
   },
   {
-   "rank": 523,
+   "rank": 522,
    "id": "white-sands",
    "name": "White Sands National Park",
    "country": "United States",
@@ -46666,7 +46576,7 @@
    ]
   },
   {
-   "rank": 524,
+   "rank": 523,
    "id": "kotoku-in",
    "name": "Great Buddha of Kamakura",
    "country": "Japan",
@@ -46756,7 +46666,7 @@
    ]
   },
   {
-   "rank": 525,
+   "rank": 524,
    "id": "ipanema",
    "name": "Ipanema",
    "country": "Brazil",
@@ -46846,7 +46756,7 @@
    ]
   },
   {
-   "rank": 526,
+   "rank": 525,
    "id": "north-cape",
    "name": "North Cape",
    "country": "Norway",
@@ -46936,7 +46846,7 @@
    ]
   },
   {
-   "rank": 527,
+   "rank": 526,
    "id": "the-alamo",
    "name": "The Alamo",
    "country": "United States",
@@ -47026,7 +46936,7 @@
    ]
   },
   {
-   "rank": 528,
+   "rank": 527,
    "id": "alcazar-of-segovia",
    "name": "Alcázar of Segovia",
    "country": "Spain",
@@ -47116,7 +47026,7 @@
    ]
   },
   {
-   "rank": 529,
+   "rank": 528,
    "id": "blue-hole-dahab",
    "name": "Blue Hole, Dahab",
    "country": "Egypt",
@@ -47206,7 +47116,7 @@
    ]
   },
   {
-   "rank": 530,
+   "rank": 529,
    "id": "heidelberg-castle",
    "name": "Heidelberg Castle",
    "country": "Germany",
@@ -47296,7 +47206,7 @@
    ]
   },
   {
-   "rank": 531,
+   "rank": 530,
    "id": "chain-bridge",
    "name": "Széchenyi Chain Bridge",
    "country": "Hungary",
@@ -47386,7 +47296,7 @@
    ]
   },
   {
-   "rank": 532,
+   "rank": 531,
    "id": "wawel-castle",
    "name": "Wawel Castle",
    "country": "Poland",
@@ -47476,7 +47386,7 @@
    ]
   },
   {
-   "rank": 533,
+   "rank": 532,
    "id": "longmen-grottoes",
    "name": "Longmen Grottoes",
    "country": "China",
@@ -47566,7 +47476,7 @@
    ]
   },
   {
-   "rank": 534,
+   "rank": 533,
    "id": "chapultepec-castle",
    "name": "Chapultepec Castle",
    "country": "Mexico",
@@ -47656,7 +47566,7 @@
    ]
   },
   {
-   "rank": 535,
+   "rank": 534,
    "id": "casa-loma",
    "name": "Casa Loma",
    "country": "Canada",
@@ -47746,7 +47656,7 @@
    ]
   },
   {
-   "rank": 536,
+   "rank": 535,
    "id": "great-mosque-of-samarra",
    "name": "Great Mosque of Samarra",
    "country": "Iraq",
@@ -47836,7 +47746,7 @@
    ]
   },
   {
-   "rank": 537,
+   "rank": 536,
    "id": "joint-security-area",
    "name": "Joint Security Area",
    "country": "South Korea",
@@ -47909,7 +47819,7 @@
    ]
   },
   {
-   "rank": 538,
+   "rank": 537,
    "id": "lake-atitlan",
    "name": "Lake Atitlán",
    "country": "Guatemala",
@@ -47999,7 +47909,7 @@
    ]
   },
   {
-   "rank": 539,
+   "rank": 538,
    "id": "massawa",
    "name": "Massawa",
    "country": "Eritrea",
@@ -48089,7 +47999,7 @@
    ]
   },
   {
-   "rank": 540,
+   "rank": 539,
    "id": "merlion",
    "name": "Merlion",
    "country": "Singapore",
@@ -48179,7 +48089,7 @@
    ]
   },
   {
-   "rank": 541,
+   "rank": 540,
    "id": "naqsh-e-rostam",
    "name": "Naqsh-e Rostam",
    "country": "Iran",
@@ -48252,7 +48162,7 @@
    ]
   },
   {
-   "rank": 542,
+   "rank": 541,
    "id": "borgund-stave-church",
    "name": "Borgund Stave Church",
    "country": "Norway",
@@ -48342,7 +48252,7 @@
    ]
   },
   {
-   "rank": 543,
+   "rank": 542,
    "id": "city-of-arts-and-sciences",
    "name": "City of Arts and Sciences",
    "country": "Spain",
@@ -48432,7 +48342,7 @@
    ]
   },
   {
-   "rank": 544,
+   "rank": 543,
    "id": "huascaran",
    "name": "Huascarán",
    "country": "Peru",
@@ -48522,7 +48432,7 @@
    ]
   },
   {
-   "rank": 545,
+   "rank": 544,
    "id": "plaza-de-espana-seville",
    "name": "Plaza de España, Seville",
    "country": "Spain",
@@ -48612,7 +48522,7 @@
    ]
   },
   {
-   "rank": 546,
+   "rank": 545,
    "id": "french-quarter",
    "name": "French Quarter, New Orleans",
    "country": "United States",
@@ -48702,7 +48612,7 @@
    ]
   },
   {
-   "rank": 547,
+   "rank": 546,
    "id": "ismoil-somoni-peak",
    "name": "Ismoil Somoni Peak",
    "country": "Tajikistan",
@@ -48792,7 +48702,7 @@
    ]
   },
   {
-   "rank": 548,
+   "rank": 547,
    "id": "jefferson-memorial",
    "name": "Jefferson Memorial",
    "country": "United States",
@@ -48882,7 +48792,7 @@
    ]
   },
   {
-   "rank": 549,
+   "rank": 548,
    "id": "istana-nurul-iman",
    "name": "Istana Nurul Iman",
    "country": "Brunei",
@@ -48972,7 +48882,7 @@
    ]
   },
   {
-   "rank": 550,
+   "rank": 549,
    "id": "wat-pho",
    "name": "Wat Pho",
    "country": "Thailand",
@@ -49062,7 +48972,7 @@
    ]
   },
   {
-   "rank": 551,
+   "rank": 550,
    "id": "fishermans-bastion",
    "name": "Fisherman's Bastion",
    "country": "Hungary",
@@ -49152,7 +49062,7 @@
    ]
   },
   {
-   "rank": 552,
+   "rank": 551,
    "id": "mount-cameroon",
    "name": "Mount Cameroon",
    "country": "Cameroon",
@@ -49242,7 +49152,7 @@
    ]
   },
   {
-   "rank": 553,
+   "rank": 552,
    "id": "elmina-castle",
    "name": "Elmina Castle",
    "country": "Ghana",
@@ -49332,7 +49242,7 @@
    ]
   },
   {
-   "rank": 554,
+   "rank": 553,
    "id": "golden-bridge",
    "name": "Golden Bridge",
    "country": "Vietnam",
@@ -49422,7 +49332,7 @@
    ]
   },
   {
-   "rank": 555,
+   "rank": 554,
    "id": "uss-arizona-memorial",
    "name": "USS Arizona Memorial",
    "country": "United States",
@@ -49512,7 +49422,7 @@
    ]
   },
   {
-   "rank": 556,
+   "rank": 555,
    "id": "kaieteur-falls",
    "name": "Kaieteur Falls",
    "country": "Guyana",
@@ -49602,7 +49512,7 @@
    ]
   },
   {
-   "rank": 557,
+   "rank": 556,
    "id": "mehrangarh",
    "name": "Mehrangarh Fort",
    "country": "India",
@@ -49692,7 +49602,7 @@
    ]
   },
   {
-   "rank": 558,
+   "rank": 557,
    "id": "moorea",
    "name": "Moorea",
    "country": "French Polynesia",
@@ -49782,7 +49692,7 @@
    ]
   },
   {
-   "rank": 559,
+   "rank": 558,
    "id": "etretat",
    "name": "Cliffs of Étretat",
    "country": "France",
@@ -49872,7 +49782,7 @@
    ]
   },
   {
-   "rank": 560,
+   "rank": 559,
    "id": "guatape",
    "name": "El Peñón de Guatapé",
    "country": "Colombia",
@@ -49962,7 +49872,7 @@
    ]
   },
   {
-   "rank": 561,
+   "rank": 560,
    "id": "hunza-valley",
    "name": "Hunza Valley",
    "country": "Pakistan",
@@ -50052,7 +49962,7 @@
    ]
   },
   {
-   "rank": 562,
+   "rank": 561,
    "id": "mount-hua",
    "name": "Mount Hua",
    "country": "China",
@@ -50142,7 +50052,7 @@
    ]
   },
   {
-   "rank": 563,
+   "rank": 562,
    "id": "amphitheatre-of-el-jem",
    "name": "Amphitheatre of El Jem",
    "country": "Tunisia",
@@ -50232,7 +50142,7 @@
    ]
   },
   {
-   "rank": 564,
+   "rank": 563,
    "id": "lake-assal",
    "name": "Lake Assal",
    "country": "Djibouti",
@@ -50322,7 +50232,7 @@
    ]
   },
   {
-   "rank": 565,
+   "rank": 564,
    "id": "mount-taranaki",
    "name": "Mount Taranaki",
    "country": "New Zealand",
@@ -50412,7 +50322,7 @@
    ]
   },
   {
-   "rank": 566,
+   "rank": 565,
    "id": "postojna-cave",
    "name": "Postojna Cave",
    "country": "Slovenia",
@@ -50502,7 +50412,7 @@
    ]
   },
   {
-   "rank": 567,
+   "rank": 566,
    "id": "zocalo",
    "name": "Zócalo",
    "country": "Mexico",
@@ -50592,7 +50502,7 @@
    ]
   },
   {
-   "rank": 568,
+   "rank": 567,
    "id": "african-renaissance-monument",
    "name": "African Renaissance Monument",
    "country": "Senegal",
@@ -50665,7 +50575,7 @@
    ]
   },
   {
-   "rank": 569,
+   "rank": 568,
    "id": "casbah-of-algiers",
    "name": "Casbah of Algiers",
    "country": "Algeria",
@@ -50755,7 +50665,7 @@
    ]
   },
   {
-   "rank": 570,
+   "rank": 569,
    "id": "las-lajas-shrine",
    "name": "Las Lajas Shrine",
    "country": "Colombia",
@@ -50845,7 +50755,7 @@
    ]
   },
   {
-   "rank": 571,
+   "rank": 570,
    "id": "vasa-museum",
    "name": "Vasa Museum",
    "country": "Sweden",
@@ -50935,7 +50845,7 @@
    ]
   },
   {
-   "rank": 572,
+   "rank": 571,
    "id": "aldabra",
    "name": "Aldabra",
    "country": "Seychelles",
@@ -51025,7 +50935,7 @@
    ]
   },
   {
-   "rank": 573,
+   "rank": 572,
    "id": "cinderella-castle",
    "name": "Cinderella Castle",
    "country": "United States",
@@ -51115,7 +51025,7 @@
    ]
   },
   {
-   "rank": 574,
+   "rank": 573,
    "id": "notre-dame-basilica-montreal",
    "name": "Notre-Dame Basilica, Montreal",
    "country": "Canada",
@@ -51205,7 +51115,7 @@
    ]
   },
   {
-   "rank": 575,
+   "rank": 574,
    "id": "perito-moreno-glacier",
    "name": "Perito Moreno Glacier",
    "country": "Argentina",
@@ -51295,7 +51205,7 @@
    ]
   },
   {
-   "rank": 576,
+   "rank": 575,
    "id": "temple-of-the-tooth",
    "name": "Temple of the Tooth",
    "country": "Sri Lanka",
@@ -51385,7 +51295,7 @@
    ]
   },
   {
-   "rank": 577,
+   "rank": 576,
    "id": "kolmanskop",
    "name": "Kolmanskop",
    "country": "Namibia",
@@ -51475,7 +51385,7 @@
    ]
   },
   {
-   "rank": 578,
+   "rank": 577,
    "id": "sveti-stefan",
    "name": "Sveti Stefan",
    "country": "Montenegro",
@@ -51565,7 +51475,7 @@
    ]
   },
   {
-   "rank": 579,
+   "rank": 578,
    "id": "wat-rong-khun",
    "name": "Wat Rong Khun (White Temple)",
    "country": "Thailand",
@@ -51655,7 +51565,7 @@
    ]
   },
   {
-   "rank": 580,
+   "rank": 579,
    "id": "diamond-head",
    "name": "Diamond Head",
    "country": "United States",
@@ -51745,7 +51655,7 @@
    ]
   },
   {
-   "rank": 581,
+   "rank": 580,
    "id": "yungas-road",
    "name": "Yungas Road",
    "country": "Bolivia",
@@ -51835,7 +51745,7 @@
    ]
   },
   {
-   "rank": 582,
+   "rank": 581,
    "id": "mount-thor",
    "name": "Mount Thor",
    "country": "Canada",
@@ -51925,7 +51835,7 @@
    ]
   },
   {
-   "rank": 583,
+   "rank": 582,
    "id": "danakil-depression",
    "name": "Danakil Depression",
    "country": "Ethiopia",
@@ -52015,7 +51925,7 @@
    ]
   },
   {
-   "rank": 584,
+   "rank": 583,
    "id": "konye-urgench",
    "name": "Konye-Urgench",
    "country": "Turkmenistan",
@@ -52105,7 +52015,7 @@
    ]
   },
   {
-   "rank": 585,
+   "rank": 584,
    "id": "church-of-the-savior-on-blood",
    "name": "Church of the Savior on Blood",
    "country": "Russia",
@@ -52195,7 +52105,7 @@
    ]
   },
   {
-   "rank": 586,
+   "rank": 585,
    "id": "preikestolen",
    "name": "Preikestolen (Pulpit Rock)",
    "country": "Norway",
@@ -52285,7 +52195,7 @@
    ]
   },
   {
-   "rank": 587,
+   "rank": 586,
    "id": "boudhanath",
    "name": "Boudhanath Stupa",
    "country": "Nepal",
@@ -52375,7 +52285,7 @@
    ]
   },
   {
-   "rank": 588,
+   "rank": 587,
    "id": "cerro-torre",
    "name": "Cerro Torre",
    "country": "Argentina",
@@ -52465,7 +52375,7 @@
    ]
   },
   {
-   "rank": 589,
+   "rank": 588,
    "id": "dotonbori",
    "name": "Dōtonbori",
    "country": "Japan",
@@ -52555,7 +52465,7 @@
    ]
   },
   {
-   "rank": 590,
+   "rank": 589,
    "id": "dune-of-pilat",
    "name": "Dune of Pilat",
    "country": "France",
@@ -52645,7 +52555,7 @@
    ]
   },
   {
-   "rank": 591,
+   "rank": 590,
    "id": "ollantaytambo",
    "name": "Ollantaytambo",
    "country": "Peru",
@@ -52735,7 +52645,7 @@
    ]
   },
   {
-   "rank": 592,
+   "rank": 591,
    "id": "rila-monastery",
    "name": "Rila Monastery",
    "country": "Bulgaria",
@@ -52825,7 +52735,7 @@
    ]
   },
   {
-   "rank": 593,
+   "rank": 592,
    "id": "transfagarasan",
    "name": "Transfăgărășan",
    "country": "Romania",
@@ -52915,7 +52825,7 @@
    ]
   },
   {
-   "rank": 594,
+   "rank": 593,
    "id": "vaduz-castle",
    "name": "Vaduz Castle",
    "country": "Liechtenstein",
@@ -53005,7 +52915,7 @@
    ]
   },
   {
-   "rank": 595,
+   "rank": 594,
    "id": "vinicunca",
    "name": "Vinicunca (Rainbow Mountain)",
    "country": "Peru",
@@ -53095,7 +53005,7 @@
    ]
   },
   {
-   "rank": 596,
+   "rank": 595,
    "id": "arenal-volcano",
    "name": "Arenal Volcano",
    "country": "Costa Rica",
@@ -53185,7 +53095,7 @@
    ]
   },
   {
-   "rank": 597,
+   "rank": 596,
    "id": "geirangerfjord",
    "name": "Geirangerfjord",
    "country": "Norway",
@@ -53275,7 +53185,7 @@
    ]
   },
   {
-   "rank": 598,
+   "rank": 597,
    "id": "pula-arena",
    "name": "Pula Arena",
    "country": "Croatia",
@@ -53365,7 +53275,7 @@
    ]
   },
   {
-   "rank": 599,
+   "rank": 598,
    "id": "dura-europos",
    "name": "Dura-Europos",
    "country": "Syria",
@@ -53455,7 +53365,7 @@
    ]
   },
   {
-   "rank": 600,
+   "rank": 599,
    "id": "mortuary-temple-of-hatshepsut",
    "name": "Mortuary Temple of Hatshepsut",
    "country": "Egypt",
@@ -53545,7 +53455,7 @@
    ]
   },
   {
-   "rank": 601,
+   "rank": 600,
    "id": "palacio-de-bellas-artes",
    "name": "Palacio de Bellas Artes",
    "country": "Mexico",
@@ -53635,7 +53545,7 @@
    ]
   },
   {
-   "rank": 602,
+   "rank": 601,
    "id": "tian-tan-buddha",
    "name": "Tian Tan Buddha",
    "country": "Hong Kong",
@@ -53725,7 +53635,7 @@
    ]
   },
   {
-   "rank": 603,
+   "rank": 602,
    "id": "erta-ale",
    "name": "Erta Ale",
    "country": "Ethiopia",
@@ -53815,7 +53725,7 @@
    ]
   },
   {
-   "rank": 604,
+   "rank": 603,
    "id": "fujian-tulou",
    "name": "Fujian Tulou",
    "country": "China",
@@ -53905,7 +53815,7 @@
    ]
   },
   {
-   "rank": 605,
+   "rank": 604,
    "id": "island-of-mozambique",
    "name": "Island of Mozambique",
    "country": "Mozambique",
@@ -53995,7 +53905,7 @@
    ]
   },
   {
-   "rank": 606,
+   "rank": 605,
    "id": "mawson-peak",
    "name": "Mawson Peak",
    "country": "Heard Island",
@@ -54068,7 +53978,7 @@
    ]
   },
   {
-   "rank": 607,
+   "rank": 606,
    "id": "ol-doinyo-lengai",
    "name": "Ol Doinyo Lengai",
    "country": "Tanzania",
@@ -54158,7 +54068,7 @@
    ]
   },
   {
-   "rank": 608,
+   "rank": 607,
    "id": "dom-luis-bridge",
    "name": "Dom Luís I Bridge",
    "country": "Portugal",
@@ -54248,7 +54158,7 @@
    ]
   },
   {
-   "rank": 609,
+   "rank": 608,
    "id": "hoi-an",
    "name": "Hội An Ancient Town",
    "country": "Vietnam",
@@ -54338,7 +54248,7 @@
    ]
   },
   {
-   "rank": 610,
+   "rank": 609,
    "id": "koutoubia-mosque",
    "name": "Koutoubia Mosque",
    "country": "Morocco",
@@ -54428,7 +54338,7 @@
    ]
   },
   {
-   "rank": 611,
+   "rank": 610,
    "id": "chillon-castle",
    "name": "Chillon Castle",
    "country": "Switzerland",
@@ -54518,7 +54428,7 @@
    ]
   },
   {
-   "rank": 612,
+   "rank": 611,
    "id": "hohensalzburg-fortress",
    "name": "Hohensalzburg Fortress",
    "country": "Austria",
@@ -54608,7 +54518,7 @@
    ]
   },
   {
-   "rank": 613,
+   "rank": 612,
    "id": "angel-of-independence",
    "name": "Angel of Independence",
    "country": "Mexico",
@@ -54698,7 +54608,7 @@
    ]
   },
   {
-   "rank": 614,
+   "rank": 613,
    "id": "blue-lagoon",
    "name": "Blue Lagoon",
    "country": "Iceland",
@@ -54788,7 +54698,7 @@
    ]
   },
   {
-   "rank": 615,
+   "rank": 614,
    "id": "gullfoss",
    "name": "Gullfoss",
    "country": "Iceland",
@@ -54878,7 +54788,7 @@
    ]
   },
   {
-   "rank": 616,
+   "rank": 615,
    "id": "bayon",
    "name": "Bayon",
    "country": "Cambodia",
@@ -54968,7 +54878,7 @@
    ]
   },
   {
-   "rank": 617,
+   "rank": 616,
    "id": "lamu-old-town",
    "name": "Lamu Old Town",
    "country": "Kenya",
@@ -55058,7 +54968,7 @@
    ]
   },
   {
-   "rank": 618,
+   "rank": 617,
    "id": "great-ocean-road",
    "name": "Great Ocean Road",
    "country": "Australia",
@@ -55148,7 +55058,7 @@
    ]
   },
   {
-   "rank": 619,
+   "rank": 618,
    "id": "multnomah-falls",
    "name": "Multnomah Falls",
    "country": "United States",
@@ -55238,7 +55148,7 @@
    ]
   },
   {
-   "rank": 620,
+   "rank": 619,
    "id": "bratislava-castle",
    "name": "Bratislava Castle",
    "country": "Slovakia",
@@ -55328,7 +55238,7 @@
    ]
   },
   {
-   "rank": 621,
+   "rank": 620,
    "id": "shark-bay",
    "name": "Shark Bay",
    "country": "Australia",
@@ -55418,7 +55328,7 @@
    ]
   },
   {
-   "rank": 622,
+   "rank": 621,
    "id": "s-rvagsvatn",
    "name": "Sørvágsvatn",
    "country": "Faroe Islands",
@@ -55508,7 +55418,7 @@
    ]
   },
   {
-   "rank": 623,
+   "rank": 622,
    "id": "rai-stones-of-yap",
    "name": "Rai Stones of Yap",
    "country": "Micronesia",
@@ -55598,7 +55508,7 @@
    ]
   },
   {
-   "rank": 624,
+   "rank": 623,
    "id": "chan-chan",
    "name": "Chan Chan",
    "country": "Peru",
@@ -55688,7 +55598,7 @@
    ]
   },
   {
-   "rank": 625,
+   "rank": 624,
    "id": "jatiya-sangsad-bhaban",
    "name": "Jatiya Sangsad Bhaban",
    "country": "Bangladesh",
@@ -55778,7 +55688,7 @@
    ]
   },
   {
-   "rank": 626,
+   "rank": 625,
    "id": "yungang-grottoes",
    "name": "Yungang Grottoes",
    "country": "China",
@@ -55868,7 +55778,7 @@
    ]
   },
   {
-   "rank": 627,
+   "rank": 626,
    "id": "aitutaki",
    "name": "Aitutaki",
    "country": "Cook Islands",
@@ -55958,7 +55868,7 @@
    ]
   },
   {
-   "rank": 628,
+   "rank": 627,
    "id": "ghadames",
    "name": "Ghadames",
    "country": "Libya",
@@ -56048,7 +55958,7 @@
    ]
   },
   {
-   "rank": 629,
+   "rank": 628,
    "id": "kariba-dam",
    "name": "Kariba Dam",
    "country": "Zambia",
@@ -56138,7 +56048,7 @@
    ]
   },
   {
-   "rank": 630,
+   "rank": 629,
    "id": "lake-khovsgol",
    "name": "Lake Khövsgöl",
    "country": "Mongolia",
@@ -56228,7 +56138,7 @@
    ]
   },
   {
-   "rank": 631,
+   "rank": 630,
    "id": "san-blas-islands",
    "name": "San Blas Islands",
    "country": "Panama",
@@ -56318,7 +56228,7 @@
    ]
   },
   {
-   "rank": 632,
+   "rank": 631,
    "id": "tre-cime-di-lavaredo",
    "name": "Tre Cime di Lavaredo",
    "country": "Italy",
@@ -56408,7 +56318,7 @@
    ]
   },
   {
-   "rank": 633,
+   "rank": 632,
    "id": "citadelle-laferriere",
    "name": "Citadelle Laferrière",
    "country": "Haiti",
@@ -56498,7 +56408,7 @@
    ]
   },
   {
-   "rank": 634,
+   "rank": 633,
    "id": "lake-hillier",
    "name": "Lake Hillier",
    "country": "Australia",
@@ -56588,7 +56498,7 @@
    ]
   },
   {
-   "rank": 635,
+   "rank": 634,
    "id": "heydar-aliyev-center",
    "name": "Heydar Aliyev Center",
    "country": "Azerbaijan",
@@ -56661,7 +56571,7 @@
    ]
   },
   {
-   "rank": 636,
+   "rank": 635,
    "id": "tugela-falls",
    "name": "Tugela Falls",
    "country": "South Africa",
@@ -56751,7 +56661,7 @@
    ]
   },
   {
-   "rank": 637,
+   "rank": 636,
    "id": "imam-reza-shrine",
    "name": "Imam Reza Shrine",
    "country": "Iran",
@@ -56841,7 +56751,7 @@
    ]
   },
   {
-   "rank": 638,
+   "rank": 637,
    "id": "jaisalmer-fort",
    "name": "Jaisalmer Fort",
    "country": "India",
@@ -56931,7 +56841,7 @@
    ]
   },
   {
-   "rank": 639,
+   "rank": 638,
    "id": "sidi-bou-said",
    "name": "Sidi Bou Said",
    "country": "Tunisia",
@@ -57021,7 +56931,7 @@
    ]
   },
   {
-   "rank": 640,
+   "rank": 639,
    "id": "ayutthaya",
    "name": "Ayutthaya",
    "country": "Thailand",
@@ -57111,7 +57021,7 @@
    ]
   },
   {
-   "rank": 641,
+   "rank": 640,
    "id": "puerto-princesa-underground-river",
    "name": "Puerto Princesa Underground River",
    "country": "Philippines",
@@ -57201,7 +57111,7 @@
    ]
   },
   {
-   "rank": 642,
+   "rank": 641,
    "id": "amsterdam-canals",
    "name": "Canals of Amsterdam",
    "country": "Netherlands",
@@ -57291,7 +57201,7 @@
    ]
   },
   {
-   "rank": 643,
+   "rank": 642,
    "id": "hanging-temple",
    "name": "Hanging Temple",
    "country": "China",
@@ -57381,7 +57291,7 @@
    ]
   },
   {
-   "rank": 644,
+   "rank": 643,
    "id": "moraine-lake",
    "name": "Moraine Lake",
    "country": "Canada",
@@ -57471,7 +57381,7 @@
    ]
   },
   {
-   "rank": 645,
+   "rank": 644,
    "id": "nyhavn",
    "name": "Nyhavn",
    "country": "Denmark",
@@ -57561,7 +57471,7 @@
    ]
   },
   {
-   "rank": 646,
+   "rank": 645,
    "id": "trakai-island-castle",
    "name": "Trakai Island Castle",
    "country": "Lithuania",
@@ -57651,7 +57561,7 @@
    ]
   },
   {
-   "rank": 647,
+   "rank": 646,
    "id": "genghis-khan-statue",
    "name": "Genghis Khan Equestrian Statue",
    "country": "Mongolia",
@@ -57741,7 +57651,7 @@
    ]
   },
   {
-   "rank": 648,
+   "rank": 647,
    "id": "jemaa-el-fnaa",
    "name": "Jemaa el-Fnaa",
    "country": "Morocco",
@@ -57831,7 +57741,7 @@
    ]
   },
   {
-   "rank": 649,
+   "rank": 648,
    "id": "mamanuca-islands",
    "name": "Mamanuca Islands",
    "country": "Fiji",
@@ -57921,7 +57831,7 @@
    ]
   },
   {
-   "rank": 650,
+   "rank": 649,
    "id": "buzludzha-monument",
    "name": "Buzludzha Monument",
    "country": "Bulgaria",
@@ -58011,7 +57921,7 @@
    ]
   },
   {
-   "rank": 651,
+   "rank": 650,
    "id": "carcassonne",
    "name": "Cité de Carcassonne",
    "country": "France",
@@ -58101,7 +58011,7 @@
    ]
   },
   {
-   "rank": 652,
+   "rank": 651,
    "id": "great-mosque-of-kairouan",
    "name": "Great Mosque of Kairouan",
    "country": "Tunisia",
@@ -58191,7 +58101,7 @@
    ]
   },
   {
-   "rank": 653,
+   "rank": 652,
    "id": "nuku-hiva",
    "name": "Nuku Hiva",
    "country": "French Polynesia",
@@ -58281,7 +58191,7 @@
    ]
   },
   {
-   "rank": 654,
+   "rank": 653,
    "id": "matera",
    "name": "Sassi di Matera",
    "country": "Italy",
@@ -58371,7 +58281,7 @@
    ]
   },
   {
-   "rank": 655,
+   "rank": 654,
    "id": "canaima-national-park",
    "name": "Canaima National Park",
    "country": "Venezuela",
@@ -58461,7 +58371,7 @@
    ]
   },
   {
-   "rank": 656,
+   "rank": 655,
    "id": "cape-coast-castle",
    "name": "Cape Coast Castle",
    "country": "Ghana",
@@ -58551,7 +58461,7 @@
    ]
   },
   {
-   "rank": 657,
+   "rank": 656,
    "id": "huacachina",
    "name": "Huacachina",
    "country": "Peru",
@@ -58641,7 +58551,7 @@
    ]
   },
   {
-   "rank": 658,
+   "rank": 657,
    "id": "parliament-house-canberra",
    "name": "Parliament House, Canberra",
    "country": "Australia",
@@ -58731,7 +58641,7 @@
    ]
   },
   {
-   "rank": 659,
+   "rank": 658,
    "id": "pig-beach",
    "name": "Pig Beach",
    "country": "Bahamas",
@@ -58821,7 +58731,7 @@
    ]
   },
   {
-   "rank": 660,
+   "rank": 659,
    "id": "brest-fortress",
    "name": "Brest Fortress",
    "country": "Belarus",
@@ -58911,7 +58821,7 @@
    ]
   },
   {
-   "rank": 661,
+   "rank": 660,
    "id": "lalibela",
    "name": "Church of Saint George, Lalibela",
    "country": "Ethiopia",
@@ -59001,7 +58911,7 @@
    ]
   },
   {
-   "rank": 662,
+   "rank": 661,
    "id": "fasil-ghebbi",
    "name": "Fasil Ghebbi",
    "country": "Ethiopia",
@@ -59091,7 +59001,7 @@
    ]
   },
   {
-   "rank": 663,
+   "rank": 662,
    "id": "varanasi-ghats",
    "name": "Ghats of Varanasi",
    "country": "India",
@@ -59181,7 +59091,7 @@
    ]
   },
   {
-   "rank": 664,
+   "rank": 663,
    "id": "lake-louise",
    "name": "Lake Louise",
    "country": "Canada",
@@ -59271,7 +59181,7 @@
    ]
   },
   {
-   "rank": 665,
+   "rank": 664,
    "id": "santa-claus-village",
    "name": "Santa Claus Village",
    "country": "Finland",
@@ -59361,7 +59271,7 @@
    ]
   },
   {
-   "rank": 666,
+   "rank": 665,
    "id": "air-mountains",
    "name": "Aïr Mountains",
    "country": "Niger",
@@ -59434,7 +59344,7 @@
    ]
   },
   {
-   "rank": 667,
+   "rank": 666,
    "id": "mount-wilhelm",
    "name": "Mount Wilhelm",
    "country": "Papua New Guinea",
@@ -59472,7 +59382,7 @@
    "gallery": []
   },
   {
-   "rank": 668,
+   "rank": 667,
    "id": "pitch-lake",
    "name": "Pitch Lake",
    "country": "Trinidad and Tobago",
@@ -59562,7 +59472,7 @@
    ]
   },
   {
-   "rank": 669,
+   "rank": 668,
    "id": "chinguetti",
    "name": "Chinguetti",
    "country": "Mauritania",
@@ -59652,7 +59562,7 @@
    ]
   },
   {
-   "rank": 670,
+   "rank": 669,
    "id": "etosha",
    "name": "Etosha National Park",
    "country": "Namibia",
@@ -59742,7 +59652,7 @@
    ]
   },
   {
-   "rank": 671,
+   "rank": 670,
    "id": "lake-retba",
    "name": "Lake Retba",
    "country": "Senegal",
@@ -59832,7 +59742,7 @@
    ]
   },
   {
-   "rank": 672,
+   "rank": 671,
    "id": "amboseli",
    "name": "Amboseli National Park",
    "country": "Kenya",
@@ -59922,7 +59832,7 @@
    ]
   },
   {
-   "rank": 673,
+   "rank": 672,
    "id": "banaue-rice-terraces",
    "name": "Banaue Rice Terraces",
    "country": "Philippines",
@@ -60012,7 +59922,7 @@
    ]
   },
   {
-   "rank": 674,
+   "rank": 673,
    "id": "cerro-rico",
    "name": "Cerro Rico",
    "country": "Bolivia",
@@ -60102,7 +60012,7 @@
    ]
   },
   {
-   "rank": 675,
+   "rank": 674,
    "id": "glacier-bay",
    "name": "Glacier Bay",
    "country": "United States",
@@ -60192,7 +60102,7 @@
    ]
   },
   {
-   "rank": 676,
+   "rank": 675,
    "id": "zhangye-danxia",
    "name": "Zhangye Danxia (Rainbow Mountains)",
    "country": "China",
@@ -60282,7 +60192,7 @@
    ]
   },
   {
-   "rank": 677,
+   "rank": 676,
    "id": "bwindi",
    "name": "Bwindi Impenetrable Forest",
    "country": "Uganda",
@@ -60372,7 +60282,7 @@
    ]
   },
   {
-   "rank": 678,
+   "rank": 677,
    "id": "kunta-kinteh-island",
    "name": "Kunta Kinteh Island",
    "country": "The Gambia",
@@ -60462,7 +60372,7 @@
    ]
   },
   {
-   "rank": 679,
+   "rank": 678,
    "id": "museum-of-the-future",
    "name": "Museum of the Future",
    "country": "United Arab Emirates",
@@ -60552,7 +60462,7 @@
    ]
   },
   {
-   "rank": 680,
+   "rank": 679,
    "id": "ruins-of-st-pauls",
    "name": "Ruins of St. Paul's",
    "country": "Macau",
@@ -60642,7 +60552,7 @@
    ]
   },
   {
-   "rank": 681,
+   "rank": 680,
    "id": "erbil-citadel",
    "name": "Erbil Citadel",
    "country": "Iraq",
@@ -60732,7 +60642,7 @@
    ]
   },
   {
-   "rank": 682,
+   "rank": 681,
    "id": "trinity-lavra",
    "name": "Trinity Lavra of St. Sergius",
    "country": "Russia",
@@ -60822,7 +60732,7 @@
    ]
   },
   {
-   "rank": 683,
+   "rank": 682,
    "id": "kazan-kremlin",
    "name": "Kazan Kremlin",
    "country": "Russia",
@@ -60912,7 +60822,7 @@
    ]
   },
   {
-   "rank": 684,
+   "rank": 683,
    "id": "aksum-obelisk",
    "name": "Obelisk of Aksum",
    "country": "Ethiopia",
@@ -61002,7 +60912,7 @@
    ]
   },
   {
-   "rank": 685,
+   "rank": 684,
    "id": "victoria-harbour",
    "name": "Victoria Harbour",
    "country": "Hong Kong",
@@ -61092,7 +61002,7 @@
    ]
   },
   {
-   "rank": 686,
+   "rank": 685,
    "id": "house-of-the-blackheads-riga",
    "name": "House of the Blackheads, Riga",
    "country": "Latvia",
@@ -61182,7 +61092,7 @@
    ]
   },
   {
-   "rank": 687,
+   "rank": 686,
    "id": "painted-ladies",
    "name": "Painted Ladies",
    "country": "United States",
@@ -61272,7 +61182,7 @@
    ]
   },
   {
-   "rank": 688,
+   "rank": 687,
    "id": "shirakawa-go",
    "name": "Shirakawa-gō",
    "country": "Japan",
@@ -61362,7 +61272,7 @@
    ]
   },
   {
-   "rank": 689,
+   "rank": 688,
    "id": "sultan-qaboos-grand-mosque",
    "name": "Sultan Qaboos Grand Mosque",
    "country": "Oman",
@@ -61452,7 +61362,7 @@
    ]
   },
   {
-   "rank": 690,
+   "rank": 689,
    "id": "djinguereber-mosque",
    "name": "Djinguereber Mosque",
    "country": "Mali",
@@ -61542,7 +61452,7 @@
    ]
   },
   {
-   "rank": 691,
+   "rank": 690,
    "id": "khor-virap",
    "name": "Khor Virap",
    "country": "Armenia",
@@ -61632,7 +61542,7 @@
    ]
   },
   {
-   "rank": 692,
+   "rank": 691,
    "id": "kinderdijk",
    "name": "Kinderdijk Windmills",
    "country": "Netherlands",
@@ -61722,7 +61632,7 @@
    ]
   },
   {
-   "rank": 693,
+   "rank": 692,
    "id": "philae",
    "name": "Philae",
    "country": "Egypt",
@@ -61812,7 +61722,7 @@
    ]
   },
   {
-   "rank": 694,
+   "rank": 693,
    "id": "jebel-barkal",
    "name": "Jebel Barkal",
    "country": "Sudan",
@@ -61902,7 +61812,7 @@
    ]
   },
   {
-   "rank": 695,
+   "rank": 694,
    "id": "kata-tjuta",
    "name": "Kata Tjuṯa",
    "country": "Australia",
@@ -61992,7 +61902,7 @@
    ]
   },
   {
-   "rank": 696,
+   "rank": 695,
    "id": "murchison-falls",
    "name": "Murchison Falls",
    "country": "Uganda",
@@ -62082,7 +61992,7 @@
    ]
   },
   {
-   "rank": 697,
+   "rank": 696,
    "id": "el-morro",
    "name": "Castillo San Felipe del Morro",
    "country": "Puerto Rico",
@@ -62172,7 +62082,7 @@
    ]
   },
   {
-   "rank": 698,
+   "rank": 697,
    "id": "tetiaroa",
    "name": "Tetiaroa",
    "country": "French Polynesia",
@@ -62228,7 +62138,7 @@
    ]
   },
   {
-   "rank": 699,
+   "rank": 698,
    "id": "chapel-bridge",
    "name": "Chapel Bridge, Lucerne",
    "country": "Switzerland",
@@ -62318,7 +62228,7 @@
    ]
   },
   {
-   "rank": 700,
+   "rank": 699,
    "id": "citadel-of-aleppo",
    "name": "Citadel of Aleppo",
    "country": "Syria",
@@ -62408,7 +62318,7 @@
    ]
   },
   {
-   "rank": 701,
+   "rank": 700,
    "id": "nosy-be",
    "name": "Nosy Be",
    "country": "Madagascar",
@@ -62498,7 +62408,7 @@
    ]
   },
   {
-   "rank": 702,
+   "rank": 701,
    "id": "bulguksa",
    "name": "Bulguksa",
    "country": "South Korea",
@@ -62588,7 +62498,7 @@
    ]
   },
   {
-   "rank": 703,
+   "rank": 702,
    "id": "cedars-of-god",
    "name": "Cedars of God",
    "country": "Lebanon",
@@ -62678,7 +62588,7 @@
    ]
   },
   {
-   "rank": 704,
+   "rank": 703,
    "id": "copper-canyon",
    "name": "Copper Canyon",
    "country": "Mexico",
@@ -62768,7 +62678,7 @@
    ]
   },
   {
-   "rank": 705,
+   "rank": 704,
    "id": "marib-dam",
    "name": "Marib Dam",
    "country": "Yemen",
@@ -62841,7 +62751,7 @@
    ]
   },
   {
-   "rank": 706,
+   "rank": 705,
    "id": "navagio-beach",
    "name": "Navagio Beach",
    "country": "Greece",
@@ -62931,7 +62841,7 @@
    ]
   },
   {
-   "rank": 707,
+   "rank": 706,
    "id": "delicate-arch",
    "name": "Delicate Arch",
    "country": "United States",
@@ -63021,7 +62931,7 @@
    ]
   },
   {
-   "rank": 708,
+   "rank": 707,
    "id": "fouta-djallon",
    "name": "Fouta Djallon",
    "country": "Guinea",
@@ -63111,7 +63021,7 @@
    ]
   },
   {
-   "rank": 709,
+   "rank": 708,
    "id": "piton-de-la-fournaise",
    "name": "Piton de la Fournaise",
    "country": "Réunion",
@@ -63201,7 +63111,7 @@
    ]
   },
   {
-   "rank": 710,
+   "rank": 709,
    "id": "skogafoss",
    "name": "Skógafoss",
    "country": "Iceland",
@@ -63291,7 +63201,7 @@
    ]
   },
   {
-   "rank": 711,
+   "rank": 710,
    "id": "stone-forest",
    "name": "Stone Forest (Shilin)",
    "country": "China",
@@ -63381,7 +63291,7 @@
    ]
   },
   {
-   "rank": 712,
+   "rank": 711,
    "id": "kerala-backwaters",
    "name": "Kerala Backwaters",
    "country": "India",
@@ -63471,7 +63381,7 @@
    ]
   },
   {
-   "rank": 713,
+   "rank": 712,
    "id": "itchan-kala",
    "name": "Itchan Kala, Khiva",
    "country": "Uzbekistan",
@@ -63561,7 +63471,7 @@
    ]
   },
   {
-   "rank": 714,
+   "rank": 713,
    "id": "maho-beach",
    "name": "Maho Beach",
    "country": "Sint Maarten",
@@ -63651,7 +63561,7 @@
    ]
   },
   {
-   "rank": 715,
+   "rank": 714,
    "id": "paracas-candelabra",
    "name": "Paracas Candelabra",
    "country": "Peru",
@@ -63741,7 +63651,7 @@
    ]
   },
   {
-   "rank": 716,
+   "rank": 715,
    "id": "santa-monica-pier",
    "name": "Santa Monica Pier",
    "country": "United States",
@@ -63831,7 +63741,7 @@
    ]
   },
   {
-   "rank": 717,
+   "rank": 716,
    "id": "svetitskhoveli-cathedral",
    "name": "Svetitskhoveli Cathedral",
    "country": "Georgia",
@@ -63921,7 +63831,7 @@
    ]
   },
   {
-   "rank": 718,
+   "rank": 717,
    "id": "parliament-hill",
    "name": "Parliament Hill",
    "country": "Canada",
@@ -64011,7 +63921,7 @@
    ]
   },
   {
-   "rank": 719,
+   "rank": 718,
    "id": "tanah-lot",
    "name": "Tanah Lot",
    "country": "Indonesia",
@@ -64101,7 +64011,7 @@
    ]
   },
   {
-   "rank": 720,
+   "rank": 719,
    "id": "perce-rock",
    "name": "Percé Rock",
    "country": "Canada",
@@ -64191,7 +64101,7 @@
    ]
   },
   {
-   "rank": 721,
+   "rank": 720,
    "id": "trolltunga",
    "name": "Trolltunga",
    "country": "Norway",
@@ -64281,7 +64191,7 @@
    ]
   },
   {
-   "rank": 722,
+   "rank": 721,
    "id": "garden-of-the-gods",
    "name": "Garden of the Gods",
    "country": "United States",
@@ -64371,7 +64281,7 @@
    ]
   },
   {
-   "rank": 723,
+   "rank": 722,
    "id": "cliff-palace",
    "name": "Cliff Palace, Mesa Verde",
    "country": "United States",
@@ -64461,7 +64371,7 @@
    ]
   },
   {
-   "rank": 724,
+   "rank": 723,
    "id": "kuwait-towers",
    "name": "Kuwait Towers",
    "country": "Kuwait",
@@ -64534,7 +64444,7 @@
    ]
   },
   {
-   "rank": 725,
+   "rank": 724,
    "id": "putorana-plateau",
    "name": "Putorana Plateau",
    "country": "Russia",
@@ -64624,7 +64534,7 @@
    ]
   },
   {
-   "rank": 726,
+   "rank": 725,
    "id": "tongariro",
    "name": "Tongariro National Park",
    "country": "New Zealand",
@@ -64714,7 +64624,7 @@
    ]
   },
   {
-   "rank": 727,
+   "rank": 726,
    "id": "zaanse-schans",
    "name": "Zaanse Schans",
    "country": "Netherlands",
@@ -64804,7 +64714,7 @@
    ]
   },
   {
-   "rank": 728,
+   "rank": 727,
    "id": "bryggen",
    "name": "Bryggen",
    "country": "Norway",
@@ -64894,7 +64804,7 @@
    ]
   },
   {
-   "rank": 729,
+   "rank": 728,
    "id": "daintree-rainforest",
    "name": "Daintree Rainforest",
    "country": "Australia",
@@ -64984,7 +64894,7 @@
    ]
   },
   {
-   "rank": 730,
+   "rank": 729,
    "id": "yasawi-mausoleum",
    "name": "Mausoleum of Khoja Ahmed Yasawi",
    "country": "Kazakhstan",
@@ -65074,7 +64984,7 @@
    ]
   },
   {
-   "rank": 731,
+   "rank": 730,
    "id": "caracol",
    "name": "Caracol",
    "country": "Belize",
@@ -65147,7 +65057,7 @@
    ]
   },
   {
-   "rank": 732,
+   "rank": 731,
    "id": "el-yunque",
    "name": "El Yunque",
    "country": "Puerto Rico",
@@ -65237,7 +65147,7 @@
    ]
   },
   {
-   "rank": 733,
+   "rank": 732,
    "id": "lena-pillars",
    "name": "Lena Pillars",
    "country": "Russia",
@@ -65327,7 +65237,7 @@
    ]
   },
   {
-   "rank": 734,
+   "rank": 733,
    "id": "gamla-stan",
    "name": "Gamla Stan",
    "country": "Sweden",
@@ -65417,7 +65327,7 @@
    ]
   },
   {
-   "rank": 735,
+   "rank": 734,
    "id": "santo-antao",
    "name": "Santo Antão",
    "country": "Cape Verde",
@@ -65507,7 +65417,7 @@
    ]
   },
   {
-   "rank": 736,
+   "rank": 735,
    "id": "tiger-leaping-gorge",
    "name": "Tiger Leaping Gorge",
    "country": "China",
@@ -65597,7 +65507,7 @@
    ]
   },
   {
-   "rank": 737,
+   "rank": 736,
    "id": "cathedral-of-brasilia",
    "name": "Cathedral of Brasília",
    "country": "Brazil",
@@ -65687,7 +65597,7 @@
    ]
   },
   {
-   "rank": 738,
+   "rank": 737,
    "id": "horseshoe-bend",
    "name": "Horseshoe Bend",
    "country": "United States",
@@ -65777,7 +65687,7 @@
    ]
   },
   {
-   "rank": 739,
+   "rank": 738,
    "id": "makgadikgadi",
    "name": "Makgadikgadi Pan",
    "country": "Botswana",
@@ -65867,7 +65777,7 @@
    ]
   },
   {
-   "rank": 740,
+   "rank": 739,
    "id": "n-seoul-tower",
    "name": "N Seoul Tower",
    "country": "South Korea",
@@ -65957,7 +65867,7 @@
    ]
   },
   {
-   "rank": 741,
+   "rank": 740,
    "id": "swallows-nest",
    "name": "Swallow's Nest",
    "country": "Crimea",
@@ -66047,7 +65957,7 @@
    ]
   },
   {
-   "rank": 742,
+   "rank": 741,
    "id": "pico-duarte",
    "name": "Pico Duarte",
    "country": "Dominican Republic",
@@ -66137,7 +66047,7 @@
    ]
   },
   {
-   "rank": 743,
+   "rank": 742,
    "id": "qalat-al-bahrain",
    "name": "Qal'at al-Bahrain",
    "country": "Bahrain",
@@ -66227,7 +66137,7 @@
    ]
   },
   {
-   "rank": 744,
+   "rank": 743,
    "id": "obelisco-de-buenos-aires",
    "name": "Obelisco de Buenos Aires",
    "country": "Argentina",
@@ -66317,7 +66227,7 @@
    ]
   },
   {
-   "rank": 745,
+   "rank": 744,
    "id": "pitons",
    "name": "The Pitons",
    "country": "Saint Lucia",
@@ -66407,7 +66317,7 @@
    ]
   },
   {
-   "rank": 746,
+   "rank": 745,
    "id": "shah-i-zinda",
    "name": "Shah-i-Zinda",
    "country": "Uzbekistan",
@@ -66497,7 +66407,7 @@
    ]
   },
   {
-   "rank": 747,
+   "rank": 746,
    "id": "ushguli",
    "name": "Ushguli",
    "country": "Georgia",
@@ -66587,7 +66497,7 @@
    ]
   },
   {
-   "rank": 748,
+   "rank": 747,
    "id": "corn-islands",
    "name": "Corn Islands",
    "country": "Nicaragua",
@@ -66660,7 +66570,7 @@
    ]
   },
   {
-   "rank": 749,
+   "rank": 748,
    "id": "nikko-tosho-gu",
    "name": "Nikkō Tōshō-gū",
    "country": "Japan",
@@ -66750,7 +66660,7 @@
    ]
   },
   {
-   "rank": 750,
+   "rank": 749,
    "id": "vardzia",
    "name": "Vardzia",
    "country": "Georgia",
@@ -66840,7 +66750,7 @@
    ]
   },
   {
-   "rank": 751,
+   "rank": 750,
    "id": "arg-e-bam",
    "name": "Arg-e Bam",
    "country": "Iran",
@@ -66930,7 +66840,7 @@
    ]
   },
   {
-   "rank": 752,
+   "rank": 751,
    "id": "mendenhall-glacier",
    "name": "Mendenhall Glacier",
    "country": "United States",
@@ -67020,7 +66930,7 @@
    ]
   },
   {
-   "rank": 753,
+   "rank": 752,
    "id": "the-wave",
    "name": "The Wave",
    "country": "United States",
@@ -67110,7 +67020,7 @@
    ]
   },
   {
-   "rank": 754,
+   "rank": 753,
    "id": "gergeti-trinity-church",
    "name": "Gergeti Trinity Church",
    "country": "Georgia",
@@ -67200,7 +67110,7 @@
    ]
   },
   {
-   "rank": 755,
+   "rank": 754,
    "id": "cano-cristales",
    "name": "Caño Cristales",
    "country": "Colombia",
@@ -67290,7 +67200,7 @@
    ]
   },
   {
-   "rank": 756,
+   "rank": 755,
    "id": "le-morne-brabant",
    "name": "Le Morne Brabant",
    "country": "Mauritius",
@@ -67380,7 +67290,7 @@
    ]
   },
   {
-   "rank": 757,
+   "rank": 756,
    "id": "old-havana",
    "name": "Old Havana",
    "country": "Cuba",
@@ -67470,7 +67380,7 @@
    ]
   },
   {
-   "rank": 758,
+   "rank": 757,
    "id": "sans-souci-palace",
    "name": "Sans-Souci Palace",
    "country": "Haiti",
@@ -67560,7 +67470,7 @@
    ]
   },
   {
-   "rank": 759,
+   "rank": 758,
    "id": "arashiyama",
    "name": "Arashiyama Bamboo Grove",
    "country": "Japan",
@@ -67650,7 +67560,7 @@
    ]
   },
   {
-   "rank": 760,
+   "rank": 759,
    "id": "atlantic-ocean-road",
    "name": "Atlantic Ocean Road",
    "country": "Norway",
@@ -67740,7 +67650,7 @@
    ]
   },
   {
-   "rank": 761,
+   "rank": 760,
    "id": "flame-towers",
    "name": "Flame Towers",
    "country": "Azerbaijan",
@@ -67830,7 +67740,7 @@
    ]
   },
   {
-   "rank": 762,
+   "rank": 761,
    "id": "franz-josef-glacier",
    "name": "Franz Josef Glacier",
    "country": "New Zealand",
@@ -67920,7 +67830,7 @@
    ]
   },
   {
-   "rank": 763,
+   "rank": 762,
    "id": "jokhang",
    "name": "Jokhang",
    "country": "China",
@@ -68010,7 +67920,7 @@
    ]
   },
   {
-   "rank": 764,
+   "rank": 763,
    "id": "jokulsarlon",
    "name": "Jökulsárlón",
    "country": "Iceland",
@@ -68100,7 +68010,7 @@
    ]
   },
   {
-   "rank": 765,
+   "rank": 764,
    "id": "nasir-ol-molk-mosque",
    "name": "Nasir-ol-Molk Mosque",
    "country": "Iran",
@@ -68190,7 +68100,7 @@
    ]
   },
   {
-   "rank": 766,
+   "rank": 765,
    "id": "belukha",
    "name": "Belukha Mountain",
    "country": "Russia / Kazakhstan",
@@ -68280,7 +68190,7 @@
    ]
   },
   {
-   "rank": 767,
+   "rank": 766,
    "id": "dubai-frame",
    "name": "Dubai Frame",
    "country": "United Arab Emirates",
@@ -68370,7 +68280,7 @@
    ]
   },
   {
-   "rank": 768,
+   "rank": 767,
    "id": "hobbiton",
    "name": "Hobbiton",
    "country": "New Zealand",
@@ -68460,7 +68370,7 @@
    ]
   },
   {
-   "rank": 769,
+   "rank": 768,
    "id": "li-river",
    "name": "Li River, Guilin",
    "country": "China",
@@ -68550,7 +68460,7 @@
    ]
   },
   {
-   "rank": 770,
+   "rank": 769,
    "id": "timanfaya-national-park",
    "name": "Timanfaya National Park",
    "country": "Spain (Canary Islands)",
@@ -68635,6 +68545,96 @@
       "sourcePage": "https://commons.wikimedia.org/wiki/File:Timanfaya_boca_volc%C3%A1n.JPG",
       "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Timanfaya_boca_volc%C3%A1n.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Timanfaya_boca_volc%C3%A1n.JPG/1280px-Timanfaya_boca_volc%C3%A1n.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+     }
+    }
+   ]
+  },
+  {
+   "rank": 770,
+   "id": "main-square-krakow",
+   "name": "Main Square, Kraków",
+   "country": "Poland",
+   "region": "Europe",
+   "category": "urban",
+   "lat": 50.06167,
+   "lng": 19.93722,
+   "description": "Urban square in the Old Town of Kraków, Poland",
+   "summary": "The Main Market Square is a historic square in the Old Town of Kraków, Poland.",
+   "popularity": 12.8,
+   "metrics": {
+    "pageviews": 27385,
+    "wikipediaLanguages": 30
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Main_Square%2C_Krak%C3%B3w",
+   "wikidata": "Q770631",
+   "image": {
+    "src": "images/full/main-square-krakow.webp",
+    "thumb": "images/thumb/main-square-krakow.webp",
+    "width": 1600,
+    "height": 1063,
+    "color": "#b8a8a8",
+    "credit": {
+     "title": "File:Sukiennice and Main Market Square Krakow Poland.JPG",
+     "author": "Jorge Lascar",
+     "credit": "Sukiennice and Main Square as seen from St. Mary's Basilica",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/archive/1/18/20150123145739%21Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/archive/1/18/20150123145739%21Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG/1920px-Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   },
+   "gallery": [
+    {
+     "src": "images/gallery/main-square-krakow-1.webp",
+     "width": 900,
+     "height": 437,
+     "color": "#78a8e8",
+     "credit": {
+      "title": "File:Main Market square, east side-view from N, Old Town, Krakow, Poland.jpg",
+      "author": "Zygmunt Put",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": true,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Main_Market_square,_east_side-view_from_N,_Old_Town,_Krakow,_Poland.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Main_Market_square%2C_east_side-view_from_N%2C_Old_Town%2C_Krakow%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Main_Market_square%2C_east_side-view_from_N%2C_Old_Town%2C_Krakow%2C_Poland.jpg/1280px-Main_Market_square%2C_east_side-view_from_N%2C_Old_Town%2C_Krakow%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+     }
+    },
+    {
+     "src": "images/gallery/main-square-krakow-2.webp",
+     "width": 900,
+     "height": 434,
+     "color": "#3898f8",
+     "credit": {
+      "title": "File:Main Market square, north frontage (A-B Line), Old Town, Krakow, Poland.jpg",
+      "author": "Zygmunt Put Zetpe0202",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": true,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Main_Market_square,_north_frontage_(A-B_Line),_Old_Town,_Krakow,_Poland.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Main_Market_square%2C_north_frontage_%28A-B_Line%29%2C_Old_Town%2C_Krakow%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Main_Market_square%2C_north_frontage_%28A-B_Line%29%2C_Old_Town%2C_Krakow%2C_Poland.jpg/1280px-Main_Market_square%2C_north_frontage_%28A-B_Line%29%2C_Old_Town%2C_Krakow%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+     }
+    },
+    {
+     "src": "images/gallery/main-square-krakow-3.webp",
+     "width": 900,
+     "height": 596,
+     "color": "#080808",
+     "credit": {
+      "title": "File:Church of St. Wojciech (St. Adalbert), 2 Main Market Square, Old Town, Kraków, Poland.jpg",
+      "author": "Jeremiah Z. Cockroach",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": true,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Church_of_St._Wojciech_(St._Adalbert),_2_Main_Market_Square,_Old_Town,_Krak%C3%B3w,_Poland.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Church_of_St._Wojciech_%28St._Adalbert%29%2C_2_Main_Market_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Church_of_St._Wojciech_%28St._Adalbert%29%2C_2_Main_Market_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg/1280px-Church_of_St._Wojciech_%28St._Adalbert%29%2C_2_Main_Market_Square%2C_Old_Town%2C_Krak%C3%B3w%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
      }
     }
    ]
