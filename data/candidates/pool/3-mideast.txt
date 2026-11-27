@@ -1,0 +1,159 @@
+# Middle East
+@ Jerusalem
+r Al-Aqsa Mosque
+b Tower of David
+n Mount of Olives
+@ Israel
+u Baháʼí Gardens, Haifa=Terraces (Baháʼí)
+n Sea of Galilee
+a Caesarea=Caesarea Maritima
+u Acre Old City=Old City of Acre
+n Makhtesh Ramon
+n Timna Valley
+u Jaffa
+n Rosh HaNikra Grottoes=Rosh HaNikra grottoes
+@ Palestine
+r Church of the Nativity
+r Mar Saba
+r Cave of the Patriarchs
+@ Jordan
+a Amman Citadel
+a Roman Theatre, Amman=Roman Theatre (Amman)
+n Mount Nebo
+b Kerak Castle
+b Ajloun Castle
+n Wadi Mujib
+a Qasr Amra
+a Little Petra
+r Al-Maghtas
+@ Lebanon
+n Jeita Grotto
+a Byblos
+n Cedars of God
+r Our Lady of Lebanon
+r Mohammad Al-Amin Mosque
+b Beiteddine Palace
+a Tyre=Tyre, Lebanon
+b Sidon Sea Castle
+a Anjar=Anjar, Lebanon
+n Baatara Gorge Waterfall=Baatara gorge waterfall
+@ Syria
+b Citadel of Aleppo
+a Bosra
+a Apamea=Apamea, Syria
+b Citadel of Salah Ed-Din
+m Norias of Hama
+u Maaloula
+a Dura-Europos
+@ Iraq
+r Imam Ali Shrine
+r Imam Husayn Shrine
+r Al-Kadhimiya Mosque
+m Al-Shaheed Monument
+a Hatra
+a Taq Kasra
+a Nineveh
+r Lalish
+n Mesopotamian Marshes
+m Victory Arch
+@ Iran
+b Golestan Palace
+b Milad Tower
+g Tabiat Bridge
+g Si-o-se-pol
+g Khaju Bridge
+b Chehel Sotoun
+r Vank Cathedral
+a Naqsh-e Rostam
+a Pasargadae
+m Tomb of Hafez
+n Eram Garden
+b Arg of Karim Khan
+r Shah Cheragh
+u Amir Chakhmaq Complex
+r Jameh Mosque of Yazd
+a Tower of Silence, Yazd=Tower of Silence
+n Fin Garden
+u Abyaneh
+u Bazaar of Tabriz
+u Kandovan=Kandovan, Osku
+a Takht-e Soleymān
+b Dome of Soltaniyeh
+b Alamut Castle
+u Masuleh
+n Badab-e Surt
+b Gonbad-e Qabus=Gonbad-e Qabus (tower)
+a Behistun Inscription
+a Chogha Zanbil
+n Hormuz Island
+n Lut Desert=Dasht-e Lut
+r Fatima Masumeh Shrine
+r Jameh Mosque of Isfahan
+n Ali-Sadr Cave
+@ Saudi Arabia
+b Abraj Al Bait
+n Mount Arafat
+r Quba Mosque
+b Kingdom Centre
+b Masmak Fort
+a Diriyah
+n Edge of the World=Jebel Fihrayn
+n Elephant Rock, AlUla=Jabal AlFil
+b Maraya
+u Al-Balad, Jeddah
+m King Fahd's Fountain
+u Rijal Almaa
+n Al Wahbah Crater=Al Wahbah crater
+@ United Arab Emirates
+u Palm Jumeirah
+b Dubai Frame
+b Museum of the Future
+b Dubai Mall=The Dubai Mall
+m Dubai Fountain=The Dubai Fountain
+u Dubai Marina
+b Atlantis, The Palm
+b Louvre Abu Dhabi
+b Qasr Al Watan
+b Emirates Palace
+b Ferrari World=Ferrari World Abu Dhabi
+n Jebel Hafeet
+n Jebel Jais
+b Qasr al-Hosn
+u Dubai Miracle Garden
+@ Qatar
+b Museum of Islamic Art, Doha
+b National Museum of Qatar
+u The Pearl Island
+u Souq Waqif
+n Khor Al Adaid
+a Al Zubarah Fort=Zubarah
+b Lusail Stadium
+@ Bahrain
+b Bahrain World Trade Center
+n Tree of Life, Bahrain=Tree of Life (Bahrain)
+r Al Fateh Grand Mosque
+a Dilmun Burial Mounds
+@ Kuwait
+b Kuwait Towers
+r Grand Mosque of Kuwait=Grand Mosque (Kuwait)
+b Liberation Tower=Liberation Tower (Kuwait)
+b Al Hamra Tower
+@ Oman
+r Sultan Qaboos Grand Mosque
+b Royal Opera House Muscat
+b Al Alam Palace
+n Jebel Shams
+n Wadi Shab
+n Bimmah Sinkhole
+n Wahiba Sands=Sharqiya Sands
+b Bahla Fort
+b Nakhal Fort
+n Musandam Fjords=Musandam Governorate
+u Mutrah Souq=Muttrah Souq
+@ Yemen
+b Dar al-Hajar
+r Al Saleh Mosque
+u Zabid
+a Marib Dam
+n Haraz Mountains
+a Cisterns of Tawila

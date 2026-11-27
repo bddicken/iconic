@@ -1,0 +1,359 @@
+# Africa
+@ Egypt
+m Great Sphinx of Giza
+b Cairo Citadel
+r Al-Azhar Mosque
+b Cairo Tower
+a Pyramid of Djoser
+a Bent Pyramid
+b Bibliotheca Alexandrina
+b Citadel of Qaitbay
+u Siwa Oasis
+n White Desert=White Desert National Park
+a Temple of Edfu
+a Temple of Kom Ombo
+b Aswan Dam
+a Colossi of Memnon
+a Mortuary Temple of Hatshepsut
+a Dendera Temple Complex=Dendera Temple complex
+r Saint Catherine's Monastery
+n Blue Hole, Dahab=Blue Hole (Red Sea)
+n Wadi El Hitan=Wadi al Hitan
+b Grand Egyptian Museum
+@ Morocco
+r Koutoubia Mosque=Kutubiyya Mosque
+b Bahia Palace
+n Majorelle Garden
+r Ben Youssef Madrasa
+u Fes el Bali
+a Volubilis
+m Hassan Tower
+b Kasbah of the Udayas
+u Essaouira
+n Todgha Gorge
+n Ouzoud Falls
+n Toubkal
+n Legzira Beach=Legzira
+n Caves of Hercules
+@ Algeria
+u Casbah of Algiers
+r Notre-Dame d'Afrique
+m Maqam Echahid
+a Timgad
+a Djémila
+u M'zab=M'zab
+n Hoggar Mountains
+g Sidi M'Cid Bridge
+@ Tunisia
+a Carthage
+r Great Mosque of Kairouan
+u Medina of Tunis
+a Dougga
+u Matmata=Matmata, Tunisia
+b Ksar Ouled Soltane
+n Chott el Djerid
+r El Ghriba Synagogue
+b Ribat of Monastir
+@ Libya
+a Sabratha
+a Cyrene=Cyrene, Libya
+b Red Castle of Tripoli
+n Gaberoun
+n Waw an Namus
+n Tadrart Acacus
+@ Sudan
+a Nuri
+a Naqa
+u Suakin
+a Kerma
+@ Eritrea
+b Fiat Tagliero Building
+u Massawa
+@ Djibouti
+n Lake Abbe
+@ Ethiopia
+b Fasil Ghebbi
+n Blue Nile Falls
+n Lake Tana
+n Erta Ale
+u Harar
+r Debre Damo
+r Abuna Yemata Guh
+n Bale Mountains National Park
+r Church of Our Lady Mary of Zion
+@ Kenya
+n Mount Kenya
+n Lake Nakuru
+n Lake Turkana
+n Hell's Gate National Park
+u Lamu Old Town=Lamu
+b Fort Jesus
+n Diani Beach
+n Tsavo East National Park
+n Nairobi National Park
+b Kenyatta International Convention Centre
+a Ruins of Gedi
+@ Tanzania
+n Lake Natron
+n Ol Doinyo Lengai
+n Lake Manyara
+n Tarangire National Park
+n Gombe Stream National Park
+a Olduvai Gorge
+a Kilwa Kisiwani
+n Mafia Island
+n Mount Meru=Mount Meru (Tanzania)
+n Lake Tanganyika
+@ Uganda
+n Queen Elizabeth National Park
+n Lake Bunyonyi
+a Kasubi Tombs
+n Sipi Falls
+n Kidepo Valley National Park
+r Uganda National Mosque
+n Lake Victoria
+@ Rwanda
+m Kigali Genocide Memorial
+n Nyungwe Forest
+n Lake Kivu
+n Akagera National Park
+@ Burundi
+m Gishora Drum Sanctuary=Gishora
+n Kibira National Park
+@ South Sudan
+n Boma National Park
+@ DR Congo
+n Mount Nyiragongo
+n Kahuzi-Biega National Park
+n Garamba National Park
+n Okapi Wildlife Reserve
+n Livingstone Falls
+n Boyoma Falls
+n Salonga National Park
+@ Republic of the Congo
+r Basilique Sainte-Anne du Congo=Basilica of St. Anne of the Congo
+n Odzala-Kokoua National Park
+n Nouabalé-Ndoki National Park
+@ Gabon
+n Loango National Park
+n Ivindo National Park
+@ Equatorial Guinea
+r Malabo Cathedral=St. Elizabeth's Cathedral, Malabo
+n Pico Basilé
+@ Cameroon
+n Waza National Park
+u Rhumsiki
+n Lake Nyos
+n Dja Faunal Reserve
+@ Chad
+n Zakouma National Park
+n Lake Chad
+n Emi Koussi
+n Lakes of Ounianga
+n Guelta d'Archei
+@ Central African Republic
+n Boali Falls=Boali
+@ São Tomé and Príncipe
+n Ilhéu das Rolas
+@ Senegal
+m African Renaissance Monument
+n Lake Retba
+u Saint-Louis=Saint-Louis, Senegal
+n Niokolo-Koba National Park
+r Great Mosque of Touba
+@ The Gambia
+a Kunta Kinteh Island
+a Wassu Stone Circles=Senegambian stone circles
+m Arch 22
+@ Guinea-Bissau
+n Bijagós Archipelago=Bissagos Islands
+@ Guinea
+n Mount Nimba=Mount Nimba Strict Nature Reserve
+n Fouta Djallon
+@ Sierra Leone
+m Cotton Tree, Freetown=Cotton Tree (Sierra Leone)
+a Bunce Island
+n Tacugama Chimpanzee Sanctuary
+@ Liberia
+n Sapo National Park
+u Providence Island, Liberia=Providence Island
+@ Ivory Coast
+n Taï National Park
+u Grand-Bassam
+r St. Paul's Cathedral, Abidjan
+n Comoé National Park
+@ Ghana
+b Elmina Castle
+n Kakum National Park
+m Kwame Nkrumah Mausoleum
+m Black Star Gate=Black Star Square
+r Larabanga Mosque
+n Mole National Park
+n Wli Waterfalls
+b Akosombo Dam
+u Nzulezo
+@ Togo
+u Koutammakou
+@ Benin
+b Royal Palaces of Abomey
+m Door of No Return, Ouidah
+n Pendjari National Park
+@ Nigeria
+n Olumo Rock
+r Osun-Osogbo
+n Aso Rock
+r Abuja National Mosque
+n Yankari National Park=Yankari Game Reserve
+n Erin-Ijesha Waterfalls
+n Idanre Hill
+n Obudu Mountain Resort
+a Sukur
+g Third Mainland Bridge
+@ Niger
+n Aïr Mountains
+n Ténéré
+n W National Park
+r Grand Mosque of Niamey
+@ Burkina Faso
+n Sindou Peaks
+a Ruins of Loropéni
+r Grand Mosque of Bobo-Dioulasso
+u Tiébélé
+@ Mali
+a Tomb of Askia
+n Hombori Tondo
+r Sankore Madrasah
+r Djinguereber Mosque
+@ Mauritania
+n Richat Structure
+n Banc d'Arguin National Park
+a Ouadane
+n Ben Amera
+@ Cape Verde
+n Pico do Fogo
+a Cidade Velha
+n Santo Antão=Santo Antão, Cape Verde
+@ Angola
+n Tundavala Gap=Tundavala
+b Fortaleza de São Miguel
+n Miradouro da Lua
+n Iona National Park
+g Serra da Leba
+m Christ the King, Lubango=Christ the King (Lubango)
+@ Zambia
+n South Luangwa National Park
+n Lower Zambezi National Park
+n Kafue National Park
+b Kariba Dam
+n Kasanka National Park
+n Kalambo Falls
+@ Zimbabwe
+n Matobo National Park
+n Hwange National Park
+n Mana Pools National Park
+n Chinhoyi Caves
+a Khami
+n Mutarazi Falls
+@ Malawi
+n Mount Mulanje=Mulanje Massif
+n Liwonde National Park
+n Zomba Plateau
+@ Mozambique
+n Bazaruto Archipelago
+u Island of Mozambique
+n Gorongosa National Park
+n Quirimbas Islands
+b Maputo Railway Station=Maputo railway station
+@ Botswana
+n Chobe National Park
+a Tsodilo
+n Central Kalahari Game Reserve
+n Moremi Game Reserve
+n Kubu Island
+n Nxai Pan National Park
+@ Namibia
+n Skeleton Coast
+n Spitzkoppe
+a Twyfelfontein
+n Cape Cross
+n Deadvlei
+n Waterberg Plateau Park=Waterberg National Park
+n Epupa Falls
+n Quiver Tree Forest
+n Brandberg Mountain
+n Hoba Meteorite=Hoba meteorite
+n Sandwich Harbour
+@ South Africa
+m Robben Island
+u Victoria & Alfred Waterfront
+n Kirstenbosch National Botanical Garden
+u Bo-Kaap
+n Cape Point
+n Lion's Head=Lion's Head (Cape Town)
+n Tsitsikamma National Park
+n Addo Elephant National Park
+g Bloukrans Bridge
+n Cango Caves
+n Cape Agulhas
+n Augrabies Falls
+b Union Buildings
+m Voortrekker Monument
+b Apartheid Museum
+u Soweto
+a Cradle of Humankind
+n Bourke's Luck Potholes
+n Sani Pass
+n Tugela Falls
+n iSimangaliso Wetland Park
+b Moses Mabhida Stadium
+n Hole in the Wall, Eastern Cape=Hole in the Wall, Eastern Cape
+m Big Hole
+a Mapungubwe
+@ Lesotho
+n Maletsunyane Falls
+b Katse Dam
+a Thaba Bosiu
+@ Eswatini
+n Sibebe
+n Mlilwane Wildlife Sanctuary
+@ Madagascar
+n Isalo National Park
+n Ranomafana National Park
+n Andasibe-Mantadia National Park
+n Nosy Be
+n Île Sainte-Marie
+n Ankarana Reserve=Ankarana Special Reserve
+a Royal Hill of Ambohimanga=Ambohimanga
+b Rova of Antananarivo
+n Masoala National Park
+@ Mauritius
+n Seven Coloured Earths
+n Black River Gorges National Park
+n Pamplemousses Botanical Garden=Sir Seewoosagur Ramgoolam Botanical Garden
+n Île aux Cerfs
+n Trou aux Cerfs
+r Ganga Talao
+@ Seychelles
+n Vallée de Mai
+n Aldabra
+n Anse Lazio
+@ Réunion
+n Cirque de Mafate
+n Piton des Neiges
+n Trou de Fer
+@ Comoros
+n Mount Karthala
+@ Saint Helena
+b Jacob's Ladder, Saint Helena=Jacob's Ladder (Saint Helena)
+b Longwood House
+n Tristan da Cunha
+@ Spain (Canary Islands)
+n Mount Teide=Teide
+n Timanfaya National Park
+n Maspalomas Dunes
+n Roque Nublo
+n Garajonay National Park
+n Caldera de Taburiente National Park
+@ Portugal (Madeira)
+n Pico do Arieiro
+n Cabo Girão

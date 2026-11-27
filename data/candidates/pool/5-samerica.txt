@@ -1,0 +1,199 @@
+# South America
+@ Brazil
+b Maracanã Stadium
+n Ipanema
+m Selarón Steps=Escadaria Selarón
+b Museum of Tomorrow
+a Carioca Aqueduct
+b National Congress of Brazil=National Congress Palace
+u Pelourinho
+b Lacerda Elevator
+u Ouro Preto
+r Sanctuary of Bom Jesus de Matosinhos=Sanctuary of Bom Jesus do Congonhas
+r São Paulo Cathedral
+u Paulista Avenue
+b São Paulo Museum of Art
+n Ibirapuera Park
+b Itaipu Dam
+n Jalapão
+n Chapada dos Veadeiros National Park
+n Jericoacoara
+n Meeting of Waters
+a São Miguel das Missões
+u Olinda
+n Alter do Chão
+n Serra da Capivara National Park
+u Paraty
+n Ilha Grande
+b Imperial Museum of Brazil
+b Niterói Contemporary Art Museum
+n Pedra da Gávea
+n Aparados da Serra National Park
+n Curitiba Botanical Garden=Botanical Garden of Curitiba
+g Octávio Frias de Oliveira Bridge
+b Sambadrome Marquês de Sapucaí
+r Church of Nosso Senhor do Bonfim, Salvador
+n Bonito, Mato Grosso do Sul
+@ Argentina
+b Casa Rosada
+b Teatro Colón
+u Caminito
+m La Recoleta Cemetery
+g Puente de la Mujer
+b El Ateneo Grand Splendid
+b Palacio Barolo
+n Quebrada de Humahuaca
+n Salinas Grandes
+g Tren a las Nubes
+n Talampaya National Park
+n Ischigualasto Provincial Park
+n Cerro Torre
+n Nahuel Huapi Lake
+n Lanín
+n Valdes Peninsula
+a Cueva de las Manos
+u Ushuaia
+n Tierra del Fuego National Park
+n Beagle Channel
+n Upsala Glacier
+n Tronador
+n Puente del Inca
+n Iberá Wetlands
+a San Ignacio Miní
+n Quebrada de las Conchas=Quebrada de Cafayate
+@ Chile
+n El Tatio
+b Atacama Large Millimeter Array
+b Paranal Observatory
+m Hand of the Desert=Mano del Desierto
+b Chuquicamata
+u Valparaíso
+b La Moneda Palace
+n San Cristóbal Hill
+b Gran Torre Santiago=Gran Torre Costanera
+n Villarrica Volcano=Villarrica (volcano)
+n Osorno Volcano=Osorno (volcano)
+r Churches of Chiloé
+n Carretera Austral
+n Queulat National Park
+n San Rafael Glacier
+n Grey Glacier
+n Cape Horn
+u Humberstone=Humberstone and Santa Laura Saltpeter Works
+n Lauca National Park
+n Petrohué Waterfalls
+n Robinson Crusoe Island
+n Licancabur
+@ Peru
+a Sacsayhuamán
+a Ollantaytambo
+a Moray=Moray (Inca ruin)
+n Maras Salt Mines=Maras, Peru
+a Pisac
+a Coricancha
+n Huayna Picchu
+a Choquequirao
+n Colca Canyon
+r Santa Catalina Monastery=Santa Catalina Monastery, Arequipa
+n Misti
+a Chan Chan
+a Huaca de la Luna
+a Caral
+a Chavín de Huántar
+n Huascarán
+m Paracas Candelabra
+n Ballestas Islands
+u Plaza Mayor, Lima
+a Huaca Pucllana
+u Iquitos
+n Manú National Park
+n Gocta Cataracts
+n Ausangate
+n Salcantay
+a Sillustani
+n Taquile Island
+@ Bolivia
+n Valle de la Luna, Bolivia=Valle de la Luna (Bolivia)
+n Yungas Road
+n Isla del Sol
+r Basilica of Our Lady of Copacabana
+u Sucre
+n Cerro Rico
+n Nevado Sajama
+n Laguna Verde, Bolivia=Laguna Verde (Bolivia)
+n Madidi National Park
+r Jesuit Missions of Chiquitos
+a El Fuerte de Samaipata
+n Illimani
+n Incahuasi Island=Isla Incahuasi
+g Mi Teleférico
+@ Ecuador
+r Basílica del Voto Nacional
+r Church of the Society of Jesus, Quito=Church of the Society of Jesus (Quito)
+m Mitad del Mundo=Ciudad Mitad del Mundo
+m El Panecillo
+n Chimborazo
+n Pailón del Diablo
+r New Cathedral of Cuenca
+a Ingapirca
+n El Cajas National Park
+n Yasuní National Park
+n Bartolomé Island
+n Tungurahua
+n Cuicocha
+@ Colombia
+r Monserrate
+b Gold Museum, Bogotá=Gold Museum, Bogotá
+r Salt Cathedral of Zipaquirá
+u Plaza Botero=Botero Plaza
+n Tayrona National Natural Park
+a Ciudad Perdida
+a San Agustín Archaeological Park
+n Tatacoa Desert
+b Castillo San Felipe de Barajas
+n Rosario Islands
+n Johnny Cay
+u Villa de Leyva
+u Barichara
+n Chicamocha Canyon
+n Nevado del Ruiz
+n Lake Guatavita
+n Punta Gallinas
+n Serranía de Chiribiquete=Chiribiquete National Park
+@ Venezuela
+n Canaima National Park
+n Los Roques Archipelago=Los Roques archipelago
+n Médanos de Coro National Park
+n Catatumbo Lightning=Catatumbo lightning
+n Pico Bolívar
+g Mérida Cable Car=Mérida cable car
+n Morrocoy National Park
+n Auyán-tepui
+n Cueva del Guácharo National Park
+@ Guyana
+r St. George's Cathedral, Georgetown
+b Stabroek Market
+n Iwokrama Forest
+n Orinduik Falls
+@ Suriname
+r Saint Peter and Paul Cathedral, Paramaribo=Saints Peter and Paul Basilica, Paramaribo
+n Central Suriname Nature Reserve
+b Fort Zeelandia, Paramaribo=Fort Zeelandia (Paramaribo)
+@ French Guiana
+b Guiana Space Centre
+u Devil's Island
+@ Paraguay
+a La Santísima Trinidad de Paraná
+b Palacio de los López
+n Saltos del Monday
+n Cerro Corá National Park
+@ Uruguay
+b Palacio Salvo
+u Colonia del Sacramento
+m La Mano de Punta del Este
+b Casapueblo
+n Cabo Polonio
+b Solís Theatre
+@ Falkland Islands
+r Christ Church Cathedral, Stanley=Christ Church Cathedral (Falkland Islands)
+n Volunteer Point

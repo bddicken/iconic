@@ -1,0 +1,364 @@
+# Asia
+@ Japan
+b Tokyo Skytree
+r Meiji Shrine
+b Tokyo Imperial Palace
+r Nikkō Tōshō-gū
+b Matsumoto Castle
+n Kenroku-en
+n Nachi Falls
+r Ginkaku-ji
+b Nijō Castle
+r Byōdō-in
+r Hōryū-ji
+u Dōtonbori
+b Kumamoto Castle
+n Mount Aso
+n Sakurajima
+n Yakushima
+b Shuri Castle
+n Jigokudani Monkey Park
+n Tottori Sand Dunes
+r Ise Grand Shrine
+u Hashima Island
+n Kamikōchi
+n Matsushima
+r Mount Kōya
+g Rainbow Bridge, Tokyo=Rainbow Bridge (Tokyo)
+n Kegon Falls
+@ South Korea
+b Changdeokgung
+u Bukchon Hanok Village
+b Lotte World Tower
+r Bulguksa
+n Hallasan
+b Hwaseong Fortress
+u Gamcheon Culture Village
+b Dongdaemun Design Plaza
+m Joint Security Area
+@ North Korea
+m Juche Tower
+b Ryugyong Hotel
+b Kumsusan Palace of the Sun
+@ China
+b Shanghai Tower
+u Yu Garden
+b Canton Tower
+n Mount Tai
+n Mount Hua
+n Mount Emei
+b Yellow Crane Tower
+b Three Gorges Dam
+a Yungang Grottoes
+r Hanging Temple
+u Pingyao
+u Old Town of Lijiang
+n Tiger Leaping Gorge
+n Jade Dragon Snow Mountain
+n Honghe Hani Rice Terraces
+n Longji Rice Terraces=Longsheng Rice Terraces
+b Fujian Tulou
+u Humble Administrator's Garden
+r Giant Wild Goose Pagoda
+a Xi'an City Wall=Fortifications of Xi'an
+r Shaolin Monastery
+b Beijing National Stadium
+a Ming Tombs=Ming tombs
+b Jiayu Pass=Jiayu Pass
+n Crescent Lake, Dunhuang=Crescent Lake (Dunhuang)
+n Flaming Mountains
+r Id Kah Mosque
+n Namtso
+r Jokhang
+n Yamdrok Lake
+n Qinghai Lake
+n Hukou Waterfall
+n Tianmen Mountain
+u Hongcun
+u Wuzhen
+b Chengde Mountain Resort
+m Sun Yat-sen Mausoleum
+r Three Pagodas
+n Huanglong
+b Dujiangyan
+r Saint Sophia Cathedral, Harbin
+n Wuyi Mountains
+@ Hong Kong
+n Victoria Peak
+b Bank of China Tower=Bank of China Tower (Hong Kong)
+@ Macau
+b Macau Tower
+@ Taiwan
+n Taroko Gorge=Taroko National Park
+n Sun Moon Lake
+m Chiang Kai-shek Memorial Hall
+u Jiufen
+n Alishan=Alishan National Scenic Area
+n Yehliu
+b National Palace Museum
+@ Mongolia
+r Erdene Zuu Monastery
+r Gandantegchinlen Monastery
+n Flaming Cliffs
+n Gorkhi-Terelj National Park
+@ Thailand
+r Wat Pho
+r Wat Phra Kaew
+r Wat Phra That Doi Suthep
+a Sukhothai Historical Park
+n Railay Beach
+n Erawan Falls=Erawan National Park
+n Similan Islands
+r Sanctuary of Truth
+n Doi Inthanon
+u Damnoen Saduak Floating Market
+a Phanom Rung=Phanom Rung Historical Park
+@ Cambodia
+r Bayon
+r Ta Prohm
+r Banteay Srei
+b Royal Palace, Phnom Penh=Royal Palace of Cambodia
+r Preah Vihear Temple
+n Tonlé Sap
+@ Laos
+n Kuang Si Falls
+r Pha That Luang
+r Wat Xieng Thong
+m Patuxai
+n Vang Vieng
+n Khone Phapheng Falls
+@ Vietnam
+n Hoàn Kiếm Lake
+m Ho Chi Minh Mausoleum
+r Temple of Literature, Hanoi
+b Imperial City of Huế=Imperial City, Huế
+n Phong Nha-Kẻ Bàng National Park
+n Sơn Đoòng Cave=Hang Sơn Đoòng
+a Mỹ Sơn
+n Sa Pa
+n Tràng An=Tràng An Scenic Landscape Complex
+r Notre-Dame Cathedral Basilica of Saigon
+a Củ Chi Tunnels=Củ Chi tunnels
+n Ban Gioc–Detian Falls
+g Dragon Bridge, Da Nang=Dragon Bridge (Da Nang)
+@ Myanmar
+n Inle Lake
+g U Bein Bridge
+b Mandalay Palace
+a Mrauk U
+r Mingun Pahtodawgyi
+@ Malaysia
+r Kek Lok Si
+u George Town, Penang
+b Sultan Abdul Samad Building
+g Langkawi Sky Bridge
+n Gunung Mulu National Park
+n Sipadan
+r Putra Mosque
+a A Famosa
+n Cameron Highlands
+@ Singapore
+m Merlion
+b Singapore Flyer
+b Raffles Hotel
+b Jewel Changi Airport
+@ Brunei
+b Istana Nurul Iman
+r Jame' Asr Hassanil Bolkiah Mosque
+@ Indonesia
+n Mount Rinjani
+n Kelimutu
+n Lake Toba
+r Uluwatu Temple
+r Besakih Temple
+m National Monument, Jakarta=National Monument (Indonesia)
+r Istiqlal Mosque, Jakarta
+n Ijen
+n Krakatoa
+u Tana Toraja=Tana Toraja Regency
+n Nusa Penida
+n Mount Merapi
+n Puncak Jaya
+r Tirta Empul
+n Gili Islands
+@ Timor-Leste
+m Cristo Rei of Dili
+@ Philippines
+n Taal Volcano
+n Puerto Princesa Underground River=Puerto Princesa Subterranean River National Park
+n El Nido=El Nido, Palawan
+n Boracay
+b Intramuros
+m Rizal Park
+n Mount Pinatubo
+u Vigan
+n Hundred Islands National Park
+n Tubbataha Reef=Tubbataha Natural Park
+@ India
+b Humayun's Tomb
+r Jama Masjid, Delhi
+r Akshardham, Delhi=Swaminarayan Akshardham (Delhi)
+b Agra Fort
+a Fatehpur Sikri
+b City Palace, Jaipur
+b Jantar Mantar, Jaipur
+b City Palace, Udaipur
+b Jaisalmer Fort
+b Chittor Fort
+r Ranakpur Jain Temple=Ranakpur Jain temple
+a Khajuraho=Khajuraho Group of Monuments
+a Sanchi
+a Ajanta Caves
+a Elephanta Caves
+b Chhatrapati Shivaji Terminus
+m Statue of Unity
+n Rann of Kutch
+b Golconda
+m Charminar
+r Konark Sun Temple
+b Victoria Memorial, Kolkata
+g Howrah Bridge
+n Kangchenjunga
+r Mahabodhi Temple
+a Nalanda=Nalanda mahavihara
+n Kaziranga National Park
+g Living Root Bridges=Living root bridge
+r Tawang Monastery
+r Brihadisvara Temple=Brihadisvara Temple, Thanjavur
+r Shore Temple
+n Kerala Backwaters=Kerala backwaters
+m Vivekananda Rock Memorial
+b Gol Gumbaz
+n Jog Falls
+n Pangong Tso
+r Thiksey Monastery
+n Dal Lake
+r Kedarnath Temple
+r Key Monastery
+r Basilica of Bom Jesus
+n Dudhsagar Falls
+r Tirumala Venkateswara Temple=Venkateswara Temple, Tirumala
+b Gwalior Fort
+a Rani ki Vav=Rani ki vav
+b Kumbhalgarh
+n Ranthambore National Park
+b Umaid Bhawan Palace
+m Gommateshwara Statue=Gommateshwara statue
+n Valley of Flowers=Valley of Flowers National Park
+@ Pakistan
+r Faisal Mosque
+b Lahore Fort
+m Minar-e-Pakistan
+n Hunza Valley
+n Nanga Parbat
+n Fairy Meadows
+m Mazar-e-Quaid
+n Attabad Lake
+b Derawar Fort
+b Rohtas Fort
+a Taxila
+r Wazir Khan Mosque
+b Baltit Fort
+n Deosai National Park
+n Khyber Pass
+@ Bangladesh
+r Sixty Dome Mosque
+b Lalbagh Fort
+b Jatiya Sangsad Bhaban
+n Cox's Bazar Beach
+a Somapura Mahavihara
+b Ahsan Manzil
+@ Sri Lanka
+r Dambulla Cave Temple=Dambulla cave temple
+n Adam's Peak
+g Nine Arches Bridge=Nine Arch Bridge
+b Galle Fort
+a Polonnaruwa
+r Ruwanwelisaya
+n Yala National Park
+n Horton Plains National Park
+b Lotus Tower
+@ Nepal
+r Swayambhunath
+r Pashupatinath Temple
+u Kathmandu Durbar Square
+u Bhaktapur Durbar Square
+u Patan Durbar Square
+r Lumbini
+n Phewa Lake
+n Chitwan National Park
+n Ama Dablam
+r Tengboche Monastery
+@ Bhutan
+b Punakha Dzong
+m Buddha Dordenma=Buddha Dordenma statue
+b Tashichho Dzong
+n Dochula Pass
+@ Uzbekistan
+b Gur-e-Amir
+r Shah-i-Zinda
+r Bibi-Khanym Mosque
+b Ark of Bukhara
+b Chor Minor
+n Aral Sea
+@ Kazakhstan
+m Baiterek=Bayterek (monument)
+b Khan Shatyr=Khan Shatyr Entertainment Center
+n Lake Kaindy
+n Big Almaty Lake
+b Baikonur Cosmodrome
+n Khan Tengri
+@ Kyrgyzstan
+a Burana Tower
+n Ala Archa National Park
+n Song-Köl=Song-Köl
+a Tash Rabat
+n Sulayman Mountain
+@ Tajikistan
+n Iskanderkul
+n Pamir Highway
+n Ismoil Somoni Peak
+@ Turkmenistan
+a Konye-Urgench
+a Nisa=Nisa, Turkmenistan
+n Yangykala Canyon
+m Neutrality Monument
+@ Afghanistan
+r Blue Mosque, Mazar-i-Sharif=Blue Mosque (Mazar-i-Sharif)
+a Minaret of Jam
+r Friday Mosque of Herat=Great Mosque of Herat
+@ Georgia
+b Narikala
+a Vardzia
+r Svetitskhoveli Cathedral
+u Ushguli
+a Uplistsikhe
+g Bridge of Peace
+@ Armenia
+r Khor Virap
+r Geghard
+r Tatev Monastery
+a Temple of Garni=Garni Temple
+r Sevanavank
+m Yerevan Cascade
+r Etchmiadzin Cathedral
+@ Azerbaijan
+b Flame Towers
+b Maiden Tower, Baku=Maiden Tower (Baku)
+b Heydar Aliyev Center
+a Gobustan Rock Art=Gobustan State Historical and Cultural Reserve
+@ Russia
+n Lake Teletskoye
+n Ergaki
+n Mir Mine=Mir mine
+u Oymyakon
+n Kurile Lake
+n Avachinsky
+n Tolbachik
+n Wrangel Island
+b Novosibirsk Opera and Ballet Theatre
+r Ivolginsky Datsan
+r Church on Blood, Yekaterinburg=Church of All Saints, Yekaterinburg
+n Olkhon Island
+n Cape Dezhnev
+n Kungur Ice Cave

@@ -119,6 +119,27 @@ Wikimedia rate-limits anonymous scripts, so a first full run takes several minut
 waits out the limits by itself). Setting `WIKIMEDIA_CONTACT` to a URL or email identifies
 the script the way Wikimedia asks and is worth doing before building thousands of entries.
 
+### Adding a large batch
+
+`data/candidates/` holds a pool of several thousand candidate places that are not on the map
+yet, so a new round does not start from nothing:
+
+- `pool/*.txt`: the candidates, grouped by region and country. One place per line as
+  `<letter> Name` or `<letter> Name=Wikipedia title`, where the letter is the category
+  (`n` natural, `b` building, `r` religious, `a` ancient, `m` monument, `u` urban, `g` bridge).
+- `musts.txt`: names to pick regardless of traffic. `drops.txt`: names (or `@ Country`) never
+  to pick. `keeps.txt`: towns and streets that count as landmarks despite the filter below.
+- `wiki-cache.json`: what Wikipedia said about each candidate, so reruns are fast.
+
+`node scripts/select-candidates.mjs` checks every candidate against Wikipedia, discards the
+ones that cannot be used (no article, coordinates or free photo; already on the map; plain
+cities, stadiums, rivers and the like) and prints its pick: per region, the most-read place
+of each country, then the rest by page views under a per-country cap. Set `QUOTA` and `CAP`
+at the top of the script for the batch size, read the list, move anything unwanted into
+`drops.txt`, rerun, and finish with `--apply` to append the pick to the seed file. Then
+build and review as above. Places already in the seed are skipped, so the same pool serves
+every later round; add new ideas to `pool/9-more.txt`.
+
 ## Photo galleries
 
 Opening a landmark shows its main photo first, then up to three more. The build picks them

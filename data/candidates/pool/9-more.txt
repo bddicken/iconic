@@ -1,0 +1,7822 @@
+# Europe
+@ France
+b Palais Garnier
+b Panthéon
+u Place de la Concorde
+u Père Lachaise Cemetery
+r Sainte-Chapelle
+u Champs-Élysées
+b Moulin Rouge
+b Palace of Fontainebleau
+b Grand Palais
+b Palais des Papes
+b Château de Chambord
+n Gorges du Verdon=Verdon Gorge
+n Calanques National Park
+n Aiguille du Midi
+n Mer de Glace
+u Colmar
+u Annecy
+u Promenade des Anglais
+r Rouen Cathedral
+r Amiens Cathedral
+r Basilica of Notre-Dame de Fourvière
+b Château de Chantilly
+b Château de Villandry
+n Cirque de Gavarnie
+n Lascaux
+a Carnac stones
+a Arènes de Nîmes=Arena of Nîmes
+a Maison carrée
+u Saint-Tropez
+u Lourdes=Sanctuary of Our Lady of Lourdes
+b La Défense
+n Mont Ventoux
+@ United Kingdom
+b Royal Albert Hall
+b Shakespeare's Globe
+b Radcliffe Camera
+u Kew Gardens
+b Eden Project
+b Royal Pavilion
+u Piccadilly Circus
+b Hampton Court Palace
+r King's College Chapel, Cambridge
+b Battersea Power Station
+b The Gherkin=30 St Mary Axe
+u Portmeirion
+b Caernarfon Castle
+b Conwy Castle
+b Warwick Castle
+b Bamburgh Castle
+b Alnwick Castle
+b Balmoral Castle
+b Holyrood Palace
+g Glenfinnan Viaduct
+m The Kelpies
+n Ben Nevis
+n Loch Ness
+n Seven Sisters, Sussex
+n Windermere
+n Cheddar Gorge
+n Fingal's Cave
+n Jurassic Coast
+u The Shambles
+r Canterbury Cathedral
+r Salisbury Cathedral
+r Lincoln Cathedral
+r Rosslyn Chapel
+u Royal Crescent
+g The Iron Bridge
+g Gateshead Millennium Bridge
+a Avebury
+a Skara Brae
+a Tintagel Castle
+a Glastonbury Tor
+b Blackpool Tower
+b Chatsworth House
+b Wembley Stadium
+n Glen Coe
+n Scafell Pike
+n Lulworth Cove
+n The Needles
+b Dover Castle
+b Carrick-a-Rede Rope Bridge
+n Dark Hedges=The Dark Hedges
+@ Germany
+b Elbphilharmonie
+b Semperoper
+r Frauenkirche, Dresden
+r Ulm Minster
+b Hohenzollern Castle
+b Wartburg
+b Linderhof Palace
+b Herrenchiemsee
+b Charlottenburg Palace
+b Nymphenburg Palace
+b Schwerin Castle
+u Rothenburg ob der Tauber
+u Speicherstadt
+u Marienplatz
+n Königssee
+n Saxon Switzerland
+n Lorelei
+g Rakotzbrücke
+m Memorial to the Murdered Jews of Europe
+m Walhalla=Walhalla (memorial)
+m Monument to the Battle of the Nations
+b Zollverein=Zollverein Coal Mine Industrial Complex
+b Allianz Arena
+u Olympiapark, Munich=Olympiapark (Munich)
+b Holstentor
+a Porta Nigra
+b Bastei
+n Black Forest
+n Rügen chalk cliffs=Jasmund National Park
+b Lichtenstein Castle=Lichtenstein Castle (Württemberg)
+b Würzburg Residence
+u Quedlinburg
+u Hofbräuhaus=Hofbräuhaus am Platzl
+b Berlin Cathedral
+u Potsdamer Platz
+u Alexanderplatz
+b Wuppertal Schwebebahn
+n Partnach Gorge
+n Eibsee
+u Miniatur Wunderland
+@ Netherlands
+b Royal Palace of Amsterdam
+b Cube house
+b Markthal
+g Erasmusbrug
+u Giethoorn
+b Peace Palace
+m Afsluitdijk
+b Delta Works
+b Euromast
+u Madurodam
+u Dam Square
+b Binnenhof
+u Canals of Amsterdam
+b De Haar Castle
+r Dom Tower of Utrecht
+u Volendam
+n Wadden Sea
+u Vrijthof
+@ Belgium
+m Manneken Pis
+b Belfry of Bruges
+b Gravensteen
+m Lion's Mound
+b Antwerpen-Centraal railway station
+r Cathedral of Our Lady (Antwerp)
+m Menin Gate
+r St. Bavo's Cathedral, Ghent=St Bavo's Cathedral, Ghent
+u Dinant
+b Royal Palace of Brussels
+u Graslei
+n Hallerbos
+b Bouillon Castle
+@ Spain
+b Palau de la Música Catalana
+b Casa Batlló
+u Plaza Mayor, Madrid
+u Plaza de España, Seville
+u La Rambla, Barcelona
+b Camp Nou
+b Santiago Bernabéu Stadium
+b Metropol Parasol
+r Santiago de Compostela Cathedral
+r Burgos Cathedral
+r Toledo Cathedral
+r Montserrat Abbey=Santa Maria de Montserrat Abbey
+b Alcázar of Segovia
+a Aqueduct of Segovia
+g Puente Nuevo
+n Picos de Europa
+n Caminito del Rey
+n Cíes Islands
+n Timanfaya National Park
+b Torre del Oro
+r Palma Cathedral
+a Roman Theatre of Mérida=Roman Theatre (Mérida)
+a Tower of Hercules
+a Cave of Altamira
+b Giralda
+b Generalife
+u Albaicín
+u Puerta del Sol
+b City of Arts and Sciences
+u Retiro Park=Parque del Buen Retiro
+n Ordesa y Monte Perdido National Park
+n Roque Nublo
+n Las Médulas
+n Bardenas Reales
+u Ronda
+u Cadaqués
+b Loarre Castle
+n Playa de las Catedrales=As Catedrais beach
+r Basilica of Our Lady of the Pillar=Cathedral-Basilica of Our Lady of the Pillar
+n Es Vedrà
+n Covadonga Lakes=Lakes of Covadonga
+u Setenil de las Bodegas
+@ Italy
+b La Scala
+b La Fenice
+b Galleria Vittorio Emanuele II
+b Palazzo Vecchio
+b Palazzo Pitti
+b Castel Sant'Angelo
+b Castel del Monte=Castel del Monte, Apulia
+b Royal Palace of Caserta
+b Sforza Castle
+b Mole Antonelliana
+u Piazza San Marco
+u Piazza del Campo
+u Spanish Steps
+g Bridge of Sighs
+r Santa Maria delle Grazie, Milan
+r Santa Maria Maggiore
+r Florence Baptistery
+r Siena Cathedral
+r Orvieto Cathedral
+r Monreale Cathedral
+r Basilica of San Vitale
+a Hadrian's Villa
+b Villa d'Este
+a Baths of Caracalla
+a Appian Way
+a Circus Maximus
+a Paestum
+a Verona Arena
+a Ostia Antica
+a Su Nuraxi=Su Nuraxi (Barumini)
+u Burano
+u Positano
+u Civita di Bagnoregio
+n Blue Grotto, Capri=Blue Grotto (Capri)
+n Scala dei Turchi
+n Isola Bella=Isola Bella (Lago Maggiore)
+n Marmolada
+n Gran Paradiso
+b Juliet's House=Casa di Giulietta
+m Altare della Patria=Victor Emmanuel II Monument
+n Lago di Braies=Pragser Wildsee
+n Seceda
+n Lake Garda
+n Faraglioni
+u Portofino
+u San Gimignano
+u Val d'Orcia
+u Ravello
+n Stromboli
+n Cala Goloritzé
+u Manarola
+u Bellagio=Bellagio, Lombardy
+a Villa Romana del Casale
+a Ancient theatre of Taormina
+r Basilica of Saint Anthony of Padua
+r Certosa di Pavia
+u Lucca
+u Trulli of Alberobello=Alberobello
+n Alpe di Siusi=Seiser Alm
+n Lake Como
+r Sacra di San Michele
+@ Vatican City
+r Sistine Chapel
+u St. Peter's Square
+@ Austria
+b Vienna State Opera
+b Hundertwasserhaus
+b Wiener Riesenrad
+r Melk Abbey
+n Grossglockner
+n Eisriesenwelt
+n Krimml Waterfalls
+b Mirabell Palace
+b Goldenes Dachl
+r Karlskirche
+b Secession Building
+b Hofburg
+u Getreidegasse
+n Wolfgangsee
+b Hohenwerfen Castle
+n Grossglockner High Alpine Road
+b Kreuzenstein Castle
+u Prater
+r Admont Abbey
+n Achensee
+b Ambras Castle
+n Zell am See
+@ Switzerland
+g Kapellbrücke
+b Palace of Nations
+m Jet d'Eau
+n Aletsch Glacier
+n Eiger
+n Lauterbrunnen
+n Lake Geneva
+n Creux du Van
+n Oeschinen Lake
+n Pilatus=Pilatus (mountain)
+n Titlis
+n Rigi
+g Landwasser Viaduct
+r Abbey of Saint Gall
+u Old City of Bern=Old City (Bern)
+n Gornergrat
+n Jungfraujoch
+b Castles of Bellinzona
+n Lake Lucerne
+n Staubbach Falls
+n Schilthorn
+n Lake Brienz
+n Verzasca Dam=Contra Dam
+m Lion Monument
+u Grindelwald
+n Säntis
+n Seealpsee
+b Gotthard Pass
+n Blausee
+u Stein am Rhein
+@ Russia
+b Bolshoi Theatre
+b Mariinsky Theatre
+b Moscow State University main building=Main building of Moscow State University
+b GUM=GUM (department store)
+b Peter and Paul Fortress
+b Kazan Kremlin
+r Kazan Cathedral, Saint Petersburg
+b Lakhta Center
+m Worker and Kolkhoz Woman
+m Bronze Horseman
+u VDNKh
+r Trinity Lavra of St. Sergius
+r Novodevichy Convent
+u Nevsky Prospect
+b Moscow International Business Center
+b Ostankino Tower
+r Cathedral of Christ the Saviour
+r Smolny Cathedral
+b Palace Square
+u Arbat Street
+m Mamayev Kurgan
+r Kul Sharif Mosque
+b Pavlovsk Palace
+u Suzdal
+b Rostov Kremlin
+b Novgorod Kremlin=Novgorod Detinets
+b Nizhny Novgorod Kremlin
+r Church of the Intercession on the Nerl
+n Ruskeala
+n Curonian Spit
+b Königsberg Cathedral
+b Kolomenskoye
+b Tsaritsyno Palace
+b Gatchina Palace
+r Valaam Monastery
+r Kirillo-Belozersky Monastery
+b Izmailovo Kremlin
+n Lake Ladoga
+n Dombay
+@ Greece
+a Temple of Olympian Zeus, Athens
+a Ancient Agora of Athens
+a Odeon of Herodes Atticus
+a Erechtheion
+a Temple of Hephaestus
+a Ancient Theatre of Epidaurus
+a Cape Sounion=Sounion
+a Mystras
+a Lindos
+m White Tower of Thessaloniki
+u Plaka
+u Oia=Oia, Greece
+b Palace of the Grand Master of the Knights of Rhodes
+n Samaria Gorge
+n Melissani Cave
+n Vikos Gorge
+u Monemvasia
+b Panathenaic Stadium
+b Corinth Canal
+u Mykonos windmills
+a Olympia=Olympia, Greece
+a Delos
+n Mount Olympus
+n Myrtos Beach
+n Elafonisi
+n Porto Katsiki
+a Akrotiri=Akrotiri (prehistoric city)
+u Nafplio
+a Vergina
+u Chora of Patmos=Monastery of Saint John the Theologian
+n Sarakiniko=Sarakiniko Beach
+u Symi
+r Hosios Loukas
+a Ancient Corinth
+a Dodona
+n Lake Plastira
+u Hydra=Hydra (island)
+u Spinalonga
+n Prespa
+a Phaistos
+@ Turkey
+a Basilica Cistern
+r Selimiye Mosque
+b Maiden's Tower
+a Aspendos
+a Hierapolis
+a Ani
+a Aphrodisias
+a Pergamon
+m Anıtkabir
+n Akdamar Island
+n Butterfly Valley, Fethiye
+n Ölüdeniz
+g Bosphorus Bridge
+u Taksim Square
+u İstiklal Avenue
+r Chora Church
+b Rumelihisarı
+u Safranbolu
+u Mardin
+n Uzungöl
+n Lake Tuz
+b Dolmabahçe Palace
+u Grand Bazaar, Istanbul
+r Süleymaniye Mosque
+a Hattusa
+a Göreme=Göreme National Park
+n Ihlara Valley
+a Side=Side, Turkey
+a Temple of Apollo (Didyma)=Didyma
+a Miletus
+a Perge
+a Myra
+a Bodrum Castle
+u Alaçatı
+u Kaleiçi
+n Düden Waterfalls
+n Lake Van
+n Saklıkent National Park
+a Sagalassos
+r Ortaköy Mosque
+u Spice Bazaar=Spice Bazaar, Istanbul
+u Ishak Pasha Palace
+r Rüstem Pasha Mosque
+n Kaputaş Beach
+a Termessos
+a Xanthos
+b Galata Bridge
+a Hasankeyf
+r Divriği Great Mosque and Hospital
+n Mount Erciyes
+n Köprülü Canyon
+n Lake Salda
+@ Portugal
+b Livraria Lello
+b São Jorge Castle
+u Praça do Comércio
+g Dom Luís I Bridge
+g 25 de Abril Bridge
+b Santa Justa Lift
+b Quinta da Regaleira
+b University of Coimbra
+r Batalha Monastery
+r Sanctuary of Fátima
+r Bom Jesus do Monte
+m Padrão dos Descobrimentos
+m Sanctuary of Christ the King
+a Roman Temple of Évora
+b Castle of the Moors
+n Cabo da Roca
+n Lagoa das Sete Cidades
+n Mount Pico
+n Ponta da Piedade
+r Convent of Christ, Tomar=Convent of Christ (Tomar)
+b Palace of Mafra
+r Clérigos Church
+u Ribeira, Porto=Ribeira (Porto)
+u Óbidos=Óbidos, Portugal
+r Jerónimos Monastery
+r Alcobaça Monastery
+b Castle of Guimarães
+n Peneda-Gerês National Park
+r Capela dos Ossos
+u Alfama
+n Berlengas
+u Monsanto=Monsanto (Idanha-a-Nova)
+n Furnas
+n Cabo de São Vicente=Cape St. Vincent
+b Palace of Queluz=Queluz National Palace
+b Bussaco Palace
+u Nazaré=Nazaré, Portugal
+n Praia da Marinha
+b Vasco da Gama Bridge
+b Almourol Castle=Castle of Almourol
+n Lagoa do Fogo
+@ Poland
+b Palace of Culture and Science
+b Wawel Castle
+b Wilanów Palace
+u Old Town Market Place, Warsaw
+u Long Market
+n Morskie Oko
+n Białowieża Forest
+n Słowiński National Park
+b Książ Castle
+b Centennial Hall
+r Jasna Góra Monastery
+n Crooked Forest
+b Wolf's Lair
+b Moszna Castle
+b Royal Castle, Warsaw
+b Łazienki Palace
+u Kazimierz
+u Wrocław Market Square=Market Square, Wrocław
+b Malbork Castle
+u Zamość
+r Churches of Peace
+n Tatra National Park, Poland
+n Giewont
+b Gdańsk Crane=The Crane (Gdańsk)
+m Westerplatte
+n Masurian Lake District
+r St. Mary's Church, Gdańsk
+b Niedzica Castle
+n Dunajec River Gorge
+u Toruń Old Town=Medieval Town of Toruń
+u Poznań Old Market Square=Old Market Square, Poznań
+n Śnieżka
+b Ogrodzieniec Castle
+u Kazimierz Dolny
+r Wang Church=Vang Stave Church
+n Błędne Skały
+u Zalipie=Zalipie, Lesser Poland Voivodeship
+b Elbląg Canal
+n Hel Peninsula
+@ Czech Republic
+b Dancing House
+m Prague astronomical clock
+r St. Vitus Cathedral
+b Karlštejn
+r Sedlec Ossuary
+u Wenceslas Square
+b Hluboká Castle
+b Lednice Castle=Lednice–Valtice Cultural Landscape
+n Pravčická brána
+n Macocha Abyss=Macocha Gorge
+b Villa Tugendhat
+r St. Barbara's Church, Kutná Hora
+b Strahov Monastery
+b Clementinum
+b Powder Tower=Powder Tower (Prague)
+u Karlovy Vary
+m Lennon Wall
+b Žižkov Television Tower
+u Telč
+n Adršpach-Teplice Rocks
+b Vyšehrad
+b Bouzov Castle
+r Holy Trinity Column in Olomouc
+b Špilberk Castle
+u Golden Lane
+b Ještěd Tower
+n Prachov Rocks
+b Křivoklát Castle
+u Old Jewish Cemetery, Prague
+b Kroměříž Castle=Kroměříž Archbishop's Palace
+u Mikulov
+b Pernštejn Castle
+b Loket Castle
+@ Hungary
+b Hungarian State Opera House
+b Széchenyi thermal bath
+r St. Stephen's Basilica
+r Dohány Street Synagogue
+m Heroes' Square, Budapest=Hősök tere
+b Great Market Hall, Budapest=Great Market Hall (Budapest)
+n Lake Balaton
+n Lake Hévíz
+r Pannonhalma Archabbey
+r Esztergom Basilica
+b Gellért Baths
+m Shoes on the Danube Bank
+b Vajdahunyad Castle
+n Hortobágy National Park
+b Castle of Eger
+b Buda Castle
+b Fisherman's Bastion
+r Matthias Church
+m Liberty Statue, Budapest=Liberty Statue (Budapest)
+u Margaret Island
+b Festetics Palace
+n Aggtelek National Park
+u Szentendre
+u Tihany
+n Tapolca Lake Cave=Tapolca
+b Visegrád citadel=Visegrád
+u Hollókő
+b Royal Palace of Gödöllő
+b New York Café
+u Andrássy Avenue=Andrássy út
+b Eszterháza
+u Váci Street
+b Citadella
+u Széchenyi Square, Pécs=Széchenyi Square (Pécs)
+r Reformed Great Church of Debrecen
+b Tokaj wine region
+b Budapest Keleti station=Budapest Keleti railway station
+@ Denmark
+b Rosenborg Castle
+b Amalienborg
+b Christiansborg Palace
+b Frederiksborg Castle
+g Øresund Bridge
+g Great Belt Bridge=Great Belt Fixed Link
+u Freetown Christiania
+b Rundetaarn=Round Tower (Copenhagen)
+b Copenhagen Opera House
+n Møns Klint
+n Råbjerg Mile
+r Roskilde Cathedral
+a Jelling stones
+u Legoland Billund=Legoland Billund Resort
+b Egeskov Castle
+r Grundtvig's Church
+u Tivoli Gardens
+m The Little Mermaid=The Little Mermaid (statue)
+n Grenen
+n Rubjerg Knude Lighthouse
+r Church of Our Saviour, Copenhagen
+u Strøget
+b Kronborg
+n Stevns Klint
+u Ribe
+b Hammershus
+b Børsen
+r Frederik's Church
+u Den Gamle By
+m Men at Sea=Man Meets the Sea
+b Koldinghus
+n Bornholm
+@ Sweden
+b Stockholm City Hall
+b Drottningholm Palace
+b Stockholm Palace
+u Gamla stan
+b Turning Torso
+b Avicii Arena
+b Icehotel=Icehotel (Jukkasjärvi)
+n Abisko National Park
+n Kebnekaise
+n Sarek National Park
+u Visby
+a Ale's Stones
+r Uppsala Cathedral
+b Kalmar Castle
+b Stockholm Public Library
+b Göta Canal
+u Liseberg
+b Gripsholm Castle
+u Skansen
+n High Coast
+u Stockholm archipelago
+r Lund Cathedral
+n Kungsleden
+u Gammelstad Church Town
+b Öland Bridge
+a Birka
+u Smögen
+n Stora Sjöfallet National Park
+b Örebro Castle
+n Lake Siljan=Siljan (lake)
+b Kaknäs Tower=Kaknästornet
+b Treehotel
+n Tännforsen
+b Läckö Castle
+u Haga, Gothenburg
+b Royal Swedish Opera
+u Stockholm Metro
+n Skuleskogen National Park
+a Tanum rock carvings=Rock Carvings in Tanum
+b Sigtuna
+n Njupeskär
+@ Finland
+r Temppeliaukio Church
+r Uspenski Cathedral
+b Helsinki Central Station
+b Oodi=Helsinki Central Library Oodi
+b Olavinlinna
+b Turku Castle
+r Turku Cathedral
+u Santa Claus Village
+n Koli National Park
+n Saimaa
+n Nuuksio National Park
+n Lake Inari
+n Urho Kekkonen National Park
+m Sibelius Monument
+b Finlandia Hall
+u Old Rauma
+u Porvoo
+r Kamppi Chapel
+u Suomenlinna
+r Helsinki Cathedral
+b Hämeenlinna castle=Häme Castle
+n Pallas-Yllästunturi National Park
+n Oulanka National Park
+n Åland
+u Market Square, Helsinki
+b Helsinki Olympic Stadium
+n Pyhä-Luosto National Park
+r Petäjävesi Old Church
+b Bengtskär
+n Saana
+b Kemi SnowCastle=SnowCastle of Kemi
+u Levi, Finland
+n Lemmenjoki National Park
+u Naantali
+n Kvarken=Kvarken Archipelago
+n Repovesi National Park
+@ Iceland
+b Harpa=Harpa (concert hall)
+n Dettifoss
+n Goðafoss
+n Seljalandsfoss
+n Dynjandi
+n Svartifoss
+n Reynisfjara
+n Dyrhólaey
+n Landmannalaugar
+n Askja
+n Mývatn
+n Hekla
+n Eyjafjallajökull
+n Vatnajökull
+n Fjaðrárgljúfur
+n Snæfellsjökull
+n Látrabjarg
+n Stuðlagil
+n Fagradalsfjall
+n Silfra
+n Ásbyrgi=Ásbyrgi Canyon
+n Hvítserkur
+n Kerið
+n Strokkur
+m Sun Voyager
+n Vestrahorn
+n Hraunfossar
+r Hallgrímskirkja
+n Þingvellir
+n Skaftafell
+n Surtsey
+n Hornstrandir
+n Þórsmörk
+n Háifoss
+n Krafla
+n Námafjall
+n Aldeyjarfoss
+n Glymur
+n Westman Islands=Vestmannaeyjar
+n Grímsey
+n Langjökull
+n Katla=Katla (volcano)
+n Hengifoss
+n Eldgjá
+n Laki
+n Kirkjufell
+n Arnarstapi
+@ Ireland
+b Trinity College Library=Library of Trinity College Dublin
+b Dublin Castle
+b Blarney Castle
+b Kylemore Abbey
+r St Patrick's Cathedral, Dublin
+r Glendalough
+a Poulnabrone dolmen
+a Dún Aonghasa
+n Ring of Kerry
+n Slieve League
+n The Burren
+n Killarney National Park
+n Croagh Patrick
+n Gap of Dunloe
+n Dingle Peninsula
+g Ha'penny Bridge
+m Spire of Dublin
+u Temple Bar, Dublin
+b Bunratty Castle
+b Kilkenny Castle
+b Powerscourt Estate
+b General Post Office, Dublin
+n Carrauntoohil
+n Connemara National Park
+b Muckross House
+b Guinness Storehouse
+b Kilmainham Gaol
+r Rock of Cashel
+a Newgrange
+n Aran Islands
+b Ashford Castle
+n Benbulbin
+a Hill of Tara
+r Clonmacnoise
+n Glenveagh National Park
+b Dunguaire Castle
+n Achill Island
+n Wicklow Mountains National Park
+u Cobh
+u Kinsale
+b Ross Castle
+b Malahide Castle
+n Mizen Head
+u Grafton Street
+u Phoenix Park
+r Christ Church Cathedral, Dublin
+n Fastnet Rock=Fastnet Lighthouse
+@ Ukraine
+m Mother Ukraine
+r Saint Sophia Cathedral, Kyiv
+r St. Michael's Golden-Domed Monastery
+r St Andrew's Church, Kyiv
+b Odesa Opera and Ballet Theater
+m Potemkin Stairs
+u Maidan Nezalezhnosti
+b Khotyn Fortress
+b Kamianets-Podilskyi Castle
+u Old Town, Lviv=Old Town (Lviv)
+b Lviv Opera=Lviv Theatre of Opera and Ballet
+n Tunnel of Love, Klevan=Tunnel of Love (Ukraine)
+n Hoverla
+n Synevyr
+b Pidhirtsi Castle
+b Golden Gate, Kyiv
+b Derzhprom
+n Askania-Nova
+b Palanok Castle
+r Kyiv Pechersk Lavra
+b Chernivtsi University=Residence of Bukovinian and Dalmatian Metropolitans
+u Andriivskyi Descent
+u Khreshchatyk
+b House with Chimaeras
+b Sofiyivka Park
+b Olesko Castle
+b Lutsk Castle=Lubart's Castle
+n Dzharylhach
+b Akkerman Fortress=Bilhorod-Dnistrovskyi fortress
+b Mariinskyi Palace
+r Pochaiv Lavra
+n Khortytsia
+r St. George's Cathedral, Lviv
+n Bakota
+r Sviatohirsk Lavra
+u Deribasivska Street
+n Shatsk Lakes=Shatsk National Natural Park
+n Oleshky Sands
+u Rynok Square
+u Lychakiv Cemetery
+
+# Asia
+@ Japan
+b Tokyo Skytree
+u Shibuya Crossing
+r Sensō-ji
+r Meiji Shrine
+b Tokyo Imperial Palace
+u Dōtonbori
+r Tōdai-ji
+r Kiyomizu-dera
+u Arashiyama
+r Ginkaku-ji
+r Sanjūsangen-dō
+u Gion
+u Nara Park
+b Matsumoto Castle
+b Nijō Castle
+n Kegon Falls
+r Nikkō Tōshō-gū
+n Lake Kawaguchi
+n Mount Aso
+n Jigokudani Monkey Park
+u Kenroku-en
+b Kumamoto Castle
+r Kōtoku-in
+n Takachiho Gorge=Takachiho, Miyazaki
+n Yakushima
+n Shiretoko National Park
+n Tottori Sand Dunes
+r Izumo-taisha
+r Ise Grand Shrine
+b Nagoya Castle
+n Oirase Stream=Oirase River
+u Ōuchi-juku
+n Naruto whirlpools
+b Akashi Kaikyō Bridge
+n Mount Kōya
+u Tsumago-juku
+n Kamikōchi
+n Tateyama Kurobe Alpine Route
+b Shuri Castle
+n Kabira Bay
+u Naoshima
+n Matsushima
+n Blue Pond=Blue Pond (Biei)
+n Hitachi Seaside Park
+u Akihabara
+b Tokyo Station
+b Rainbow Bridge=Rainbow Bridge (Tokyo)
+u Odaiba
+r Hōryū-ji
+r Byōdō-in
+r Ryōan-ji
+b Tokyo Metropolitan Government Building
+u Kabukichō
+u Takeshita Street
+r Yasaka Shrine
+u Philosopher's Walk
+b Kyoto Tower
+b Umeda Sky Building
+b Tsūtenkaku
+r Shitennō-ji
+b Hikone Castle
+b Inuyama Castle
+b Hirosaki Castle
+u Hakone
+n Lake Ashi
+n Ōwakudani
+r Hasedera=Hase-dera (Kamakura)
+u Yokohama Chinatown
+u Minato Mirai 21
+b Sapporo Clock Tower
+u Otaru Canal=Otaru
+n Lake Tōya
+n Noboribetsu
+n Zaō Onsen=Mount Zaō
+n Oze National Park
+u Ginzan Onsen
+u Kurashiki
+r Kumano Nachi Taisha
+n Nachi Falls
+r Zenkō-ji
+n Mount Takao
+n Aogashima
+b Hashima Island
+r Ōura Church
+b Glover Garden
+n Sakurajima
+n Beppu hot springs=Beppu
+r Dazaifu Tenmangū
+u Kawagoe
+r Tōshōdai-ji
+r Yakushi-ji
+r Kasuga-taisha
+r Tō-ji
+r Nanzen-ji
+r Tenryū-ji
+r Tōfuku-ji
+r Heian Shrine
+b Kyoto Imperial Palace
+b Katsura Imperial Villa
+u Nishiki Market
+u Pontochō
+@ China
+b Shanghai Tower
+b Canton Tower
+b Beijing National Stadium
+b CCTV Headquarters
+u Nanjing Road
+u Yu Garden
+r Jing'an Temple
+n Mount Tai
+n Mount Emei
+n Mount Hua
+n Wulingyuan
+n Tiger Leaping Gorge
+n Jade Dragon Snow Mountain
+u Old Town of Lijiang
+u Pingyao
+u Fenghuang Ancient Town=Fenghuang County
+r Hanging Temple
+r Shaolin Monastery
+a Longmen Grottoes
+a Yungang Grottoes
+a Mogao Caves
+a Dazu Rock Carvings
+r Lama Temple=Yonghe Temple
+b Drum Tower of Xi'an
+b Giant Wild Goose Pagoda
+b Xi'an city wall=Fortifications of Xi'an
+u Humble Administrator's Garden
+b Chengde Mountain Resort
+b Ming tombs
+b Three Gorges Dam
+n Three Gorges
+n Huangguoshu Waterfall
+n Detian Falls=Ban Gioc–Detian Falls
+n Longji Rice Terraces=Longsheng Rice Terraces
+n Yuanyang rice terraces=Honghe Hani Rice Terraces
+n Mount Wutai
+n Mount Lu
+n Wuyi Mountains
+n Mount Sanqing
+n Mount Fanjing=Fanjingshan
+n Qinghai Lake
+n Namtso
+n Yamdrok Lake
+n Mount Kailash
+n Lake Manasarovar
+r Jokhang
+r Tashi Lhunpo Monastery
+r Larung Gar
+n Kanas Lake
+n Heavenly Lake of Tianshan=Tianchi (Xinjiang)
+n Flaming Mountains
+a Jiaohe ruins=Jiaohe Ruins
+u Kashgar Old City=Kashgar
+b Harbin Ice Festival=Harbin International Ice and Snow Sculpture Festival
+r Saint Sophia Cathedral, Harbin
+n Hukou Waterfall
+b Fujian tulou
+b Kaiping Diaolou
+u Gulangyu
+u Wuzhen
+u Zhouzhuang
+u Hongcun
+b Yellow Crane Tower
+n Red Beach=Red Beach (Panjin)
+b Tianjin Eye
+b Hong Kong–Zhuhai–Macau Bridge
+r Spring Temple Buddha
+n Yarlung Tsangpo Grand Canyon
+n Yading
+n Mount Siguniang
+n Hailuogou
+b Dujiangyan
+r Wenshu Monastery
+u Kuanzhai Alley
+u Hongya Cave=Hongyadong
+n Wulong Karst
+n Tianmen Mountain
+b Zhangjiajie Glass Bridge
+r Lingyin Temple
+u The Bund
+b Oriental Pearl Tower
+u Tianzifang
+u Zhujiajiao
+r Temple of Confucius, Qufu=Temple of Confucius, Qufu
+b Jiayu Pass=Jiayuguan (pass)
+b Beijing Daxing International Airport
+u 798 Art Zone
+b Prince Gong Mansion=Prince Gong's Mansion
+u Shichahai
+b Beihai Park
+b Jingshan Park
+u Wangfujing
+b Ming Xiaoling Mausoleum
+b Sun Yat-sen Mausoleum
+r Porcelain Tower of Nanjing
+u Qinhuai River
+n Shennongjia
+n Enshi Grand Canyon
+n Mount Jiuhua
+n Mount Putuo
+n Yandang Mountains
+n Thousand Island Lake=Qiandao Lake
+@ Hong Kong
+u Victoria Harbour
+m Tian Tan Buddha
+u Temple Street Night Market=Temple Street, Hong Kong
+b Bank of China Tower=Bank of China Tower (Hong Kong)
+u Star Ferry
+b International Commerce Centre
+u Lan Kwai Fong
+r Wong Tai Sin Temple=Wong Tai Sin Temple (Hong Kong)
+r Man Mo Temple=Man Mo Temple (Hong Kong)
+u Ngong Ping 360
+u Tai O
+b Monster Building=Yick Cheong Building
+r Ten Thousand Buddhas Monastery
+u Central–Mid-Levels escalator
+n Hong Kong UNESCO Global Geopark
+u Avenue of Stars, Hong Kong
+b HSBC Building=HSBC Building (Hong Kong)
+u Chungking Mansions
+u Kowloon Walled City
+@ Macau
+b Macau Tower
+b The Venetian Macao
+u Senado Square
+b Grand Lisboa
+r A-Ma Temple
+b Guia Fortress
+@ Taiwan
+n Sun Moon Lake
+n Alishan=Alishan National Scenic Area
+u Jiufen
+r Longshan Temple=Bangka Lungshan Temple
+n Yehliu
+r Fo Guang Shan
+n Kenting National Park
+n Yushan=Yu Shan
+u Shilin Night Market
+m Chiang Kai-shek Memorial Hall
+u Tamsui
+n Penghu
+b Fort Zeelandia=Fort Zeelandia (Taiwan)
+n Qingshui Cliff
+u Shifen
+b Grand Hotel Taipei=Grand Hotel (Taipei)
+n Yangmingshan
+r Dalongdong Baoan Temple
+u Rainbow Village
+b Dragon and Tiger Pagodas
+u Ximending
+n Orchid Island
+n Green Island, Taiwan
+b Tuntex Sky Tower=85 Sky Tower
+b National Kaohsiung Center for the Arts
+r Chung Tai Chan Monastery
+b Chihkan Tower
+n Gaomei Wetlands
+@ South Korea
+r Bulguksa
+a Seokguram
+u Bukchon Hanok Village
+b Changdeokgung
+b Lotte World Tower
+u Myeong-dong
+b Dongdaemun Design Plaza
+m Korean Demilitarized Zone=Joint Security Area
+n Hallasan
+n Seoraksan
+b Hwaseong Fortress
+r Haeinsa
+u Gamcheon Culture Village
+r Haedong Yonggungsa
+u Haeundae Beach
+u Jeonju Hanok Village
+n Nami Island=Namiseom
+b Namdaemun
+u Cheonggyecheon
+r Jogyesa
+r Jongmyo
+b Deoksugung
+u Insa-dong
+u Gwangjang Market
+u Gangnam District
+b Cheomseongdae
+a Tumuli Park=Daereungwon
+u Andong Hahoe Folk Village=Hahoe Folk Village
+n Manjanggul
+n Cheonjiyeon Waterfall
+n Jeongbang Waterfall
+n Jirisan
+n Boseong Tea Fields=Boseong County
+n Suncheon Bay
+n Udo=Udo (island)
+n Dokdo=Liancourt Rocks
+n Ulleungdo
+b Busan Tower
+g Gwangan Bridge
+b Banpo Bridge
+u Hongdae=Hongdae (area)
+b Blue House
+u Gwanghwamun Plaza
+b 63 Building
+u Lotte World
+u Everland
+r Beopjusa
+r Tongdosa
+b Namhansanseong
+u Songdo International Business District=Songdo
+u Jagalchi Market
+@ India
+r Brihadisvara Temple
+m Gommateshwara statue
+m Charminar
+b Chhatrapati Shivaji Terminus
+a Fatehpur Sikri
+r Kedarnath Temple
+a Nalanda=Nalanda mahavihara
+b Golconda
+a Sanchi
+b Chittor Fort
+a Rani ki Vav
+r Jama Masjid, Delhi
+g Howrah Bridge
+b Kumbhalgarh
+a Elephanta Caves
+r Basilica of Bom Jesus
+r Akshardham, Delhi=Swaminarayan Akshardham (Delhi)
+b Victoria Memorial, Kolkata
+n Ranthambore National Park
+b Gol Gumbaz
+n Kaziranga National Park
+b Gwalior Fort
+b Jantar Mantar, Jaipur
+b Umaid Bhawan Palace
+b City Palace, Udaipur
+m Statue of Unity
+b Rashtrapati Bhavan
+u Connaught Place, New Delhi
+b Humayun's Tomb
+r Lotus Temple
+m India Gate
+m Gateway of India
+u Marine Drive, Mumbai
+b Taj Mahal Palace Hotel
+r Siddhivinayak Temple, Mumbai
+b Bandra–Worli Sea Link
+b Lake Palace
+b Jaisalmer Fort
+b Mehrangarh
+b Amber Fort=Amer Fort
+b Hawa Mahal
+b Jal Mahal
+r Dilwara Temples
+r Ranakpur Jain temple
+r Karni Mata Temple
+u Pushkar Lake
+r Brahma Temple, Pushkar
+n Thar Desert
+r Somnath temple
+r Dwarkadhish Temple
+n Rann of Kutch
+n Gir National Park
+b Laxmi Vilas Palace, Vadodara
+a Dholavira
+a Lothal
+r Sun Temple, Modhera
+r Kashi Vishwanath Temple
+a Sarnath
+r Mahabodhi Temple
+r Tirumala Venkateswara Temple=Venkateswara Temple, Tirumala
+r Ramanathaswamy Temple
+r Shore Temple
+a Mahabalipuram=Group of Monuments at Mahabalipuram
+r Sri Ranganathaswamy Temple, Srirangam=Ranganathaswamy Temple, Srirangam
+m Vivekananda Rock Memorial
+m Thiruvalluvar Statue
+r Padmanabhaswamy Temple
+n Kerala backwaters
+n Munnar
+n Athirappilly Falls
+n Jog Falls
+n Dudhsagar Falls
+a Badami cave temples
+a Pattadakal
+a Aihole
+r Chennakeshava Temple, Belur
+r Hoysaleswara Temple
+b Vidhana Soudha
+b Bangalore Palace
+n Nandi Hills
+n Coorg=Kodagu district
+n Ooty
+b Nilgiri Mountain Railway
+b Darjeeling Himalayan Railway
+n Tiger Hill, Darjeeling
+n Kanchenjunga
+n Tsomgo Lake
+r Rumtek Monastery
+r Tawang Monastery
+n Living root bridges
+n Nohkalikai Falls
+n Loktak Lake
+r Kamakhya Temple
+n Majuli
+n Sundarbans National Park
+r Dakshineswar Kali Temple
+r Belur Math
+r Jagannath Temple, Puri
+r Lingaraja Temple
+n Chilika Lake
+a Udayagiri and Khandagiri Caves
+a Bhimbetka rock shelters
+b Orchha Fort complex=Orchha
+b Mandu=Mandu, Madhya Pradesh
+n Bandhavgarh National Park
+n Kanha Tiger Reserve
+n Marble Rocks
+n Pachmarhi
+n Chitrakote Falls
+r Vaishno Devi=Vaishno Devi Temple
+n Dal Lake
+n Gulmarg
+n Pangong Tso
+n Nubra Valley
+n Zanskar
+r Thiksey Monastery
+r Hemis Monastery
+n Khardung La
+n Tso Moriri
+r Key Monastery
+n Spiti Valley
+n Rohtang Pass
+u Shimla
+b Kalka–Shimla Railway
+r Badrinath Temple
+n Valley of Flowers National Park
+n Nanda Devi
+r Har Ki Pauri
+u Rishikesh
+n Jim Corbett National Park
+b Rock Garden of Chandigarh
+r Anandpur Sahib
+u Wagah
+m Jallianwala Bagh
+b Agra Fort
+b Tomb of I'timād-ud-Daulah
+r Vrindavan=Prem Mandir, Vrindavan
+r Bara Imambara
+b Rumi Darwaza
+n Havelock Island=Swaraj Dweep
+b Cellular Jail
+n Radhanagar Beach
+n Lakshadweep
+u Auroville
+r Basilica of Our Lady of Good Health
+b Fort Aguada
+n Palolem Beach
+b Aga Khan Palace
+b Shaniwar Wada
+r Shirdi=Sai Baba of Shirdi
+n Lonar Lake
+b Daulatabad Fort
+b Bibi Ka Maqbara
+b Raigad Fort
+r Chamundeshwari Temple
+b Ramoji Film City
+m Hussain Sagar
+b Falaknuma Palace
+r Lepakshi
+n Araku Valley
+n Borra Caves
+@ Indonesia
+r Pura Ulun Danu Bratan
+r Uluwatu Temple
+r Besakih Temple
+n Tegallalang Rice Terrace=Tegalalang
+u Ubud Monkey Forest
+n Mount Batur
+n Mount Agung
+n Nusa Penida
+n Mount Rinjani
+n Gili Islands
+n Kelimutu
+n Lake Toba
+n Mount Merapi
+n Ijen
+n Krakatoa
+n Raja Ampat Islands
+n Wakatobi National Park
+n Bunaken
+n Tana Toraja=Tana Toraja Regency
+n Derawan Islands
+n Tanjung Puting
+n Mount Kerinci
+n Mount Semeru
+m National Monument, Jakarta=National Monument (Indonesia)
+r Istiqlal Mosque, Jakarta=Istiqlal Mosque
+u Kota Tua Jakarta
+b Taman Mini Indonesia Indah
+u Malioboro
+b Kraton Ngayogyakarta Hadiningrat
+b Taman Sari, Yogyakarta=Taman Sari (Yogyakarta)
+a Ratu Boko
+a Dieng temples=Dieng Plateau
+r Baiturrahman Grand Mosque
+n Lorentz National Park
+n Puncak Jaya
+n Baliem Valley
+n Belitung
+n Padar=Padar (island)
+n Wae Rebo
+n Jatiluwih rice terraces=Jatiluwih
+r Tirta Empul
+r Goa Gajah
+r Pura Lempuyang=Lempuyang Temple
+u Kuta Beach=Kuta
+m Garuda Wisnu Kencana statue
+n Sipiso-piso
+n Bukit Lawang
+n Lake Maninjau
+b Jam Gadang
+b Pagaruyung Palace
+b Lawang Sewu
+b Sam Poo Kong
+a Trowulan
+r Sewu
+n Mount Papandayan
+n Kawah Putih
+n Tangkuban Perahu
+b Gedung Sate
+n Thousand Islands=Thousand Islands (Indonesia)
+n Karimunjawa
+n Ujung Kulon National Park
+n Way Kambas National Park
+n Togian Islands
+n Lake Sentani
+n Banda Islands
+n Mount Tambora
+n Sumba
+@ Thailand
+r Wat Arun
+r Wat Pho
+r Wat Phra Kaew
+u Khaosan Road
+u Chatuchak Weekend Market
+u Damnoen Saduak Floating Market
+r Wat Rong Khun
+r Wat Phra That Doi Suthep
+a Sukhothai Historical Park
+n Railay Beach
+n Maya Bay
+n James Bond Island=Khao Phing Kan
+n Similan Islands
+n Ko Tao
+n Ko Samui
+n Ko Lipe
+n Khao Sok National Park
+n Khao Yai National Park
+n Erawan National Park
+n Doi Inthanon
+b Bridge over the River Kwai=Burma Railway
+m Big Buddha, Phuket=Phuket Big Buddha
+r Wat Saket
+r Wat Benchamabophit
+b Jim Thompson House
+u Yaowarat Road
+b King Power Mahanakhon
+u Lumphini Park
+m Democracy Monument
+b Vimanmek Mansion
+u Asiatique
+u ICONSIAM=Iconsiam
+r Erawan Shrine
+r Wat Traimit
+r Sanctuary of Truth
+u Pattaya Walking Street=Walking Street, Pattaya
+r Wat Chaiwatthanaram
+r Wat Mahathat, Ayutthaya=Wat Mahathat (Ayutthaya)
+b Bang Pa-In Royal Palace
+a Phimai Historical Park
+a Phanom Rung Historical Park
+r Wat Phra That Lampang Luang
+r Wat Chedi Luang
+r Wat Phra Singh
+u Pai=Pai, Thailand
+m Golden Triangle=Golden Triangle (Southeast Asia)
+n Phu Kradueng National Park
+n Sam Phan Bok
+r Wat Pha Sorn Kaew=Wat Phra Thart Pha Sorn Kaew
+n Phu Chi Fa
+r Wat Tham Suea=Tiger Cave Temple
+n Ang Thong National Marine Park=Mu Ko Ang Thong National Park
+n Ko Pha-ngan
+n Ko Chang=Ko Chang district
+n Ko Lanta
+n Ko Samet
+n Hua Hin
+r Phra Pathommachedi
+r Wat Phra Dhammakaya
+n Thi Lo Su Waterfall
+n Red Lotus Sea=Nong Han Kumphawapi Lake
+@ Vietnam
+u Hoàn Kiếm Lake
+r Temple of Literature, Hanoi
+m Ho Chi Minh Mausoleum
+r One Pillar Pagoda
+u Old Quarter, Hanoi=Old Quarter, Hanoi
+b Hanoi Opera House
+r Notre-Dame Cathedral Basilica of Saigon
+b Saigon Central Post Office
+b Independence Palace
+b Củ Chi tunnels
+u Bến Thành Market
+b Landmark 81
+b Bitexco Financial Tower
+a Imperial City, Huế=Imperial City of Huế
+r Thien Mu Temple
+a Mỹ Sơn
+g Dragon Bridge=Dragon Bridge (Da Nang)
+n Marble Mountains=Marble Mountains (Vietnam)
+n Phong Nha-Kẻ Bàng National Park
+n Sơn Đoòng Cave=Hang Sơn Đoòng
+n Tràng An
+n Tam Cốc-Bích Động
+r Bái Đính Temple
+n Sa Pa=Sapa, Vietnam
+n Fansipan
+n Mù Cang Chải=Mù Cang Chải district
+n Ha Giang Loop=Đồng Văn Karst Plateau Geopark
+n Mekong Delta
+n Phú Quốc
+n Côn Đảo
+n Mũi Né
+u Da Lat
+n Cát Bà Island
+n Lan Ha Bay
+b Japanese Covered Bridge=Japanese Bridge
+r Cao Đài Holy See=Tây Ninh Holy See
+b Tomb of Khải Định
+b Hỏa Lò Prison
+n Hải Vân Pass
+n Nha Trang
+r Po Nagar
+b Long Biên Bridge
+r Perfume Pagoda
+n Ba Bể Lake
+u Hanoi Train Street=Hanoi Train Street
+n Lý Sơn
+n Cù Lao Chàm
+n Pù Luông
+@ Philippines
+u Intramuros
+r San Agustin Church, Manila=San Agustin Church (Manila)
+m Rizal Park
+b Fort Santiago
+n El Nido, Palawan
+n Coron Island=Coron, Palawan
+n Boracay
+n Taal Volcano
+n Mount Pinatubo
+n Hundred Islands National Park
+n Kawasan Falls
+n Siargao
+n Tubbataha Reef
+n Mount Apo
+u Vigan
+r Paoay Church
+r Miagao Church
+m Magellan's Cross
+r Basilica del Santo Niño=Basílica Minore del Santo Niño de Cebú
+n Batanes
+n Pagsanjan Falls
+n Sagada
+n Camiguin
+n Malapascua
+n Apo Island
+n Tinuy-an Falls
+n Hinatuan Enchanted River
+n Maria Cristina Falls
+n Lake Sebu
+n Bangui Wind Farm
+n Corregidor
+b Manila Cathedral
+b Malacañang Palace
+r Quiapo Church
+b Cultural Center of the Philippines
+u Bonifacio Global City
+u Binondo
+n Tagaytay
+u Baguio
+u Burnham Park=Burnham Park (Baguio)
+n Mount Pulag
+n Caramoan
+n Calaguas
+n Puerto Galera
+n Kalanggaman Island
+m San Juanico Bridge
+m MacArthur Landing Memorial National Park
+n Panglao=Panglao Island
+r Baclayon Church
+n Siquijor
+n Balicasag Island
+n Moalboal
+n Bantayan Island
+m Lapulapu shrine=Mactan Shrine
+b Fort San Pedro
+u Calle Crisologo
+n Batad Rice Terraces
+n Callao Cave
+n Palaui Island
+@ Malaysia
+b Kuala Lumpur Tower
+b Merdeka 118
+u Merdeka Square, Kuala Lumpur
+b Sultan Abdul Samad Building
+r Thean Hou Temple
+u Petaling Street
+b Putra Mosque
+u Genting Highlands
+n Cameron Highlands
+n Taman Negara
+u Malacca City=Malacca City
+b A Famosa
+r Kek Lok Si
+u Penang Hill
+n Langkawi
+g Langkawi Sky Bridge
+n Perhentian Islands
+n Tioman Island
+n Redang Island
+n Sipadan
+n Mulu Caves=Gunung Mulu National Park
+n Niah Caves=Niah National Park
+n Bako National Park
+n Danum Valley Conservation Area
+n Kinabatangan River
+u Semenggoh Wildlife Centre=Semenggoh Nature Reserve
+n Sepilok Orang Utan Rehabilitation Centre
+b Sarawak State Legislative Assembly Building=New Sarawak State Legislative Assembly Building
+r Crystal Mosque
+r Sultan Salahuddin Abdul Aziz Mosque
+r Kapitan Keling Mosque
+b Cheong Fatt Tze Mansion
+b Khoo Kongsi
+r Ubudiah Mosque
+b Kellie's Castle
+b Istana Negara, Jalan Tuanku Abdul Halim=Istana Negara, Jalan Tuanku Abdul Halim
+r National Mosque of Malaysia
+u Jonker Walk
+r Kota Kinabalu City Mosque
+n Tunku Abdul Rahman National Park
+b Sultan Ibrahim Building
+u Legoland Malaysia Resort
+n Kilim Karst Geoforest Park
+r Zahir Mosque
+b Penang Bridge
+r Sri Mahamariamman Temple, Kuala Lumpur
+u Central Market, Kuala Lumpur
+n Endau-Rompin National Park
+n Tasik Kenyir=Kenyir Lake
+n Royal Belum State Park
+@ Singapore
+m Merlion
+b Raffles Hotel
+b Jewel Changi Airport
+u Sentosa
+u Singapore Botanic Gardens
+u Chinatown, Singapore
+u Little India, Singapore
+u Clarke Quay
+b Singapore Flyer
+r Sultan Mosque
+r Sri Mariamman Temple, Singapore
+u Orchard Road
+b Esplanade – Theatres on the Bay
+u Singapore Zoo
+u Night Safari, Singapore
+g Helix Bridge
+u Haw Par Villa
+b Fullerton Hotel=The Fullerton Hotel Singapore
+u Universal Studios Singapore
+u Pulau Ubin
+g Henderson Waves
+u Kampong Glam
+u Boat Quay
+u Lau Pa Sat
+u Fort Canning Hill
+u East Coast Park
+u MacRitchie Reservoir
+@ Cambodia
+a Bayon
+a Ta Prohm
+a Banteay Srei
+a Angkor Thom
+b Royal Palace, Phnom Penh=Royal Palace of Cambodia
+r Silver Pagoda=Silver Pagoda, Phnom Penh
+a Preah Vihear Temple
+a Koh Ker
+a Beng Mealea
+n Tonlé Sap
+n Koh Rong
+n Phnom Kulen National Park
+r Wat Phnom
+m Independence Monument, Phnom Penh
+a Sambor Prei Kuk
+n Bokor Hill Station
+a Phnom Bakheng
+a Preah Khan
+a Banteay Chhmar
+a Pre Rup
+b Central Market, Phnom Penh
+n Cardamom Mountains
+a Neak Pean
+a Baphuon
+a Terrace of the Elephants
+n Kbal Spean
+n Kep National Park
+n Yeak Laom
+n Kampong Phluk
+r Oudong
+a Phnom Chisor
+n Koh Rong Sanloem
+a Banteay Kdei
+a Srah Srang
+b Bamboo train=Norry
+a Roluos=Bakong
+n Virachey National Park
+@ Myanmar
+r Sule Pagoda
+r Kyaiktiyo Pagoda
+r Ananda Temple
+r Shwezigon Pagoda
+g U Bein Bridge
+r Mahamuni Buddha Temple
+b Mandalay Palace
+r Kuthodaw Pagoda
+r Hsinbyume Pagoda
+m Mingun Bell
+r Mingun Pahtodawgyi
+n Mount Popa
+n Ngapali Beach=Ngapali
+a Mrauk U
+r Chaukhtatgyi Buddha Temple
+r Uppatasanti Pagoda
+b Pyidaungsu Hluttaw=Assembly of the Union
+n Mergui Archipelago
+r Shwemawdaw Pagoda
+r Shwethalyaung Buddha
+n Kakku Pagodas=Kakku
+n Pindaya Caves
+r Thatbyinnyu Temple
+r Dhammayangyi Temple
+r Shwesandaw Pagoda (Bagan)
+r Taung Kalat
+b Goteik viaduct
+n Hkakabo Razi
+r Win Sein Taw Ya
+n Indawgyi Lake
+r Botataung Pagoda
+r Karaweik
+b Yangon City Hall
+b Secretariat Building, Yangon=Ministers' Building
+r Pho Win Taung=Phowintaung
+r Laykyun Sekkya
+r Sagaing Hill
+@ Nepal
+r Swayambhunath
+r Boudhanath
+r Pashupatinath Temple
+u Kathmandu Durbar Square
+u Patan Durbar Square
+u Bhaktapur Durbar Square
+n Chitwan National Park
+n Phewa Lake
+n Poon Hill
+n Machapuchare
+n Gokyo Lakes
+n Tilicho Lake
+n Rara Lake
+n Annapurna Sanctuary
+n Sagarmatha National Park
+n Langtang National Park
+n Kala Patthar
+r Tengboche Monastery
+r Muktinath
+r Changu Narayan
+r Janaki Mandir
+n Phoksundo Lake
+u Thamel
+u Namche Bazaar
+n Upper Mustang=Mustang District
+r World Peace Pagoda, Pokhara=Shanti Stupa, Pokhara
+n Khumbu Icefall
+n Manaslu
+n Dhaulagiri
+n Lhotse
+n Ama Dablam
+n Island Peak=Imja Tse
+r Nyatapola Temple
+n Davis Falls=Devi's Fall
+n Bardiya National Park
+n Kali Gandaki Gorge
+r Manakamana Temple
+n Nagarkot
+u Bandipur, Nepal=Bandipur
+n Gosaikunda
+u Garden of Dreams
+r Kopan Monastery
+n Makalu
+n Thorong La
+b Dharahara
+r Namo Buddha
+r Dakshinkali Temple
+b Gorkha Durbar=Gorkha Palace
+@ Sri Lanka
+r Temple of the Tooth
+a Anuradhapura
+a Polonnaruwa
+r Dambulla cave temple
+b Galle Fort
+n Adam's Peak
+n Yala National Park
+g Nine Arch Bridge=Nine Arches Bridge
+n Horton Plains National Park
+n Ella Rock=Ella, Sri Lanka
+u Nuwara Eliya
+n Mirissa
+r Gangaramaya Temple
+r Ruwanwelisaya
+r Jetavanaramaya
+r Sri Maha Bodhi=Jaya Sri Maha Bodhi
+r Mihintale
+b Lotus Tower
+n Udawalawe National Park
+n Minneriya National Park
+n Sinharaja Forest Reserve
+n Pidurangala Rock=Pidurangala Vihara
+r Nallur Kandaswamy temple
+b Jaffna Fort
+n Arugam Bay
+n Unawatuna
+r Koneswaram Temple
+n Ravana Falls
+n Bambarakanda Falls
+n Diyaluma Falls
+n Knuckles Mountain Range
+u Royal Botanical Gardens, Peradeniya
+u Pinnawala Elephant Orphanage
+a Yapahuwa
+a Ritigala
+r Kelaniya Raja Maha Vihara
+b Independence Memorial Hall
+r Red Mosque=Jami Ul-Alfar Mosque
+u Galle Face Green
+n Pigeon Island National Park
+n Wilpattu National Park
+r Aukana Buddha statue=Avukana Buddha statue
+a Gal Vihara
+r Kataragama temple
+n Bentota
+n Hikkaduwa
+r Mulkirigala Raja Maha Vihara
+r Lankatilaka Vihara
+@ Pakistan
+r Faisal Mosque
+b Lahore Fort
+r Wazir Khan Mosque
+b Minar-e-Pakistan
+m Mazar-e-Quaid
+b Pakistan Monument
+n Fairy Meadows
+n Nanga Parbat
+n Attabad Lake
+n Deosai National Park
+b Baltit Fort
+n Passu Cones=Passu
+b Derawar Fort
+b Rohtas Fort
+a Taxila
+a Takht-i-Bahi
+a Makli Necropolis
+r Shah Jahan Mosque, Thatta
+b Shalimar Gardens, Lahore
+n Lake Saiful Muluk
+n Hingol National Park
+n Khunjerab Pass
+n Swat Valley=Swat District
+n Kalash Valleys=Kalasha Valleys
+b Khyber Pass
+b Noor Mahal
+r Tomb of Shah Rukn-e-Alam
+r Data Darbar
+b Mohatta Palace
+b Frere Hall
+n Shangrila Lake=Lower Kachura Lake
+n Concordia=Concordia (Karakoram)
+n Baltoro Glacier
+n Trango Towers
+n Rakaposhi
+b Altit Fort
+n Naltar Valley
+n Neelum Valley
+r Katas Raj Temples
+b Hiran Minar
+b Tomb of Jahangir
+r Bhong Mosque
+b Ranikot Fort
+n Gorakh Hill
+n Shandur Top
+n Kund Malir
+u Wagah border=Wagah
+b Ziarat Residency=Quaid-e-Azam Residency
+r Grand Jamia Mosque, Lahore
+b Bab-e-Khyber
+b Islamia College University=Islamia College University
+@ Bangladesh
+b Lalbagh Fort
+b Ahsan Manzil
+b Jatiya Sangsad Bhaban
+m Shaheed Minar, Dhaka
+m National Martyrs' Memorial
+r Sixty Dome Mosque
+a Somapura Mahavihara
+n Cox's Bazar Beach=Cox's Bazar Beach
+n St. Martin's Island=St. Martin's Island
+n Ratargul Swamp Forest
+n Sajek Valley
+r Star Mosque
+r Dhakeshwari Temple
+r Kantajew Temple
+a Mahasthangarh
+n Kaptai Lake
+n Jaflong
+n Lawachara National Park
+r Baitul Mukarram
+b Curzon Hall
+r Armenian Church, Dhaka=Armenian Church (Dhaka)
+n Kuakata
+b Panam City=Panam Nagar
+r Buddha Dhatu Jadi
+n Nafa-khum
+n Boga Lake
+b Padma Bridge
+n Tanguar Haor
+r Puthia Temple Complex
+b Tajhat Palace
+a Mainamati
+u Sadarghat=Sadarghat (Dhaka)
+n Nijhum Dwip
+b Natore Rajbari
+@ Uzbekistan
+b Gur-e-Amir
+r Bibi-Khanym Mosque
+r Shah-i-Zinda
+a Ulugh Beg Observatory
+b Ark of Bukhara
+r Kalyan Minaret=Po-i-Kalyan
+r Chor Minor
+b Lyab-i Hauz=Lyab-i Hauz
+r Samanid Mausoleum
+b Kalta Minor=Itchan Kala
+n Aral Sea
+b Tashkent Tower
+u Chorsu Bazaar
+b Tashkent Metro
+b Ak-Saray Palace=Ak-Saray Palace
+a Ayaz Kala
+b Khast-Imam=Hazrati Imam complex
+b Palace of Khudáyár Khán
+n Charvak Reservoir=Lake Charvak
+b Sitorai Mohi Hosa=Sitorai Mohi-Khosa Palace
+r Minor Mosque
+u Navoi Theater
+r Bolo Haouz Mosque
+b Hotel Uzbekistan
+n Chimgan
+r Mir-i-Arab Madrasa
+r Juma Mosque (Khiva)=Djuma Mosque
+a Afrasiyab=Afrasiyab (Samarkand)
+r Hazrat Khizr Mosque
+b Kukeldash Madrasa=Kukeldash Madrasah (Tashkent)
+@ Kazakhstan
+b Baiterek=Baiterek (monument)
+b Khan Shatyr Entertainment Center
+r Mausoleum of Khoja Ahmed Yasawi
+n Big Almaty Lake
+n Kolsai Lakes=Kolsay Lakes National Park
+n Lake Kaindy
+b Medeu
+b Baikonur Cosmodrome
+r Zenkov Cathedral=Ascension Cathedral, Almaty
+r Hazrat Sultan Mosque
+b Palace of Peace and Reconciliation
+n Altyn-Emel National Park
+n Burabay National Park
+n Lake Balkhash
+a Tamgaly
+b Kok Tobe=Kok Tobe
+n Aksu-Zhabagly Nature Reserve
+n Ustyurt Plateau
+b Ak Orda Presidential Palace
+r Nur-Astana Mosque
+n Shymbulak
+n Singing Dune
+b Almaty Tower
+r Central Mosque Almaty=Almaty Central Mosque
+a Otrar
+b Astana Opera
+n Khan Tengri
+n Lake Alakol
+n Markakol
+r Beket-Ata
+a Sauran=Sauran (Kazakhstan)
+m Kazakh Eli monument=Kazakh Eli
+@ Mongolia
+m Genghis Khan Equestrian Statue=Equestrian statue of Genghis Khan
+r Gandantegchinlen Monastery
+n Gorkhi-Terelj National Park
+n Flaming Cliffs
+n Khongoryn Els
+n Yolyn Am
+a Karakorum=Karakorum
+n Orkhon Valley
+n Altai Tavan Bogd National Park
+u Sükhbaatar Square
+r Amarbayasgalant Monastery
+n Khustain Nuruu National Park=Hustai National Park
+n Tsagaan Suvarga
+n Terkhiin Tsagaan Lake
+n Uvs Lake
+m Zaisan Memorial
+r Choijin Lama Temple
+r Tövkhön Monastery
+r Manjusri Monastery
+n Bogd Khan Mountain=Bogd Khan Uul
+n Gobi Gurvansaikhan National Park
+n Khar Us Lake=Khar-Us Lake
+n Burkhan Khaldun
+n Otgontenger
+n Baga Gazriin Chuluu
+n Ongi Monastery
+@ Georgia
+r Gergeti Trinity Church
+r Svetitskhoveli Cathedral
+r Jvari Monastery=Jvari (monastery)
+a Vardzia
+a Uplistsikhe
+u Ushguli
+b Narikala
+r Holy Trinity Cathedral of Tbilisi
+g Bridge of Peace
+r Gelati Monastery
+n Mount Kazbek
+u Mestia
+n Prometheus Cave
+n Martvili Canyon
+b Ananuri
+r David Gareja monastery complex
+u Sighnaghi=Signagi
+r Alaverdi Monastery
+b Rabati Castle=Akhaltsikhe Castle
+n Okatse Canyon
+r Bagrati Cathedral
+r Katskhi pillar
+n Ushba
+n Shkhara
+m Chronicle of Georgia
+u Batumi Boulevard
+b Alphabetic Tower
+u Abanotubani
+n Lake Ritsa
+r Motsameta monastery
+b Gonio fortress=Gonio (fortress)
+m Russia–Georgia Friendship Monument
+n Tusheti National Park
+n Borjomi-Kharagauli National Park
+r Bodbe Monastery
+b Chavchavadze estate=Tsinandali
+u Rustaveli Avenue
+b Tbilisi TV Broadcasting Tower
+m Kartlis Deda
+u Shatili
+u Dartlo=Dartlo
+r Nekresi
+a Dmanisi
+r Ikalto
+n Vashlovani National Park
+n Paravani Lake
+@ Armenia
+r Tatev Monastery
+r Geghard
+a Garni Temple=Temple of Garni
+r Khor Virap
+r Etchmiadzin Cathedral
+n Lake Sevan
+r Sevanavank
+r Noravank
+r Haghpat Monastery
+r Sanahin Monastery
+m Tsitsernakaberd
+b Yerevan Cascade
+u Republic Square, Yerevan
+a Zvartnots Cathedral
+a Zorats Karer=Carahunge
+n Mount Aragats
+m Mother Armenia
+b Amberd
+r Saghmosavank
+r Hovhannavank
+r Goshavank
+n Dilijan National Park
+n Shaki Waterfall
+u Khndzoresk
+r Haghartsin Monastery
+n Symphony of Stones=Garni Gorge
+b Yerevan Opera Theatre
+a Erebuni Fortress
+r Saint Gregory the Illuminator Cathedral, Yerevan
+b Wings of Tatev
+r Noratus cemetery
+r Akhtala Monastery
+r Kecharis Monastery
+u Jermuk
+r Odzun Church
+r Saint Hripsime Church
+n Lake Kari
+b Sardarapat Memorial
+u Gyumri
+r Marmashen Monastery
+r Gndevank
+a Areni-1 cave
+n Mount Khustup
+b Smbataberd
+u Tsaghkadzor
+b Byurakan Observatory
+r Harichavank Monastery
+b Lori Fortress=Lori Berd
+@ Azerbaijan
+b Flame Towers
+b Maiden Tower=Maiden Tower (Baku)
+b Palace of the Shirvanshahs
+b Heydar Aliyev Center
+n Gobustan=Gobustan State Historical and Cultural Reserve
+n Yanar Dag
+r Ateshgah of Baku
+b Palace of Shaki Khans
+u Icherisheher=Old City (Baku)
+u Baku Boulevard
+u Khinalug
+b Momine Khatun Mausoleum
+r Bibi-Heybat Mosque
+b Baku TV Tower
+b Baku Crystal Hall
+n Lake Göygöl=Lake Göygöl (Azerbaijan)
+b Shaki Caravanserai
+u Lahıc=Lahıc, Ismailli
+b Baku Olympic Stadium
+r Juma Mosque of Shamakhi=Juma Mosque, Shamakhi
+u Nizami Street
+u Fountains Square, Baku
+b Alinja Tower=Alinjagala
+r Heydar Mosque
+n Candy Cane Mountains
+b Diri Baba Mausoleum
+n Lake Maral-gol
+b Shusha fortress
+n Nohur Lake
+b Government House, Baku
+b Chirag Gala
+n Hirkan National Park
+n Shahdag National Park
+@ Russia
+n Valley of Geysers
+n Klyuchevskaya Sopka
+n Lena Pillars
+n Manpupuner rock formations
+n Putorana Plateau
+n Olkhon Island
+n Altai Mountains=Golden Mountains of Altai
+n Lake Teletskoye
+n Belukha Mountain=Belukha
+n Kuril Islands
+n Wrangel Island
+n Avachinsky
+n Mutnovsky
+n Kungur Ice Cave
+b Russky Bridge
+b Trans-Siberian Railway
+r Ivolginsky Datsan
+n Chara Sands
+n Pole of Cold Oymyakon=Oymyakon
+n Mir mine
+n Tunguska event
+n Ergaki
+n Lake Elton
+n Tolbachik
+n Uzon=Uzon
+n Kronotsky Nature Reserve
+n Commander Islands
+n Cape Dezhnev
+n Shantar Islands
+b Church on the Blood, Yekaterinburg=Church of All Saints, Yekaterinburg
+b Novosibirsk Opera and Ballet Theatre
+b Krasnoyarsk Dam
+b Sayano-Shushenskaya Dam
+n Vasyugan Swamp
+n Taganay
+n Kapova Cave
+b Vladivostok railway station=Vladivostok railway station
+b Zolotoy Bridge
+n Lake Khanka
+n Sikhote-Alin
+n Yamal Peninsula
+n Novaya Zemlya
+n Franz Josef Land
+n Cape Chelyuskin
+n Chuysky Trakt=Chuya Highway
+n Katun=Katun (river)
+n Ukok Plateau
+@ Kyrgyzstan
+n Issyk-Kul
+n Song-Köl=Song-Köl
+n Ala Archa National Park
+b Burana Tower
+b Tash Rabat
+n Jeti-Ögüz Rocks=Jeti-Ögüz
+n Sary-Chelek=Sary-Chelek Nature Reserve
+n Skazka Canyon=Fairy Tale Canyon
+n Arslanbob
+n Sulayman Mountain=Sulayman Mountain
+u Ala-Too Square
+n Lenin Peak
+n Jengish Chokusu
+n Altyn Arashan
+n Ala-Kul
+n Kel-Suu
+u Osh Bazaar
+r Dungan Mosque, Karakol=Dungan Mosque
+n Inylchek Glacier=Engilchek Glacier
+a Uzgen=Uzgen
+r Holy Trinity Cathedral, Karakol
+n Toktogul Reservoir=Toktogul Dam
+n Chatyr-Kul=Chatyr-Köl
+a Cholpon-Ata petroglyphs=Cholpon-Ata
+@ Tajikistan
+n Iskanderkul
+n Pamir Highway
+n Fann Mountains
+n Karakul lake=Karakul (Tajikistan)
+n Ismoil Somoni Peak
+b Hisor Fortress=Hisar Fortress
+n Lake Sarez
+b Dushanbe Flagpole
+n Nurek Dam
+a Sarazm
+n Bartang Valley
+b Kokhi Navruz=Navruz Palace
+n Fedchenko Glacier
+u Khujand
+n Murghab=Murghob
+n Zorkul
+a Ajina-Tepe=Ajina Tepe
+n Tajik National Park
+a Hulbuk
+@ Turkmenistan
+r Türkmenbaşy Ruhy Mosque
+m Neutrality Monument
+a Nisa=Nisa, Turkmenistan
+a Konye-Urgench
+n Yangykala Canyon
+m Independence Monument, Ashgabat=Monument to the Independence of Turkmenistan
+b Alem Cultural and Entertainment Center=Alem Cultural and Entertainment Center
+b Ashgabat Wedding Palace=Wedding Palace (Ashgabat)
+n Köw Ata
+r Ertuğrul Gazi Mosque
+a Gonur Depe
+n Köýtendag Nature Reserve
+b Turkmenistan Tower
+b Oguzhan Presidential Palace
+n Karakum Desert
+b Ashgabat Flagpole
+a Dehistan=Dehistan/Mishrian
+u Awaza
+n Repetek Biosphere State Reserve=Repetek Nature Reserve
+u Tolkuchka Bazaar=Altyn Asyr Bazaar
+r Seyit Jemaletdin Mosque
+b Constitution Monument=Monument to the Constitution
+a Abiverd
+b Sultan Sanjar mausoleum=Tomb of Ahmad Sanjar
+b Kutlug Timur Minaret
+@ Afghanistan
+r Blue Mosque, Mazar-i-Sharif=Shrine of Ali
+a Minaret of Jam
+b Herat Citadel
+r Great Mosque of Herat
+b Bala Hissar, Kabul
+b Darul Aman Palace
+u Gardens of Babur
+n Wakhan Corridor
+b Musalla Complex
+n Panjshir Valley
+b Arg, Kabul=Arg (Kabul)
+r Id Gah Mosque
+r Shrine of Khwaja Abd Allah
+n Salang Pass
+a Ai-Khanoum
+r Green Mosque, Balkh=Green Mosque (Balkh)
+b Qala-i-Jangi
+n Noshaq
+a Takht-e Rostam=Takht-i Rustam
+a Surkh Kotal
+a Mes Aynak
+b Paghman Gardens=Paghman
+a Shahr-e Gholghola
+a Shahr-e Zuhak=Shahr-e Zuhak
+r Pul-e Khishti Mosque
+r Abdul Rahman Mosque
+r Shah-Do Shamshira Mosque
+m Minarets of Ghazni=Ghazni Minarets
+a Hadda=Hadda, Afghanistan
+r Shrine of the Cloak
+b Tomb of Ahmad Shah Durrani
+n Dasht-e Margo
+n Koh-e Baba=Baba Mountain range
+@ Laos
+r Pha That Luang
+m Patuxai
+r Wat Xieng Thong
+n Kuang Si Falls
+n Plain of Jars
+n Vang Vieng
+n Si Phan Don
+a Vat Phou
+u Buddha Park
+n Pak Ou Caves
+r Wat Si Saket
+n Khone Phapheng Falls
+n Kong Lor Cave=Tham Kong Lo
+n Bolaven Plateau
+n Mount Phousi
+r Haw Phra Kaew
+b Royal Palace, Luang Prabang=Royal Palace, Luang Prabang
+n Tad Fane=Tad Fane Waterfall
+n Nam Ou
+r That Dam
+n Nam Ngum=Nam Ngum Dam
+r That Ing Hang=That Ing Hang Stupa
+n Nam Ha National Protected Area
+n Viengxay caves
+r Wat Ong Teu Mahawihan
+n Phou Bia
+g First Thai–Lao Friendship Bridge
+n Hin Namno National Park
+n Nakai–Nam Theun
+r Wat Wisunarat
+@ Bhutan
+r Punakha Dzong
+r Tashichho Dzong
+m Buddha Dordenma statue=Buddha Dordenma
+n Dochula Pass
+r Rinpung Dzong
+r Trongsa Dzong
+n Phobjikha Valley
+r National Memorial Chorten=Memorial Chorten, Thimphu
+n Gangkhar Puensum
+n Jomolhari
+r Chimi Lhakhang
+r Kyichu Lhakhang
+r Gangteng Monastery
+n Haa Valley=Haa District
+r Jakar Dzong
+n Chele La
+r Drukgyal Dzong
+r Simtokha Dzong
+n Jigme Dorji National Park
+r Kurjey Lhakhang
+r Jambay Lhakhang
+n Bumthang Valley=Bumthang District
+r Trashigang Dzong
+n Royal Manas National Park
+r Wangdue Phodrang Dzong
+r Lhuentse Dzong
+r Dechen Phodrang Monastery
+r Tango Monastery
+r Cheri Monastery=Chagri Monastery
+r Khamsum Yulley Namgyal Chorten
+@ Brunei
+r Jame' Asr Hassanil Bolkiah Mosque
+b Istana Nurul Iman
+u Kampong Ayer
+n Ulu Temburong National Park
+b Empire Brunei=The Empire Brunei
+n Tasek Merimbun
+u Jerudong Park
+b Sultan Haji Omar Ali Saifuddien Bridge
+u Gadong Night Market=Gadong
+m Billionth Barrel Monument
+b Lapau
+b Raja Isteri Pengiran Anak Hajah Saleha Bridge
+r Ash-Shaliheen Mosque
+m Mercu Dirgahayu 60=Mercu Dirgahayu 60
+u Tamu Kianggeh
+u Taman Mahkota Jubli Emas
+n Pantai Seri Kenangan
+b Oil and Gas Discovery Centre
+@ Maldives
+r Malé Friday Mosque
+n Baa Atoll
+n Addu Atoll
+n Fuvahmulah
+n Ari Atoll
+b Sinamalé Bridge
+n Hanifaru Bay
+u Malé
+n Vaavu Atoll
+u Hulhumalé
+r Islamic Centre (Maldives)
+n Banana Reef
+n Utheemu
+u Sultan Park
+@ North Korea
+m Mansu Hill Grand Monument=Mansu Hill Grand Monument
+b Ryugyong Hotel
+m Juche Tower
+b Kumsusan Palace of the Sun
+m Arch of Triumph, Pyongyang=Arch of Triumph (Pyongyang)
+u Kim Il Sung Square
+b Rungrado 1st of May Stadium
+n Mount Kumgang
+b Pyongyang Metro
+m Arch of Reunification
+m Monument to Party Founding
+b Grand People's Study House
+n Mount Myohyang
+b International Friendship Exhibition
+a Tomb of King Tongmyong
+a Kaesong Namdaemun=Kaesong Namdaemun
+n Masikryong Ski Resort
+b Mansudae Assembly Hall
+n Chilbosan=Mount Chilbo
+b Mangyongdae
+a Complex of Koguryo Tombs
+r Pohyon Temple
+b Yanggakdo International Hotel
+b Kaeson Youth Park
+m Chollima Statue
+b Pyongyang TV Tower
+n Ulim Waterfall
+b West Sea Barrage
+u Mirae Scientists Street
+u Ryomyong Street
+b Munsu Water Park
+@ Timor-Leste
+m Cristo Rei of Dili
+n Atauro Island
+n Mount Ramelau=Tatamailau
+n Jaco Island
+n Nino Konis Santana National Park
+u Santa Cruz cemetery=Santa Cruz massacre
+r Immaculate Conception Cathedral, Dili
+n Lake Ira Lalaro
+b Balibo Fort=Balibo
+n Matebian
+u Baucau
+b Government Palace, Dili=Government Palace (Dili)
+m Integration Monument
+u Maubisse
+
+# Middle East
+@ Iran
+r Shah Cheragh
+r Nasir-ol-Molk Mosque
+b Azadi Tower
+b Milad Tower
+r Imam Reza shrine
+b Naqsh-e Rostam
+a Pasargadae
+r Jameh Mosque of Isfahan
+b Chehel Sotoun
+g Si-o-se-pol
+g Khaju Bridge
+r Sheikh Lotfollah Mosque
+b Ali Qapu
+r Vank Cathedral
+b Tomb of Hafez
+b Eram Garden
+b Arg of Karim Khan
+u Vakil Bazaar
+u Grand Bazaar, Tehran
+b Tabiat Bridge
+n Mount Damavand
+u Masuleh
+u Abyaneh
+u Kandovan=Kandovan, Osku
+n Badab-e Surt
+n Lut Desert=Dasht-e Lut
+n Hormuz Island
+a Chogha Zanbil
+a Behistun Inscription
+a Takht-e Soleymān
+a Shushtar Historical Hydraulic System
+a Bam Citadel=Arg-e Bam
+b Tower of Silence, Yazd=Tower of Silence
+r Jameh Mosque of Yazd
+b Amir Chakhmaq Complex
+b Dolat Abad Garden=Dowlatabad Garden
+b Fin Garden
+b Borujerdi House
+b Tabatabaei House
+b Bazaar of Tabriz
+r Blue Mosque, Tabriz
+r Saint Thaddeus Monastery=Monastery of Saint Thaddeus
+r Saint Stepanos Monastery
+b Soltaniyeh=Dome of Soltaniyeh
+b Gonbad-e Qabus=Gonbad-e Qabus (tower)
+r Fatima Masumeh Shrine
+r Jamkaran Mosque
+b Rudkhan Castle
+n Qeshm Island
+n Kish Island
+a Taq-e Bostan
+a Bishapur
+a Susa
+b Falak-ol-Aflak
+n Ali-Sadr Cave
+b Tomb of Avicenna=Avicenna Mausoleum
+a Ganjnameh
+b Alamut Castle
+b Shazdeh Garden
+b Rayen Castle
+u Meymand=Maymand, Kerman
+r Shah Nematollah Vali Shrine
+b Ganjali Khan Complex
+n Maranjab Desert
+b Sa'dabad Complex
+b Niavaran Complex
+r Tomb of Daniel
+r Agha Bozorg Mosque
+n Tochal
+n Margoon Waterfall
+n Lake Urmia
+u Darband, Tehran
+b Tomb of Saadi
+b Qavam House
+r Vakil Mosque
+b Hasht Behesht
+a Tepe Sialk
+@ Iraq
+r Imam Husayn Shrine
+r Imam Ali Shrine
+a Hatra
+a Taq Kasra
+a Ziggurat of Ur
+a Great Mosque of Samarra
+b Citadel of Erbil
+m Al-Shaheed Monument
+m Victory Arch
+r Al-Kadhimiya Mosque
+r Al-Askari Shrine
+n Mesopotamian Marshes
+r Lalish
+a Nimrud
+a Assur
+a Dur-Kurigalzu
+a Uruk
+b Mustansiriya Madrasa
+r Abu Hanifa Mosque
+r Mausoleum of Abdul-Qadir Gilani
+u Al-Mutanabbi Street
+b Baghdad Tower
+r Al-Abbas Shrine=Al-Abbas Shrine
+n Gali Ali Bag=Gali Ali Beg Waterfall
+n Rawanduz
+r Great Mosque of al-Nuri (Mosul)=Great Mosque of al-Nuri, Mosul
+r Mar Mattai Monastery
+r Rabban Hormizd Monastery
+u Amadiya
+a Eridu
+a Kish=Kish (Sumer)
+a Nippur
+a Lagash
+a Borsippa
+a Al-Ukhaidir Fortress
+m Freedom Monument, Baghdad=Freedom Monument (Baghdad)
+m Unknown Soldier Monument=The Monument to the Unknown Soldier
+r Umm al-Qura Mosque
+r Great Mosque of Kufa
+n Lake Dukan
+n Lake Habbaniyah
+n Halgurd
+u Shanidar Cave
+b Abbasid Palace
+b Qishla, Baghdad=Qishla of Baghdad
+n Shatt al-Arab
+m Save Iraqi Culture Monument
+@ Israel
+b Tower of David
+a Caesarea Maritima
+n Ramon Crater=Makhtesh Ramon
+n Timna Valley
+n Sea of Galilee
+n Ein Gedi
+a Acre Old City=Old City of Acre
+u White City, Tel Aviv=White City (Tel Aviv)
+a Megiddo=Tel Megiddo
+a Beit She'an
+r Basilica of the Annunciation
+r Capernaum
+r Church of the Multiplication
+a Qumran=Qumran Caves
+n Rosh HaNikra grottoes
+a Belvoir Fortress
+a Tel Hazor
+n Banias
+a Nimrod Fortress
+b Azrieli Center
+u Carmel Market
+u Neve Tzedek
+b Knesset
+u Mahane Yehuda Market
+a Avdat
+a Beit Guvrin=Beit Guvrin National Park
+a Herodium
+n Coral Beach=Coral Beach Nature Reserve
+n Mount Tabor
+n Mount Hermon
+r Mount of Beatitudes
+a Tzippori=Sepphoris
+a Tel Be'er Sheva
+n Stalactite Cave=Avshalom Cave
+u Safed
+b Shrine of the Book
+n Hula Valley
+a Mamshit
+n Ein Avdat
+b Shalom Meir Tower
+u Sarona
+u Zikhron Ya'akov
+a Beit She'arim=Beit She'arim necropolis
+r Mar Saba
+r Stella Maris Monastery
+@ Jerusalem
+r Church of All Nations
+r Dormition Abbey
+r Mount of Olives
+r Garden Tomb
+r Al-Aqsa Mosque
+u Via Dolorosa
+u Damascus Gate
+u Jaffa Gate
+r Church of Mary Magdalene
+r Mount Zion
+r Cenacle
+r Tomb of the Virgin Mary=Tomb of Mary
+a City of David=City of David (archaeological site)
+u Mea Shearim
+r Hurva Synagogue
+u Mamilla Mall
+b King David Hotel
+m Yad Vashem
+r Church of Saint Anne, Jerusalem=Church of Saint Anne, Jerusalem
+r Gethsemane
+a Hezekiah's Tunnel=Siloam tunnel
+b Montefiore Windmill
+r Dominus Flevit Church
+a Zedekiah's Cave
+r Mount Herzl
+g Chords Bridge
+u Golden Gate=Golden Gate (Jerusalem)
+r Lions' Gate
+r Cathedral of Saint James, Jerusalem
+r Monastery of the Cross
+a Tombs of the Kings=Tombs of the Kings (Jerusalem)
+a Tomb of Absalom
+r Dome of the Chain
+@ Jordan
+a Jerash
+b Amman Citadel
+a Roman Theatre, Amman=Roman theater (Amman)
+b Kerak Castle
+r Al-Maghtas
+r Mount Nebo
+b Ajloun Castle
+n Wadi Mujib
+a Qasr Amra
+a Umm Qais
+r Madaba Map
+n Dana Biosphere Reserve
+b Montreal Castle=Montreal (castle)
+a Ad Deir
+a Al-Khazneh
+a Little Petra
+r King Abdullah I Mosque
+n Ma'in Hot Springs
+u Aqaba
+a Qasr Kharana
+a Umm ar-Rasas
+a Qasr al-Azraq
+a Umm el-Jimal
+a Pella=Pella, Jordan
+a Machaerus
+u Rainbow Street
+n Azraq Wetland Reserve
+b Aqaba Flagpole
+b Abdali Project=Abdali Project
+a Iraq al-Amir=Qasr al-Abd
+r Abu Darwish Mosque
+a Qasr Al-Mshatta=Qasr Mshatta
+n Ajloun Forest Reserve
+a Siq
+b Raghadan Palace
+n Jordan Trail
+n Jabal Umm al Dami
+u Al-Salt=Al-Salt
+b Aqaba Fort=Aqaba Fortress
+n Wadi Hasa
+@ Lebanon
+a Byblos Castle
+u Pigeon Rocks=Raouché
+r Mohammad Al-Amin Mosque
+b Beiteddine Palace
+a Anjar=Anjar, Lebanon
+n Qadisha Valley=Kadisha Valley
+r Our Lady of Lebanon
+b Sidon Sea Castle
+a Temple of Bacchus
+n Baatara gorge waterfall
+u Beirut Souks
+b Citadel of Raymond de Saint-Gilles
+b Mseilha Fort
+u Byblos
+b Beaufort Castle, Lebanon
+n Qurnat as Sawda'
+n Shouf Biosphere Reserve
+u Place de l'Étoile=Nejmeh Square
+u Martyrs' Square, Beirut
+u Zaitunay Bay
+u Corniche Beirut
+b Grand Serail
+u Deir el Qamar
+n Mzaar Kfardebian
+u Batroun
+u Hamra Street
+r Saint George Maronite Cathedral, Beirut
+r Monastery of Qozhaya
+b Moussa Castle
+n Afqa
+n Lake Qaraoun
+u Ehden
+n Horsh Ehden
+u Bcharre=Bsharri
+a Faqra
+a Tyre Hippodrome
+a Temple of Eshmun
+u Zahlé
+b Sursock Palace
+n Palm Islands Nature Reserve
+u Douma, Lebanon
+r Saint Charbel=Monastery of Saint Maron
+b Holiday Inn Beirut
+u Gemmayzeh
+u Khan al-Franj
+u Jounieh
+u Téléphérique=Téléphérique (Lebanon)
+@ United Arab Emirates
+r Sheikh Zayed Grand Mosque
+b Louvre Abu Dhabi
+u Dubai Mall
+b Ferrari World=Ferrari World Abu Dhabi
+b Qasr Al Watan
+u Dubai Marina
+b Atlantis, The Palm
+b Emirates Palace
+n Jebel Hafeet
+n Jebel Jais
+u Dubai Fountain
+b Dubai Creek
+u Gold Souk=Dubai Gold Souk
+u Al Fahidi Historical Neighbourhood
+b Ain Dubai
+u Global Village=Global Village (Dubai)
+u Dubai Miracle Garden
+b Emirates Towers
+b Cayan Tower
+b Jumeirah Mosque
+b Etihad Towers
+u Yas Island
+b Yas Marina Circuit
+b Capital Gate
+b Aldar headquarters building=Aldar Headquarters building
+u Corniche, Abu Dhabi=Corniche (Abu Dhabi)
+b Qasr al-Hosn
+a Hili Archaeological Park
+u Al Ain Oasis
+b Al Jahili Fort
+n Liwa Oasis
+n Hatta=Hatta, United Arab Emirates
+b Fujairah Fort
+r Al Badiyah Mosque
+r Al Noor Mosque, Sharjah=Al Noor Mosque (Sharjah)
+u Dubai Opera
+u The World=The World (archipelago)
+u Jumeirah Beach
+u Bluewaters Island
+u Madinat Jumeirah
+n Ras Al Khor
+b Abrahamic Family House
+b Dhayah Fort
+u Sir Bani Yas
+n Mleiha=Mleiha Archaeological Centre
+u Dubai Water Canal
+u Expo City Dubai=Expo 2020
+@ Saudi Arabia
+r Quba Mosque
+u Diriyah
+n Mount Arafat
+b Kingdom Centre
+u Al-Balad, Jeddah
+b Jeddah Tower
+m King Fahd's Fountain
+b Abraj Al Bait
+r Masjid al-Qiblatayn
+n Jabal al-Nour
+n Edge of the World=Jebel Fihrayn
+b Masmak Fort
+b Al Faisaliah Tower=Al Faisaliyah Center
+b King Abdullah Financial District
+n Al Wahbah crater
+n Farasan Islands
+u Rijal Almaa
+n Asir National Park=Asir Mountains
+n Jabal Sawda
+u Abha
+n Empty Quarter=Rub' al Khali
+n Elephant Rock=Jabal AlFil
+a Dumat al-Jandal
+a Jubbah=Jubbah, Saudi Arabia
+a Tayma
+b Hejaz Railway
+n Al-Ahsa Oasis
+n Al-Qarah Mountain
+u Mina=Mina, Saudi Arabia
+r Jamarat Bridge
+r Mount Uhud
+r Al-Baqi Cemetery=Al-Baqi Cemetery
+u Jeddah Corniche
+r Floating Mosque=Al-Rahma Mosque
+b Jeddah Flagpole
+u Boulevard Riyadh City
+b King Fahd Causeway
+u Umluj
+a Al-'Ula=Al-'Ula
+n Harrat Khaybar
+b King Abdulaziz Center for World Culture
+n Wadi Hanifa
+n Uruq Bani Ma'arid
+u Thee Ain=Zee Ain
+@ Oman
+b Al Alam Palace
+b Nizwa Fort
+b Bahla Fort
+b Jabrin Castle
+n Wadi Shab
+n Bimmah Sinkhole
+n Jebel Shams
+n Wahiba Sands=Sharqiya Sands
+n Jebel Akhdar=Jebel Akhdar (Oman)
+u Muttrah Souq
+b Royal Opera House Muscat
+u Muttrah Corniche
+n Ras al-Jinz
+n Wadi Bani Khalid
+a Bat, Al-Khutm and Al-Ayn=Archaeological Sites of Bat, Al-Khutm and Al-Ayn
+n Wadi Ghul
+u Misfat al Abriyeen=Misfat al Abriyyin
+b Al Jalali Fort
+b Al Mirani Fort
+b Nakhal Fort
+b Rustaq Fort
+n Daymaniyat Islands
+n Masirah Island
+n Al Hoota Cave
+n Majlis al Jinn
+a Sumhuram=Khor Rori
+a Al-Baleed Archaeological Park
+n Wadi Darbat
+b Taqah Castle
+n Jebel Samhan
+n Khasab
+b Khasab Castle
+n Telegraph Island
+u Sur, Oman
+b Sohar Fort
+b Mohammed Al Ameen Mosque
+u Birkat Al Mouz
+b Bait Al Zubair
+n Wadi Dayqah Dam
+u Al Hamra, Oman
+a Qalhat
+@ Qatar
+u Souq Waqif
+u The Pearl Island
+b Katara Cultural Village
+n Khor Al Adaid
+b Aspire Tower
+a Al Zubarah Fort
+u Doha Corniche
+b Lusail Stadium
+b Doha Tower
+u Msheireb Downtown Doha
+b Education City Mosque
+b Qatar National Library
+b Barzan Towers
+m East-West/West-East
+b Khalifa International Stadium
+b Imam Muhammad ibn Abd al-Wahhab Mosque
+u Lusail
+b Katara Towers
+b Stadium 974
+b Al Bayt Stadium
+b Al Koot Fort
+u Aspire Park
+u Villaggio Mall
+b Tornado Tower
+a Al Jassasiya
+@ Kuwait
+r Grand Mosque of Kuwait=Grand Mosque (Kuwait)
+b Liberation Tower=Liberation Tower (Kuwait)
+b Al Hamra Tower
+b Seif Palace
+u Souk Al-Mubarakiya
+n Failaka Island
+b Kuwait National Assembly Building
+b Sheikh Jaber Al-Ahmad Cultural Centre
+u The Avenues=The Avenues (Kuwait)
+b Sheikh Abdullah Al-Salem Cultural Centre
+b Al Shaheed Park
+b Sadu House
+b Kuwait Scientific Center=The Scientific Center of Kuwait
+b Red Fort, Kuwait=Kuwait Red Fort
+g Sheikh Jaber Al-Ahmad Al-Sabah Causeway
+n Kubbar Island
+b Bayan Palace
+u Souq Sharq
+b Arraya Tower
+b Al Tijaria Tower
+u 360 Mall
+b National Bank of Kuwait Headquarters=NBK Tower
+n Mutla Ridge
+u Green Island=Green Island (Kuwait)
+@ Bahrain
+b Bahrain World Trade Center
+r Al Fateh Grand Mosque
+m Tree of Life=Tree of Life (Bahrain)
+a Dilmun Burial Mounds
+u Bab Al Bahrain
+b Bahrain International Circuit
+b Arad Fort
+b Riffa Fort
+b Bahrain Financial Harbour
+a Barbar Temple
+b Bahrain National Theatre
+u Manama Souq
+n Hawar Islands
+r Khamis Mosque
+u Amwaj Islands
+u Bahrain Bay
+b Four Seasons Hotel Bahrain Bay
+b Bahrain Pearling Trail=Bahrain Pearling Path
+m Pearl Roundabout
+n Al Areen Wildlife Park
+u Durrat Al Bahrain
+b First Oil Well=First Oil Well, Bahrain
+n Al Dar Islands
+@ Syria
+a Krak des Chevaliers
+r Umayyad Mosque
+b Citadel of Aleppo
+a Bosra
+a Apamea=Apamea, Syria
+u Maaloula
+b Azm Palace
+u Al-Hamidiyah Souq
+a Norias of Hama
+a Dead Cities
+a Church of Saint Simeon Stylites
+r Sayyidah Zaynab Mosque
+b Citadel of Damascus
+a Ebla
+a Mari=Mari, Syria
+a Ugarit
+b Citadel of Salah Ed-Din
+b Margat
+r Saidnaya=Our Lady of Saidnaya Monastery
+r Great Mosque of Aleppo
+u Al-Madina Souq
+a Resafa
+a Qasr al-Hayr al-Sharqi
+b Qal'at Ja'bar
+r Chapel of Saint Paul
+u Straight Street
+r Mar Musa=Deir Mar Musa al-Habashi
+b Khan As'ad Pasha
+r Sayyidah Ruqayya Mosque
+a Amrit
+u Arwad
+a Tell Halaf
+b Masyaf Castle
+a Serjilla
+n Mount Qasioun
+b Damascus Opera House
+r Tekkiye Mosque=Sulaymaniyya Takiyya
+n Lake Assad
+b Baron Hotel
+b Hejaz Station=Hejaz railway station
+r Nur al-Din Madrasa
+b Mausoleum of Saladin
+r Khalid ibn al-Walid Mosque
+a Halabiye
+a Cyrrhus
+a Shahba
+u Qanawat
+@ Yemen
+u Old City of Sanaa=Old City of Sanaa
+u Shibam Hadramawt=Shibam
+r Al Saleh Mosque
+u Zabid
+n Haraz Mountains=Jabal Haraz
+u Al-Hajjarah=Al Hajjarah
+b Cairo Castle=Cairo Castle
+a Marib Dam
+a Awwam temple=Temple of Awwam
+r Queen Arwa Mosque
+u Jibla, Yemen
+u Thula
+u Kawkaban
+n Wadi Dawan=Wadi Dawan
+u Tarim, Yemen
+r Al-Muhdhar Mosque
+u Mukalla
+n Aden crater=Crater (Aden)
+b Cisterns of Tawila
+b Sira Fortress
+n Bab-el-Mandeb
+n Perim
+n Jabal an-Nabi Shu'ayb
+r Great Mosque of Sanaa
+u Bab al-Yaman
+a Baraqish
+a Barran Temple
+n Kamaran
+n Hanish Islands
+u Mocha, Yemen
+b Seiyun Palace
+n Jabal Bura
+u Manakhah
+r Al-Ashrafiya Mosque
+r Al-Janad Mosque
+n Jabal Sabir
+n Hoq Cave
+n Qalansiyah
+n Abd al Kuri
+u Hadibu
+@ Palestine
+r Church of the Nativity
+a Hisham's Palace
+a Tell es-Sultan
+r Mount of Temptation
+a Sebastia=Sebastia, Nablus
+r Jacob's Well
+r Mount Gerizim
+u Old City of Hebron=Old City of Hebron
+m Mausoleum of Yasser Arafat=Arafat Mausoleum
+r Great Mosque of Gaza
+r Monastery of Saint George of Choziba=St. George's Monastery, Wadi Qelt
+r Nabi Musa
+u Old City of Nablus=Old City (Nablus)
+r Rachel's Tomb
+r Shepherds' Field=Shepherds' Field Chapel
+u Manger Square
+r Chapel of the Milk Grotto
+b Walled Off Hotel=The Walled Off Hotel
+r Mosque of Omar, Bethlehem=Mosque of Omar (Bethlehem)
+a Solomon's Pools
+a Battir
+a Tell Balata
+r Joseph's Tomb
+u Rawabi
+r Saint Porphyrius Church=Church of Saint Porphyrius
+b Qasr al-Basha
+a Anthedon=Anthedon (Palestine)
+a Tell Umm el-'Amr=Saint Hilarion Monastery
+n Wadi Qelt
+n Wadi Gaza
+b Jacir Palace
+r Burqin Church
+u Ramallah
+
+# Africa
+@ Egypt
+n Siwa Oasis
+b Aswan Dam
+a Bent Pyramid
+b Cairo Citadel
+a Colossi of Memnon
+b Citadel of Qaitbay
+a Temple of Edfu
+a Dendera Temple complex
+a Temple of Kom Ombo
+r Al-Azhar Mosque
+b Cairo Tower
+a Pyramid of Djoser
+a Great Sphinx of Giza
+a Luxor Temple
+a Philae temple complex
+a Ramesseum
+a Medinet Habu
+a Abydos=Abydos, Egypt
+a Red Pyramid
+a Meidum
+a Tomb of Tutankhamun
+a Valley of the Queens
+a Deir el-Medina
+a Saqqara
+a Dahshur
+r Mosque of Ibn Tulun
+r Mosque-Madrasa of Sultan Hassan
+r Al-Rifa'i Mosque
+r Hanging Church=Hanging Church (Cairo)
+u Khan el-Khalili
+u Tahrir Square
+b Baron Empain Palace
+b Abdeen Palace
+u Al-Muizz Street=Muizz Street
+u City of the Dead=City of the Dead (Cairo)
+b Bab Zuweila
+b Montaza Palace
+u Corniche (Alexandria)
+a Catacombs of Kom El Shoqafa
+a Pompey's Pillar=Pompey's Pillar (column)
+r Abu al-Abbas al-Mursi Mosque
+b Stanley Bridge
+n Ras Muhammad National Park
+n Blue Hole, Dahab=Blue Hole (Red Sea)
+n Mount Sinai
+n Coloured Canyon=Coloured Canyon
+u Naama Bay
+n Giftun Islands
+u El Gouna
+n Wadi El Rayan=Wadi El Rayan
+n Wadi al-Hitan
+n Lake Qarun=Lake Moeris
+n Black Desert=Black Desert (Egypt)
+n Bahariya Oasis
+n Dakhla Oasis
+n Kharga Oasis
+n Gilf Kebir
+n Cave of Swimmers
+n Great Sand Sea
+a Temple of Kalabsha
+a Unfinished obelisk
+b Old Cataract Hotel=Sofitel Legend Old Cataract Aswan Hotel
+r Monastery of Saint Anthony
+r Monastery of Saint Paul the Anchorite
+n Elephantine
+n Lake Nasser
+b Aga Khan Mausoleum=Mausoleum of Aga Khan
+a Temple of Esna=Esna
+a Tanis
+a Amarna
+a Beni Hasan
+a Tuna el-Gebel
+r Monastery of Saint Macarius the Great
+n Wadi El Natrun
+b Suez Canal
+b New Administrative Capital
+b Iconic Tower=Iconic Tower (Egypt)
+a Temple of Seti I, Abydos=Temple of Seti I (Abydos)
+a Pyramid of Khafre
+a Pyramid of Menkaure
+a Tomb of Nefertari=QV66
+a El-Alamein war cemetery=El Alamein
+@ Morocco
+b Majorelle Garden
+a Volubilis
+n Toubkal
+b Bahia Palace
+r Ben Youssef Madrasa
+b Kasbah of the Udayas
+r Koutoubia=Kutubiyya Mosque
+u Jemaa el-Fnaa
+b Saadian Tombs
+b El Badi Palace
+u Chouara Tannery
+r Al-Qarawiyyin=University of al-Qarawiyyin
+b Bou Inania Madrasa
+b Bab Bou Jeloud
+u Fes el Bali
+b Hassan Tower
+b Mausoleum of Mohammed V
+a Chellah
+n Erg Chebbi
+n Dadès Gorges
+n Todra Gorge=Todgha Gorge
+n Ouzoud Falls
+n Legzira Beach=Legzira
+u Essaouira
+u Asilah
+b Bab Mansour=Bab Mansur al-'Alj
+b Mausoleum of Moulay Ismail
+u Tétouan medina=Medina of Tétouan
+n Caves of Hercules
+n Cap Spartel
+n Oukaïmeden
+u Ouarzazate
+b Taourirt Kasbah=Kasbah Taourirt
+b Atlas Studios
+b Telouet Kasbah
+n Tizi n'Tichka
+n Draa Valley=Draa River
+n Erg Chigaga
+u Merzouga
+n Ziz Valley=Ziz River
+u Ifrane
+n Cèdre Gouraud Forest
+u Moulay Idriss Zerhoun
+u El Jadida=Mazagan
+u Taghazout
+n Souss-Massa National Park
+u Tafraoute
+n Dakhla=Dakhla, Western Sahara
+u Rick's Café Casablanca
+b Mahkama du Pacha
+b Royal Palace of Fez=Dar al-Makhzen (Fez)
+b Menara gardens
+r Tin Mal Mosque
+b Agdal Gardens
+n Lake Bin el Ouidane=Bin el Ouidane Dam
+n Friouato caves=Gouffre de Friouato
+b Mohammed VI Tower
+b Grand Theatre of Rabat
+b Borj Nord
+u Mellah of Fez
+n Tazekka National Park
+u Oualidia
+@ South Africa
+n Cradle of Humankind
+n Cape Agulhas
+u Bo-Kaap
+b Moses Mabhida Stadium
+a Mapungubwe=Kingdom of Mapungubwe
+n Big Hole
+m Voortrekker Monument
+n Cape Point
+b Union Buildings
+u Victoria & Alfred Waterfront
+n Kirstenbosch National Botanical Garden
+n Lion's Head=Lion's Head (Cape Town)
+n Chapman's Peak
+n Cape of Good Hope
+b Castle of Good Hope
+u Camps Bay
+n Twelve Apostles=Twelve Apostles (Cape Town)
+n Signal Hill=Signal Hill (Cape Town)
+u Muizenberg
+n Hermanus
+n Garden Route
+n Tsitsikamma National Park
+n Knysna Heads=Knysna
+g Bloukrans Bridge
+n Addo Elephant National Park
+n Cango Caves
+n Valley of Desolation
+n Augrabies Falls
+n Kgalagadi Transfrontier Park
+n Cederberg
+n West Coast National Park
+u Stellenbosch
+u Franschhoek
+n Golden Gate Highlands National Park
+n Tugela Falls
+n Royal Natal National Park
+n Sani Pass
+n iSimangaliso Wetland Park
+n Hluhluwe–Imfolozi Park
+u Durban Golden Mile=Golden Mile, Durban
+u uShaka Marine World
+n Valley of a Thousand Hills
+n Oribi Gorge
+n Hole in the Wall=Hole in the Wall, Eastern Cape
+n Three Rondavels
+n Bourke's Luck Potholes
+n God's Window
+n Pilanesberg National Park
+u Sun City=Sun City, South Africa
+u Soweto Towers=Orlando Power Station
+u Vilakazi Street
+b Ponte City
+b Carlton Centre
+b Hillbrow Tower
+g Nelson Mandela Bridge
+b FNB Stadium
+u Gold Reef City
+u Maboneng
+n Sterkfontein
+n Magaliesberg
+n Hartbeespoort Dam
+m Freedom Park=Freedom Park (South Africa)
+m Afrikaans Language Monument
+b Church Square, Pretoria=Church Square (Pretoria)
+n Sodwana Bay
+n Kosi Bay
+n Madikwe Game Reserve
+n Sabi Sand Game Reserve
+n Mountain Zebra National Park
+n Richtersveld
+b Southern African Large Telescope
+n Tankwa Karoo National Park
+n Swartberg Pass
+u Matjiesfontein
+u Long Street=Long Street (Cape Town)
+u Greenmarket Square
+b Rhodes Memorial
+b Groot Constantia
+b Cape Town Stadium
+b Cape Town City Hall
+u Company's Garden
+b Houses of Parliament, Cape Town
+u Kalk Bay
+u Simon's Town
+n Hout Bay
+@ Kenya
+n Lake Turkana
+n Hell's Gate National Park
+n Tsavo East National Park
+n Mount Kenya
+u Lamu Old Town
+b Fort Jesus
+n Nairobi National Park
+n Diani Beach
+n Lake Naivasha
+n Lake Bogoria
+n Samburu National Reserve
+n Aberdare National Park
+b Kenyatta International Convention Centre
+u Giraffe Centre
+u David Sheldrick Wildlife Trust=Sheldrick Wildlife Trust
+n Great Rift Valley, Kenya
+a Gedi ruins=Ruins of Gedi
+n Watamu
+n Ol Pejeta Conservancy
+n Lake Baringo
+n Mount Longonot
+n Menengai
+n Chyulu Hills
+n Tsavo West National Park
+n Mzima Springs
+n Meru National Park
+n Kakamega Forest
+n Mount Elgon
+n Thomson's Falls
+n Fourteen Falls
+n Karura Forest
+u Bomas of Kenya
+u Uhuru Gardens
+n Ngong Hills
+n Lake Magadi
+n Olorgesailie
+n Shimba Hills National Reserve
+n Kisite-Mpunguti Marine National Park
+n Wasini Island
+m Mombasa tusks=Moi Avenue (Mombasa)
+n Haller Park
+m Vasco da Gama Pillar
+n Arabuko Sokoke National Park=Arabuko Sokoke Forest
+a Koobi Fora
+n Central Island=Central Island National Park
+n Sibiloi National Park
+n Chalbi Desert
+n Lewa Wildlife Conservancy
+n Lake Elmenteita
+a Hyrax Hill
+a Thimlich Ohinga
+n Rusinga Island
+n Saiwa Swamp National Park
+n Kerio Valley
+n Ruma National Park
+b Jamia Mosque, Nairobi=Jamia Mosque (Kenya)
+@ Tanzania
+n Olduvai Gorge
+n Lake Natron
+a Kilwa Kisiwani
+n Mount Meru=Mount Meru (Tanzania)
+n Lake Manyara
+n Tarangire National Park
+n Ol Doinyo Lengai
+n Selous Game Reserve
+n Ruaha National Park
+n Gombe Stream National Park
+n Mahale Mountains National Park
+n Mafia Island
+n Pemba Island
+n Mnemba Island
+n Jozani Chwaka Bay National Park
+n Nungwi
+n Prison Island=Changuu
+b House of Wonders
+b Old Fort of Zanzibar
+u Forodhani Gardens
+r Christ Church, Zanzibar
+u Darajani Market
+n Lake Eyasi
+n Empakaai Crater=Empakaai
+n Lake Tanganyika
+n Kalambo Falls
+n Udzungwa Mountains National Park
+n Mikumi National Park
+n Katavi National Park
+n Arusha National Park
+n Usambara Mountains
+n Lake Chala
+u Bagamoyo
+m Askari Monument
+r St. Joseph's Cathedral, Dar es Salaam
+b Kariakoo Market=Kariakoo
+n Bongoyo Island
+n Mbudya Island
+a Kondoa Rock-Art Sites=Kondoa Irangi Rock Paintings
+a Laetoli
+a Isimila Stone Age Site=Isimila
+a Engaruka
+a Kaole
+a Tongoni Ruins
+n Amboni Caves
+n Saadani National Park
+n Rubondo Island National Park
+n Lake Rukwa
+n Kitulo National Park
+n Mount Rungwe
+n Ngozi crater=Lake Ngozi
+a Songo Mnara
+n Pangani
+n Chumbe Island
+n Saanane Island
+m Arusha Declaration Monument
+@ Ethiopia
+u Harar
+r Abuna Yemata Guh
+n Lake Tana
+n Blue Nile Falls
+n Erta Ale
+r Debre Damo
+r Church of Our Lady Mary of Zion
+r Holy Trinity Cathedral, Addis Ababa=Holy Trinity Cathedral (Addis Ababa)
+u Merkato=Addis Mercato
+n Bale Mountains National Park
+a Tiya=Tiya (archaeological site)
+n Awash National Park
+n Sof Omar Caves
+n Ras Dashen
+a Yeha
+r Debre Libanos
+n Mount Entoto
+r Ura Kidane Mehret
+r Debre Berhan Selassie Church
+b Fasilides' Bath
+n Lake Langano
+n Lake Abaya
+n Nechisar National Park
+u Konso
+n Lake Chamo
+n Lake Hawassa=Lake Awasa
+n Wenchi=Wonchi
+n Lake Ashenge
+r Yemrehana Krestos Church
+r Abba Garima Monastery
+a Hadar=Hadar, Ethiopia
+a Melka Kunture
+r Wukro Chirkos
+r Abreha we Atsbeha Church
+n Gheralta
+n Dallol=Dallol (hydrothermal system)
+n Lake Afrera
+n Lake Karum
+m Lion of Judah monument=Monument to the Lion of Judah
+m Tiglachin Monument
+m Yekatit 12 monument
+u Meskel Square
+b Africa Hall
+b African Union headquarters=AU Conference Center and Office Complex
+b Unity Park
+b Adwa Victory Memorial
+r St. George's Cathedral, Addis Ababa
+r Medhane Alem Cathedral, Addis Ababa=Medhane Alem Cathedral
+b Grand Anwar Mosque
+b Menelik Palace
+n Abijatta-Shalla National Park
+n Mago National Park
+n Omo National Park
+n Gambela National Park
+a Dungur
+r Biete Medhane Alem
+n Mount Abuna Yosef
+n Ankober
+r Negash=Negash
+r Al-Nejashi Mosque
+r Narga Selassie
+@ Tunisia
+u Sidi Bou Said
+a Carthage
+r Mosque of Uqba=Great Mosque of Kairouan
+a Dougga
+u Medina of Tunis
+u Matmata=Matmata, Tunisia
+n Chott el Djerid
+b Ribat of Monastir
+r El Ghriba Synagogue
+u Medina of Sousse
+r Al-Zaytuna Mosque
+a Bulla Regia
+a Sbeitla
+n Ichkeul National Park=Ichkeul Lake
+b Ksar Ouled Soltane
+u Chenini
+u Tozeur
+n Chebika=Chebika, Tozeur
+n Tamerza
+b Ksar Hadada
+u Douz
+n Djerba
+u Houmt Souk
+a Kerkouane
+a Thuburbo Majus
+a Utica=Utica, Tunisia
+a Zaghouan Aqueduct
+a Baths of Antoninus
+a Byrsa
+a Makthar=Maktar
+a Oudna=Uthina
+b Bourguiba mausoleum
+u Mahdia
+u Hammamet=Hammamet, Tunisia
+u Port El Kantaoui
+b Ribat of Sousse
+r Great Mosque of Sousse
+r Mosque of the Three Doors
+r Mosque of the Barber=Zawiya of Sidi Sahib
+b Aghlabid Basins
+u Bizerte
+n Cap Bon
+n Cap Angela
+u Tabarka
+n Aïn Draham
+u Le Kef=El Kef
+a Chemtou
+a Haïdra
+n Jugurtha Tableland
+n Jebil National Park
+n Ksar Ghilane
+u Tataouine
+u Guermessa
+u Douiret
+n Kerkennah Islands
+u Sfax medina=Medina of Sfax
+b Avenue Habib Bourguiba
+r Cathedral of St. Vincent de Paul, Tunis=Cathedral of St. Vincent de Paul
+r Acropolium of Carthage
+b Carthage Palace
+b City of Culture=City of Culture (Tunis)
+n Belvedere Park
+n Lake of Tunis
+u La Goulette
+u La Marsa
+u Gammarth
+@ Algeria
+a Timgad
+a Djémila
+u Casbah of Algiers
+r Notre-Dame d'Afrique
+m Maqam Echahid
+a Tipaza=Tipasa
+n Tassili n'Ajjer
+u M'zab=M'zab
+u Ghardaïa
+g Sidi M'Cid Bridge
+r Ketchaoua Mosque
+r Djamaa el Djazaïr
+b Great Mosque of Algiers
+u Jardin d'Essai du Hamma=Botanical Garden Hamma
+r Basilica of St Augustine=Basilique Saint Augustin
+a Beni Hammad Fort
+a Royal Mausoleum of Mauretania
+a Madghacen
+u Timimoun
+u Taghit
+u Beni Abbes=Béni Abbès
+n Assekrem
+n Grand Erg Oriental
+n Grand Erg Occidental
+n Djurdjura
+n Chréa National Park
+n Gouraya National Park
+u Béjaïa
+n El Kala National Park
+r Santa Cruz Fort=Fort Santa Cruz (Oran)
+r Great Mosque of Tlemcen
+b El Mechouar Palace
+b Mansourah=Mansourah, Tlemcen
+a Hippo Regius
+a Lambaesis
+a Tiddis
+a Cherchell
+n Ghoufi
+u El Oued
+n Chott Melrhir
+u Bou Saâda
+b Palace of Ahmed Bey=Ahmed Bey Palace
+r Emir Abdelkader Mosque
+g Sidi Rached Viaduct
+b Monument to the Dead (Constantine)=Monument to the Dead of Constantine
+b Grande Poste d'Alger
+b Bastion 23=Palais des Raïs
+b Dar Hassan Pacha
+r Djamaa el Kebir
+r Sacré-Cœur Cathedral of Algiers=Sacred Heart Cathedral of Algiers
+n Tikjda
+n Akfadou
+n Taza National Park
+n Theniet El Had National Park
+n Belezma National Park
+n Sefar
+n Djanet
+n Tadrart Rouge
+@ Namibia
+n Deadvlei
+n Skeleton Coast
+u Swakopmund
+n Dune 45
+n Sesriem
+n Cape Cross
+n Waterberg Plateau Park
+a Twyfelfontein
+n Brandberg Mountain
+n Epupa Falls
+n Hoba meteorite
+n Namib-Naukluft National Park
+n Quiver Tree Forest
+r Christ Church, Windhoek
+b Tintenpalast
+m Heroes' Acre=Heroes' Acre (Namibia)
+u Lüderitz
+n Sandwich Harbour
+n Dune 7
+n Caprivi Strip
+n Bwabwata National Park
+n Popa Falls
+n Khaudum National Park
+n Ruacana Falls
+n Kaokoland
+n Damaraland
+n Burnt Mountain=Burnt Mountain (Namibia)
+n Organ Pipes=Organ Pipes (Namibia)
+n Vingerklip
+n Erongo Mountains
+n Naukluft Mountains
+n NamibRand Nature Reserve
+b Duwisib Castle
+n Ai-Ais=ǀAi-ǀAis Hot Springs
+n Sperrgebiet=Tsau ǁKhaeb National Park
+n Diaz Point
+n Bogenfels
+n Elizabeth Bay=Elizabeth Bay, Namibia
+n Lake Otjikoto
+n Dragon's Breath Cave
+b Alte Feste
+b Swakopmund Lighthouse
+b Woermannhaus
+n Kuiseb Canyon
+n Gamsberg
+n Spreetshoogte Pass
+n Solitaire=Solitaire, Namibia
+@ Botswana
+n Makgadikgadi Pan
+n Tsodilo
+n Central Kalahari Game Reserve
+n Moremi Game Reserve
+n Nxai Pan National Park
+n Kubu Island
+n Savuti=Savuti Channel
+n Khama Rhino Sanctuary
+m Three Dikgosi Monument
+n Tuli Block
+n Mashatu Game Reserve
+n Gcwihaba
+n Kgale Hill
+n Mokolodi Nature Reserve
+b Gaborone Dam
+n Nata Bird Sanctuary
+n Chief's Island
+n Khutse Game Reserve
+n Sua Pan
+n Ntwetwe Pan
+n Lake Ngami
+n Aha Hills
+n Domboshaba
+n Matsieng Footprints
+n Jwaneng diamond mine
+n Orapa diamond mine
+n Kazungula Bridge
+n Tswapong Hills
+n Moremi Gorge
+n Old Palapye=Phalatswe
+n Manyelanong Game Reserve
+@ Zimbabwe
+n Matobo National Park
+n Mana Pools
+n Hwange National Park
+n Lake Kariba
+b Kariba Dam
+n Chinhoyi Caves
+a Khami
+n Eastern Highlands
+n Mutarazi Falls
+n Nyanga National Park
+n Chimanimani Mountains
+n Gonarezhou National Park
+g Victoria Falls Bridge
+n Balancing Rocks
+m National Heroes' Acre=National Heroes' Acre (Zimbabwe)
+n Bvumba Mountains
+n Domboshava
+n Lake Mutirikwi
+b Victoria Falls Hotel
+n Zambezi National Park
+n Matusadona National Park
+n Chizarira National Park
+n World's View, Nyanga
+n Mount Nyangani
+a Naletale
+a Danangombe
+a Ziwa
+n Chilojo Cliffs
+n Birchenough Bridge
+n Tengenenge
+n Mukuvisi Woodlands
+n Lake Chivero
+n Mavuradonha Wilderness
+n Save Valley Conservancy
+n Batoka Gorge
+@ Madagascar
+n Nosy Be
+n Andasibe-Mantadia National Park
+n Ranomafana National Park
+n Ankarana Reserve
+n Masoala National Park
+n Île Sainte-Marie
+n Amber Mountain National Park
+b Rova of Antananarivo
+a Ambohimanga
+n Tsingy Rouge
+n Andringitra National Park
+n Anja Community Reserve
+n Nosy Iranja
+n Ifaty
+n Kirindy Forest
+n Berenty Reserve
+n Lokobe Reserve
+n Diego Suarez Bay=Antsiranana Bay
+n Nosy Komba
+n Nosy Tanikely
+n Nosy Mangabe
+n Lake Tritriva
+n Lake Itasy
+u Antsirabe
+n Marojejy National Park
+n Zombitse-Vohibasia National Park
+n Tsimanampetsotsa National Park
+n Anakao
+n Andohahela National Park
+n Lemurs' Park
+n Pangalanes Canal=Canal des Pangalanes
+n Lake Anosy
+b Andafiavaratra Palace
+u Analakely
+n Ankarafantsika National Park
+n Manambolo River
+u Fianarantsoa
+b Fianarantsoa-Côte Est railway
+n Lake Alaotra
+n Zahamena National Park
+n Cap Sainte Marie
+n Makay Massif
+n Mitsio Islands=Nosy Mitsio
+n Radama Islands
+n Peyrieras Reptile Reserve
+n Foulpointe=Mahavelona
+n Cap Est=Cape Est
+@ Ghana
+b Cape Coast Castle
+b Elmina Castle
+m Black Star Gate=Black Star Square
+m Kwame Nkrumah Mausoleum
+n Wli Waterfalls
+n Mole National Park
+n Lake Volta
+b Akosombo Dam
+r Larabanga Mosque
+u Kejetia Market
+n Lake Bosumtwi
+u Nzulezo
+b Manhyia Palace
+b Osu Castle
+b Jamestown Lighthouse=Jamestown, Ghana
+u Makola Market
+b National Theatre of Ghana
+n Boti Falls
+n Kintampo waterfalls
+n Aburi Botanical Gardens
+n Mount Afadja
+n Tafi Atome Monkey Sanctuary
+n Paga Crocodile Pond
+n Shai Hills Resource Reserve=Shai Hills
+n Bia National Park
+n Ankasa Conservation Area
+b Fort St. Jago=Fort Coenraadsburg
+b Fort Amsterdam, Ghana
+b Fort Metal Cross
+b Fort Saint Anthony
+u Busua
+n Ada Foah
+n Keta Lagoon
+b Fort Prinzenstein
+b W. E. B. Du Bois Centre=W. E. B. Du Bois Memorial Centre for Pan-African Culture
+b Jubilee House
+b National Mosque of Ghana=Ghana National Mosque
+b National Cathedral of Ghana
+u Labadi Beach
+u Kokrobite
+a Asante Traditional Buildings
+u Bonwire
+n Digya National Park
+n Bui National Park
+n Kyabobo National Park
+n Tongo Hills
+r Navrongo Cathedral=Our Lady of Seven Sorrows Cathedral, Navrongo
+a Assin Manso
+n Adomi Bridge
+@ Nigeria
+n Zuma Rock
+n Olumo Rock
+n Yankari National Park=Yankari Game Reserve
+b Lekki Conservation Centre
+r Abuja National Mosque
+b National Christian Centre=National Church of Nigeria
+n Erin-Ijesha Waterfalls
+n Obudu Mountain Resort
+n Ikogosi Warm Springs
+b National Theatre, Nigeria=National Arts Theatre
+u Kano city walls=Ancient Kano City Walls
+b Emir's Palace, Kano=Gidan Rumfa
+n Idanre Hill
+n Gurara Falls
+n Ogbunike Caves
+n Awhum Waterfall
+n Cross River National Park
+a Sukur
+u Makoko
+b Third Mainland Bridge
+u Tafawa Balewa Square
+b Freedom Park, Lagos=Freedom Park (Lagos)
+u Eko Atlantic
+u Tarkwa Bay Beach
+u Badagry
+b First Storey Building in Nigeria
+u Balogun Market
+b Cathedral Church of Christ, Lagos
+b Lagos Central Mosque
+u Victoria Island=Victoria Island (Nigeria)
+n Aso Rock
+u Millennium Park, Abuja=Millennium Park (Abuja)
+n Jabi Lake
+n Usman Dam
+n Agbokim Waterfalls
+n Kwa Falls
+u Tinapa=Tinapa Resort
+n Afi Mountain Wildlife Sanctuary
+n Gashaka Gumti National Park
+n Chappal Waddi
+n Mambilla Plateau
+n Farin Ruwa Falls
+n Assop Falls
+n Riyom Rock
+n Shere Hills
+n Jos Wildlife Park
+n Kainji Lake National Park=Kainji National Park
+n Owu Falls
+n Old Oyo National Park
+b Mapo Hall
+b Cocoa House
+u Agodi Gardens
+n Ado-Awaye suspended lake=Iyake Lake
+b Ooni's Palace=Ooni of Ife
+u Oba's Palace Benin=Royal Palace of the Oba of Benin
+a Benin Moat=Walls of Benin
+n Okomu National Park
+u Dala Hill
+u Kurmi Market
+b Kano Central Mosque=Great Mosque of Kano
+b Gobarau Minaret
+n Chad Basin National Park
+n Oguta Lake
+n Arochukwu Long Juju=Ibini Ukpabi
+b Niger Bridge=River Niger Bridge
+u Onitsha Market=Main Market, Onitsha
+n Ibeno Beach
+@ Senegal
+m African Renaissance Monument
+n Lake Retba
+r Great Mosque of Touba
+n Niokolo-Koba National Park
+n Djoudj National Bird Sanctuary
+u Saint-Louis, Senegal
+b Faidherbe Bridge
+n Saloum Delta National Park=Saloum Delta
+u Joal-Fadiouth
+u Dakar Grand Mosque=Grand Mosque of Dakar
+r Mosque of the Divinity
+b Dakar railway station
+n Îles de la Madeleine
+n Ngor=Ngor, Dakar
+n Casamance
+n Cap Skirring
+a Senegambian stone circles
+n Lompoul
+b Presidential Palace, Dakar=Palace of the Republic (Senegal)
+b Dakar Cathedral=Our Lady of Victories Cathedral, Dakar
+n Langue de Barbarie
+n Dindefelo Falls
+u Bassari Country
+n Popenguine
+u Saly
+n Petite-Côte=Petite Côte
+u Carabane
+n Basse Casamance National Park
+n Almadies=Pointe des Almadies
+b Mamelles Lighthouse=Les Mamelles Lighthouse
+n Lake Guiers
+u Podor
+@ Uganda
+n Murchison Falls
+n Queen Elizabeth National Park
+n Kibale National Park
+n Lake Bunyonyi
+n Sipi Falls
+n Kidepo Valley National Park
+n Ssese Islands
+n Mgahinga Gorilla National Park
+a Kasubi Tombs
+r Uganda National Mosque
+r Namugongo=Basilica of the Uganda Martyrs, Namugongo
+r Rubaga Cathedral
+r Namirembe Cathedral
+n Lake Mburo National Park
+n Semuliki National Park
+n Ziwa Rhino Sanctuary
+n Ngamba Island Chimpanzee Sanctuary=Ngamba Island
+n Mabira Forest
+n Lake Victoria
+n Bujagali Falls
+n Mount Elgon National Park
+n Pian Upe Wildlife Reserve
+n Lake Kyoga
+n Budongo Forest
+n Kazinga Channel
+n Lake Edward
+n Lake George=Lake George (Uganda)
+n Katwe=Lake Katwe
+n Lake Mutanda
+n Mount Muhabura
+n Mount Sabyinyo
+n Mount Stanley
+b Mengo Palace=Lubiri
+b Bulange
+m Independence Monument, Kampala=Independence Monument (Uganda)
+u Owino Market=St. Balikuddembe Market
+b Makerere University
+u Entebbe Botanical Gardens=National Botanical Gardens (Uganda)
+u Uganda Wildlife Education Centre=Uganda Wildlife Conservation Education Centre
+n Mabamba Bay
+n Lake Nabugabo
+n Nyero rock paintings=Nyero Rock Paintings
+n Karuma Falls
+n Aruu Falls
+n Mount Moroto
+n Mount Kadam
+b Owen Falls Dam=Nalubaale Power Station
+@ Rwanda
+n Nyungwe Forest=Nyungwe Forest
+n Lake Kivu
+n Akagera National Park
+b Kigali Genocide Memorial
+b Kigali Convention Centre
+n Mount Karisimbi
+n Mount Bisoke
+n Lake Muhazi
+n Twin Lakes=Lake Burera
+n Musanze Caves
+b Hôtel des Mille Collines
+n Gishwati Forest
+n Lake Ihema
+b Kigali Arena=BK Arena
+m Nyamata Genocide Memorial=Nyamata Genocide Memorial Centre
+m Murambi Genocide Memorial=Murambi Genocide Memorial Centre
+m Ntarama Genocide Memorial=Ntarama Church
+n Rusumo Falls
+n Lake Ruhondo
+u Gisenyi
+b Amahoro Stadium
+u Nyamirambo
+n Dian Fossey=Karisoke Research Center
+@ DR Congo
+n Mount Nyiragongo
+n Kahuzi-Biéga National Park
+n Garamba National Park
+n Salonga National Park
+n Okapi Wildlife Reserve
+n Lola ya Bonobo
+n Livingstone Falls
+n Boyoma Falls
+n Zongo Falls
+n Congo River
+n Idjwi
+n Upemba National Park
+n Kundelungu National Park
+n Lofoi Falls
+b Inga Dams
+b Palais du Peuple, Kinshasa=Palais du Peuple (Kinshasa)
+b Tower of Limete=Limete Tower
+b Stade des Martyrs
+u Boulevard du 30 Juin
+r Notre-Dame Cathedral, Kinshasa=Notre-Dame du Congo Cathedral
+n Kisantu Botanical Garden=Kisantu
+n Mangroves National Park
+u Matadi Bridge
+n Mount Nyamuragira
+n Maiko National Park
+n Lomami National Park
+n Tshopo Falls=Tshopo River
+n Lake Mai-Ndombe
+n Lake Tumba
+n Lake Mweru
+n Kiubo Falls
+b Gbadolite palace=Gbadolite
+n Mount Hoyo
+n Rutshuru Falls
+n Senkwekwe Centre
+@ Sudan
+a Jebel Barkal
+a Naqa
+a Musawwarat es-Sufra
+a Nuri
+a El-Kurru
+a Kerma
+a Old Dongola
+a Soleb
+n Sanganeb=Sanganeb National Park
+u Suakin
+n Dinder National Park
+n Jebel Marra
+r Hamed al-Nil Mosque=Hamed al-Nil Tomb
+b Republican Palace, Khartoum=Republican Palace (Sudan)
+b Corinthia Hotel Khartoum
+n Tuti Island
+a Sai=Sai (island)
+a Sedeinga pyramids
+a Tombos
+a Kawa=Kawa, Sudan
+a Ghazali=Ghazali (monastery)
+n Bayuda Desert
+n Nubian Desert
+n Dungonab Bay
+n Taka Mountains
+n Erkowit
+b Merowe Dam
+n Wadi Halfa
+a Buhen
+a Semna=Semna (Nubia)
+r Al-Nilin Mosque
+r Khartoum Mosque=Great Mosque of Khartoum
+n Radom National Park
+n Deriba Caldera
+@ Libya
+a Sabratha
+a Ghadames
+n Tadrart Acacus
+n Ubari lakes=Ubari Sand Sea
+m Arch of Marcus Aurelius=Arch of Marcus Aurelius (Tripoli)
+b Red Castle of Tripoli
+u Martyrs' Square, Tripoli
+a Apollonia=Apollonia (Cyrenaica)
+a Ptolemais=Ptolemais, Cyrenaica
+n Waw an Namus
+n Gaberoun
+n Jebel Akhdar=Jebel Akhdar (Libya)
+u Nalut
+b Qasr al-Haj
+u Ghat=Ghat, Libya
+a Germa
+n Kufra
+n Jabal Arkanu
+n Jebel Uweinat
+n Murzuq Desert=Idehan Murzuq
+n Libyan Desert
+r Gurgi Mosque
+r Karamanli Mosque=Ahmed Pasha Karamanli Mosque
+b Tripoli Cathedral
+a Villa Silene
+a Qasr Libya
+n Wadi al-Kuf
+b Benghazi Cathedral
+n Great Man-Made River
+a Ghirza
+n Haruj
+n Jabal Nafusa=Nafusa Mountains
+u Yefren
+u Gharyan
+a Zliten mosaic
+u Murzuk
+@ Mali
+r Great Mosque of Djenné
+u Timbuktu
+n Bandiagara Escarpment
+r Djinguereber Mosque
+r Sankore Madrasah
+a Tomb of Askia
+n Hombori Tondo=Mount Hombori
+u Mopti
+r Great Mosque of Mopti=Grand Mosque of Mopti
+u Ségou
+b BCEAO Tower
+r Bamako Grand Mosque
+r Sidi Yahya Mosque
+n Hand of Fatima
+n Niger Inland Delta=Inner Niger Delta
+n Boucle du Baoulé National Park
+n Gouina Falls
+n Félou Falls
+n La Dune Rose=Koyma
+u Gao
+n Lake Débo
+n Lake Faguibine
+u Djenné-Djenno
+a Tellem
+u Sangha, Mali
+u Kangaba
+n Sélingué Dam
+n Manantali Dam
+u Araouane
+u Taoudenni
+u Essouk
+n Adrar des Ifoghas
+n Tilemsi
+u San, Mali
+b Bamako Cathedral=Bamako Cathedral
+n Siby=Siby, Mali
+@ Mauritius
+n Le Morne Brabant
+n Chamarel=Seven Coloured Earths
+n Black River Gorges National Park
+n Île aux Cerfs
+n Pamplemousses Botanical Garden=Sir Seewoosagur Ramgoolam Botanical Garden
+n Ganga Talao
+n Trou aux Cerfs
+b Aapravasi Ghat
+u Caudan Waterfront
+n Pieter Both=Pieter Both (mountain)
+n Le Pouce
+n Tamarind Falls
+n Blue Bay Marine Park=Blue Bay, Mauritius
+n Île aux Aigrettes
+n Casela=Casela World of Adventures
+u Grand Baie
+n Flic-en-Flac
+n Trou d'Eau Douce
+n Belle Mare
+n Rochester Falls
+n La Vanille Nature Park
+b Château de Labourdonnais
+b Eureka House=Eureka (Mauritius)
+b Fort Adelaide
+b Champ de Mars Racecourse
+b Notre Dame Auxiliatrice=Notre-Dame Auxiliatrice de Cap Malheureux Chapel
+n Coin de Mire=Gunner's Quoin (Mauritius)
+n Round Island
+n Rodrigues
+u Mahébourg
+n Bras d'Eau National Park
+r Jummah Mosque=Jummah Mosque (Mauritius)
+b Government House, Port Louis=Government House (Port Louis)
+@ Seychelles
+n Anse Lazio
+n Curieuse Island
+n Morne Seychellois National Park
+n Beau Vallon
+n Bird Island, Seychelles
+n Cousin Island
+n Silhouette Island
+u Victoria Clock Tower=Victoria, Seychelles
+n Sainte Anne Marine National Park
+n Praslin
+n La Digue
+n Félicité Island
+n Denis Island
+n Frégate Island
+n Desroches Island
+n Alphonse Atoll
+n Aride Island
+n Cerf Island
+n Moyenne Island
+n Eden Island=Eden Island, Seychelles
+n Cosmoledo
+n Farquhar Atoll
+n Astove Island
+n North Island=North Island, Seychelles
+n Coco Island=Île Cocos
+b Arul Mihu Navasakthi Vinayagar Temple
+u Sir Selwyn Selwyn-Clarke Market
+u Seychelles National Botanical Gardens
+n Port Launay
+n Baie Ternay
+n Platte Island
+n Coëtivy Island
+@ Zambia
+n South Luangwa National Park
+n Lower Zambezi National Park
+n Kafue National Park
+n Kasanka National Park
+n Bangweulu Wetlands
+n Liuwa Plain National Park
+n Lake Bangweulu
+n Lumangwe Falls
+n Ngonye Falls
+n Kabwelume Falls
+n Kundalila Falls
+n Chishimba Falls
+n Shiwa Ngandu
+n Nsumbu National Park
+n Blue Lagoon National Park
+n Lochinvar National Park
+n North Luangwa National Park
+n Livingstone Island
+n Mosi-oa-Tunya National Park
+b Cathedral of the Holy Cross, Lusaka=Cathedral of the Holy Cross (Lusaka)
+n Munda Wanga
+n Lake Kashiba
+n Chimfunshi Wildlife Orphanage
+n Zambezi Source=Zambezi Source National Forest
+n Siavonga
+n Ntumbachushi Falls
+n Sioma Ngwezi National Park
+n Barotse Floodplain
+n Kuomboka
+@ Mozambique
+u Island of Mozambique
+n Gorongosa National Park
+n Quirimbas Islands
+n Tofo=Tofo Beach
+n Niassa Reserve=Niassa National Reserve
+n Ponta do Ouro
+b Maputo railway station=Maputo Central Train Station
+b Maputo Fortress=Fortress of Maputo
+b Iron House=Casa de Ferro
+r Cathedral of Our Lady of the Immaculate Conception, Maputo=Cathedral of Our Lady of the Immaculate Conception (Maputo)
+n Inhaca Island
+n Maputo Special Reserve=Maputo National Park
+n Vilankulo
+n Benguerra Island
+n Cahora Bassa
+n Mount Namuli
+n Ibo Island=Ibo, Mozambique
+n Limpopo National Park
+n Banhine National Park
+n Zinave National Park
+n Mount Binga
+b Grande Hotel Beira
+n Bilene
+u Maputo Central Market=Maputo Central Market
+b Tunduru Gardens
+g Maputo–Katembe bridge
+b Polana Serena Hotel=Polana Hotel
+n Mount Mabu
+n Mount Gorongosa
+n Mount Lico
+n Magaruque Island
+n Vamizi Island
+r Chapel of Nossa Senhora de Baluarte
+b Fort São Sebastião=Fort São Sebastião
+n Primeiras and Segundas
+@ Cameroon
+n Waza National Park
+n Dja Faunal Reserve
+n Kribi
+n Lobé Falls=Lobé Waterfalls
+n Lake Oku
+n Korup National Park
+n Mandara Mountains
+u Foumban
+r Basilica of Mary Queen of the Apostles=Basilique Marie-Reine-des-Apôtres
+n Mount Oku
+n Bafut=Bafut, Cameroon
+n Lake Barombi Mbo
+n Bénoué National Park
+n Bouba Njida National Park
+n Lobéké National Park
+n Campo Ma'an National Park
+n Metchum Falls=Menchum Falls
+n Mount Manengouba
+b La Nouvelle Liberté
+r Douala Cathedral=Cathedral of Saints Peter and Paul, Douala
+n Limbe wildlife centre=Limbe Wildlife Centre
+n Bimbia
+n Mount Etinde
+n Lake Awing
+n Lake Bamendjing
+n Lake Lagdo
+n Gorges de Kola
+n Kalamaloué National Park
+n Faro National Park
+n Mbam Djerem National Park
+n Lake Ossa
+n Nachtigal Falls
+b Unity Palace
+n Mount Febe=Mont Fébé
+n Mvog-Betsi Zoo
+
+# South America
+@ Brazil
+u Ouro Preto
+b National Congress of Brazil
+u Paraty
+n Meeting of Waters
+n Pedra da Gávea
+n Ilha Grande
+u Ibirapuera Park
+u Olinda
+u Paulista Avenue
+r São Paulo Cathedral
+b Maracanã Stadium
+m Escadaria Selarón
+u Copacabana, Rio de Janeiro
+u Ipanema
+u Rio de Janeiro Botanical Garden
+r Rio de Janeiro Cathedral
+b Palácio da Alvorada
+g Juscelino Kubitschek Bridge
+b Theatro Municipal, Rio de Janeiro=Theatro Municipal (Rio de Janeiro)
+b Royal Portuguese Cabinet of Reading
+b Edifício Copan
+b Sambadrome Marquês de Sapucaí
+n Tijuca Forest=Tijuca National Park
+n Pedra do Telégrafo
+n Arpoador
+u Lapa Arches=Carioca Aqueduct
+u Santa Teresa, Rio de Janeiro
+n Rodrigo de Freitas Lagoon
+n Dois Irmãos=Morro Dois Irmãos
+n Arraial do Cabo
+n Búzios=Armação dos Búzios
+u Petrópolis
+n Serra dos Órgãos National Park
+n Dedo de Deus
+n Itatiaia National Park
+n Pico das Agulhas Negras
+n Ilhabela
+u Liberdade, São Paulo=Liberdade (district of São Paulo)
+b Farol Santander=Altino Arantes Building
+b Mercado Municipal de São Paulo=Municipal Market of São Paulo
+b Luz Station
+b Theatro Municipal, São Paulo=Theatro Municipal (São Paulo)
+u Beco do Batman
+g Octávio Frias de Oliveira Bridge
+b Edifício Itália
+b Aparecida Basilica=Basilica of the National Shrine of Our Lady Aparecida
+u Campos do Jordão
+u Tiradentes, Minas Gerais
+r Sanctuary of Bom Jesus de Matosinhos=Sanctuary of Bom Jesus do Congonhas
+u Mariana, Minas Gerais
+u Diamantina
+b Pampulha Modern Ensemble=Pampulha Modern Ensemble
+r Church of Saint Francis of Assisi (Pampulha)=Church of Saint Francis of Assisi
+u Inhotim
+n Serra do Cipó National Park
+n Serra da Canastra National Park
+n Chapada dos Veadeiros National Park
+n Chapada dos Guimarães National Park
+n Bonito, Mato Grosso do Sul
+n Gruta do Lago Azul
+n Abismo Anhumas
+n Emas National Park
+n Jalapão
+n Bananal Island
+n Anavilhanas National Park
+n Jaú National Park
+n Mamirauá Sustainable Development Reserve
+n Alter do Chão=Alter do Chão (Santarém)
+n Marajó
+u Ver-o-Peso
+b Theatro da Paz
+n Monte Roraima National Park
+n Pico da Neblina
+n Jericoacoara
+n Canoa Quebrada
+n Beach Park
+n Pipa Beach
+n Genipabu
+n Porto de Galinhas
+u Recife Antigo
+b Ricardo Brennand Institute
+b Kahal Zur Israel Synagogue
+n Maragogi
+n Canyon do Xingó=Xingó Dam
+n Praia do Forte
+n Morro de São Paulo
+n Boipeba
+n Abrolhos Marine National Park
+u Porto Seguro
+n Trancoso=Trancoso, Bahia
+b Elevador Lacerda=Lacerda Elevator
+r Church of Nosso Senhor do Bonfim, Salvador
+b Mercado Modelo
+r São Francisco Church and Convent, Salvador=São Francisco Church and Convent
+b Farol da Barra=Barra Lighthouse
+n Itaparica Island
+n Fumaça Waterfall=Cachoeira da Fumaça
+n Poço Encantado
+n Serra da Capivara National Park
+n Sete Cidades National Park
+n Parnaíba Delta
+n Vale do Catimbau=Catimbau National Park
+n Cabo Branco=Ponta do Seixas
+n Itaimbezinho=Itaimbezinho Canyon
+n Aparados da Serra National Park
+u Gramado
+n Caracol Falls
+a São Miguel das Missões
+b Mercado Público de Porto Alegre=Porto Alegre Public Market
+g Hercílio Luz Bridge
+n Praia do Rosa
+n Balneário Camboriú
+u Beto Carrero World
+u Blumenau
+n Serra do Rio do Rastro
+b Wire Opera House
+b Botanical Garden of Curitiba
+n Ilha do Mel
+n Vila Velha State Park
+n Guartelá Canyon
+n Parque das Aves
+r Cathedral of Maringá
+b Convento da Penha=Convent of Penha
+n Pedra Azul=Pedra Azul State Park
+n Trindade and Martin Vaz
+n Rocas Atoll
+n Saint Peter and Saint Paul Archipelago
+r Cathedral of Brasília
+b Palácio do Planalto
+b Itamaraty Palace
+b Supreme Federal Court building=Supreme Federal Court
+u Praça dos Três Poderes
+b Brasília TV Tower
+r Dom Bosco Sanctuary=Santuário Dom Bosco
+b JK Memorial
+u Esplanada dos Ministérios=Monumental Axis
+n Pirenópolis
+u Goiás Velho=Goiás, Goiás
+u Caldas Novas
+n Transpantaneira
+n Pantanal Matogrossense National Park
+u Parintins
+b Rio Negro Palace=Palácio Rio Negro
+b Adolpho Lisboa Market=Mercado Adolpho Lisboa
+g Rio Negro Bridge
+n Presidente Figueiredo
+n Xingu Indigenous Park=Xingu Indigenous Park
+n Tumucumaque Mountains National Park
+b Fortaleza de São José de Macapá
+u São Luís historic centre=Historic Centre of São Luís
+u Alcântara=Alcântara, Maranhão
+n Chapada das Mesas National Park
+@ Argentina
+b Casa Rosada
+u La Recoleta Cemetery
+b Teatro Colón
+b El Ateneo Grand Splendid
+n Nahuel Huapi Lake
+b Palacio Barolo
+u Caminito
+u La Boca
+u Plaza de Mayo
+b Kirchner Cultural Centre
+u San Telmo, Buenos Aires
+b La Bombonera
+g Puente de la Mujer
+b Palace of the Argentine National Congress
+m Floralis Genérica
+n Cerro Torre
+n Quebrada de Humahuaca
+n Talampaya National Park
+n Ischigualasto Provincial Park
+n Valdes Peninsula
+n Lanín
+n Salinas Grandes
+n Cerro de los Siete Colores
+u Bariloche
+b Tren a las Nubes
+n Tierra del Fuego National Park
+n Beagle Channel
+n Los Glaciares National Park
+n Iberá Wetlands
+u Puerto Madero
+u Avenida 9 de Julio
+u Palermo, Buenos Aires
+b Buenos Aires Metropolitan Cathedral
+b Galerías Pacífico
+b Café Tortoni
+u Calle Florida=Florida Street
+b Kavanagh Building
+b Palacio de Aguas Corrientes=Palace of Running Waters
+u Tigre, Buenos Aires
+u Bosques de Palermo=Parque Tres de Febrero
+u Buenos Aires Japanese Gardens
+b Monumental Stadium=Estadio Monumental (Buenos Aires)
+u Plaza San Martín (Buenos Aires)
+b Usina del Arte
+u Feria de Mataderos
+b Basilica of Our Lady of Luján
+u San Antonio de Areco
+u Mar del Plata
+b La Plata Cathedral=Cathedral of La Plata
+u República de los Niños
+n Sierra de la Ventana=Sierra de la Ventana (mountains)
+m National Flag Memorial=National Flag Memorial (Argentina)
+n El Palmar National Park
+a San Ignacio Miní
+n Moconá Falls
+n Chaco National Park
+n El Impenetrable National Park
+n Campo del Cielo
+n Tafí del Valle
+a Quilmes Ruins
+n Cafayate
+n Quebrada de las Conchas=Quebrada de Cafayate
+n Calchaquí Valleys
+u Cachi=Cachi, Argentina
+n Los Cardones National Park
+r Salta Cathedral=Cathedral of Salta
+u Purmamarca
+u Tilcara
+a Pucará de Tilcara
+u Humahuaca
+n Serranía de Hornocal
+u Iruya
+n Laguna de los Pozuelos
+n Cono de Arita
+n Campo de Piedra Pómez
+n Laguna Brava
+n El Leoncito National Park
+n Aconcagua Provincial Park
+g Puente del Inca
+m Christ the Redeemer of the Andes
+n Villavicencio=Villavicencio Natural Reserve
+n Atuel Canyon
+n Las Leñas
+n Caverna de las Brujas
+n La Payunia=Payunia Provincial Reserve
+n Sierra de las Quijadas National Park
+n Quebrada del Condorito National Park
+u Villa General Belgrano
+u La Cumbrecita
+b Jesuit Block and Estancias of Córdoba
+r Córdoba Cathedral, Argentina=Cathedral of Córdoba, Argentina
+n Cerro Uritorco
+n Mar Chiquita=Mar Chiquita Lake (Córdoba)
+u Villa Carlos Paz
+n Lihué Calel National Park
+n Punta Tombo
+u Puerto Madryn
+u Gaiman, Chubut
+n Bosques Petrificados de Jaramillo National Park=Jaramillo Petrified Forest National Park
+n Monte León National Park
+n Perito Moreno National Park
+n Lago del Desierto
+n Laguna de los Tres
+n Upsala Glacier
+n Spegazzini Glacier
+n Lago Argentino
+u El Calafate
+u El Chaltén
+b Les Eclaireurs Lighthouse
+b End of the World Train=Southern Fuegian Railway
+n Martial Glacier
+n Lago Fagnano=Fagnano Lake
+n Isla de los Estados
+n Los Alerces National Park
+u Esquel
+b La Trochita
+n Lago Puelo National Park
+u El Bolsón=El Bolsón, Río Negro
+n Cerro Catedral
+n Cerro Tronador=Tronador
+b Llao Llao Hotel
+n Isla Victoria=Victoria Island (Argentina)
+n Los Arrayanes National Park
+u Villa La Angostura
+n Road of the Seven Lakes
+u San Martín de los Andes
+n Lácar Lake
+n Lake Huechulafquen=Huechulaufquen Lake
+n Copahue
+n Domuyo
+n Laguna Blanca National Park
+n Lake Traful=Traful Lake
+@ Chile
+b La Moneda Palace
+b Gran Torre Santiago
+b Paranal Observatory
+n Villarrica (volcano)
+n Licancabur
+b Atacama Large Millimeter Array
+n Osorno (volcano)
+n Valle de la Luna (Chile)
+n El Tatio
+n Lauca National Park
+n San Rafael Lagoon=Laguna San Rafael National Park
+m Mano del Desierto
+n Conguillío National Park
+n Petrohué Waterfalls
+n Lake Llanquihue
+n Ojos del Salado
+n Chungará Lake
+n Cochamó Valley
+u Sewell, Chile
+u San Cristóbal Hill
+u Plaza de Armas, Santiago
+r Churches of Chiloé
+b Humberstone and Santa Laura Saltpeter Works
+n Carretera Austral
+u Santa Lucía Hill
+r Santiago Metropolitan Cathedral
+u Mercado Central de Santiago
+u Barrio Bellavista
+b Central Post Office Building (Santiago)=Correo Central, Santiago
+b Estación Mapocho
+u Barrio Lastarria
+u Barrio París-Londres
+b Costanera Center
+b Estadio Nacional Julio Martínez Prádanos
+u Cajón del Maipo
+n El Yeso Dam=Embalse El Yeso
+n El Morado Natural Monument
+n Valle Nevado
+n Portillo=Portillo, Chile
+u Viña del Mar
+b Wulff Castle
+u Isla Negra
+n La Campana National Park
+u Valle de Elqui=Elqui Valley
+u Pisco Elqui
+b Cerro Tololo Inter-American Observatory
+b La Silla Observatory
+u La Serena, Chile
+n Pingüino de Humboldt National Reserve
+n Fray Jorge National Park=Bosque de Fray Jorge National Park
+n Pan de Azúcar National Park
+n Bahía Inglesa
+n Nevado Tres Cruces National Park
+n Laguna Verde (Chile)
+n Llullaillaco
+u San Pedro de Atacama
+a Pukará de Quitor
+a Tulor=Aldea de Tulor
+n Salar de Atacama
+n Chaxa Lagoon=Los Flamencos National Reserve
+n Laguna Miscanti=Miscanti Lake
+n Salar de Tara
+n Puritama Hot Springs
+n Lascar=Lascar (volcano)
+b Chuquicamata
+n La Portada
+b Huanchaca Ruins
+u Iquique
+n Cerro Dragón
+a Atacama Giant
+a Pintados Geoglyphs=Pintados
+n Salar de Surire
+n Isluga Volcano National Park=Volcán Isluga National Park
+n Parinacota Volcano=Parinacota (volcano)
+u Putre
+m Morro de Arica
+r San Marcos Cathedral=San Marcos Cathedral, Arica
+a Chinchorro mummies
+n Radal Siete Tazas National Park
+u Colchagua Valley
+n Salto del Laja=Laja Falls
+n Nevados de Chillán
+n Laguna del Laja National Park
+n Antuco=Antuco (volcano)
+n Nahuelbuta National Park
+n Lonquimay=Lonquimay (volcano)
+n Llaima
+n Lake Villarrica=Villarrica Lake
+u Pucón
+n Huerquehue National Park
+n Huilo-Huilo Biological Reserve
+n Lake Panguipulli=Panguipulli Lake
+u Valdivia
+n Lake Ranco=Ranco Lake
+n Puyehue National Park
+u Frutillar
+u Puerto Varas
+n Vicente Pérez Rosales National Park
+n Todos los Santos Lake
+n Calbuco=Calbuco (volcano)
+u Angelmó
+n Alerce Andino National Park
+n Hornopirén National Park
+n Pumalín Park=Pumalín Douglas Tompkins National Park
+n Chaitén=Chaitén (volcano)
+n Futaleufú River
+n Queulat National Park
+u Puyuhuapi
+n Cerro Castillo National Park
+n Baker River
+n Patagonia National Park=Patagonia National Park (Chile)
+u Caleta Tortel
+n O'Higgins Glacier
+n Northern Patagonian Ice Field
+n Southern Patagonian Ice Field
+n Bernardo O'Higgins National Park
+n Grey Glacier
+n Cuernos del Paine
+n Lake Pehoé
+n Milodón Cave=Cueva del Milodón Natural Monument
+u Puerto Natales
+u Punta Arenas
+n Magdalena Island=Magdalena Island, Magallanes Region
+n Strait of Magellan
+n Fort Bulnes=Fuerte Bulnes
+n Pali-Aike National Park
+n Alberto de Agostini National Park
+n Cordillera Darwin
+n Dientes de Navarino
+u Puerto Williams
+n Cabo Froward=Cape Froward
+n Diego Ramírez Islands
+u Castro, Chile
+n Chiloé National Park
+n Tantauco Park
+n Puñihuil=Islotes de Puñihuil Natural Monument
+n Robinson Crusoe Island
+n Alejandro Selkirk Island
+n Salas y Gómez=Isla Salas y Gómez
+n Desventuradas Islands
+@ Peru
+a Caral
+a Coricancha
+n Huayna Picchu
+a Huaca Pucllana
+n Misti
+a Chavín de Huántar
+a Choquequirao
+a Moray=Moray (Inca ruin)
+a Pisac
+u Plaza Mayor, Lima
+a Kuélap
+a Huaca del Sol
+a Pachacamac
+r Cathedral Basilica of Lima=Cathedral of Lima
+r Basilica and Convent of San Francisco, Lima
+r Santa Catalina Monastery
+u Plaza de Armas, Cusco=Plaza de Armas (Cusco)
+n Huascarán
+n Laguna 69
+n Gocta Cataracts
+n Manú National Park
+n Paracas National Reserve
+n Ballestas Islands
+n Alpamayo
+n Ausangate
+n Lake Parón
+u Maras, Peru
+n Taquile Island
+a Sillustani
+a Tipón
+n Pacaya–Samiria National Reserve
+u Barranco District
+u Miraflores District, Lima
+b Government Palace, Peru=Government Palace (Peru)
+u Parque del Amor
+u Larcomar
+u Magic Water Circuit=Circuito Mágico del Agua
+u Plaza San Martín (Lima)
+b Torre Tagle Palace
+r Santo Domingo, Lima=Basilica and Convent of Santo Domingo, Lima
+u Jirón de la Unión
+u Barrio Chino (Lima)=Chinatown, Lima
+b Real Felipe Fortress
+n Palomino Islands
+m Morro Solar
+n Lomas de Lachay
+a El Paraíso, Peru
+n Marcahuasi
+n Nor Yauyos-Cochas Landscape Reserve
+a Tambo Colorado
+u Paracas Candelabra
+a Cahuachi
+a Chauchilla Cemetery
+a Cantalloc Aqueducts=Puquios
+n Cotahuasi Canyon
+n Valley of the Volcanoes=Andagua volcanic field
+a Toro Muerto
+n Chachani
+n Sabancaya
+n Ampato
+u Plaza de Armas, Arequipa=Plaza de Armas of Arequipa
+r Basilica Cathedral of Arequipa
+n Salinas and Aguada Blanca National Reservation
+u Chivay
+n Amantaní
+a Cutimbo
+u Juli=Juli, Peru
+n Tinajani Canyon
+a Raqch'i
+a Pikillaqta
+n Humantay Lake=Humantay
+n Salkantay
+n Q'eswachaka=Queshuachaca
+a Qenko=Qenqo
+a Puka Pukara
+a Tambomachay
+a Twelve-angled stone
+r Cusco Cathedral
+r Church of the Society of Jesus, Cusco=Iglesia de la Compañía de Jesús, Cusco
+u Chinchero=Chinchero District
+a Huchuy Qosqo
+a Intipuncu=Inti Punku
+a Wiñay Wayna
+a Inca Trail to Machu Picchu
+a Vilcabamba=Vilcabamba, Peru
+a Vitcos
+a Espíritu Pampa
+n Tambopata National Reserve
+n Lake Sandoval
+n Bahuaja-Sonene National Park
+u Puerto Maldonado
+a Vilcashuamán
+a Wari=Huari (archaeological site)
+n Huaytapallana
+r Convent of Santa Rosa de Ocopa
+n Lake Junín
+n Huayllay National Sanctuary
+a Kotosh
+n Tingo María National Park
+n Cordillera Huayhuash
+n Yerupajá
+n Siula Grande
+n Pastoruri Glacier
+n Llanganuco Lakes
+n Huandoy
+n Artesonraju
+u Huaraz
+a Sechín=Cerro Sechín
+a Chankillo
+a El Brujo
+a Huaca de la Luna
+a Huaca Rajada=Huaca Rajada
+a Túcume
+u Huanchaco
+u Trujillo, Peru
+u Plaza de Armas of Trujillo
+u Máncora
+n Cerros de Amotape National Park
+n Tumbes Mangroves=Manglares de Tumbes National Sanctuary
+u Cajamarca
+a Cumbemayo=Cumbe Mayo
+a Ventanillas de Otuzco
+b Ransom Room
+a Revash
+a Karajía=Carajía
+n Yumbilla Falls
+a Gran Vilaya
+a Laguna de los Cóndores=Lake of the Condors
+n Río Abiseo National Park
+n Cordillera Azul National Park
+b Casa de Fierro
+n Allpahuayo-Mishana National Reserve
+n Boiling River=Shanay-Timpishka
+@ Colombia
+a Ciudad Perdida
+n Lake Guatavita
+b Castillo San Felipe de Barajas
+u La Candelaria
+r Monserrate
+n Tayrona National Natural Park
+n Tatacoa Desert
+n Chicamocha Canyon
+n Nevado del Ruiz
+n Los Nevados National Natural Park
+a San Agustín Archaeological Park
+a Tierradentro
+u Botero Plaza
+n Rosario Islands
+n Isla de Providencia
+n San Andrés (island)
+n Sierra Nevada de Santa Marta
+n Tequendama Falls
+u Barichara
+u Villa de Leyva
+u Salento, Quindío
+u Santa Cruz de Mompox
+u Plaza Bolívar, Bogotá=Bolívar Square
+r Primatial Cathedral of Bogotá
+b Capitolio Nacional
+b Casa de Nariño
+b Teatro Colón, Bogotá=Teatro de Cristóbal Colón
+u Usaquén
+b Torre Colpatria
+b BD Bacatá
+u Simón Bolívar Park
+u Bogotá Botanical Garden
+u Chorro de Quevedo
+n Chingaza National Natural Park
+n Sumapaz Páramo
+u Nemocón
+n Laguna de Tota=Lake Tota
+u Monguí
+n Puente de Boyacá
+n Sierra Nevada del Cocuy=Sierra Nevada del Cocuy
+n Pisba National Natural Park
+u Ráquira
+a El Infiernito
+u Girón, Santander
+u Parque Nacional del Chicamocha=Chicamocha National Park
+n Los Estoraques Unique Natural Area
+u Metrocable=Metrocable (Medellín)
+u Pueblito Paisa
+u Parque Arví
+b Medellín Metropolitan Cathedral
+u Parque Explora
+u Jardín Botánico de Medellín=Medellín Botanical Garden
+u Santa Fe de Antioquia
+g Bridge of the West=Puente de Occidente
+u Jardín=Jardín, Antioquia
+u Jericó, Antioquia
+u Guatapé
+b Hacienda Nápoles
+r Cathedral Basilica of Our Lady of the Rosary, Manizales=Cathedral Basilica of Our Lady of the Rosary (Manizales)
+n Nevado del Tolima
+n Otún Lake
+u Filandia
+u National Coffee Park=National Coffee Park
+m Cristo Rey, Cali=Cristo Rey (Colombian statue)
+r La Ermita Church=La Ermita Church
+n Farallones de Cali
+n Gorgona Island=Gorgona Island (Colombia)
+n Malpelo Island
+n Nuquí
+n Utría National Natural Park=Ensenada de Utría National Natural Park
+n Bahía Solano
+u Popayán
+n Puracé National Natural Park
+n Laguna de la Cocha
+n Galeras
+n Green Lagoon=Azufral
+n Serranía de Chiribiquete=Chiribiquete National Park
+n Cerros de Mavecure
+n Tuparro National Natural Park=El Tuparro National Natural Park
+n Serranía de la Macarena
+n Guaviare rock art=Serranía de La Lindosa
+n Amacayacu National Natural Park
+u Puerto Nariño
+u Getsemaní
+b Convento de la Popa
+b Palace of Inquisition=Palace of Inquisition
+u Las Bóvedas
+u Bocagrande
+n Barú=Isla Barú
+n Totumo Volcano=El Totumo
+n San Bernardo Islands=Archipelago of San Bernardo
+u Santa Cruz del Islote
+b Quinta de San Pedro Alejandrino
+u Taganga
+n Cabo de la Vela
+n Punta Gallinas
+n Macuira National Natural Park=Macuira National Natural Park
+n Capurganá
+n Johnny Cay
+n Old Providence McBean Lagoon National Natural Park
+@ Ecuador
+u Mitad del Mundo
+r Basilica del Voto Nacional
+u Historic Center of Quito
+m El Panecillo
+n Chimborazo
+n Tungurahua
+a Ingapirca
+n Yasuní National Park
+n Cajas National Park
+n Kicker Rock
+n Isabela Island (Galápagos)=Isabela Island (Ecuador)
+n Santa Cruz Island (Galápagos)=Santa Cruz Island (Galápagos)
+b TelefériQo
+n Cuyabeno Wildlife Reserve
+u Otavalo
+n Mindo, Ecuador
+n Cayambe (volcano)
+n Antisana
+n Sangay
+r San Francisco Church, Quito=Basilica and Convent of San Francisco, Quito
+b Carondelet Palace
+r Quito Metropolitan Cathedral
+b La Capilla del Hombre
+n Pichincha=Pichincha (volcano)
+n Pululahua
+u Papallacta
+n Cotopaxi National Park
+n Illiniza
+n Pasochoa
+u Saquisilí
+u Baños de Agua Santa
+n El Altar
+n Sangay National Park
+u Alausí
+n Cuicocha
+n Imbabura Volcano
+n San Pablo Lake
+n Mojanda
+n El Ángel Ecological Reserve
+u Cuenca, Ecuador
+a Pumapungo
+u Vilcabamba, Ecuador
+n Podocarpus National Park
+u Saraguro
+u Zaruma
+u Malecón 2000
+u Montañita
+u Salinas, Ecuador
+n Isla de la Plata
+n Machalilla National Park
+u Puerto López
+u Montecristi, Ecuador
+n Cotacachi Cayapas Ecological Reserve
+n Sumaco
+n San Rafael Falls
+n El Reventador=Reventador
+n Napo River
+n Cueva de los Tayos
+n Española Island
+n Floreana Island
+n Fernandina Island
+n Genovesa Island
+n San Cristóbal Island
+n Santiago Island (Galápagos)
+n North Seymour Island
+n South Plaza Island=Plaza Sur Island
+n Rábida Island
+n Santa Fe Island
+n Sierra Negra=Sierra Negra (Galápagos)
+n Wolf Volcano
+n Tortuga Bay
+b Charles Darwin Research Station=Charles Darwin Foundation
+n Darwin's Arch
+n Wolf Island
+n Pinnacle Rock
+n Post Office Bay
+@ Bolivia
+b Mi Teleférico
+n Nevado Sajama
+n Illimani
+n Laguna Verde (Bolivia)
+n Valle de la Luna (Bolivia)
+n Madidi National Park
+n Torotoro National Park
+n Sol de Mañana
+n Incahuasi Island
+r Basilica of Our Lady of Copacabana
+r Basilica of San Francisco, La Paz
+u Witches' Market
+a El Fuerte de Samaipata
+r Jesuit Missions of Chiquitos
+n Huayna Potosí
+n Noel Kempff Mercado National Park
+n Salar de Coipasa
+n Árbol de Piedra
+n Lake Poopó
+u Plaza Murillo
+b Palacio Quemado
+u Calle Jaén
+n Chacaltaya
+n Tuni Condoriri
+n Cordillera Real=Cordillera Real (Bolivia)
+n Illampu
+n Ancohuma
+u Sorata
+u Coroico
+n Cotapata National Park
+n Isla de la Luna
+u Copacabana, Bolivia
+a Puma Punku
+a Kalasasaya
+a Gate of the Sun
+a Iskanwaya
+u Rurrenabaque
+n Pampas del Yacuma
+n Pilón Lajas Biosphere Reserve
+n Beni savanna=Llanos de Moxos
+u Trinidad, Bolivia
+u Sucre Cathedral=Metropolitan Cathedral of Sucre
+b Casa de la Libertad
+b La Glorieta Castle=Castle of La Glorieta
+n Cal Orck'o
+u Tarabuco
+n Maragua Crater=Maragua
+b National Mint of Bolivia
+r San Lorenzo de Carangas=Church of San Lorenzo de Carangas
+u Uyuni
+b Palacio de Sal
+n Tunupa
+n Eduardo Avaroa Andean Fauna National Reserve
+n Laguna Hedionda=Laguna Hedionda (Nor Lípez)
+n Laguna Blanca (Bolivia)
+n Dalí Desert=Salvador Dalí Desert
+n Ollagüe=Ollagüe
+n Uturuncu
+u Tupiza
+n Cordillera de Sama Biological Reserve
+u Tarija
+u Oruro
+u Carnaval de Oruro
+n Sajama National Park
+n Tunari National Park
+m Cristo de la Concordia
+b Palacio Portales
+a Incallajta
+n Carrasco National Park
+n Amboró National Park
+u Samaipata, Bolivia
+u Vallegrande
+u La Higuera
+n Lomas de Arena
+u San José de Chiquitos
+u Concepción, Santa Cruz
+u San Ignacio de Velasco
+n Kaa-Iya del Gran Chaco National Park
+n Arcoíris Falls
+@ Venezuela
+n Los Roques Archipelago
+n Médanos de Coro National Park
+n Catatumbo lightning
+n Morrocoy National Park
+b University City of Caracas
+b Mérida cable car
+n Kukenán-tepui
+b Parque Central Complex
+n Orinoco Delta
+n Cueva del Guácharo National Park
+n Henri Pittier National Park
+n Margarita Island
+b National Pantheon of Venezuela
+u Colonia Tovar
+b Teresa Carreño Cultural Complex
+n Auyán-tepui
+n Pico Bolívar
+n Lake Maracaibo
+n Canaima National Park
+n Gran Sabana=La Gran Sabana
+n Pico Humboldt
+n Sierra Nevada National Park (Venezuela)
+n El Ávila National Park
+n Mochima National Park
+n Quebrada de Jaspe=Jasper Creek
+n Sima Humboldt
+n Cerro Sarisariñama
+n Autana Tepui=Cerro Autana
+n Cerro Duida
+n Casiquiare canal
+u Coro, Venezuela=Coro, Venezuela
+u Choroní
+n La Tortuga Island
+n La Blanquilla Island
+n La Orchila
+n Isla de Aves
+n Coche Island
+n Laguna de La Restinga=Laguna de la Restinga
+n Playa El Agua
+n Paria Peninsula
+n Turuépano National Park
+n Lake Valencia=Lake Valencia (Venezuela)
+g General Rafael Urdaneta Bridge
+r Basilica of Our Lady of Chiquinquirá, Maracaibo=Basilica of Our Lady of Chiquinquirá, Maracaibo
+u Sinamaica Lagoon=Sinamaica
+n Ciénagas del Catatumbo National Park
+n Sierra de Perijá National Park=Perijá National Park
+n Sierra La Culata National Park=Sierra de La Culata National Park
+n Guaramacal National Park
+n Yacambú National Park
+r Barquisimeto Cathedral
+n Cerro Santa Ana
+n Paraguaná Peninsula
+n Cabo San Román
+n Sierra de San Luis National Park=Juan Crisóstomo Falcón National Park
+b Federal Legislative Palace
+b Miraflores Palace
+b Caracas Cathedral
+r Santa Capilla
+b Birthplace of Simón Bolívar=Birthplace of Simón Bolívar
+b El Helicoide
+b Humboldt Hotel
+u Paseo Los Próceres
+b Villa Planchart
+u El Hatillo=El Hatillo Municipality
+b Caracas Aerial Tramway
+u Galipán
+n Angostura Bridge
+u Ciudad Bolívar
+n Guri Dam
+n Llovizna Falls
+n Cachamay Park
+n Pará Falls
+@ Uruguay
+b Solís Theatre
+b Estadio Centenario
+m La Mano de Punta del Este=La Mano (sculpture)
+b Casapueblo
+u Ciudad Vieja, Montevideo
+b Legislative Palace of Uruguay
+u Cabo Polonio
+b Fortaleza de Santa Teresa
+u Rambla of Montevideo
+b Palacio Salvo
+u Plaza Independencia
+u Mercado del Puerto
+u Punta del Este
+u José Ignacio=José Ignacio, Uruguay
+b Fortaleza del Cerro
+u Montevideo Cathedral=Montevideo Metropolitan Cathedral
+u Pocitos
+u Parque Rodó
+u Prado=Prado, Montevideo
+b Telecommunications Tower (Montevideo)=Telecommunications Tower (Montevideo)
+b World Trade Center Montevideo
+b Estévez Palace
+b Artigas Mausoleum
+u Puerta de la Ciudadela=Gateway of the Citadel
+u Carmelo, Uruguay
+n Quebrada de los Cuervos
+n Villa Serrana
+u Punta del Diablo
+n Santa Teresa National Park
+n Laguna de Rocha=Rocha Lagoon
+u La Paloma, Rocha
+u La Pedrera, Uruguay
+n Cerro Pan de Azúcar
+u Piriápolis
+b Castillo de Piria
+n Isla de Lobos
+n Gorriti Island
+g Leonel Viera Bridge
+g Laguna Garzón Bridge
+u Punta Ballena
+r Church of Christ the Worker and Our Lady of Lourdes
+n Termas del Daymán
+b Salto Grande Dam
+n Meseta de Artigas
+n Valle Edén
+n Valle del Lunarejo
+n Cerro Catedral=Cerro Catedral (Uruguay)
+n Cerro de las Ánimas
+@ Paraguay
+b Palacio de los López
+b National Pantheon of the Heroes
+n Saltos del Monday
+n Ybycuí National Park
+n Cerro Corá National Park
+b Itaipu Dam
+a Jesús de Tavarangue
+a La Santísima Trinidad de Paraná
+r Caacupé Basilica=Cathedral Basilica of Our Lady of Miracles, Caacupé
+n Lake Ypacaraí
+u San Bernardino, Paraguay
+u Areguá
+n Cerro Koi=Cerro Kõi
+b Manzana de la Rivera
+b Hotel Guaraní
+b Icono Tower=Icono Tower
+b Defensores del Chaco=Estadio Defensores del Chaco
+n Asunción Botanical Garden=Botanical Garden and Zoo of Asunción
+u Ciudad del Este
+g Friendship Bridge=Friendship Bridge (Brazil–Paraguay)
+n Acaray Dam
+n Ñacunday National Park
+u Encarnación, Paraguay
+b Yacyretá Dam
+n Tres Kandú
+n Salto Suizo
+n Mbaracayú Forest Nature Reserve=Mbaracayú Forest Nature Reserve
+u Concepción, Paraguay
+n Paso Bravo National Park
+n Serranía de San Luis National Park
+n Defensores del Chaco National Park
+n Médanos del Chaco National Park
+n Teniente Agripino Enciso National Park
+u Filadelfia
+u Loma Plata
+n Fortín Boquerón
+n Río Negro National Park
+u Bahía Negra
+u Fuerte Olimpo
+n Tinfunqué National Park
+u Pilar, Paraguay
+u Humaitá
+b Ruins of Humaitá=Fortress of Humaitá
+n Lake Ypoá
+
+# North America
+@ United States
+b Graceland
+u Coney Island
+b Grand Central Terminal
+b Hearst Castle
+b Rockefeller Center
+n General Sherman (tree)
+m Liberty Bell
+m Crazy Horse Memorial
+n Mount Washington
+n El Capitan
+b Mount Vernon
+n Lake Powell
+b The Breakers
+b United Nations Headquarters=Headquarters of the United Nations
+n Pikes Peak
+n Mammoth Cave National Park
+n Mount Shasta
+n Mount Hood
+b Monticello
+n Meteor Crater
+g Mackinac Bridge
+r Washington National Cathedral
+b Fort Sumter
+u High Line
+b Red Rocks Amphitheatre
+r Salt Lake Temple
+r St. Patrick's Cathedral (Midtown Manhattan)
+u Venice Beach=Venice, Los Angeles
+n Great Smoky Mountains National Park
+m Vietnam Veterans Memorial
+n Big Bend National Park
+b Transamerica Pyramid
+n Bonneville Salt Flats
+n Olympic National Park
+u Lombard Street (San Francisco)
+b One World Trade Center
+b Flatiron Building
+u Wall Street
+m Charging Bull
+b New York Stock Exchange Building
+b Carnegie Hall
+b Radio City Music Hall
+b Lincoln Center=Lincoln Center for the Performing Arts
+b New York Public Library Main Branch
+u Bryant Park
+u Washington Square Park
+b The Vessel=Vessel (structure)
+b Oculus=World Trade Center station (PATH)
+b Ellis Island
+u Fifth Avenue
+b The Dakota
+b Woolworth Building
+b Plaza Hotel
+b Waldorf Astoria New York
+b The Cloisters
+g Manhattan Bridge
+g George Washington Bridge
+g Verrazzano-Narrows Bridge
+u Chinatown, Manhattan
+b Apollo Theater
+u Flushing Meadows–Corona Park
+m Unisphere
+u Governors Island
+u Roosevelt Island Tramway
+u Staten Island Ferry
+u Bethesda Terrace and Fountain
+u Strawberry Fields=Strawberry Fields (memorial)
+b Belvedere Castle
+u Brooklyn Botanic Garden
+u Prospect Park=Prospect Park (Brooklyn)
+u Dumbo, Brooklyn
+u Brooklyn Heights Promenade
+n Watkins Glen State Park
+n Letchworth State Park
+n Adirondack Park
+n Thousand Islands
+b Boldt Castle
+n Montauk Point Light
+n Fire Island
+b West Point=United States Military Academy
+b Kykuit
+b Fallingwater
+b Independence Hall
+m Rocky Steps
+b Philadelphia City Hall
+b Eastern State Penitentiary
+u Reading Terminal Market
+u Elfreth's Alley
+m Love Park=LOVE Park
+u Longwood Gardens
+u Hersheypark
+u Amish country=Pennsylvania Dutch Country
+u Cape May=Cape May, New Jersey
+b United States Capitol
+b Supreme Court Building=United States Supreme Court Building
+b Library of Congress=Thomas Jefferson Building
+b Smithsonian Institution Building
+m Jefferson Memorial
+m Martin Luther King Jr. Memorial
+m World War II Memorial=National World War II Memorial
+m Korean War Veterans Memorial
+m Franklin Delano Roosevelt Memorial
+u National Mall
+m Arlington National Cemetery
+m Marine Corps War Memorial
+b Kennedy Center=John F. Kennedy Center for the Performing Arts
+b Ford's Theatre
+b Union Station (Washington, D.C.)=Washington Union Station
+b National Archives Building
+r Basilica of the National Shrine of the Immaculate Conception
+b Smithsonian National Zoo=National Zoological Park (United States)
+u Tidal Basin
+b Watergate complex
+u Great Falls Park=Great Falls (Potomac River)
+u Colonial Williamsburg
+n Shenandoah National Park
+n Skyline Drive
+n Luray Caverns
+n Natural Bridge (Virginia)
+n Blue Ridge Parkway
+b University of Virginia=The Lawn
+n Assateague Island
+b Fort McHenry
+u Inner Harbor
+b United States Naval Academy
+n Harpers Ferry=Harpers Ferry National Historical Park
+n New River Gorge Bridge
+n Seneca Rocks
+n Blackwater Falls State Park
+b The Greenbrier
+b Biltmore Estate
+n Chimney Rock State Park
+n Grandfather Mountain
+n Clingmans Dome=Kuwohi
+n Cades Cove
+u Dollywood
+b Wright Brothers National Memorial
+b Cape Hatteras Lighthouse
+n Outer Banks
+n Jockey's Ridge State Park
+u Charleston Historic District
+u Rainbow Row
+b Magnolia Plantation and Gardens (Charleston, South Carolina)
+b Boone Hall
+n Congaree National Park
+u Savannah Historic District=Savannah Historic District (Savannah, Georgia)
+u Forsyth Park
+b Bonaventure Cemetery
+n Okefenokee Swamp
+n Cumberland Island
+n Jekyll Island
+b World of Coca-Cola
+m Martin Luther King Jr. National Historical Park
+u Centennial Olympic Park
+b Fox Theatre (Atlanta)
+n Tallulah Gorge
+n Amicalola Falls State Park
+n Providence Canyon State Park
+b Kennedy Space Center
+u Walt Disney World
+b Cinderella Castle
+b Spaceship Earth=Spaceship Earth (Epcot)
+u Universal Orlando=Universal Orlando
+n Everglades National Park
+n Dry Tortugas National Park
+u Key West
+b Ernest Hemingway House
+m Southernmost Point Buoy
+g Seven Mile Bridge
+u Overseas Highway
+n John Pennekamp Coral Reef State Park
+n Biscayne National Park
+u South Beach
+u Art Deco Historic District=Miami Beach Architectural District
+u Ocean Drive (South Beach)
+u Little Havana
+u Wynwood Walls=Wynwood
+b Freedom Tower (Miami)
+b Castillo de San Marcos
+b Flagler College=Ponce de Leon Hotel
+b Daytona International Speedway
+n Weeki Wachee Springs
+n Silver Springs State Park=Silver Springs (Florida)
+n Ichetucknee Springs State Park
+n Wakulla Springs
+u Clearwater Beach
+n Siesta Key=Siesta Beach
+g Sunshine Skyway Bridge
+n Sanibel Island=Sanibel, Florida
+b Edison and Ford Winter Estates
+n Big Cypress National Preserve
+n Gulf Islands National Seashore
+b USS Alabama=USS Alabama (BB-60)
+b U.S. Space & Rocket Center
+m Edmund Pettus Bridge
+m National Memorial for Peace and Justice=The National Memorial for Peace and Justice
+m 16th Street Baptist Church
+m Vulcan statue
+n Little River Canyon National Preserve
+n Cathedral Caverns State Park
+u French Quarter
+u Bourbon Street
+u Jackson Square (New Orleans)
+r St. Louis Cathedral (New Orleans)
+u Garden District, New Orleans
+b Café du Monde
+u Frenchmen Street
+b St. Louis Cemetery No. 1=Saint Louis Cemetery
+b Caesars Superdome
+b Oak Alley Plantation
+n Atchafalaya Basin
+n Honey Island Swamp
+g Lake Pontchartrain Causeway
+b Louisiana State Capitol
+b Vicksburg National Military Park
+n Natchez Trace Parkway
+b Elvis Presley Birthplace
+u Beale Street
+b Sun Studio
+b Memphis Pyramid
+b Ryman Auditorium
+b Parthenon (Nashville)
+u Broadway (Nashville, Tennessee)
+b The Hermitage (Nashville, Tennessee)
+n Ruby Falls
+n Lookout Mountain
+n Fall Creek Falls State Park
+n Cumberland Gap
+n Cumberland Falls
+n Red River Gorge
+b Abraham Lincoln Birthplace National Historical Park
+n Cuyahoga Valley National Park
+n Hocking Hills State Park
+u Cedar Point
+b Serpent Mound
+b Cincinnati Union Terminal
+g John A. Roebling Suspension Bridge
+m Soldiers' and Sailors' Monument (Indianapolis)
+n Indiana Dunes National Park
+b University of Notre Dame=Basilica of the Sacred Heart, Notre Dame
+b Detroit Institute of Arts
+b Renaissance Center
+b Michigan Central Station
+b Fox Theatre (Detroit)
+g Ambassador Bridge
+u Belle Isle Park=Belle Isle Park (Michigan)
+u Mackinac Island
+b Grand Hotel (Mackinac Island)
+n Pictured Rocks National Lakeshore
+n Sleeping Bear Dunes National Lakeshore
+n Tahquamenon Falls State Park
+n Isle Royale National Park
+b Soo Locks
+n Porcupine Mountains
+n Kitch-iti-kipi
+b Willis Tower
+u Millennium Park
+u Navy Pier
+b Tribune Tower
+b Wrigley Building
+b 875 North Michigan Avenue
+u Magnificent Mile
+u Chicago Riverwalk
+b Buckingham Fountain
+b Chicago Theatre
+b Marina City
+b Robie House
+b Frank Lloyd Wright Home and Studio
+r Baháʼí House of Worship (Wilmette, Illinois)
+u Lincoln Park Zoo
+b Chicago Water Tower
+n Starved Rock State Park
+b Lincoln Home National Historic Site
+b Lincoln Tomb
+a Cahokia Mounds=Cahokia
+n Garden of the Gods Wilderness
+b Lambeau Field
+n Wisconsin Dells=Dells of the Wisconsin River
+b House on the Rock
+b Taliesin=Taliesin (studio)
+n Apostle Islands National Lakeshore
+n Devil's Lake State Park (Wisconsin)
+u Mall of America
+b Minnesota State Capitol
+m Spoonbridge and Cherry
+b Split Rock Lighthouse
+n Boundary Waters Canoe Area Wilderness
+n Voyageurs National Park
+n Minnehaha Falls=Minnehaha Park (Minneapolis)
+n Lake Itasca
+g Stone Arch Bridge (Minneapolis)
+g Aerial Lift Bridge
+n Pipestone National Monument
+b Field of Dreams=Field of Dreams (Dubuque County, Iowa)
+g Bridges of Madison County=Roseman Covered Bridge
+b Iowa State Capitol
+n Effigy Mounds National Monument
+b Anheuser-Busch Brewery
+u Forest Park (St. Louis)
+r Cathedral Basilica of Saint Louis=Cathedral Basilica of Saint Louis (St. Louis)
+u Missouri Botanical Garden
+b Union Station (St. Louis)=St. Louis Union Station
+n Lake of the Ozarks
+n Meramec Caverns
+u Country Club Plaza
+b Union Station (Kansas City)=Kansas City Union Station
+n Elephant Rocks State Park
+n Ha Ha Tonka State Park
+n Hot Springs National Park
+r Thorncrown Chapel
+n Buffalo National River
+m Little Rock Central High School
+n Crater of Diamonds State Park
+n Monument Rocks=Monument Rocks (Kansas)
+n Tallgrass Prairie National Preserve
+b Kansas State Capitol
+m Keeper of the Plains
+m Oklahoma City National Memorial
+b Oklahoma State Capitol
+n Wichita Mountains Wildlife Refuge
+m Golden Driller
+u Route 66=U.S. Route 66
+n Chimney Rock National Historic Site
+n Scotts Bluff National Monument
+m Carhenge
+b Nebraska State Capitol
+n Toadstool Geologic Park
+n Custer State Park
+n Needles Highway
+n Wind Cave National Park
+n Jewel Cave National Monument
+b Corn Palace
+u Wall Drug
+n Black Hills
+n Spearfish Canyon
+n Theodore Roosevelt National Park
+b North Dakota State Capitol
+m Enchanted Highway
+u International Peace Garden
+b Alamo Mission
+u San Antonio River Walk
+b San Antonio Missions National Historical Park
+b Tower of the Americas
+u Natural Bridge Caverns
+b Texas State Capitol
+u Sixth Street (Austin, Texas)
+u Barton Springs Pool
+n Hamilton Pool Preserve
+n Enchanted Rock
+b Space Center Houston
+b San Jacinto Monument
+b Astrodome
+n Padre Island National Seashore
+b USS Lexington=USS Lexington (CV-16)
+m Dealey Plaza
+b Reunion Tower
+b AT&T Stadium
+u Fort Worth Stockyards
+m Cadillac Ranch
+n Palo Duro Canyon
+n Guadalupe Mountains National Park
+u Prada Marfa
+b McDonald Observatory
+n Santa Elena Canyon
+n Caddo Lake
+n Big Thicket
+n Carlsbad Caverns National Park
+n Shiprock
+a Chaco Culture National Historical Park
+a Taos Pueblo
+a Bandelier National Monument
+a Gila Cliff Dwellings National Monument
+a Acoma Pueblo
+a Aztec Ruins National Monument
+u Santa Fe Plaza
+r Loretto Chapel
+r San Miguel Mission
+r Cathedral Basilica of St. Francis of Assisi (Santa Fe)
+r San Francisco de Asís Mission Church
+g Rio Grande Gorge Bridge
+b Very Large Array
+n Bisti/De-Na-Zin Wilderness
+n Kasha-Katuwe Tent Rocks National Monument
+n Valles Caldera
+n Sandia Peak Tramway
+u Old Town Albuquerque
+n Petroglyph National Monument
+n El Morro National Monument
+n Capulin Volcano National Monument
+b Trinity Site=Trinity (nuclear test)
+n Garden of the Gods
+n Rocky Mountain National Park
+n Maroon Bells
+n Great Sand Dunes National Park and Preserve
+n Black Canyon of the Gunnison National Park
+n Royal Gorge Bridge
+n Colorado National Monument
+r United States Air Force Academy Cadet Chapel
+b Colorado State Capitol
+b Denver Union Station=Union Station (Denver)
+u Larimer Square
+b Durango and Silverton Narrow Gauge Railroad
+n Million Dollar Highway
+n Hanging Lake
+n Mount Elbert
+n Mount Evans=Mount Blue Sky
+n Trail Ridge Road
+n Dinosaur National Monument
+n Paint Mines Interpretive Park
+b Stanley Hotel=The Stanley Hotel
+n Seven Falls
+n Cave of the Winds (Colorado)
+n Florissant Fossil Beds National Monument
+a Hovenweep National Monument
+m Four Corners Monument
+n Canyonlands National Park
+n Capitol Reef National Park
+n Dead Horse Point State Park
+n Goblin Valley State Park
+n Delicate Arch
+n Mesa Arch
+n Rainbow Bridge National Monument
+n Natural Bridges National Monument
+n Cedar Breaks National Monument
+n Grand Staircase–Escalante National Monument
+n Coral Pink Sand Dunes State Park
+n Goosenecks State Park
+n Valley of the Gods
+n Bears Ears National Monument
+n The Narrows (Zion National Park)
+n Angels Landing
+n Great Salt Lake
+n Antelope Island
+m Spiral Jetty
+u Temple Square
+b Utah State Capitol
+m Golden Spike National Historical Park
+n Timpanogos Cave National Monument
+n Flaming Gorge Reservoir
+n Havasu Falls
+n Petrified Forest National Park
+n Painted Desert (Arizona)
+n Saguaro National Park
+n Canyon de Chelly National Monument
+r Chapel of the Holy Cross (Sedona, Arizona)
+n Cathedral Rock
+n Oak Creek Canyon
+a Montezuma Castle National Monument
+a Wupatki National Monument
+n Sunset Crater
+a Walnut Canyon National Monument
+b Lowell Observatory
+n Humphreys Peak
+u Tombstone, Arizona
+r Mission San Xavier del Bac
+b Kitt Peak National Observatory
+n Organ Pipe Cactus National Monument
+n Chiricahua National Monument
+b Biosphere 2
+b Taliesin West
+u Desert Botanical Garden
+n Camelback Mountain
+b Arcosanti
+b Glen Canyon Dam
+n Vermilion Cliffs National Monument
+n Grand Canyon Skywalk
+n Desert View Watchtower
+n Bright Angel Trail
+n Toroweap Overlook
+u London Bridge (Lake Havasu City)
+n Lake Mead
+n Valley of Fire State Park
+n Red Rock Canyon National Conservation Area
+u Las Vegas Strip
+m Welcome to Fabulous Las Vegas sign
+b Bellagio=Bellagio (resort)
+u Fountains of Bellagio
+b The Venetian Las Vegas
+b Caesars Palace
+b Luxor Las Vegas
+b Sphere=Sphere (venue)
+u Fremont Street Experience
+b High Roller=High Roller (Ferris wheel)
+b The Strat=The Strat (Las Vegas)
+b Paris Las Vegas
+n Great Basin National Park
+n Lake Tahoe
+n Emerald Bay State Park
+u Area 51
+n Black Rock Desert
+n Pyramid Lake (Nevada)
+n Fly Geyser
+u Reno Arch
+n Lamoille Canyon
+n Cathedral Gorge State Park
+b Hollywood Walk of Fame
+b TCL Chinese Theatre
+b Griffith Observatory
+b Walt Disney Concert Hall
+b Hollywood Bowl
+u Santa Monica Pier
+u Rodeo Drive
+b Dolby Theatre
+b Capitol Records Building
+b Los Angeles City Hall
+b Union Station (Los Angeles)
+b Bradbury Building
+b Los Angeles Memorial Coliseum
+m Urban Light
+n La Brea Tar Pits
+b Watts Towers
+u Olvera Street
+u Universal Studios Hollywood
+u Disneyland
+b Sleeping Beauty Castle
+b Queen Mary=RMS Queen Mary
+u Venice Canal Historic District
+b Rose Bowl=Rose Bowl (stadium)
+b Huntington Library
+n Santa Catalina Island (California)
+n Channel Islands National Park
+u Balboa Park (San Diego)
+u San Diego Zoo
+b Hotel del Coronado
+u Gaslamp Quarter, San Diego
+u Old Town San Diego State Historic Park
+n La Jolla Cove
+n Torrey Pines State Natural Reserve
+b Cabrillo National Monument
+b Palomar Observatory
+n Anza-Borrego Desert State Park
+n Joshua Tree National Park
+n Salton Sea
+u Salvation Mountain
+u Palm Springs Aerial Tramway
+n Mojave National Preserve
+n Badwater Basin
+n Zabriskie Point
+n Racetrack Playa
+n Mount Whitney
+n Mono Lake
+n Devils Postpile National Monument
+n Bodie, California
+n Kings Canyon National Park
+n Sequoia National Park
+n Half Dome
+n Yosemite Falls
+n Glacier Point
+n Tunnel View
+n Bridalveil Fall
+n Mariposa Grove
+n Tuolumne Meadows
+n Hetch Hetchy
+n Big Sur
+g Bixby Creek Bridge
+n McWay Falls
+n Pfeiffer Beach
+n Point Lobos
+u 17-Mile Drive
+n Lone Cypress
+u Cannery Row
+r Carmel Mission=Mission San Carlos Borromeo de Carmelo
+r Mission Santa Barbara
+r Mission San Juan Capistrano
+n Pinnacles National Park
+u Santa Cruz Beach Boardwalk
+b Winchester Mystery House
+b Stanford University=Stanford Memorial Church
+b Apple Park
+b Googleplex
+b Lick Observatory
+u Fisherman's Wharf, San Francisco
+u Pier 39
+b Coit Tower
+b Palace of Fine Arts
+b Ferry Building=San Francisco Ferry Building
+u Painted Ladies
+u Chinatown, San Francisco
+u Haight-Ashbury
+u Union Square, San Francisco
+b San Francisco City Hall
+u Golden Gate Park
+u Japanese Tea Garden (San Francisco)
+b California Academy of Sciences
+u Cable cars=San Francisco cable car system
+b Salesforce Tower
+u Twin Peaks (San Francisco)
+g San Francisco–Oakland Bay Bridge
+n Muir Woods National Monument
+n Point Reyes National Seashore
+n Mount Tamalpais
+b Sather Tower
+n Mount Diablo
+b Castello di Amorosa
+n Redwood National and State Parks
+n Avenue of the Giants
+n Lassen Volcanic National Park
+n Burney Falls
+n Lava Beds National Monument
+b California State Capitol
+u Old Sacramento State Historic Park
+b Sutter's Fort
+n Multnomah Falls
+n Columbia River Gorge
+n Cannon Beach=Haystack Rock
+n Painted Hills
+n Smith Rock State Park
+n Thor's Well
+n Oregon Dunes National Recreation Area
+n Three Sisters (Oregon)
+n Mount Bachelor
+n Newberry National Volcanic Monument
+n Oregon Caves National Monument and Preserve
+n Samuel H. Boardman State Scenic Corridor
+b Timberline Lodge
+u Powell's Books
+u Portland Japanese Garden
+u International Rose Test Garden
+b Pittock Mansion
+n Silver Falls State Park
+n Wallowa Lake
+n Hells Canyon
+b Astoria Column
+b Bonneville Dam
+b Pike Place Market
+b Chihuly Garden and Glass
+m Gum Wall
+m Fremont Troll
+b Seattle Central Library
+u Kerry Park
+b Smith Tower
+b Boeing Everett Factory
+b Amazon Spheres
+n Mount St. Helens
+n Mount Baker
+n North Cascades National Park
+n Hoh Rainforest
+n Hurricane Ridge
+n Rialto Beach
+n Cape Flattery
+n Snoqualmie Falls
+n Palouse Falls
+n San Juan Islands
+n Deception Pass
+n Diablo Lake
+u Leavenworth, Washington
+b Grand Coulee Dam
+n Dry Falls
+n The Enchantments
+n Lake Chelan
+n Craters of the Moon National Monument and Preserve
+n Shoshone Falls
+n Sawtooth National Recreation Area
+n Lake Coeur d'Alene
+n Bruneau Dunes State Park
+n City of Rocks National Reserve
+n Going-to-the-Sun Road
+n Lake McDonald
+n Flathead Lake
+m Little Bighorn Battlefield National Monument
+n Beartooth Highway
+n Grand Prismatic Spring
+n Mammoth Hot Springs
+n Grand Canyon of the Yellowstone
+n Yellowstone Lake
+n Lamar Valley
+n Norris Geyser Basin
+n Jenny Lake
+n Jackson Hole
+u Mormon Row Historic District
+n Wind River Range
+n Bighorn Canyon National Recreation Area
+m Medicine Wheel=Medicine Wheel/Medicine Mountain National Historic Landmark
+n Fossil Butte National Monument
+b Buffalo Bill Center of the West
+n Kenai Fjords National Park
+n Glacier Bay National Park and Preserve
+n Mendenhall Glacier
+n Hubbard Glacier
+n Columbia Glacier (Alaska)
+n Matanuska Glacier
+n Katmai National Park and Preserve
+n Brooks Falls
+n Wrangell–St. Elias National Park and Preserve
+n Gates of the Arctic National Park and Preserve
+n Tracy Arm
+n Inside Passage
+n Misty Fjords National Monument
+b Trans-Alaska Pipeline System
+n Prince William Sound
+n Turnagain Arm
+n Chena Hot Springs=Chena Hot Springs, Alaska
+n Kodiak Island
+n Aleutian Islands
+n Arctic National Wildlife Refuge
+n Dalton Highway
+b White Pass and Yukon Route
+u Skagway=Skagway, Alaska
+u Sitka National Historical Park
+n Lake Clark National Park and Preserve
+n Mount Redoubt=Redoubt Volcano
+n Valley of Ten Thousand Smokes
+b Diamond Head=Diamond Head, Hawaii
+u Waikiki
+m Pearl Harbor National Memorial
+b USS Arizona Memorial
+b ʻIolani Palace
+n Hanauma Bay
+u North Shore (Oahu)
+u Banzai Pipeline
+n Waimea Bay, Hawaii
+b Byodo-In Temple
+u Polynesian Cultural Center
+n Kualoa Ranch
+n Koko Head=Koko Crater
+n Mānoa Falls
+u Dole Plantation
+b Aloha Tower
+n Haleakalā
+n Road to Hana=Hana Highway
+n ʻĪao Valley
+n Molokini
+n Waiʻanapanapa State Park
+n Waimea Canyon State Park
+n Wailua Falls
+n Hanalei Bay
+n Mauna Kea
+b Mauna Kea Observatories
+n Mauna Loa
+n Kīlauea
+n Akaka Falls State Park
+n Waipiʻo Valley
+n Punaluʻu Beach
+n Papakōlea Beach
+a Puʻuhonua o Hōnaunau National Historical Park
+n Kealakekua Bay
+n Rainbow Falls (Hawaii)
+n Kalaupapa
+b Portland Head Light
+n Mount Katahdin
+n Cadillac Mountain
+b Bass Harbor Head Light Station
+n Baxter State Park
+b Pemaquid Point Light
+n Franconia Notch
+n Flume Gorge
+b Mount Washington Cog Railway
+b Mount Washington Hotel=Omni Mount Washington Resort
+n Kancamagus Highway
+n Lake Winnipesaukee
+n Lake Champlain
+n Quechee Gorge
+b Vermont State House
+u Faneuil Hall
+u Freedom Trail
+u Boston Common
+u Boston Public Garden
+b Old North Church
+b Massachusetts State House
+b USS Constitution
+m Bunker Hill Monument
+b Boston Public Library=Boston Public Library, McKim Building
+b Trinity Church (Boston)
+u Beacon Hill, Boston
+u Quincy Market
+b Harvard Yard
+b Massachusetts Institute of Technology=Great Dome (MIT)
+b House of the Seven Gables
+u Plimoth Patuxet
+n Cape Cod National Seashore
+m Pilgrim Monument
+u Martha's Vineyard
+u Nantucket
+m Minute Man National Historical Park
+n Walden Pond
+b Old Sturbridge Village
+u Newport Cliff Walk=Cliff Walk
+b Marble House
+b Rosecliff
+u WaterFire
+b Mystic Seaport
+b Yale University=Sterling Memorial Library
+b Mark Twain House
+b Gillette Castle State Park
+b The Glass House=Glass House
+@ Canada
+n Banff National Park
+u Dawson City
+g Confederation Bridge
+b Parliament Hill
+b Rideau Canal
+b Château Laurier
+m Maman=Maman (sculpture)
+u ByWard Market
+r Notre-Dame Cathedral Basilica (Ottawa)
+b Casa Loma
+u Distillery District
+u St. Lawrence Market
+b Rogers Centre
+u Toronto Islands
+b Toronto City Hall
+u Nathan Phillips Square
+u Kensington Market
+b Union Station (Toronto)
+u Yonge–Dundas Square=Sankofa Square
+b Fort York
+b Scarborough Bluffs
+b Horseshoe Falls
+b Skylon Tower
+u Clifton Hill, Niagara Falls
+u Niagara-on-the-Lake
+n Bruce Peninsula National Park
+n Flowerpot Island
+n Algonquin Provincial Park
+n Manitoulin Island
+n Sleeping Giant (Ontario)
+n Kakabeka Falls
+n Agawa Canyon
+n Point Pelee National Park
+u Stratford Festival
+b Fort Henry National Historic Site
+b Royal Botanical Gardens (Ontario)
+u Old Montreal
+r Notre-Dame Basilica (Montreal)
+r Saint Joseph's Oratory
+n Mount Royal
+b Montreal Biosphere
+b Montreal Biodome
+b Habitat 67
+u Jean-Talon Market
+u Underground City, Montreal
+u Old Port of Montreal
+g Jacques Cartier Bridge
+b Montreal Botanical Garden
+u Old Quebec
+u Petit Champlain=Quartier Petit Champlain
+u Place Royale (Quebec City)=Place Royale, Quebec City
+b Citadelle of Quebec
+u Plains of Abraham
+n Montmorency Falls
+r Basilica of Sainte-Anne-de-Beaupré
+b Hôtel de Glace
+b Quebec Parliament Building=Parliament Building (Quebec)
+n Île d'Orléans
+n Percé Rock
+n Forillon National Park
+n Saguenay Fjord=Saguenay Fjord National Park
+u Tadoussac
+n Mont-Tremblant National Park
+n Mingan Archipelago National Park Reserve
+n Magdalen Islands
+n Manicouagan Reservoir
+n Pingualuit crater
+n Bonaventure Island
+u Peggy's Cove
+u Lunenburg, Nova Scotia
+b Halifax Citadel=Citadel Hill (Fort George)
+b Fortress of Louisbourg
+n Cabot Trail
+n Cape Breton Highlands National Park
+n Hopewell Rocks
+n Bay of Fundy
+n Fundy National Park
+n Reversing Falls
+u Green Gables=Green Gables (Prince Edward Island)
+n Prince Edward Island National Park
+n Gros Morne National Park
+a L'Anse aux Meadows
+u Signal Hill, St. John's
+b Cape Spear
+n Western Brook Pond
+n Torngat Mountains National Park
+u Fogo Island=Fogo Island (Newfoundland and Labrador)
+b The Forks=The Forks, Winnipeg
+b Manitoba Legislative Building
+n Riding Mountain National Park
+n Grasslands National Park
+n Prince Albert National Park
+b Saskatchewan Legislative Building
+b RCMP Heritage Centre
+n Athabasca Sand Dunes Provincial Park
+n Peyto Lake
+n Icefields Parkway
+n Athabasca Glacier
+n Columbia Icefield
+n Jasper National Park
+n Maligne Lake
+n Spirit Island (Alberta)=Spirit Island
+n Athabasca Falls
+n Mount Robson
+n Johnston Canyon
+n Lake Minnewanka
+b Banff Springs Hotel
+b Chateau Lake Louise
+n Sulphur Mountain (Alberta)
+n Bow Lake (Alberta)
+n Mount Assiniboine
+n Waterton Lakes National Park
+b Prince of Wales Hotel
+n Dinosaur Provincial Park
+u Drumheller
+n Head-Smashed-In Buffalo Jump
+u West Edmonton Mall
+b Calgary Tower
+u Calgary Stampede
+b Alberta Legislature Building
+n Elk Island National Park
+n Wood Buffalo National Park
+n Kananaskis Country
+n Abraham Lake
+n Yoho National Park
+n Emerald Lake (British Columbia)
+n Takakkaw Falls
+n Lake O'Hara
+n Kootenay National Park
+n Glacier National Park (Canada)
+n Mount Revelstoke National Park
+u Stanley Park
+g Capilano Suspension Bridge
+g Lions Gate Bridge
+u Granville Island
+b Canada Place
+u Gastown
+b Science World (Vancouver)
+n Grouse Mountain
+u Whistler Blackcomb
+n Sea-to-Sky Highway=British Columbia Highway 99
+n Shannon Falls Provincial Park
+n Stawamus Chief
+n Garibaldi Lake
+n Joffre Lakes Provincial Park
+b Butchart Gardens
+b British Columbia Parliament Buildings
+b The Empress (hotel)
+n Pacific Rim National Park Reserve
+u Tofino
+n Cathedral Grove
+n Haida Gwaii
+a SG̱ang Gwaay
+n Great Bear Rainforest
+n Okanagan Lake
+n Wells Gray Provincial Park
+n Helmcken Falls
+n Hell's Gate, British Columbia
+n Liard River Hot Springs Provincial Park
+n Spotted Lake
+n Kluane National Park and Reserve
+n Mount Logan
+n Tombstone Territorial Park
+b SS Klondike
+n Miles Canyon
+n Emerald Lake (Yukon)
+u Dempster Highway
+n Nahanni National Park Reserve
+n Virginia Falls (Northwest Territories)
+n Great Slave Lake
+n Great Bear Lake
+u Tuktoyaktuk
+n Auyuittuq National Park
+n Mount Thor
+n Mount Asgard
+n Quttinirpaaq National Park
+n Sirmilik National Park
+n Ellesmere Island
+u Alert, Nunavut
+n Sable Island
+@ Mexico
+n Parícutin
+r Basilica of Our Lady of Guadalupe
+n Pico de Orizaba
+n Popocatépetl
+u Xochimilco
+b Chapultepec Castle
+b Museo Soumaya
+a Templo Mayor
+m Angel of Independence
+m Monumento a la Revolución
+u Zócalo
+r Mexico City Metropolitan Cathedral
+b National Palace (Mexico)
+b Torre Latinoamericana
+u Alameda Central
+u Paseo de la Reforma
+u Chapultepec
+b Estadio Azteca
+b Biblioteca Vasconcelos
+u Coyoacán
+u Plaza Garibaldi
+b Casa de los Azulejos
+b Palacio de Correos de México
+b Luis Barragán House and Studio
+b Torre Mayor
+u Plaza de las Tres Culturas
+a Tlatelolco (archaeological site)
+a Cuicuilco
+n Desierto de los Leones National Park
+n Nevado de Toluca
+n Iztaccíhuatl
+b Cosmovitral
+a Tula (Mesoamerican site)
+a Xochicalco
+u Tepoztlán
+a El Tepozteco
+u Taxco
+r Santa Prisca de Taxco=Church of Santa Prisca de Taxco
+n Grutas de Cacahuamilpa National Park
+b Palace of Cortés, Cuernavaca
+u Valle de Bravo
+n Monarch Butterfly Biosphere Reserve
+u Morelia
+r Morelia Cathedral
+u Pátzcuaro
+n Janitzio
+n Lake Pátzcuaro
+a Tzintzuntzan (Mesoamerican site)
+u Guanajuato City=Guanajuato (city)
+b Teatro Juárez
+b Alhóndiga de Granaditas
+u Callejón del Beso
+m El Pípila
+u San Miguel de Allende
+r Parroquia de San Miguel Arcángel
+r Sanctuary of Atotonilco
+u Dolores Hidalgo
+u Querétaro Aqueduct=Aqueduct of Querétaro
+u Bernal, Querétaro
+n Peña de Bernal
+n Sierra Gorda
+r Franciscan Missions in the Sierra Gorda
+u Las Pozas
+n Huasteca Potosina
+n Sótano de las Golondrinas=Cave of Swallows
+u Real de Catorce
+u Zacatecas City
+r Zacatecas Cathedral
+b Cerro de la Bufa
+b Hospicio Cabañas
+r Guadalajara Cathedral
+b Teatro Degollado
+u Tlaquepaque
+u Tequila, Jalisco
+n Lake Chapala
+r Basilica of Our Lady of Zapopan
+u Puerto Vallarta
+n Marietas Islands
+u Sayulita
+n Islas Marías
+u Mazatlán
+b Mazatlán Cathedral=Mazatlán Cathedral
+b Chihuahua–Pacific Railway=Ferrocarril Chihuahua al Pacífico
+n Basaseachic Falls
+u Creel, Chihuahua
+a Paquimé=Casas Grandes
+n Naica Mine
+n Samalayuca Dune Fields
+u Chihuahua Cathedral
+n Cuatro Ciénegas
+n Mapimí Silent Zone
+n Cerro de la Silla
+u Macroplaza
+n Cumbres de Monterrey National Park
+n García Caves=Grutas de García
+b Fundidora Park
+b Faro del Comercio
+n El Cielo Biosphere
+n El Pinacate and Gran Desierto de Altar Biosphere Reserve
+n Tiburón Island
+n Espíritu Santo Island=Isla Espíritu Santo
+u Todos Santos, Baja California Sur
+u San José del Cabo
+n Cabo Pulmo National Park
+r Misión de Nuestra Señora de Loreto Conchó
+n Bahía Concepción
+u Mulegé
+r Misión San Ignacio Kadakaamán
+a Sierra de San Francisco=Rock Paintings of Sierra de San Francisco
+n San Ignacio Lagoon
+n El Vizcaíno Biosphere Reserve
+n Ojo de Liebre Lagoon
+n Guadalupe Island
+n Valle de Guadalupe
+n La Bufadora
+u Avenida Revolución
+b Tijuana Cultural Center
+n Sierra de San Pedro Mártir National Park
+n Bahía de los Ángeles
+u Puebla City=Puebla (city)
+r Puebla Cathedral
+b Biblioteca Palafoxiana
+r Capilla del Rosario=Chapel of the Rosario, Puebla
+a Great Pyramid of Cholula
+a Cantona=Cantona (archaeological site)
+u Cuetzalan
+n Africam Safari
+a Cacaxtla
+n La Malinche
+u Oaxaca City
+a Mitla
+a Yagul
+n Árbol del Tule
+u Puerto Escondido=Puerto Escondido, Oaxaca
+u Zipolite
+u Mazunte
+n Huatulco
+n Lagunas de Chacahua National Park
+u San Cristóbal de las Casas
+n Sumidero Canyon
+n Agua Azul
+n Misol-Ha
+a Yaxchilan
+a Bonampak
+a Toniná
+n Montebello Lakes National Park
+u San Juan Chamula
+n Lacandon Jungle
+a Chinkultic
+a Izapa
+u Veracruz City=Veracruz (city)
+b San Juan de Ulúa
+a El Tajín
+u Papantla
+u Tlacotalpan
+n Catemaco=Lake Catemaco
+n Los Tuxtlas
+b Museo de Antropología de Xalapa
+n Cofre de Perote
+a Cempoala
+a La Venta
+a Comalcalco
+u Campeche City=Campeche (city)
+a Calakmul
+a Edzná
+a Becán
+u Mérida, Yucatán
+u Paseo de Montejo
+r Mérida Cathedral
+a Kabah (Maya site)
+a Sayil
+a Labna
+a Mayapan
+a Dzibilchaltún
+u Izamal
+u Valladolid, Yucatán
+a Ek' Balam
+n Ik Kil
+n Celestún
+u Progreso, Yucatán
+n Holbox
+n Isla Mujeres
+n Isla Contoy
+u Cancún
+u Playa del Carmen
+u Xcaret Park
+u Xel-Há Park
+n Cozumel
+n Akumal
+n Dos Ojos
+n Sac Actun
+a Cobá
+a Muyil
+n Sian Ka'an
+n Bacalar=Lake Bacalar
+n Banco Chinchorro
+u Mahahual
+a Kohunlich
+a Dzibanche
+a Chacchoben
+u Acapulco
+u La Quebrada
+u Zihuatanejo
+n Colima Volcano=Volcán de Colima
+u Comala
+n Revillagigedo Islands
+n Socorro Island
+u Mineral del Chico
+u Real del Monte=Mineral del Monte
+n Basaltic Prisms of Santa María Regla
+u Huasca de Ocampo
+a Tula Atlantes=Atlantean figures
+n Tolantongo
+@ Cuba
+u Malecón, Havana
+b El Capitolio
+u Old Havana
+b Morro Castle (Havana)
+m Plaza de la Revolución
+b Gran Teatro de La Habana
+b Hotel Nacional de Cuba
+b La Cabaña
+u Plaza Vieja, Havana
+b Havana Cathedral
+u El Floridita
+u La Bodeguita del Medio
+u Fusterlandia
+b Colon Cemetery, Havana
+b Tropicana Club
+u Varadero
+u Trinidad, Cuba
+n Valle de los Ingenios
+n Topes de Collantes
+u Cienfuegos
+b Palacio de Valle
+m Che Guevara Mausoleum
+n Bay of Pigs
+n Zapata Swamp
+n Cayo Coco
+n Cayo Largo del Sur
+n Jardines del Rey
+n Cayo Santa María
+n Cayo Guillermo
+u Camagüey
+u Santiago de Cuba
+b Castillo de San Pedro de la Roca
+b Moncada Barracks
+r Basílica Santuario Nacional de Nuestra Señora de la Caridad del Cobre
+b Santa Ifigenia Cemetery
+n Sierra Maestra
+n Pico Turquino
+u Baracoa
+n El Yunque (Cuba)
+n Alejandro de Humboldt National Park
+n Desembarco del Granma National Park
+n Gran Piedra
+n Guardalavaca
+u Bayamo
+u Remedios, Cuba
+u Sancti Spíritus
+m Mural de la Prehistoria
+n Las Terrazas
+n Soroa
+n María la Gorda
+n Guanahacabibes Peninsula
+n Isla de la Juventud
+b Presidio Modelo
+b Finca Vigía
+u Cojímar
+u Playas del Este
+b Castillo de la Real Fuerza
+b Bacardi Building (Havana)
+b Hotel Habana Libre
+b FOCSA Building
+u Callejón de Hamel
+u Paseo del Prado, Havana
+b Castillo de San Salvador de la Punta
+m José Martí Memorial
+b University of Havana
+b Coppelia=Coppelia (ice cream parlor)
+m Christ of Havana
+u Plaza de Armas (Havana)
+b Palacio de los Capitanes Generales
+b Castillo del Príncipe (Havana)
+u Havana Chinatown=Chinatown, Havana
+u Hershey Electric Railway
+u Matanzas
+n Bellamar Caves
+n Yumurí Valley
+@ Guatemala
+u Chichicastenango
+n Volcán de Fuego
+n Acatenango
+n Pacaya
+n Volcán de Agua
+m Santa Catalina Arch
+a Yaxha
+a El Mirador
+a Quiriguá
+a Iximche
+a Uaxactun
+a Zaculeu
+a Aguateca
+a Mixco Viejo
+a Takalik Abaj
+n Río Dulce=Dulce River (Guatemala)
+b Castillo de San Felipe de Lara
+u Livingston, Guatemala
+n Lake Petén Itzá
+u Flores, Guatemala
+n Lake Izabal
+n Volcán Tajumulco
+n Santa María (volcano)
+u Quetzaltenango
+n Fuentes Georginas
+u Panajachel
+u San Pedro La Laguna
+u Santiago Atitlán
+n San Pedro (Guatemala volcano)=Volcán San Pedro
+u San Juan La Laguna
+n Candelaria Caves
+n Laguna Lachuá
+u Cobán
+r Basilica of Esquipulas
+n Ipala (volcano)=Ipala volcano
+n Monterrico
+r Guatemala City Metropolitan Cathedral=Cathedral of Guatemala City
+u Plaza de la Constitución (Guatemala City)=Constitution Plaza
+m Torre del Reformador
+b Mapa en Relieve
+b Centro Cultural Miguel Ángel Asturias
+u Kaminaljuyu
+r Antigua Guatemala Cathedral
+b Palacio de los Capitanes Generales, Antigua Guatemala=Captain General Palace
+r San Andrés Xecul
+u Todos Santos Cuchumatán
+n Sierra de los Cuchumatanes
+u Nebaj
+a Ceibal=Seibal
+a Dos Pilas
+a Piedras Negras (Maya site)
+a Nakum
+a Naranjo
+a Topoxte
+a San Bartolo (Maya site)
+a Cancuén
+a Q'umarkaj
+n Maya Biosphere Reserve
+n Sierra del Lacandón
+n Cuevas de Naj Tunich=Naj Tunich
+@ Costa Rica
+n Arenal Volcano
+n Manuel Antonio National Park
+n Monteverde=Monteverde Cloud Forest Reserve
+n Tortuguero National Park
+n Corcovado National Park
+n Poás Volcano
+n Irazú Volcano
+n Rincón de la Vieja Volcano
+n La Fortuna Waterfall
+n Río Celeste=Tenorio Volcano National Park
+n Cocos Island
+n Cahuita National Park
+n Marino Ballena National Park
+n Tamarindo, Costa Rica
+n Montezuma, Costa Rica
+n Chirripó National Park=Cerro Chirripó
+n Turrialba Volcano
+n La Paz Waterfall Gardens=La Paz Waterfall
+n Braulio Carrillo National Park
+n Carara National Park
+n Tárcoles River
+n Santa Rosa National Park
+n Palo Verde National Park
+n Barra Honda National Park
+n Cabo Blanco Absolute Natural Reserve=Cabo Blanco Absolute Natural Reserve
+n Ostional Wildlife Refuge
+n Playa Conchal
+n Nosara
+n Jacó
+n Drake Bay
+n Caño Island
+n Golfo Dulce
+n Puerto Viejo de Talamanca
+n Gandoca-Manzanillo Wildlife Refuge
+n La Amistad International Park
+n Los Quetzales National Park
+n Tapantí National Park
+b Basilica of Our Lady of the Angels, Cartago=Basílica de Nuestra Señora de los Ángeles, Cartago
+b Ruins of Cartago=Santiago Apóstol Parish Ruins
+b National Theatre of Costa Rica
+r Metropolitan Cathedral of San José
+u La Sabana Metropolitan Park
+u Sarchí
+u Zarcero
+n Lake Arenal
+n Caño Negro Wildlife Refuge
+n Venado Caves
+n La Selva Biological Station
+n Barva Volcano
+n Miravalles Volcano
+n Orosí Volcano
+n Stone spheres of Costa Rica
+n Cerro de la Muerte
+@ Panama
+u Casco Viejo, Panama
+a Panamá Viejo
+g Bridge of the Americas
+b Biomuseo
+b F&F Tower
+n San Blas Islands
+n Bocas del Toro Archipelago
+n Coiba
+n Volcán Barú
+n Boquete, Chiriquí
+n Darién National Park
+n Pearl Islands
+n Soberanía National Park
+n Gatun Lake
+b Miraflores (Panama)
+b Fort San Lorenzo
+u Portobelo, Colón
+n El Valle de Antón
+n Taboga Island
+n Isla Contadora=Contadora Island
+u Amador Causeway
+n Ancon Hill
+u Cinta Costera
+b Presidential Palace (Panama)=Palacio de las Garzas
+b National Theatre of Panama
+g Centennial Bridge, Panama
+g Atlantic Bridge, Panama
+b Panama Canal Railway
+n Barro Colorado Island
+n Chagres National Park
+n Metropolitan Natural Park
+n Isla Iguana Wildlife Refuge=Isla Iguana
+n Isla Bastimentos National Marine Park
+n Isla Colón
+n Cerro Punta
+n Sarigua National Park
+n Altos de Campana National Park
+n Isla Grande, Panama=Isla Grande, Colón
+n Guna Yala
+n Punta Chame
+b Trump Ocean Club=JW Marriott Panama
+u Albrook Mall
+@ Greenland
+u Nuuk
+n Disko Bay
+n Scoresby Sund
+n Northeast Greenland National Park
+u Kangerlussuaq
+u Tasiilaq
+u Qaqortoq
+a Hvalsey Church
+a Brattahlíð
+n Eqi Glacier=Eqip Sermia
+n Russell Glacier (Greenland)=Russell Glacier
+n Greenland ice sheet
+n Sermermiut
+u Uummannaq
+n Uummannaq Mountain
+n Prince Christian Sound
+n Tasermiut Fjord
+n Kujataa Greenland
+n Qilakitsoq
+u Ittoqqortoormiit
+u Qaanaaq
+n Petermann Glacier
+n Helheim Glacier
+n Gunnbjørn Fjeld
+n Watkins Range
+n Disko Island
+u Qeqertarsuaq
+u Sisimiut
+u Upernavik
+n Cape Farewell, Greenland
+n Kaffeklubben Island
+n Cape Morris Jesup
+n Hans Island
+b Thule Air Base=Pituffik Space Base
+n Arctic Circle Trail
+n Aasivissuit – Nipisat
+b Katuaq
+b Nuuk Cathedral
+n Sermitsiaq (mountain)=Sermitsiaq
+n Nuup Kangerlua
+n Ikka Fjord
+n Narsarsuaq
+u Narsaq
+u Nanortalik
+n Eternity Fjord=Kangerlussuatsiaq Fjord
+n Zackenberg
+n Danmarkshavn
+n Station Nord
+n King Oscar Fjord
+n Kaiser Franz Joseph Fjord
+n Blosseville Coast
+n Sermilik
+n Kulusuk
+@ Belize
+a Caracol
+a Xunantunich
+a Lamanai
+a Altun Ha
+n Caye Caulker
+n Ambergris Caye
+n Hol Chan Marine Reserve
+n Actun Tunichil Muknal
+n Cockscomb Basin Wildlife Sanctuary
+n Placencia
+n Glover's Reef
+n Lighthouse Reef
+n Half Moon Caye
+n Turneffe Atoll
+n Mountain Pine Ridge Forest Reserve
+a Cahal Pech
+a Lubaantun
+a Nim Li Punit
+a Cerros
+a El Pilar
+n Barton Creek Cave
+n St. Herman's Blue Hole National Park
+n Crooked Tree Wildlife Sanctuary
+n Community Baboon Sanctuary
+u Belize Zoo=The Belize Zoo
+n Laughing Bird Caye
+n South Water Caye Marine Reserve
+n Tobacco Caye
+n Gladden Spit and Silk Cayes Marine Reserve
+n Sapodilla Cayes Marine Reserve=Sapodilla Cayes
+n Hopkins, Belize
+u San Ignacio, Belize
+b St. John's Cathedral (Belize City)
+b Belize City Swing Bridge
+b Government House, Belize
+u San Pedro Town
+n Shark Ray Alley
+n Bacalar Chico National Park and Marine Reserve=Bacalar Chico National Park and Marine Reserve
+n Río Bravo Conservation and Management Area=Rio Bravo Conservation and Management Area
+n Chiquibul National Park
+n Victoria Peak (Belize)
+n Mayflower Bocawina National Park
+n Guanacaste National Park (Belize)
+n Monkey Bay Wildlife Sanctuary
+n Nohoch Che'en Caves Branch Archaeological Reserve
+n Five Blues Lake National Park
+n Billy Barquedier National Park
+n Rio Blanco National Park
+n Temash and Sarstoon Delta=Sarstoon-Temash National Park
+n Goff's Caye
+n St. George's Caye
+@ Honduras
+n Útila
+n Guanaja
+n Cayos Cochinos
+n Río Plátano Biosphere Reserve
+n Pico Bonito National Park
+n Lake Yojoa
+n Celaque National Park
+n La Tigra National Park
+n Cusuco National Park
+n Cuero y Salado Wildlife Refuge
+n Punta Sal=Jeannette Kawas National Park
+n Lancetilla Botanical Garden
+u Comayagua
+r Comayagua Cathedral=Immaculate Conception Cathedral, Comayagua
+u Gracias
+u Santa Rosa de Copán
+r Basilica of Suyapa=Basílica de Suyapa
+r Tegucigalpa Cathedral=St. Michael the Archangel Cathedral, Tegucigalpa
+m Cristo del Picacho
+u Santa Lucía, Francisco Morazán=Santa Lucía, Honduras
+u Valle de Ángeles
+b Fortaleza de Santa Bárbara (Trujillo)=Fortaleza de Santa Bárbara
+u Trujillo, Honduras
+n Swan Islands, Honduras
+n Amapala
+n Gulf of Fonseca
+n Cerro Azul Meámbar National Park
+n Montaña de Santa Bárbara National Park
+n Taulabé Caves
+n Sierra de Agalta National Park
+n Patuca National Park
+n La Mosquitia=La Mosquitia (Honduras)
+a La Ciudad Blanca
+a El Puente (Maya site)
+a Los Naranjos, Honduras
+a Yarumela
+u La Esperanza, Honduras
+u Ojojona
+u Yuscarán
+n La Muralla National Park
+n Capiro Calentura National Park
+n Punta Izopo National Park
+n Cangrejal River
+n Laguna de Caratasca=Caratasca Lagoon
+n Brus Laguna
+u Copán Ruinas
+a Las Sepulturas
+@ Nicaragua
+n Masaya Volcano
+u León, Nicaragua
+r León Cathedral, Nicaragua=León Cathedral, Nicaragua
+n Cerro Negro
+n Corn Islands
+n Mombacho
+n Islets of Granada
+n San Juan del Sur
+n Somoto Canyon
+n Apoyo Lagoon Natural Reserve
+n Momotombo
+n Concepción (volcano)
+n Maderas
+n San Cristóbal Volcano
+n Telica (volcano)
+n Lake Nicaragua
+n Lake Managua
+n San Juan River (Nicaragua)
+n Solentiname Islands
+n Indio Maíz Biological Reserve
+n Bosawás Biosphere Reserve
+n Lake Apanás
+a Ruins of León Viejo
+b Old Cathedral of Managua
+b Rubén Darío National Theatre
+n Tiscapa Lagoon Natural Reserve
+u Puerto Salvador Allende
+u Masaya
+b Coyotepe Fortress
+u San Juan de Oriente
+r Granada Cathedral, Nicaragua=Our Lady of the Assumption Cathedral, Granada
+n Zapatera
+n La Flor Wildlife Refuge
+n Cosigüina
+n Pearl Cays
+n Pearl Lagoon
+u Bluefields
+n Miskito Cays
+u Bilwi=Puerto Cabezas
+n Río Coco=Coco River
+n Los Guatuzos Wildlife Refuge
+u Altagracia
+u Moyogalpa
+
+# Oceania
+@ Australia
+n Lord Howe Island
+n Phillip Island
+n K'gari
+n Rottnest Island
+n Nullarbor Plain
+u Port Arthur, Tasmania
+n Ball's Pyramid
+n Lake Eyre=Kati Thanda–Lake Eyre
+b Flinders Street railway station
+b Sydney Tower
+m Australian War Memorial
+u Surfers Paradise, Queensland
+b Royal Exhibition Building
+n Mount Wellington (Tasmania)
+n Wolfe Creek Crater
+n Wilsons Promontory
+b Fremantle Prison
+n Lake Mungo
+g Story Bridge
+n Glass House Mountains
+u Kings Park, Western Australia
+u Federation Square
+u Darling Harbour
+n Grampians National Park
+u Bondi Beach
+u The Rocks, Sydney
+b Queen Victoria Building
+u Royal Botanic Garden, Sydney
+u Taronga Zoo
+u Manly Beach
+u Luna Park Sydney
+u Circular Quay
+u Hyde Park, Sydney
+b St Mary's Cathedral, Sydney
+b Sydney Town Hall
+b Sydney Observatory
+g Anzac Bridge
+n Royal National Park
+m Sea Cliff Bridge
+n Jenolan Caves
+n Wentworth Falls
+n Kanangra-Boyd National Park
+n Jervis Bay
+n Hyams Beach
+n Kiama Blowhole
+n Mount Kosciuszko
+n Kosciuszko National Park
+n Snowy Mountains
+u Byron Bay
+b Cape Byron Light
+n Mount Warning=Wollumbin (New South Wales)
+n Dorrigo National Park
+n Warrumbungle National Park
+n Mungo National Park
+b Parkes Observatory
+u Broken Hill
+u Big Banana
+b Parliament House, Canberra
+b Old Parliament House, Canberra
+n Lake Burley Griffin
+b Australian National Botanic Gardens
+b Telstra Tower
+u Queen Victoria Market
+u Royal Botanic Gardens Victoria
+b Eureka Tower
+b State Library Victoria
+b Shrine of Remembrance
+u Luna Park, Melbourne
+u Hosier Lane
+b St Paul's Cathedral, Melbourne
+u Block Arcade, Melbourne=Block Arcade, Melbourne
+b Old Melbourne Gaol
+b Melbourne Zoo
+n Loch Ard Gorge
+n London Arch
+n Bells Beach
+n Cape Otway Lighthouse
+n Otway National Park=Great Otway National Park
+n Dandenong Ranges
+b Puffing Billy Railway
+n Mornington Peninsula
+n Mount Buller
+n Alpine National Park
+n Mount Buffalo National Park
+u Sovereign Hill
+n Hanging Rock, Victoria
+n Lake Hillier
+n Murray River
+n Gippsland Lakes
+n Ninety Mile Beach, Victoria
+n Wineglass Bay
+n Freycinet National Park
+n Bay of Fires
+n Bruny Island
+n Tasman National Park
+n Cataract Gorge
+n Mount Field National Park
+n Russell Falls
+n Gordon Dam
+n Franklin-Gordon Wild Rivers National Park
+n Southwest National Park
+n Maria Island
+u Salamanca Place
+u Richmond Bridge (Tasmania)
+n The Nut (Tasmania)=The Nut
+n Lake St Clair (Tasmania)
+n Dove Lake (Tasmania)
+n Overland Track
+n Mount Ossa (Tasmania)
+n Tarkine
+u Cascade Brewery
+u Adelaide Oval
+u Adelaide Central Market
+u Glenelg, South Australia
+u Adelaide Botanic Garden
+u Rundle Mall
+n Barossa Valley
+n Kangaroo Island
+n Remarkable Rocks
+n Admirals Arch
+n Seal Bay Conservation Park
+n Flinders Ranges
+n Wilpena Pound
+n Lake Gairdner
+u Coober Pedy
+n Kanku-Breakaways Conservation Park
+n Umpherston Sinkhole
+n Blue Lake (South Australia)
+n Naracoorte Caves National Park
+n Coorong National Park
+n Eyre Peninsula
+n Lake MacDonnell
+n Bunda Cliffs
+n Head of Bight
+n Murphy's Haystacks
+n Hahndorf=Hahndorf, South Australia
+n Great Australian Bight
+u Fremantle
+u Cottesloe Beach=Cottesloe, Western Australia
+b Bell Tower, Perth=Swan Bells
+u Elizabeth Quay
+b Optus Stadium=Perth Stadium
+b Perth Mint
+n The Pinnacles (Western Australia)
+n Nambung National Park
+n Shark Bay
+n Shell Beach
+n Monkey Mia
+n Hamelin Pool Marine Nature Reserve
+n Ningaloo Coast
+n Cape Range National Park
+n Kalbarri National Park
+n Hutt Lagoon
+n Mount Augustus National Park
+n Cable Beach
+n Gantheaume Point
+n Cape Leveque
+n Windjana Gorge National Park
+n Tunnel Creek National Park
+n Geikie Gorge=Danggu Gorge National Park
+n Gibb River Road
+n Mitchell Falls
+n El Questro Wilderness Park
+n Lake Argyle
+n Mirima National Park
+n King George Falls
+n Montgomery Reef
+n Buccaneer Archipelago
+n Busselton Jetty
+n Cape Leeuwin Lighthouse
+n Jewel Cave (Western Australia)
+n Torndirrup National Park
+n Stirling Range
+n Bluff Knoll
+n Fitzgerald River National Park
+n Cape Le Grand National Park
+n Lucky Bay
+n Kalgoorlie Super Pit=Super Pit gold mine
+n Lake Ballard
+n Karlu Karlu / Devils Marbles Conservation Reserve
+n West MacDonnell National Park
+n Standley Chasm
+n Simpsons Gap
+n Ormiston Gorge
+n Glen Helen Gorge
+n Finke Gorge National Park
+n Palm Valley (Northern Territory)
+n Chambers Pillar
+n Rainbow Valley Conservation Reserve
+n Simpson Desert
+n Mount Conner
+b Alice Springs Telegraph Station
+n Nitmiluk National Park
+n Litchfield National Park
+n Florence Falls
+n Wangi Falls
+n Jim Jim Falls
+n Twin Falls (Northern Territory)
+a Ubirr
+a Nourlangie Rock=Burrungkuy (Nourlangie)
+n Arnhem Land
+n Tiwi Islands
+u Mindil Beach
+n Cobourg Peninsula
+n Gove Peninsula
+n Heart Reef
+n Hamilton Island (Queensland)
+n Lady Elliot Island
+n Heron Island (Queensland)
+n Lizard Island
+n Green Island (Queensland)
+n Fitzroy Island (Queensland)
+n Magnetic Island
+n Hinchinbrook Island
+n Cape Tribulation
+n Mossman Gorge
+u Kuranda Scenic Railway
+u Skyrail Rainforest Cableway
+n Barron Falls
+n Millaa Millaa Falls
+n Atherton Tableland
+n Wallaman Falls
+n Paronella Park
+n Undara Volcanic National Park
+n Cape York Peninsula
+n Torres Strait Islands
+n Lawn Hill=Boodjamulla National Park
+n Carnarvon Gorge
+n Lake McKenzie
+n Maheno shipwreck=SS Maheno
+n Noosa National Park
+u Australia Zoo
+n Moreton Island
+n North Stradbroke Island
+u South Bank Parklands
+u Lone Pine Koala Sanctuary
+b Brisbane City Hall
+n Lamington National Park
+n Springbrook National Park
+n Tamborine Mountain
+u Sea World (Australia)
+u Dreamworld (Australian theme park)=Dreamworld
+u Warner Bros. Movie World
+b Q1 (building)=Q1 Tower
+n Burleigh Heads
+n Currumbin Wildlife Sanctuary
+n Bunya Mountains
+n Girraween National Park
+b Australian Age of Dinosaurs
+n Cocos (Keeling) Islands
+n Ashmore Reef=Ashmore and Cartier Islands
+n Mawson's Huts
+@ New Zealand
+n Mount Ruapehu
+n Whakaari / White Island
+n Tāne Mahuta
+n Lake Taupō
+b Sky Tower (Auckland)
+u Baldwin Street
+n Mount Ngauruhoe
+n Rangitoto Island
+b The Beehive=Beehive (New Zealand)
+n Bay of Islands
+n The Remarkables
+g Auckland Harbour Bridge
+n Cape Reinga
+n Lake Pukaki
+n Fox Glacier
+n Piha
+n Kaikōura
+n Huka Falls
+n Wai-O-Tapu
+n Te Puia
+n Whakarewarewa
+n Orakei Korako
+n Craters of the Moon (geothermal site)=Craters of the Moon (New Zealand)
+n Tongariro Alpine Crossing
+n Lake Rotorua
+n Mount Maunganui
+n Coromandel Peninsula
+n Hot Water Beach
+n Waiheke Island
+n Great Barrier Island
+n One Tree Hill, New Zealand=Maungakiekie / One Tree Hill
+n Mount Eden=Maungawhau / Mount Eden
+u Viaduct Harbour
+u Auckland Domain
+n Muriwai
+n Waitākere Ranges
+n Karekare
+n Ninety Mile Beach, New Zealand
+n Waipoua Forest
+u Waitangi Treaty Grounds
+u Russell, New Zealand
+n Hole in the Rock=Piercy Island
+n Poor Knights Islands
+n Whangārei Falls
+u Hundertwasser Toilets
+n Bridal Veil Falls (Waikato)
+n Waikato River
+u Hamilton Gardens
+n Te Urewera
+n Lake Waikaremoana
+u Napier, New Zealand
+n Cape Kidnappers
+n Te Mata Peak
+n East Cape
+n Tolaga Bay Wharf=Tolaga Bay
+n Mount Hikurangi (Gisborne District)
+n Whanganui River
+n Bridge to Nowhere (New Zealand)
+n Castlepoint
+n Cape Palliser
+n Putangirua Pinnacles
+u Wellington Cable Car
+u Mount Victoria (Wellington)
+u Wellington Botanic Garden
+u Cuba Street
+b Old St Paul's, Wellington
+b Old Government Buildings, Wellington
+b Wētā Workshop
+u Zealandia (wildlife sanctuary)
+n Kapiti Island
+n Marlborough Sounds
+n Queen Charlotte Track
+n Split Apple Rock
+n Golden Bay / Mohua
+n Farewell Spit
+n Wharariki Beach
+n Te Waikoropupū Springs
+n Kahurangi National Park
+n Heaphy Track
+n Nelson Lakes National Park
+n Lake Rotoiti (Tasman)
+n Blue Lake (Tasman)=Rotomairewhenua / Blue Lake
+n Punakaiki
+n Paparoa National Park
+n Ōpārara Basin
+n Hokitika Gorge
+n Lake Matheson
+n Haast Pass
+n Arthur's Pass National Park
+n Castle Hill, New Zealand
+n Lewis Pass
+n Hanmer Springs
+n Banks Peninsula
+u Akaroa
+b ChristChurch Cathedral
+b Cardboard Cathedral
+u Christchurch Botanic Gardens
+u Christchurch tramway system
+b Christchurch Arts Centre=The Arts Centre
+b International Antarctic Centre
+b Mount John Observatory=Mount John University Observatory
+n Tasman Glacier
+n Hooker Valley Track
+n Mount Tasman
+n Lake Ōhau
+n Clay Cliffs
+n Lindis Pass
+n Lake Wānaka
+n That Wānaka Tree
+n Roy's Peak
+n Mount Aspiring National Park
+n Mount Aspiring / Tititea
+n Rob Roy Glacier
+n Lake Hāwea
+u Arrowtown
+n Shotover River
+n Kawarau Gorge Suspension Bridge
+n Lake Wakatipu
+n Coronet Peak
+n Glenorchy, New Zealand
+n Routeburn Track
+n Lake Te Anau
+n Milford Track
+n Mitre Peak (New Zealand)
+n Sutherland Falls
+n Bowen Falls=Lady Bowen Falls
+n Doubtful Sound / Patea
+n Dusky Sound
+n Kepler Track
+n Lake Manapouri
+n Homer Tunnel
+n Catlins
+n Nugget Point
+n Purakaunui Falls
+n Cathedral Caves
+n Curio Bay
+n Slope Point
+n Bluff, New Zealand
+n Stewart Island
+n Ulva Island (New Zealand)
+u Dunedin Railway Station
+b Larnach Castle
+b University of Otago Clocktower complex=University of Otago Clocktower complex
+n Otago Peninsula
+n Royal Albatross Centre=Taiaroa Head
+n Tunnel Beach
+b Olveston (house)=Olveston Historic Home
+u Oamaru
+n Elephant Rocks (New Zealand)=Elephant Rocks
+n Central Otago Rail Trail=Otago Central Rail Trail
+n Blue Lake, St Bathans=St Bathans
+n Chatham Islands
+n Auckland Islands
+n Campbell Island, New Zealand
+n Antipodes Islands
+n Snares Islands=Snares Islands / Tini Heke
+n Kermadec Islands
+n Raoul Island
+@ Fiji
+n Yasawa Islands
+n Mamanuca Islands
+n Taveuni
+n Bouma National Heritage Park
+n Sigatoka Sand Dunes
+n Garden of the Sleeping Giant
+r Sri Siva Subramaniya temple=Sri Siva Subramaniya temple, Nadi
+n Monuriki
+n Navua River
+n Beqa
+n Kadavu Island
+n Great Astrolabe Reef
+u Levuka
+n Coral Coast, Fiji
+n Denarau Island
+b Grand Pacific Hotel (Fiji)=Grand Pacific Hotel (Suva)
+u Thurston Gardens
+r Sacred Heart Cathedral, Suva
+n Mount Tomanivi
+n Koroyanitu National Heritage Park
+n Savusavu
+n Rainbow Reef=Somosomo Strait
+n Vanua Levu
+n Rabi Island
+n Rotuma
+n Lau Islands
+n Fulaga
+n Vanua Balavu
+n Ovalau (Fiji)
+n Wakaya Island=Wakaya
+n Namena Marine Reserve=Namenalala
+n Vatulele
+n Tavarua
+n Malolo
+n Castaway Island (Fiji)=Qalito
+n Mana Island (Fiji)
+n Sawa-i-Lau
+n Naviti
+n Waya Island
+n Nacula
+n Natadola Beach
+u Sigatoka
+n Tavuni Hill Fort
+u Pacific Harbour
+n Nananu-i-Ra
+n Bligh Water
+u Viseisei
+@ French Polynesia
+n Moorea
+n Tahiti
+n Rangiroa
+n Teahupoʻo
+n Fakarava
+n Tikehau
+n Huahine
+n Raiatea
+a Taputapuatea marae
+n Tahaa
+n Maupiti
+n Nuku Hiva
+n Hiva Oa
+n Ua Pou
+n Fatu Hiva
+n Tetiaroa
+n Mount Otemanu
+n Mount Orohena
+n Opunohu Bay
+n Point Venus
+u Papeete Market=Papeete
+r Papeete Cathedral=Notre Dame Cathedral, Papeete
+a Arahurahu Marae
+n Tahiti Iti
+n Lake Vaihiria
+n Mataiva
+n Manihi
+n Ahe
+n Makatea
+n Anaa
+n Gambier Islands
+n Mangareva
+r St. Michael's Cathedral, Rikitea
+n Austral Islands
+n Rurutu
+n Tubuai
+n Raivavae
+n Rapa Iti
+n Ua Huka
+n Tahuata
+n Hatutu
+n Eiao
+n Moruroa
+n Fangataufa
+n Marotiri
+n Tupai
+n Maiao
+n Mehetia
+b Tomb of King Pomare V=Pōmare V
+n Hakaui Valley=Vaipo Waterfall
+n Hatiheu
+n Taipivai
+a Puamau=Puamau
+n Hanavave=Bay of Virgins
+n Omoa
+n Hakahau
+@ Papua New Guinea
+n Kokoda Track
+n Mount Wilhelm
+n Sepik
+n Tavurvur
+u Rabaul
+n Kimbe Bay
+n Milne Bay
+n Trobriand Islands
+n Lake Kutubu
+u Goroka Show=Goroka
+n Varirata National Park
+u Port Moresby Nature Park
+u Ela Beach
+m Bomana War Cemetery
+n Loloata Island
+n Karkar Island
+n Manam
+n Mount Giluwe
+n Mount Lamington
+n Lake Murray (Papua New Guinea)
+n Fly River
+n Ok Tedi Mine
+n Porgera Gold Mine
+n Star Mountains
+n Hindenburg Wall
+n Nakanai Mountains
+n Mount Bosavi
+n Baining Mountains
+n Duke of York Islands
+n New Ireland (island)
+n New Hanover Island
+n Manus Island
+n Bougainville Island
+n Panguna mine
+n Buka Island
+n Mount Bagana
+n Mount Ulawun
+n Lihir Island
+n Conflict Group
+n Louisiade Archipelago
+n D'Entrecasteaux Islands
+n Samarai
+n Woodlark Island
+n Kuk Swamp
+n Asaro Mudmen
+n Wahgi Valley
+n Huon Peninsula
+n Salamaua
+n Lae War Cemetery
+n McAdam National Park
+n Owen Stanley Range
+u Hanuabada
+n Motupore Island
+n Yule Island
+n Purari River
+n Crater Mountain Wildlife Management Area
+@ Samoa
+n Lalomanu
+n Piula Cave Pool
+n Alofaaga Blowholes
+n Saleaula lava fields=Saleaula
+n Papapapaitai Falls
+n Togitogiga Waterfall=Togitogiga
+n O Le Pupu-Puʻe National Park
+n Mount Vaea
+r Immaculate Conception Cathedral, Apia=Immaculate Conception of Mary Cathedral, Apia
+u Apia Clock Tower=Apia
+u Palolo Deep Marine Reserve=Palolo Deep
+n Manono Island
+n Apolima
+n Namua
+n Nuʻutele
+n Aleipata Islands
+n Falealupo
+n Cape Mulinuʻu
+n Mount Silisili
+n Mount Matavanu
+n Pulemelei Mound
+n Lake Lanotoʻo
+n Manase
+n Savaiʻi
+n Upolu
+n Falefa Falls=Falefa
+n Uafato
+n Fagaloa Bay
+n Salelologa market=Salelologa
+u Mulinuʻu
+@ Vanuatu
+n Champagne Beach
+n SS President Coolidge
+n Million Dollar Point
+n Mele Cascades
+n Hideaway Island
+n Ambrym
+n Pentecost Island
+n Land diving
+n Chief Roi Mata's Domain
+n Tanna (island)
+n Port Resolution
+n Efate
+n Espiritu Santo
+n Malekula
+n Mount Tabwemasana
+n Lake Letas
+n Gaua
+n Mount Garet
+n Banks Islands
+n Torres Islands
+n Ambae Island
+n Manaro Voui
+n Maewo
+n Epi (island)=Epi
+n Lopevi
+n Paama
+n Tongoa
+n Erromango
+n Aneityum
+n Mystery Island=Inyeug
+n Futuna (Vanuatu)
+n Aniwa Island
+n Lelepa
+n Nguna
+n Pele Island
+n Erakor
+n Iririki
+n Ifira
+u Port Vila Market=Port Vila
+n Havannah Harbour=Havannah Harbour
+n Port Olry
+n Vatthe Conservation Area
+n Luganville
+n Aore Island
+n Malo Island
+n Maskelyne Islands
+n Vao (island)
+n Loru Conservation Area
+@ Tonga
+n Vavaʻu
+n ʻEua
+n Haʻapai
+n ʻAnahulu Cave
+n Mariner's Cave
+n Tofua
+n Kao (island)
+n Hunga Tonga–Hunga Haʻapai
+n Niuafoʻou
+n Niuatoputapu
+n Tafahi
+n Late (island)
+n Fonualei
+n Tongatapu
+b Royal Palace, Tonga
+a Muʻa (Tongatapu)
+n Flying foxes Kolovai=Kolovai
+n Hufangalupe
+n Pangaimotu
+n ʻAtata
+u Talamahu Market
+n Uoleva
+n Foa
+n Lifuka
+n Nomuka
+n ʻUiha
+n Port of Refuge=Port of Refuge
+n Mount Talau
+n Neiafu
+n ʻEuakafa
+n Maninita
+n ʻEua National Park
+n Minerva Reefs
+n ʻAta
+n Metis Shoal
+n Home Reef
+n Toku (island)=Toku Island
+@ New Caledonia
+n Isle of Pines (New Caledonia)
+n Ouvéa
+n Lifou
+n Maré Island
+n Heart of Voh
+n Blue River Provincial Park
+n Amédée Lighthouse
+n Lagoons of New Caledonia
+n Hienghène
+n Mont Panié
+n Mont Humboldt
+n Bourail
+n Fort Teremba
+n Parc des Grandes Fougères
+n Farino
+n Sarraméa
+n Koumac
+n Belep
+n Tiébaghi mine
+n Pouébo
+n Touho
+n Poindimié
+n Houaïlou
+b Jean-Marie Tjibaou Cultural Centre
+u Place des Cocotiers
+r St. Joseph's Cathedral, Nouméa=Nouméa Cathedral
+u Anse Vata
+u Baie des Citrons
+n Îlot Maître
+n Ouen Toro
+n Mont-Dore
+n Dumbéa
+n Kuto
+n Kanuméra
+n Upi Bay
+n N'Ga Peak
+n Vao (New Caledonia)=Vao, New Caledonia
+n Tiga Island
+n Walpole Island (New Caledonia)
+n Chesterfield Islands
+n Entrecasteaux Reefs=D'Entrecasteaux Reefs
+n Matthew and Hunter Islands
+
+# Antarctica
+@ Antarctica
+n Blood Falls
+n Elephant Island
+n McMurdo Dry Valleys
+n Transantarctic Mountains
+b Vostok Station
+n Mount Sidley
+b Halley Research Station
+n Larsen Ice Shelf
+n Don Juan Pond
+b Scott's Hut
+n Paradise Harbour=Paradise Harbor
+b Shackleton's Hut=Cape Royds
+n Lake Vostok
+n Antarctic Peninsula
+n Lambert Glacier
+n Beardmore Glacier
+n Pine Island Glacier
+n Thwaites Glacier
+n Weddell Sea
+n Queen Maud Mountains
+n Ellsworth Mountains
+n Mount Kirkpatrick
+n Dome A
+n Pole of Inaccessibility (Antarctica)=Pole of Inaccessibility research station
+b Concordia Station
+b Princess Elisabeth Antarctica
+b Neumayer Station III
+b Rothera Research Station
+b Palmer Station
+b Villa Las Estrellas
+b Trinity Church, Antarctica
+b Vernadsky Research Base
+b Davis Station
+b Mawson Station
+b Casey Station
+b Dumont d'Urville Station
+b Showa Station=Showa Station (Antarctica)
+b Zhongshan Station=Zhongshan Station (Antarctica)
+b Great Wall Station=Great Wall Station (Antarctica)
+b Jang Bogo Station
+b Mario Zucchelli Station
+b Novolazarevskaya Station
+b Troll (research station)
+b SANAE IV
+b Scott Base
+b Discovery Hut
+n Observation Hill (McMurdo Station)
+n Ross Island
+n Mount Terror (Antarctica)
+n Cape Adare
+n Cape Evans
+n Cape Denison
+n Commonwealth Bay
+n Hope Bay
+n Brown Bluff
+n Paulet Island
+n Snow Hill Island
+n Seymour Island
+n King George Island (South Shetland Islands)
+n Livingston Island
+n Hannah Point
+n Half Moon Island
+n Cuverville Island
+n Danco Island
+n Neko Harbor
+n Petermann Island
+n Pléneau Island=Pléneau Bay
+n Wilhelmina Bay
+n Gerlache Strait
+n Neumayer Channel
+n Anvers Island
+n Brabant Island
+n Adelaide Island
+n Alexander Island
+n Marguerite Bay
+n Stonington Island
+n Peter I Island
+n Balleny Islands
+n Scott Island
+n South Orkney Islands
+n Signy Island
+n Laurie Island
+b Orcadas Base
+n Coronation Island
+n Ronne Ice Shelf
+n Filchner–Ronne Ice Shelf
+n Amery Ice Shelf
+n Brunt Ice Shelf
+n Riiser-Larsen Ice Shelf
+n Shackleton Ice Shelf
+n Drake Passage
+n Antarctic Sound
+n Mount Tyree
+n Mount Shinn
+n Mount Markham
+n Mount Minto
+n Mount Melbourne
+n Mount Discovery
+n Mount Morning
+n Mount Takahe
+n Mount Hampton
+n Mount Berlin
+n Mount Siple
+n Ulvetanna Peak
+n Drygalski Mountains
+n Wohlthat Mountains
+n Fenriskjeften Mountain
+n Shackleton Range
+n Pensacola Mountains
+n Theron Mountains
+n Prince Charles Mountains
+n Vestfold Hills
+n Larsemann Hills
+n Bunger Hills
+n Schirmacher Oasis
+n Lake Vanda
+n Onyx River
+n Lake Bonney (Antarctica)
+n Lake Fryxell
+n Taylor Valley
+n Wright Valley
+n Victoria Valley
+n Ferrar Glacier
+n Erebus Ice Tongue=Erebus Glacier Tongue
+n Drygalski Ice Tongue
+n Mertz Glacier
+n Ninnis Glacier
+n Totten Glacier
+n Byrd Glacier
+n Axel Heiberg Glacier
+n Recovery Glacier
+n Lake Whillans
+n Lake Ellsworth (Antarctica)
+n Gamburtsev Mountain Range
+n Ridge A
+n Dome C
+n Dome F=Dome Fuji
+@ South Georgia
+n Grytviken
+n St Andrews Bay, South Georgia
+n Salisbury Plain, South Georgia
+n Gold Harbour
+n Stromness, South Georgia
+n Mount Paget
+n Drygalski Fjord
+n Bird Island, South Georgia
+n Prion Island
+n Cooper Bay
+n Fortuna Bay
+n Leith Harbour
+n King Edward Point
+n Royal Bay
+n Elsehul
+n Right Whale Bay
+n Larsen Harbour
+n Ocean Harbour
+n Godthul
+n Husvik
+n Prince Olav Harbour
+n Possession Bay
+n King Haakon Bay
+n Neumayer Glacier
+n Fortuna Glacier
+n Allardyce Range
+n Salvesen Range
+n Annenkov Island
+n Willis Islands
+n Clerke Rocks
+n Shag Rocks (South Georgia)
+n South Sandwich Islands
+n Zavodovski Island
+n Saunders Island, South Sandwich Islands
+n Montagu Island
+n Southern Thule
+n Thule Island
+n Bellingshausen Island
+n Candlemas Island
+n Visokoi Island
+n Bristol Island
+n Cook Island, South Sandwich Islands

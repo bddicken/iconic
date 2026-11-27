@@ -1,0 +1,347 @@
+# Europe
+@ Italy
+a Roman Forum
+r Sistine Chapel
+m Spanish Steps
+u Piazza Navona
+b Castel Sant'Angelo
+b Doge's Palace
+g Rialto Bridge
+n Mount Vesuvius
+n Capri
+n Lake Garda
+a Verona Arena
+b Galleria Vittorio Emanuele II
+u Piazza del Campo
+u San Gimignano
+u Alberobello
+a Valley of the Temples=Valle dei Templi
+u Positano
+u Burano
+b Royal Palace of Caserta
+r Basilica of Saint Francis of Assisi
+n Lago di Braies=Pragser Wildsee
+n Stromboli
+n Scala dei Turchi
+u Civita di Bagnoregio
+u Portofino
+a Paestum
+a Herculaneum
+b Uffizi
+@ Vatican City
+b Vatican Museums
+@ San Marino
+b Guaita
+@ United Kingdom
+u Trafalgar Square
+b The Shard
+b British Museum
+n White Cliffs of Dover
+a Roman Baths, Bath=Roman Baths (Bath)
+r York Minster
+n Durdle Door
+b St Michael's Mount
+n Old Man of Storr
+b Eilean Donan
+g Glenfinnan Viaduct
+n Ben Nevis
+g Forth Bridge
+b Stirling Castle
+m Angel of the North
+r Canterbury Cathedral
+r Durham Cathedral
+b Conwy Castle
+n Snowdon
+b Radcliffe Camera
+b Blenheim Palace
+g Carrick-a-Rede Rope Bridge
+g Clifton Suspension Bridge
+@ Ireland
+b Rock of Cashel
+a Newgrange
+b Kylemore Abbey
+@ France
+r Sainte-Chapelle
+b Palais Garnier
+b Centre Pompidou
+b Les Invalides
+b Panthéon, Paris=Panthéon
+b Château de Chenonceau
+r Chartres Cathedral
+r Strasbourg Cathedral
+b Palais des Papes
+g Millau Viaduct
+n Dune of Pilat
+n Verdon Gorge
+n Aiguille du Midi
+n Calanques=Calanques National Park
+a Carnac Stones=Carnac stones
+r Notre-Dame de la Garde
+r Reims Cathedral
+g Pont Alexandre III
+@ Monaco
+b Monte Carlo Casino
+@ Spain
+b Royal Palace of Madrid
+u Plaza Mayor, Madrid
+b Casa Batlló
+b Casa Milà
+n Montserrat=Montserrat (mountain)
+r Seville Cathedral
+b Alcázar of Seville
+r Santiago de Compostela Cathedral
+a Aqueduct of Segovia
+g Puente Nuevo, Ronda=Puente Nuevo
+b El Escorial
+n Caminito del Rey
+r Burgos Cathedral
+b Museo del Prado
+a Tower of Hercules
+@ Portugal
+r Jerónimos Monastery
+u Praça do Comércio
+b Livraria Lello
+n Benagil Cave=Benagil
+n Sete Cidades, Azores=Lagoa das Sete Cidades
+r Sanctuary of Fátima
+r Batalha Monastery
+n Ponta da Piedade
+@ Germany
+m East Side Gallery
+r Berlin Cathedral
+b Berlin TV Tower=Fernsehturm Berlin
+b Sanssouci
+r Frauenkirche, Dresden=Dresden Frauenkirche
+b Heidelberg Castle
+u Marienplatz
+n Zugspitze
+n Königssee
+b Hohenzollern Castle
+b Eltz Castle
+u Rothenburg ob der Tauber
+b Elbphilharmonie
+n Bastei
+r Aachen Cathedral
+m Checkpoint Charlie
+b Nymphenburg Palace
+@ Austria
+r St. Stephen's Cathedral, Vienna
+b Belvedere, Vienna
+b Hohensalzburg Fortress
+r Melk Abbey
+n Grossglockner
+b Hofburg
+@ Switzerland
+n Jungfrau
+n Eiger
+n Rhine Falls
+b Chillon Castle
+n Aletsch Glacier
+n Lauterbrunnen
+m Jet d'Eau
+g Landwasser Viaduct
+@ Liechtenstein
+b Vaduz Castle
+@ Luxembourg
+b Vianden Castle
+@ Belgium
+m Manneken Pis
+b Gravensteen
+m Lion's Mound
+@ Netherlands
+b Rijksmuseum
+b Anne Frank House
+n Keukenhof
+u Zaanse Schans
+b Cube Houses, Rotterdam=Cube house
+u Giethoorn
+g Erasmus Bridge=Erasmusbrug
+@ Denmark
+u Tivoli Gardens
+b Kronborg
+g Øresund Bridge
+n Møns Klint
+@ Faroe Islands
+n Sørvágsvatn
+n Múlafossur Waterfall=Gásadalur
+@ Sweden
+b Vasa Museum
+b Stockholm City Hall
+b Drottningholm Palace
+b Turning Torso
+u Visby
+@ Finland
+r Helsinki Cathedral
+b Suomenlinna
+u Santa Claus Village
+b Olavinlinna
+r Temppeliaukio Church
+@ Norway
+u Bryggen
+b Oslo Opera House
+n Kjeragbolten
+g Atlantic Ocean Road
+r Borgund Stave Church
+r Arctic Cathedral, Tromsø=Arctic Cathedral
+m Vigeland Sculpture Park=Frogner Park
+n Nærøyfjord
+@ Iceland
+r Hallgrímskirkja
+n Blue Lagoon=Blue Lagoon (geothermal spa)
+n Þingvellir
+n Strokkur
+n Seljalandsfoss
+n Kirkjufell
+n Reynisfjara
+n Dettifoss
+@ Estonia
+u Tallinn Old Town
+r Alexander Nevsky Cathedral, Tallinn
+@ Latvia
+b House of the Blackheads, Riga=House of the Blackheads (Riga)
+m Freedom Monument
+b Rundāle Palace
+@ Lithuania
+b Trakai Island Castle
+b Gediminas' Tower
+@ Czech Republic
+m Prague Astronomical Clock=Prague astronomical clock
+u Český Krumlov
+r Sedlec Ossuary
+b Dancing House
+b Karlštejn Castle=Karlštejn
+@ Slovakia
+b Bratislava Castle
+b Spiš Castle
+@ Hungary
+b Buda Castle
+b Fisherman's Bastion
+m Heroes' Square, Budapest=Hősök tere
+b Széchenyi Thermal Bath
+@ Poland
+u Main Square, Kraków
+m Auschwitz-Birkenau Memorial=Auschwitz concentration camp
+b Wieliczka Salt Mine
+b Malbork Castle
+b Palace of Culture and Science
+n Morskie Oko
+u Long Market, Gdańsk=Long Market
+@ Slovenia
+n Postojna Cave
+b Predjama Castle
+n Triglav
+g Dragon Bridge, Ljubljana=Dragon Bridge (Ljubljana)
+@ Croatia
+a Diocletian's Palace
+a Pula Arena
+n Krka National Park
+n Zlatni Rat
+@ Montenegro
+u Sveti Stefan
+r Ostrog Monastery
+n Tara River Canyon
+@ Serbia
+b Belgrade Fortress
+r Church of Saint Sava
+n Đavolja Varoš
+@ Bosnia and Herzegovina
+u Baščaršija
+n Kravica Waterfall=Kravica (waterfall)
+@ North Macedonia
+g Stone Bridge, Skopje=Stone Bridge (Skopje)
+@ Kosovo
+r Visoki Dečani
+@ Albania
+u Berat
+a Butrint
+n Blue Eye=Blue Eye, Albania
+u Gjirokastër
+@ Bulgaria
+r Alexander Nevsky Cathedral, Sofia
+n Belogradchik Rocks
+m Buzludzha Monument=Buzludzha monument
+n Seven Rila Lakes
+b Tsarevets
+@ Romania
+b Palace of the Parliament
+b Peleș Castle
+b Corvin Castle
+n Transfăgărășan
+r Voroneț Monastery
+b Salina Turda
+@ Moldova
+a Old Orhei
+@ Ukraine
+r Kyiv Pechersk Lavra
+u Pripyat
+n Tunnel of Love=Tunnel of Love (Ukraine)
+m Potemkin Stairs
+b Khotyn Fortress
+@ Crimea
+b Swallow's Nest
+@ Belarus
+b Brest Fortress
+b Nesvizh Castle
+@ Russia
+u Red Square
+b Bolshoi Theatre
+r Cathedral of Christ the Saviour
+r Saint Isaac's Cathedral
+b Peter and Paul Fortress
+b Catherine Palace
+m Bronze Horseman
+r Church of the Intercession on the Nerl
+b Novgorod Kremlin=Novgorod Detinets
+m Mamayev Kurgan
+b Moscow State University=Main building of Moscow State University
+r Valaam Monastery
+b Ostankino Tower
+r Novodevichy Convent
+n Ruskeala
+r Königsberg Cathedral
+@ Greece
+a Knossos
+a Mycenae
+a Ancient Theatre of Epidaurus
+a Olympia=Olympia, Greece
+n Mount Olympus
+a Temple of Poseidon, Sounion=Sounion
+b Mykonos Windmills=Mykonos windmills
+a Delos
+b Palace of the Grand Master, Rhodes=Palace of the Grand Master of the Knights of Rhodes
+a Lindos
+u Monemvasia
+n Samariá Gorge
+r Mount Athos
+b White Tower of Thessaloniki
+n Melissani Cave
+n Elafonisi
+@ Cyprus
+n Petra tou Romiou
+b Kyrenia Castle
+a Tombs of the Kings, Paphos=Tombs of the Kings (Paphos)
+@ Malta
+u Mdina
+n Blue Grotto, Malta=Blue Grotto (Malta)
+a Ħaġar Qim
+@ Turkey
+b Topkapı Palace
+b Galata Tower
+u Grand Bazaar, Istanbul
+a Basilica Cistern
+b Dolmabahçe Palace
+b Maiden's Tower
+a Troy
+r Sumela Monastery
+a Aspendos
+n Mount Ararat
+a Ani
+b Ishak Pasha Palace
+n Ölüdeniz
+m Anıtkabir
+a Pergamon
+a Derinkuyu Underground City=Derinkuyu underground city
+r Akdamar Island
+r Selimiye Mosque, Edirne
+a Hattusa
+r Süleymaniye Mosque

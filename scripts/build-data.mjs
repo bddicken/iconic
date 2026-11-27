@@ -565,6 +565,17 @@ async function processGallery(seed, facts) {
     explicit ?? rankCandidates((facts.gallery?.candidates ?? []).filter((c) => galleryUsable(c, facts, seed)), seed, facts);
   const rejected = (facts.galleryRejected ??= {});
 
+  // Everything the choice below depends on. When none of it has changed since the last build and the
+  // files are still there, the photos are not downloaded, compared and encoded all over again.
+  const signature = () =>
+    createHash('sha1')
+      .update(JSON.stringify([GALLERY_MAX, GALLERY_WIDTH, facts.image.title, [...exclude].sort(), !!explicit, candidates.map((c) => c.downloadUrl), Object.keys(rejected).sort()]))
+      .digest('hex');
+  if (!force && facts.galleryBuilt?.signature === signature()) {
+    const there = await Promise.all(facts.galleryBuilt.photos.map((p) => exists(path.join(ROOT, 'public', p.src))));
+    if (there.every(Boolean)) return facts.galleryBuilt.photos;
+  }
+
   const mainExt = (facts.image.downloadUrl.split('?')[0].match(/\.(\w+)$/)?.[1] ?? 'jpg').toLowerCase();
   const prints = [await fingerprint(path.join(ORIG_DIR, `${seed.id}.${mainExt}`))];
   const stems = new Set([nameStem(facts.image.title)]);
@@ -614,8 +625,6 @@ async function processGallery(seed, facts) {
       }
     }
   }
-  if (dirty) await saveFacts(facts);
-
   const out = [];
   for (const [n, { record, file }] of chosen.entries()) {
     const src = `images/gallery/${seed.id}-${n + 1}.webp`;
@@ -645,6 +654,8 @@ async function processGallery(seed, facts) {
       },
     });
   }
+  facts.galleryBuilt = { signature: signature(), photos: out };
+  await saveFacts(facts);
   return out;
 }
 
@@ -665,6 +676,10 @@ async function processImage(seed, facts) {
 
   const fullOut = path.join(FULL_DIR, `${seed.id}.webp`);
   const thumbOut = path.join(THUMB_DIR, `${seed.id}.webp`);
+  // Same source, same crop, files still there: nothing to encode again.
+  const signature = JSON.stringify([img.downloadUrl, seed.thumbPosition ?? null, FULL_WIDTH, THUMB_SIZE]);
+  const filesThere = (await exists(fullOut)) && (await exists(thumbOut));
+  if (!force && sameSource && filesThere && facts.imageBuilt?.signature === signature) return facts.imageBuilt.files;
   const input = sharp(origFile, { failOn: 'none' }).rotate();
   const full = await input
     .clone()
@@ -679,13 +694,18 @@ async function processImage(seed, facts) {
   const { dominant } = await sharp(thumbOut).stats();
   const hex = (n) => n.toString(16).padStart(2, '0');
 
-  return {
-    src: `images/full/${seed.id}.webp`,
-    thumb: `images/thumb/${seed.id}.webp`,
-    width: full.width,
-    height: full.height,
-    color: `#${hex(dominant.r)}${hex(dominant.g)}${hex(dominant.b)}`,
+  facts.imageBuilt = {
+    signature,
+    files: {
+      src: `images/full/${seed.id}.webp`,
+      thumb: `images/thumb/${seed.id}.webp`,
+      width: full.width,
+      height: full.height,
+      color: `#${hex(dominant.r)}${hex(dominant.g)}${hex(dominant.b)}`,
+    },
   };
+  await saveFacts(facts);
+  return facts.imageBuilt.files;
 }
 
 /**

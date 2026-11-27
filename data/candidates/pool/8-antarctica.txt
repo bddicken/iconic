@@ -1,0 +1,34 @@
+# Antarctica
+@ Antarctica
+b Amundsen–Scott South Pole Station
+b McMurdo Station
+n Ross Ice Shelf
+n Paradise Harbour=Paradise Harbor
+b Port Lockroy
+n Blood Falls
+n McMurdo Dry Valleys
+n Elephant Island
+n Half Moon Island
+n Neko Harbour
+b Vostok Station
+a Scott's Hut
+a Shackleton's Hut=Cape Royds
+n Don Juan Pond
+b Halley Research Station
+b Esperanza Base
+n Beardmore Glacier
+n Transantarctic Mountains
+n Mount Sidley
+n Larsen Ice Shelf
+n Cuverville Island
+@ South Georgia
+u Grytviken
+n St Andrews Bay=St Andrews Bay, South Georgia
+@ Bouvet Island
+n Bouvet Island
+@ French Southern Lands
+n Kerguelen Islands
+@ Heard Island
+n Mawson Peak
+@ Macquarie Island
+n Macquarie Island

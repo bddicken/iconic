@@ -1,0 +1,168 @@
+# Oceania
+@ Australia
+b Sydney Tower
+u Darling Harbour
+n Jenolan Caves
+b Cape Byron Lighthouse=Cape Byron Light
+n Lord Howe Island
+n Ball's Pyramid
+b Parliament House, Canberra
+m Australian War Memorial
+u Federation Square
+b Flinders Street Station=Flinders Street railway station
+b Melbourne Cricket Ground
+b Royal Exhibition Building
+u Brighton Bathing Boxes
+n Great Ocean Road
+n Loch Ard Gorge
+n Phillip Island
+n Wilsons Promontory
+n Grampians National Park
+a Port Arthur=Port Arthur, Tasmania
+n Wineglass Bay
+n Bay of Fires
+b Museum of Old and New Art
+n Mount Wellington=Mount Wellington (Tasmania)
+n Remarkable Rocks
+n Wilpena Pound
+n Lake Eyre
+u Coober Pedy
+n Nullarbor Plain
+n Kings Park=Kings Park, Western Australia
+n Rottnest Island
+b Fremantle Prison
+n Cable Beach
+n Ningaloo Reef=Ningaloo Coast
+n Shark Bay
+n Shell Beach=Shell Beach (Western Australia)
+n Kalbarri National Park
+n Mount Augustus=Mount Augustus National Park
+n Mitchell Falls
+n Lake Argyle
+n Wolfe Creek Crater
+n Devils Marbles=Karlu Karlu / Devils Marbles Conservation Reserve
+n Nitmiluk Gorge=Nitmiluk National Park
+n Litchfield National Park
+n Daintree Rainforest
+n Cape Tribulation=Cape Tribulation, Queensland
+n K'gari (Fraser Island)=K'gari
+u Surfers Paradise=Surfers Paradise, Queensland
+g Story Bridge
+n Wallaman Falls
+n Carnarvon Gorge
+n Glass House Mountains
+n Mount Kosciuszko
+n Lake Mungo
+n Christmas Island
+@ Norfolk Island
+a Kingston, Norfolk Island=Kingston and Arthur's Vale Historic Area
+@ New Zealand
+b Sky Tower=Sky Tower (Auckland)
+g Auckland Harbour Bridge
+n Rangitoto Island
+n Piha
+n Cape Reinga
+n Bay of Islands
+m Waitangi Treaty Grounds
+n Tāne Mahuta
+n Cathedral Cove
+n Hot Water Beach
+n Waitomo Caves=Waitomo Glowworm Caves
+n Pōhutu Geyser
+n Lake Taupō
+n Huka Falls
+n Mount Ruapehu
+n Mount Ngauruhoe
+b Te Papa=Museum of New Zealand Te Papa Tongarewa
+b The Beehive=Beehive (New Zealand)
+n Abel Tasman National Park
+n Kaikōura
+n Pancake Rocks
+n Franz Josef Glacier
+n Fox Glacier
+n Lake Matheson
+r Church of the Good Shepherd, Lake Tekapo=Church of the Good Shepherd, Lake Tekapo
+n Lake Pukaki
+n Lake Wānaka
+u Queenstown=Queenstown, New Zealand
+g Kawarau Gorge Suspension Bridge
+n The Remarkables
+n Doubtful Sound=Doubtful Sound / Patea
+b Dunedin Railway Station
+b Larnach Castle
+n Nugget Point
+n Whakaari / White Island
+u Baldwin Street
+@ Fiji
+n Mamanuca Islands
+n Yasawa Islands
+r Sri Siva Subramaniya Temple=Sri Siva Subramaniya temple
+n Sigatoka Sand Dunes
+u Levuka
+@ Papua New Guinea
+m Kokoda Track
+n Mount Wilhelm
+n Tavurvur
+n Sepik River=Sepik
+@ Solomon Islands
+n Marovo Lagoon
+n East Rennell
+@ Vanuatu
+n Champagne Beach=Champagne Beach (Vanuatu)
+m Pentecost Land Diving=Land diving
+@ New Caledonia
+n Heart of Voh
+n Isle of Pines=Isle of Pines (New Caledonia)
+b Tjibaou Cultural Centre=Jean-Marie Tjibaou Cultural Centre
+b Amédée Lighthouse
+@ Samoa
+b Robert Louis Stevenson Museum
+n Alofaaga Blowholes
+n Papaseea Sliding Rocks
+@ American Samoa
+n National Park of American Samoa
+@ Tonga
+n Mapu a Vaea
+b Royal Palace, Tonga
+@ Cook Islands
+n Aitutaki
+n Te Rua Manga
+@ Niue
+n Talava Arches
+@ French Polynesia
+n Teahupoʻo
+n Rangiroa
+n Fakarava
+n Nuku Hiva
+a Taputapuatea Marae=Taputapuatea marae
+n Tetiaroa
+n Maupiti
+@ Kiribati
+n Kiritimati
+@ Tuvalu
+n Funafuti
+@ Nauru
+n Buada Lagoon
+@ Marshall Islands
+n Bikini Atoll
+@ Micronesia
+n Chuuk Lagoon
+a Rai Stones of Yap=Rai stones
+@ Palau
+n Jellyfish Lake
+n Ngardmau Waterfall
+@ Guam
+n Two Lovers Point
+n Tumon Bay=Tumon, Guam
+@ Northern Mariana Islands
+m Banzai Cliff
+a House of Taga
+@ Pitcairn Islands
+n Bounty Bay
+@ Chile
+a Rano Raraku
+a Ahu Tongariki
+a Orongo
+n Anakena
+@ Wallis and Futuna
+n Lake Lalolalo

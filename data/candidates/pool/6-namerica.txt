@@ -1,0 +1,346 @@
+# North America
+@ United States
+n El Capitan
+n General Sherman Tree=General Sherman (tree)
+n Redwood National Park=Redwood National and State Parks
+n Lake Tahoe
+g Bixby Bridge
+u Santa Monica Pier
+b Griffith Observatory
+b Walt Disney Concert Hall
+u Hollywood Walk of Fame
+u Venice Beach=Venice, Los Angeles
+b Sleeping Beauty Castle
+u Lombard Street=Lombard Street (San Francisco)
+u Painted Ladies
+b Transamerica Pyramid
+n Muir Woods=Muir Woods National Monument
+n Joshua Tree National Park
+m Salvation Mountain
+n Mount Shasta
+n Mono Lake
+b Hearst Castle
+u Balboa Park=Balboa Park (San Diego)
+m Fountains of Bellagio
+b Sphere=Sphere (venue)
+m Welcome to Fabulous Las Vegas Sign=Welcome to Fabulous Las Vegas sign
+n Valley of Fire State Park
+n Cathedral Rock
+n Saguaro National Park
+n Petrified Forest National Park
+n Meteor Crater
+n Havasu Falls
+n Canyon de Chelly=Canyon de Chelly National Monument
+n Lake Powell
+r Chapel of the Holy Cross=Chapel of the Holy Cross (Sedona, Arizona)
+n Mesa Arch
+n Capitol Reef National Park
+n Bonneville Salt Flats
+r Salt Lake Temple
+n Rainbow Bridge=Rainbow Bridge National Monument
+n Garden of the Gods
+n Maroon Bells
+n Great Sand Dunes=Great Sand Dunes National Park and Preserve
+b Red Rocks Amphitheatre
+n Pikes Peak
+n Rocky Mountain National Park
+n Carlsbad Caverns=Carlsbad Caverns National Park
+a Taos Pueblo
+a Chaco Canyon=Chaco Culture National Historical Park
+n Shiprock
+b The Alamo=Alamo Mission
+u San Antonio River Walk
+n Big Bend National Park
+b Space Center Houston
+n Mount St. Helens
+n Multnomah Falls
+n Haystack Rock
+n Hoh Rainforest
+u Pike Place Market
+n Mount Hood
+n Olympic National Park
+n Painted Hills
+n Yellowstone Falls
+n Mammoth Hot Springs
+m Crazy Horse Memorial
+n Craters of the Moon=Craters of the Moon National Monument and Preserve
+n Shoshone Falls
+b Willis Tower
+u Navy Pier
+b Wrigley Field
+m Buckingham Fountain
+g Mackinac Bridge
+n Pictured Rocks=Pictured Rocks National Lakeshore
+n Sleeping Bear Dunes=Sleeping Bear Dunes National Lakeshore
+b Rock and Roll Hall of Fame
+b Indianapolis Motor Speedway
+b Churchill Downs
+b Graceland
+n Great Smoky Mountains National Park
+b Biltmore Estate
+n Mammoth Cave National Park
+b Kennedy Space Center
+b Cinderella Castle
+n Everglades National Park
+u South Beach
+g Seven Mile Bridge
+b Fort Jefferson=Fort Jefferson (Florida)
+b Castillo de San Marcos
+u Rainbow Row
+b Fort Sumter
+u Bourbon Street
+b Oak Alley Plantation
+b Grand Ole Opry
+n Stone Mountain
+b Cape Hatteras Lighthouse
+b Monticello
+m Arlington National Cemetery
+b The Pentagon
+m Jefferson Memorial
+m Vietnam Veterans Memorial
+b National Air and Space Museum
+b Library of Congress
+b Supreme Court Building=United States Supreme Court Building
+r Washington National Cathedral
+b Mount Vernon
+g New River Gorge Bridge
+b Independence Hall
+m Liberty Bell
+b Philadelphia Museum of Art
+b Fallingwater
+b Flatiron Building
+b Grand Central Terminal
+b Rockefeller Center
+b Metropolitan Museum of Art
+b Guggenheim Museum, New York=Solomon R. Guggenheim Museum
+u High Line
+m Charging Bull
+r St. Patrick's Cathedral, New York=St. Patrick's Cathedral (Manhattan)
+b United Nations Headquarters=Headquarters of the United Nations
+m Ellis Island
+u Coney Island
+b Yankee Stadium
+b Madison Square Garden
+g Manhattan Bridge
+b Boldt Castle
+b Fenway Park
+b Faneuil Hall
+m Plymouth Rock
+b Portland Head Light
+n Acadia National Park
+n Mount Washington=Mount Washington (New Hampshire)
+b The Breakers
+n Glacier Bay=Glacier Bay National Park and Preserve
+n Hubbard Glacier
+n Kenai Fjords National Park
+n Brooks Falls
+n Diamond Head=Diamond Head, Hawaii
+u Waikiki
+m USS Arizona Memorial
+n Haleakalā
+n Mauna Kea
+n Waimea Canyon=Waimea Canyon State Park
+n Hanauma Bay
+b ʻIolani Palace
+@ Canada
+n Banff National Park
+n Peyto Lake
+n Athabasca Glacier
+n Maligne Lake
+n Emerald Lake=Emerald Lake (British Columbia)
+n Takakkaw Falls
+n Mount Robson
+g Capilano Suspension Bridge
+n Stanley Park
+n Butchart Gardens
+n Whistler Blackcomb
+b Calgary Tower
+n Dinosaur Provincial Park
+n Hopewell Rocks
+g Confederation Bridge
+b Green Gables=Green Gables (Prince Edward Island)
+n Cabot Trail
+b Fortress of Louisbourg
+m Signal Hill=Signal Hill, St. John's
+n Gros Morne National Park
+r Notre-Dame Basilica, Montreal=Notre-Dame Basilica (Montreal)
+n Mount Royal
+b Olympic Stadium, Montreal=Olympic Stadium (Montreal)
+b Habitat 67
+n Montmorency Falls
+n Percé Rock
+u Rideau Canal
+b Casa Loma
+b Royal Ontario Museum
+u Churchill, Manitoba
+b Banff Springs Hotel
+u Dawson City
+n Mount Logan
+a SGang Gwaay
+@ Greenland
+n Disko Bay
+u Uummannaq
+n Scoresby Sound
+a Hvalsey Church
+@ Bermuda
+n Horseshoe Bay, Bermuda
+b Royal Naval Dockyard, Bermuda
+@ Mexico
+u Zócalo
+r Mexico City Metropolitan Cathedral
+m Angel of Independence
+b Chapultepec Castle
+r Basilica of Our Lady of Guadalupe
+b Frida Kahlo Museum
+u Xochimilco
+b Central Library, UNAM=Central Library (UNAM)
+b Torre Latinoamericana
+n Popocatépetl
+n Pico de Orizaba
+a Great Pyramid of Cholula
+u Guanajuato=Guanajuato (city)
+r Parroquia de San Miguel Arcángel=Parroquia de San Miguel Arcángel, San Miguel de Allende
+n Hierve el Agua
+a Mitla
+a Uxmal
+a Coba
+a Ek' Balam=Ekʼ Balam
+a Calakmul
+a Bonampak
+a Yaxchilan
+n Sumidero Canyon
+n Agua Azul=Agua Azul
+a El Tajín
+n Ik Kil
+n Isla Mujeres
+n Cozumel
+n Lake Bacalar=Bacalar Lagoon
+n Sian Ka'an=Sian Ka'an Biosphere Reserve
+m Las Pozas
+n Parícutin
+n Monarch Butterfly Biosphere Reserve
+b Hospicio Cabañas
+n Marieta Islands=Marietas Islands
+n Basaseachic Falls
+a Paquimé=Casas Grandes
+a Tula=Tula (Mesoamerican site)
+n La Quebrada
+@ Guatemala
+u Antigua Guatemala
+n Semuc Champey
+n Volcán de Fuego
+n Pacaya
+a Quiriguá
+a Yaxha
+@ Belize
+a Caracol
+a Xunantunich
+n Actun Tunichil Muknal
+n Caye Caulker
+a Lamanai
+@ El Salvador
+a Joya de Cerén
+n Santa Ana Volcano
+a Tazumal
+@ Honduras
+n Roatán
+n Pulhapanzak Falls=Pulhapanzak
+@ Nicaragua
+n Ometepe
+r Granada Cathedral=Our Lady of the Assumption Cathedral, Granada
+n Masaya Volcano
+r León Cathedral=León Cathedral, Nicaragua
+n Corn Islands
+n Cerro Negro
+@ Costa Rica
+n Manuel Antonio National Park
+n Monteverde Cloud Forest Reserve
+n Poás Volcano
+n Tortuguero National Park
+n Corcovado National Park
+n Irazú Volcano
+n Cocos Island
+n La Fortuna Waterfall
+@ Panama
+u Casco Viejo, Panama
+g Bridge of the Americas
+n San Blas Islands
+n Bocas del Toro=Bocas del Toro Archipelago
+a Panamá Viejo
+b Biomuseo
+n Volcán Barú
+@ Cuba
+b El Capitolio
+u Malecón, Havana
+n Viñales Valley
+u Trinidad, Cuba
+n Varadero
+b Castillo de San Pedro de la Roca
+b Morro Castle, Havana=Morro Castle (Havana)
+u Plaza de la Revolución
+@ Jamaica
+n Dunn's River Falls
+n Blue Mountains, Jamaica=Blue Mountains (Jamaica)
+b Bob Marley Museum
+n Seven Mile Beach, Negril=Negril
+@ Cayman Islands
+n Stingray City=Stingray City, Grand Cayman
+n Seven Mile Beach, Grand Cayman
+@ Bahamas
+b Atlantis Paradise Island
+n Pig Beach
+n Dean's Blue Hole
+n Pink Sands Beach=Harbour Island, Bahamas
+@ Turks and Caicos Islands
+n Grace Bay
+@ Puerto Rico
+n El Yunque=El Yunque National Forest
+u Old San Juan
+n Flamenco Beach
+n Mosquito Bay=Puerto Mosquito
+@ Dominican Republic
+u Zona Colonial, Santo Domingo=Ciudad Colonial (Santo Domingo)
+n Pico Duarte
+u Altos de Chavón
+@ Haiti
+b Sans-Souci Palace
+n Bassin Bleu
+@ Saint Kitts and Nevis
+b Brimstone Hill Fortress=Brimstone Hill Fortress National Park
+@ Antigua and Barbuda
+b Nelson's Dockyard
+@ British Virgin Islands
+n The Baths
+@ US Virgin Islands
+n Trunk Bay
+n Magens Bay
+@ Sint Maarten
+n Maho Beach
+@ Montserrat
+n Soufrière Hills=Soufrière Hills Volcano
+@ Dominica
+n Boiling Lake
+n Trafalgar Falls
+@ Martinique
+n Mount Pelée
+n Diamond Rock
+@ Guadeloupe
+n La Grande Soufrière
+@ Saint Vincent and the Grenadines
+n Tobago Cays
+@ Grenada
+n Grand Anse Beach
+m Underwater Sculpture Park=Molinere Underwater Sculpture Park
+@ Barbados
+n Harrison's Cave
+n Bathsheba=Bathsheba, Barbados
+@ Trinidad and Tobago
+n Pitch Lake
+@ Curaçao
+u Handelskade, Willemstad=Willemstad
+g Queen Emma Bridge
+@ Aruba
+n Eagle Beach
+b California Lighthouse
+@ Bonaire
+n Bonaire National Marine Park
