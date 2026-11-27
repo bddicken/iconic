@@ -17,6 +17,7 @@ import '@fontsource/rubik/latin-ext-500.css';
 import './style.css';
 import { buildStyle, COUNTRY_LABELS, countryAreas, countryLabelFilter, SEA_FLOOR, seaFloorColour, type LandCoverTiles, type SeaFloorTiles, type TileSet } from './basemap';
 import { layoutLandmarks, type Footprint } from './select';
+import { mountSearch } from './search';
 import type { Landmark, LandmarkData } from './types';
 
 /** The most landmarks ever drawn at once, whatever the position or zoom. */
@@ -283,15 +284,19 @@ async function start(): Promise<void> {
     return MAX_NUDGE_ZOOMED_OUT + (MAX_NUDGE - MAX_NUDGE_ZOOMED_OUT) * t;
   }
 
+  /** The landmarks the globe may show: all of them, or those the search filters allow. */
+  let shownOnGlobe = landmarks;
+
   function render(): void {
     const narrow = isNarrow();
     const previous = new Map<string, { dx: number; dy: number }>();
     for (const [id, pin] of pins) {
       if (pin.leaving === null) previous.set(id, { dx: pin.targetX, dy: pin.targetY });
     }
-    const placements = layoutLandmarks(map, landmarks, {
+    const placements = layoutLandmarks(map, shownOnGlobe, {
       max: MAX_VISIBLE,
-      inset: { top: narrow ? 70 : 60, right: 24, bottom: 40, left: 24 },
+      // (below 900px wide the search box sits in a second row under the title)
+      inset: { top: window.innerWidth <= 900 ? 118 : 60, right: 24, bottom: 40, left: 24 },
       pinned: selected,
       footprint,
       maxOffset: nudgeReach() * (narrow ? 0.8 : 1),
@@ -638,10 +643,22 @@ async function start(): Promise<void> {
     else if (e.key === 'ArrowLeft' && landmarks[selected.rank - 2]) select(landmarks[selected.rank - 2]);
   });
 
+  mountSearch({
+    landmarks,
+    asset,
+    open: (lm) => select(lm),
+    filter: (ids) => {
+      shownOnGlobe = ids ? landmarks.filter((l) => ids.has(l.id)) : landmarks;
+      scheduleRender();
+    },
+  });
+
   $('random').addEventListener('click', () => {
     let pick: Landmark;
-    do pick = landmarks[Math.floor(Math.random() * landmarks.length)];
-    while (pick === selected && landmarks.length > 1);
+    // (a surprise from within the active filters, if any)
+    const pool = shownOnGlobe.length ? shownOnGlobe : landmarks;
+    do pick = pool[Math.floor(Math.random() * pool.length)];
+    while (pick === selected && pool.length > 1);
     select(pick);
   });
 

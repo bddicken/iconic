@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc --noEmit && vite build",
+    "build": "wrangler types worker/worker-configuration.d.ts && tsc --noEmit && tsc --noEmit -p worker && vite build",
     "preview": "vite preview",
     "data": "node scripts/build-data.mjs",
     "data:sheet": "node scripts/contact-sheet.mjs",
@@ -13,12 +13,14 @@
     "countries": "node scripts/build-countries.mjs",
     "ocean": "node scripts/build-ocean.mjs",
     "og": "node scripts/build-og.mjs",
-    "deploy": "npm run build && wrangler deploy"
+    "db:sync": "node scripts/db-sync.mjs",
+    "deploy": "npm run build && npm run db:sync && wrangler deploy"
   },
   "dependencies": {
     "@fontsource/caprasimo": "^5.3.0",
     "@fontsource/rubik": "^5.3.0",
-    "maplibre-gl": "^6.0.0"
+    "maplibre-gl": "^6.0.0",
+    "postgres": "^4.1.1"
   },
   "devDependencies": {
     "opentype.js": "^2.0.0",

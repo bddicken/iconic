@@ -1,11 +1,22 @@
-// Cloudflare Workers configuration: the built site (dist/) is served as static assets
-// at https://iconic.place. Deploy with `npm run deploy`.
+// Cloudflare Workers configuration for https://iconic.place. Deploy with `npm run deploy`.
+//
+// The built site (dist/) is served as static files. The Worker in worker/ runs only for
+// /api/ requests: it is the search API, backed by PlanetScale Postgres through Hyperdrive.
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "iconic",
+  "main": "worker/index.ts",
   "compatibility_date": "2026-11-01",
+  "compatibility_flags": ["nodejs_compat"],
   "assets": {
-    "directory": "./dist"
+    "directory": "./dist",
+    // everything else is answered from the edge without invoking the Worker
+    "run_worker_first": ["/api/*"]
   },
+  // The connection to the `iconic` PlanetScale database (read-only role). This id is not a
+  // secret: the credentials live inside Cloudflare, not in this repo.
+  "hyperdrive": [{ "binding": "HYPERDRIVE", "id": "aa5090528c1a4ef7935784e2f4eceb4f" }],
+  // Run the API next to the database (AWS us-east-1) rather than next to the visitor.
+  "placement": { "region": "aws:us-east-1" },
   "routes": [{ "pattern": "iconic.place", "custom_domain": true }]
 }
