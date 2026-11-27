@@ -434,27 +434,6 @@ button {
   transform: scale(1.04);
 }
 
-/* a small "expand" hint in the corner of the photo */
-.card-photo-expand {
-  position: absolute;
-  right: 12px;
-  bottom: 12px;
-  display: grid;
-  place-items: center;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-  background: #fff;
-  color: #1d2340;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.35);
-  transition: transform 0.18s cubic-bezier(0.2, 0.9, 0.3, 1.4);
-}
-
-.card-photo-open:hover .card-photo-expand,
-.card-photo-open:focus-visible .card-photo-expand {
-  transform: scale(1.15);
-}
-
 /* a little yellow sticker, like the Surprise me button */
 .card-rank {
   position: absolute;
@@ -477,7 +456,7 @@ button {
   place-items: center;
   width: 34px;
   height: 34px;
-  padding: 0 0 2px;
+  padding: 0;
   border-radius: 50%;
   border: 0;
   background: #fff;
@@ -487,6 +466,13 @@ button {
   font-weight: 500;
   line-height: 1;
   transition: transform 0.18s cubic-bezier(0.2, 0.9, 0.3, 1.4);
+}
+
+/* the icon is an SVG drawn around its own centre, so it sits dead centre in the circle */
+.icon-btn svg {
+  display: block;
+  width: 54%;
+  height: 54%;
 }
 
 .icon-btn:hover {
@@ -501,7 +487,7 @@ button {
 }
 
 /* photo gallery: step arrows at the sides, a row of dots bottom centre
-   (between the rank sticker and the expand hint) */
+   (beside the rank sticker) */
 .card-photo.has-gallery {
   /* sideways swipes change the photo; vertical ones still scroll the page */
   touch-action: pan-y;
@@ -513,7 +499,6 @@ button {
   z-index: 2;
   width: 32px;
   height: 32px;
-  padding: 0 0 3px;
   transform: translateY(-50%);
 }
 
@@ -829,8 +814,6 @@ button {
   width: 48px;
   height: 48px;
   margin-top: -24px;
-  padding: 0 0 5px;
-  font-size: 34px;
 }
 
 .lightbox.has-gallery .lightbox-step {

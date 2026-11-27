@@ -423,13 +423,16 @@ async function start(): Promise<void> {
   const lightbox = $<HTMLDialogElement>('lightbox');
   const lightboxImg = $<HTMLImageElement>('lightbox-img');
 
-  function expandIcon(): HTMLElement {
-    const badge = h('span', { class: 'card-photo-expand' });
-    // (fixed markup, not data: two arrows pointing to opposite corners)
-    badge.innerHTML =
-      '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-7 7M10 20H4v-6M4 20l7-7"/></svg>';
-    return badge;
-  }
+  // Icons for the round buttons are drawn as SVG rather than typed as characters ("‹", "×"):
+  // a character sits wherever its font puts it, so it never lands dead centre in a circle.
+  // (Fixed markup, not data. index.html has the same three for the full-screen view.)
+  const svgIcon = (d: string): string =>
+    `<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="${d}"/></svg>`;
+  const ICON = {
+    prev: svgIcon('M15.25 5.5 8.75 12l6.5 6.5'),
+    next: svgIcon('M8.75 5.5 15.25 12l-6.5 6.5'),
+    close: svgIcon('M6.5 6.5l11 11M17.5 6.5l-11 11'),
+  };
 
   /** One photo of a landmark: its main one or one from its gallery. */
   type Photo = Pick<Landmark['image'], 'src' | 'width' | 'height' | 'color' | 'credit'>;
@@ -523,8 +526,9 @@ async function start(): Promise<void> {
       if (photos.length > 1) new Image().src = asset(photos[(shown + 1) % photos.length].src);
     }
     stepPhoto = photos.length > 1 ? (delta) => showPhoto(shown + delta) : null;
-    const stepButton = (delta: number, label: string, glyph: string): HTMLButtonElement => {
-      const b = h('button', { class: `icon-btn card-step ${delta < 0 ? 'prev' : 'next'}`, type: 'button' }, glyph);
+    const stepButton = (delta: number, label: string): HTMLButtonElement => {
+      const b = h('button', { class: `icon-btn card-step ${delta < 0 ? 'prev' : 'next'}`, type: 'button' });
+      b.innerHTML = delta < 0 ? ICON.prev : ICON.next;
       b.setAttribute('aria-label', label);
       b.addEventListener('click', () => showPhoto(shown + delta));
       return b;
@@ -544,9 +548,10 @@ async function start(): Promise<void> {
     card.replaceChildren(
       (() => {
         // the whole photo is a button that opens it full screen
-        const open = h('button', { class: 'card-photo-open', type: 'button', title: 'View larger' }, img, expandIcon());
+        const open = h('button', { class: 'card-photo-open', type: 'button', title: 'View larger' }, img);
         open.setAttribute('aria-label', `View photo of ${lm.name} larger`);
-        const close = h('button', { class: 'icon-btn card-close', type: 'button' }, '×');
+        const close = h('button', { class: 'icon-btn card-close', type: 'button' });
+        close.innerHTML = ICON.close;
         close.setAttribute('aria-label', 'Close');
         close.addEventListener('click', () => select(null));
         const frame = h(
@@ -565,8 +570,8 @@ async function start(): Promise<void> {
           // arrows and dots step through the photos; so does a sideways swipe
           frame.classList.add('has-gallery');
           frame.append(
-            stepButton(-1, 'Previous photo', '‹'),
-            stepButton(1, 'Next photo', '›'),
+            stepButton(-1, 'Previous photo'),
+            stepButton(1, 'Next photo'),
             h('div', { class: 'card-dots' }, ...dots),
           );
           let downX: number | null = null;
