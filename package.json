@@ -12,6 +12,7 @@
     "landcover": "node scripts/build-landcover.mjs"
   },
   "dependencies": {
+    "@fontsource/rubik": "^5.3.0",
     "maplibre-gl": "^6.0.0"
   },
   "devDependencies": {

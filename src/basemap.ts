@@ -1,4 +1,10 @@
 import type { LayerSpecification, StyleSpecification } from 'maplibre-gl';
+import rubik500 from '@fontsource/rubik/files/rubik-latin-500-normal.woff2?url';
+import rubik500Ext from '@fontsource/rubik/files/rubik-latin-ext-500-normal.woff2?url';
+import rubik600 from '@fontsource/rubik/files/rubik-latin-600-normal.woff2?url';
+import rubik600Ext from '@fontsource/rubik/files/rubik-latin-ext-600-normal.woff2?url';
+import rubik500Italic from '@fontsource/rubik/files/rubik-latin-500-italic.woff2?url';
+import rubik500ItalicExt from '@fontsource/rubik/files/rubik-latin-ext-500-italic.woff2?url';
 
 /**
  * The globe's look: an illustrated map rather than satellite photography.
@@ -48,8 +54,29 @@ export interface LandCoverTiles {
   attribution: string;
 }
 
-const FONT = ['Noto Sans Bold'];
-const FONT_ITALIC = ['Noto Sans Italic'];
+/**
+ * Label lettering: Rubik, a warm sans with slightly rounded corners.
+ *
+ * Each font stack keeps the name of a Noto Sans face that the glyph server really has,
+ * and `font-faces` (below) swaps in Rubik for Latin text:
+ *
+ *   countries        Rubik SemiBold
+ *   cities           Rubik Medium
+ *   oceans and seas  Rubik Medium Italic
+ *
+ * Anything those files do not cover (Arabic, CJK, Cyrillic place names...) still falls
+ * back to the matching Noto Sans glyphs, which is why the stacks are named after them.
+ */
+const FONT_COUNTRY = ['Noto Sans Bold'];
+const FONT_CITY = ['Noto Sans Regular'];
+const FONT_WATER = ['Noto Sans Italic'];
+
+const LATIN = ['U+0000-00FF', 'U+0131', 'U+0152-0153', 'U+02BB-02BC', 'U+02C6', 'U+02DA', 'U+02DC', 'U+2000-206F'];
+const LATIN_EXT = ['U+0100-02BA', 'U+02BD-02C5', 'U+02C7-02CC', 'U+1E00-1E9F', 'U+1EF2-1EFF'];
+const faces = (latin: string, latinExt: string) => [
+  { url: new URL(latin, location.href).href, 'unicode-range': LATIN },
+  { url: new URL(latinExt, location.href).href, 'unicode-range': LATIN_EXT },
+];
 const NAME = ['coalesce', ['get', 'name:en'], ['get', 'name']] as never;
 
 export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification {
@@ -227,9 +254,9 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
       filter: ['in', ['get', 'class'], ['literal', ['ocean', 'sea']]],
       layout: {
         'text-field': NAME,
-        'text-font': FONT_ITALIC,
-        'text-size': ['interpolate', ['linear'], ['zoom'], 1, 11, 6, 16],
-        'text-letter-spacing': 0.18,
+        'text-font': FONT_WATER,
+        'text-size': ['interpolate', ['linear'], ['zoom'], 1, 11.5, 6, 17],
+        'text-letter-spacing': 0.14,
         'text-max-width': 6,
       },
       paint: {
@@ -248,10 +275,10 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
       filter: ['==', ['get', 'class'], 'country'],
       layout: {
         'text-field': NAME,
-        'text-font': FONT,
-        'text-size': ['interpolate', ['linear'], ['zoom'], 2, 10, 6, 16],
+        'text-font': FONT_COUNTRY,
+        'text-size': ['interpolate', ['linear'], ['zoom'], 2, 11, 6, 17],
         'text-transform': 'uppercase',
-        'text-letter-spacing': 0.12,
+        'text-letter-spacing': 0.08,
         'text-max-width': 7,
         'symbol-sort-key': ['coalesce', ['get', 'rank'], 99],
       },
@@ -274,8 +301,8 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
       ],
       layout: {
         'text-field': NAME,
-        'text-font': FONT,
-        'text-size': ['interpolate', ['linear'], ['zoom'], 4, 10.5, 10, 14.5],
+        'text-font': FONT_CITY,
+        'text-size': ['interpolate', ['linear'], ['zoom'], 4, 11.5, 10, 15.5],
         'text-max-width': 8,
         'symbol-sort-key': ['coalesce', ['get', 'rank'], 99],
       },
@@ -302,6 +329,11 @@ export function buildStyle(landCover: LandCoverTiles | null): StyleSpecification
     version: 8,
     projection: { type: 'globe' },
     glyphs: 'https://tiles.openfreemap.org/fonts/{fontstack}/{range}.pbf',
+    'font-faces': {
+      [FONT_COUNTRY[0]]: faces(rubik600, rubik600Ext),
+      [FONT_CITY[0]]: faces(rubik500, rubik500Ext),
+      [FONT_WATER[0]]: faces(rubik500Italic, rubik500ItalicExt),
+    },
     sources: {
       osm: {
         type: 'vector',

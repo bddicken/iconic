@@ -7,6 +7,8 @@ import {
 } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
+import '@fontsource/rubik/latin-500.css';
+import '@fontsource/rubik/latin-ext-500.css';
 import './style.css';
 import { buildStyle, type LandCoverTiles } from './basemap';
 import { selectLandmarks } from './select';

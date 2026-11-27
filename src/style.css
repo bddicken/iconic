@@ -9,6 +9,8 @@
   --radius: 18px;
   --display: 'Instrument Serif', 'Iowan Old Style', Georgia, serif;
   --ui: Inter, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  /* the map's own lettering: landmark labels match the country and city names */
+  --map: Rubik, var(--ui);
   color-scheme: dark;
 }
 
@@ -257,9 +259,9 @@ button {
   border-radius: 11px;
   background: rgba(255, 255, 255, 0.96);
   box-shadow: 0 2px 8px rgba(20, 24, 60, 0.35);
-  font-family: var(--ui);
-  font-size: 11.5px;
-  font-weight: 600;
+  font-family: var(--map);
+  font-size: 12px;
+  font-weight: 500;
   line-height: 1.2;
   text-align: center;
   text-wrap: balance;
