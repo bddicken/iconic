@@ -13,6 +13,7 @@
     "countries": "node scripts/build-countries.mjs"
   },
   "dependencies": {
+    "@fontsource/caprasimo": "^5.3.0",
     "@fontsource/rubik": "^5.3.0",
     "maplibre-gl": "^6.0.0"
   },

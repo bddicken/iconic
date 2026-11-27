@@ -7,6 +7,8 @@ import {
 } from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
+import '@fontsource/caprasimo/latin-400.css';
+import '@fontsource/caprasimo/latin-ext-400.css';
 import '@fontsource/rubik/latin-500.css';
 import '@fontsource/rubik/latin-ext-500.css';
 import './style.css';
