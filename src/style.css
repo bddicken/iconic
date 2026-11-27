@@ -870,22 +870,50 @@ button {
   color: #5b6382;
 }
 
+/* The credits button: a 32px white circle with the (i) centred in it, sitting centred
+   under the 40px zoom buttons. Opened, it grows leftwards into a pill holding the text. */
 .maplibregl-ctrl-attrib.maplibregl-compact {
-  min-height: 26px;
+  box-sizing: border-box;
+  width: 32px;
+  height: 32px;
+  min-height: 32px;
+  padding: 0;
+  /* 16px gutter + 4px, so its centre lines up with the zoom buttons' centre */
+  margin: 0 20px 14px 0 !important;
   background: #fff !important;
-  border-radius: 14px;
+  border-radius: 16px;
   box-shadow:
     0 4px 12px rgba(0, 0, 0, 0.4),
     0 0 0 1px rgba(0, 0, 0, 0.2);
+}
+
+.maplibregl-ctrl-attrib.maplibregl-compact.maplibregl-compact-show {
+  width: auto;
+  height: auto;
+  padding: 7px 40px 7px 14px;
+  line-height: 1.5;
 }
 
 .maplibregl-ctrl-attrib a {
   color: #1d2340 !important;
 }
 
-.maplibregl-ctrl-attrib-button {
+.maplibregl-ctrl-attrib.maplibregl-compact .maplibregl-ctrl-attrib-button {
+  top: auto;
+  right: 0;
+  bottom: 0;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
   background-color: #fff !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 26px;
+  transition: background-color 0.15s;
+}
+
+.maplibregl-ctrl-attrib.maplibregl-compact .maplibregl-ctrl-attrib-button:hover {
+  background-color: #ffedc2 !important;
 }
 
 /* ---------- Small screens: the card becomes a bottom sheet ---------- */
