@@ -436,8 +436,12 @@ async function start(): Promise<void> {
   /** Steps the open card's gallery; set while a card with several photos is showing. */
   let stepPhoto: ((delta: number) => void) | null = null;
 
-  function showInLightbox(lm: Landmark, photo: Photo): void {
+  /** `index` of `total`: where this photo sits in the landmark's gallery. */
+  function showInLightbox(lm: Landmark, photo: Photo, index: number, total: number): void {
     const credit = photo.credit;
+    // arrows and a "2 / 4" counter only when there is more than one photo to step through
+    lightbox.classList.toggle('has-gallery', total > 1);
+    $('lightbox-count').textContent = total > 1 ? `${index + 1} / ${total}` : '';
     lightboxImg.src = asset(photo.src);
     lightboxImg.alt = lm.name;
     lightboxImg.style.backgroundColor = photo.color;
@@ -452,9 +456,32 @@ async function start(): Promise<void> {
     );
     if (!lightbox.open) lightbox.showModal();
   }
-  // Click anywhere except the caption's links to close (Esc works too, natively).
+  // In full view the gallery can be stepped with the arrow buttons, a sideways swipe, or
+  // the arrow keys (see the keydown handler below).
+  $('lightbox-prev').addEventListener('click', () => stepPhoto?.(-1));
+  $('lightbox-next').addEventListener('click', () => stepPhoto?.(1));
+  let lightboxDownX: number | null = null;
+  let lightboxSwiped = false;
+  lightbox.addEventListener('pointerdown', (e) => {
+    lightboxDownX = e.clientX;
+    lightboxSwiped = false;
+  });
+  lightbox.addEventListener('pointerup', (e) => {
+    const dx = lightboxDownX === null ? 0 : e.clientX - lightboxDownX;
+    lightboxDownX = null;
+    if (Math.abs(dx) > 50 && stepPhoto) {
+      lightboxSwiped = true;
+      stepPhoto(dx < 0 ? 1 : -1);
+    }
+  });
+  // Click anywhere else to close (Esc works too, natively): not on the arrows, not on the
+  // caption's links, and not at the end of a swipe.
   lightbox.addEventListener('click', (e) => {
-    if (!(e.target as HTMLElement).closest('a')) lightbox.close();
+    if (lightboxSwiped) {
+      lightboxSwiped = false;
+      return;
+    }
+    if (!(e.target as HTMLElement).closest('a, .lightbox-step')) lightbox.close();
   });
 
   function renderCard(lm: Landmark): void {
@@ -491,7 +518,7 @@ async function start(): Promise<void> {
         h('dt', {}, 'Source'),
         h('dd', {}, extLink(credit.sourcePage, 'Wikimedia Commons ↗')),
       );
-      if (lightbox.open) showInLightbox(lm, photo);
+      if (lightbox.open) showInLightbox(lm, photo, shown, photos.length);
       // fetch the following photo now, so stepping on is instant
       if (photos.length > 1) new Image().src = asset(photos[(shown + 1) % photos.length].src);
     }
@@ -532,7 +559,7 @@ async function start(): Promise<void> {
         let swiped = false;
         open.addEventListener('click', () => {
           // a swipe ends with a click on the photo too; it has already been handled
-          if (!swiped) showInLightbox(lm, photos[shown]);
+          if (!swiped) showInLightbox(lm, photos[shown], shown, photos.length);
         });
         if (photos.length > 1) {
           // arrows and dots step through the photos; so does a sideways swipe

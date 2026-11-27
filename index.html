@@ -46,10 +46,13 @@
 
     <dialog id="lightbox" class="lightbox" aria-label="Photo">
       <button id="lightbox-close" type="button" class="icon-btn lightbox-close" aria-label="Close">×</button>
+      <button id="lightbox-prev" type="button" class="icon-btn lightbox-step prev" aria-label="Previous photo">‹</button>
+      <button id="lightbox-next" type="button" class="icon-btn lightbox-step next" aria-label="Next photo">›</button>
       <figure>
         <img id="lightbox-img" alt="" />
         <figcaption>
           <strong id="lightbox-title"></strong>
+          <span id="lightbox-count" class="lightbox-count"></span>
           <span id="lightbox-credit"></span>
         </figcaption>
       </figure>
