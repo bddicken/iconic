@@ -10,6 +10,7 @@ import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 import '@fontsource/caprasimo/latin-400.css';
 import '@fontsource/caprasimo/latin-ext-400.css';
 import '@fontsource/rubik/latin-500.css';
+import '@fontsource/rubik/latin-600.css';
 import '@fontsource/rubik/latin-ext-500.css';
 import './style.css';
 import { buildStyle, COUNTRY_LABELS, countryAreas, countryLabelFilter, type LandCoverTiles } from './basemap';
@@ -353,7 +354,12 @@ async function start(): Promise<void> {
     else if (e.key === 'ArrowLeft' && landmarks[selected.rank - 2]) select(landmarks[selected.rank - 2]);
   });
 
-  $('random').addEventListener('click', () => {
+  const randomButton = $('random');
+  randomButton.addEventListener('animationend', () => randomButton.classList.remove('rolling'));
+  randomButton.addEventListener('click', () => {
+    randomButton.classList.remove('rolling');
+    void randomButton.offsetWidth; // restart the tumble if it is pressed again mid-roll
+    randomButton.classList.add('rolling');
     let pick: Landmark;
     do pick = landmarks[Math.floor(Math.random() * landmarks.length)];
     while (pick === selected && landmarks.length > 1);

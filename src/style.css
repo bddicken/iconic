@@ -123,28 +123,63 @@ button {
   cursor: pointer;
 }
 
+/* A sunny sticker with the same white rim and soft shadow as the landmark photos. */
 .actions button {
-  padding: 9px 16px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px 8px 11px;
   border-radius: 999px;
-  border: 1px solid var(--line);
-  background: var(--panel);
-  backdrop-filter: blur(14px);
-  -webkit-backdrop-filter: blur(14px);
-  font-weight: 500;
-  font-size: 13.5px;
+  border: 3px solid #fff;
+  background: var(--accent);
+  color: #1d2340;
+  box-shadow:
+    0 6px 18px rgba(0, 0, 0, 0.45),
+    0 0 0 1px rgba(0, 0, 0, 0.25);
+  font-family: var(--map);
+  font-weight: 600;
+  font-size: 14.5px;
+  letter-spacing: 0.01em;
   transition:
-    background 0.15s,
-    border-color 0.15s,
-    transform 0.15s;
+    transform 0.18s cubic-bezier(0.2, 0.9, 0.3, 1.4),
+    background 0.15s;
 }
 
 .actions button:hover {
-  border-color: rgba(255, 255, 255, 0.35);
-  background: rgba(34, 37, 50, 0.9);
+  background: #ffd575;
+  transform: translateY(-1px) rotate(-2deg) scale(1.04);
 }
 
 .actions button:active {
-  transform: scale(0.97);
+  transform: scale(0.96);
+}
+
+.dice {
+  flex: none;
+  transition: transform 0.3s cubic-bezier(0.2, 0.9, 0.3, 1.4);
+}
+
+.dice rect {
+  fill: #1d2340;
+}
+
+.dice circle {
+  fill: #fff;
+}
+
+.actions button:hover .dice {
+  transform: rotate(18deg);
+}
+
+/* one tumble each time it is pressed */
+.actions button.rolling .dice {
+  animation: dice-roll 0.6s cubic-bezier(0.3, 0.7, 0.3, 1);
+}
+
+@keyframes dice-roll {
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 :focus-visible {
@@ -557,8 +592,8 @@ button {
   }
 
   .actions button {
-    padding: 8px 12px;
-    font-size: 12.5px;
+    padding: 6px 13px 6px 9px;
+    font-size: 13.5px;
   }
 
   .pin {
@@ -611,7 +646,8 @@ button {
 
 @media (prefers-reduced-motion: reduce) {
   .pin-inner,
-  .card {
+  .card,
+  .actions button.rolling .dice {
     animation: none;
   }
 }
