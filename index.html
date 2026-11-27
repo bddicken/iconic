@@ -20,6 +20,8 @@
     <meta name="twitter:title" content="Iconic · the world's landmarks on a globe" />
     <meta name="twitter:description" content="Spin the globe and explore the world's most iconic places, landmarks and natural wonders." />
     <meta name="twitter:image" content="https://iconic.place/og.jpg" />
+    <!-- every landmark, asked for before the app's own code has loaded -->
+    <link rel="preload" href="/api/landmarks" as="fetch" crossorigin />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link

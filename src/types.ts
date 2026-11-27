@@ -1,4 +1,7 @@
-/** Shape of public/data/landmarks.json, produced by scripts/build-data.mjs. */
+/**
+ * Landmarks as the app receives them from the API (worker/index.ts), which reads them from
+ * the database. The pipeline's public/data/landmarks.json has the same full shape.
+ */
 
 export interface ImageCredit {
   title: string;
@@ -13,6 +16,7 @@ export interface ImageCredit {
   downloadedFrom: string;
 }
 
+/** What the app knows about every landmark from the start: enough for the globe and search. */
 export interface Landmark {
   /** 1 = most popular. The list is sorted by rank. */
   rank: number;
@@ -23,6 +27,15 @@ export interface Landmark {
   category: string;
   lat: number;
   lng: number;
+  image: {
+    thumb: string;
+    /** Dominant colour, shown while the photo loads. */
+    color: string;
+  };
+}
+
+/** Everything about one landmark, fetched when its card is opened. */
+export interface LandmarkDetails extends Landmark {
   description: string | null;
   summary: string;
   /** 0-100 */
@@ -30,13 +43,10 @@ export interface Landmark {
   metrics: { pageviews: number; wikipediaLanguages: number };
   wikipedia: string;
   wikidata: string | null;
-  image: {
+  image: Landmark['image'] & {
     src: string;
-    thumb: string;
     width: number;
     height: number;
-    /** Dominant colour, shown while the photo loads. */
-    color: string;
     credit: ImageCredit;
   };
   /** Up to three more photos, shown after the main one when the card is open. */
@@ -50,11 +60,4 @@ export interface GalleryImage {
   /** Dominant colour, shown while the photo loads. */
   color: string;
   credit: ImageCredit;
-}
-
-export interface LandmarkData {
-  generatedAt: string;
-  count: number;
-  popularity: string;
-  landmarks: Landmark[];
 }

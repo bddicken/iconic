@@ -1,0 +1,5 @@
+# Files in the build output that are not uploaded to the site.
+
+# The data pipeline's hand-off to the database (scripts/db-sync.mjs loads it). The app gets
+# its landmarks from the database through the API, never from this file.
+data/landmarks.json

@@ -17,8 +17,9 @@ import '@fontsource/rubik/latin-ext-500.css';
 import './style.css';
 import { buildStyle, COUNTRY_LABELS, countryAreas, countryLabelFilter, SEA_FLOOR, seaFloorColour, type LandCoverTiles, type SeaFloorTiles, type TileSet } from './basemap';
 import { layoutLandmarks, type Footprint } from './select';
+import { loadDetails, loadLandmarks } from './data';
 import { mountSearch } from './search';
-import type { Landmark, LandmarkData } from './types';
+import type { Landmark, LandmarkDetails } from './types';
 
 /** The most landmarks ever drawn at once, whatever the position or zoom. */
 const MAX_VISIBLE = 12;
@@ -82,12 +83,9 @@ function globeFitZoom(fill: number): number {
 // ---------- app ----------
 
 async function start(): Promise<void> {
-  const res = await fetch(asset('data/landmarks.json'));
-  if (!res.ok) throw new Error(`Could not load landmark data (${res.status})`);
-  const data: LandmarkData = await res.json();
-  // Most popular first: the selection algorithm relies on this order.
-  const landmarks = [...data.landmarks].sort((a, b) => a.rank - b.rank);
-  const byId = new Map(landmarks.map((l) => [l.id, l]));
+  // The landmarks come from the database, through the API (see data.ts). Ask for them
+  // straight away, while the map's own files are being fetched.
+  const landmarksLoading = loadLandmarks();
 
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const isNarrow = (): boolean => window.innerWidth <= 700;
@@ -100,10 +98,16 @@ async function start(): Promise<void> {
       // (join as strings: new URL() would percent-encode the {z}/{x}/{y} placeholders)
       .then((meta) => (meta ? { ...meta, tiles: new URL(BASE, location.href).href + meta.tiles } : null))
       .catch(() => null);
-  const [landCover, seaFloor] = await Promise.all([
+  const [landmarks, landCover, seaFloor] = await Promise.all([
+    // Most popular first: the selection algorithm relies on this order.
+    landmarksLoading,
     tileSet<LandCoverTiles>('landcover'),
     tileSet<SeaFloorTiles>('ocean'),
   ]);
+  const byId = new Map(landmarks.map((l) => [l.id, l]));
+  /** Where each landmark sits in the list, for stepping to the one before or after it. */
+  const position = new Map(landmarks.map((l, i) => [l.id, i]));
+  const neighbour = (lm: Landmark, delta: number): Landmark | undefined => landmarks[(position.get(lm.id) ?? NaN) + delta];
 
   const map = new GlobeMap({
     container: 'map',
@@ -235,6 +239,12 @@ async function start(): Promise<void> {
       e.stopPropagation();
       select(lm);
     });
+    // Resting the pointer on a marker fetches its details, so the card opens complete.
+    let dwell = 0;
+    el.addEventListener('pointerenter', (e) => {
+      if (e.pointerType === 'mouse') dwell = window.setTimeout(() => void loadDetails(lm.id).catch(() => {}), 120);
+    });
+    el.addEventListener('pointerleave', () => clearTimeout(dwell));
     const marker = new Marker({ element: el, anchor: 'center' }).setLngLat([lm.lng, lm.lat]).addTo(map);
     const pin: Pin = { marker, el, inner, linkMarker, link, linkTo: null, leaving: null, x: dx, y: dy, targetX: dx, targetY: dy };
     drawOffset(pin);
@@ -408,7 +418,7 @@ async function start(): Promise<void> {
       return;
     }
     history.replaceState(null, '', `#${lm.id}`);
-    renderCard(lm);
+    openCard(lm);
     if (opts.fly !== false) {
       // Keep the landmark clear of the card: beside it on wide screens, above the sheet on phones.
       const offset: [number, number] = isNarrow() ? [0, -window.innerHeight * 0.2] : [200, 0];
@@ -439,7 +449,7 @@ async function start(): Promise<void> {
   };
 
   /** One photo of a landmark: its main one or one from its gallery. */
-  type Photo = Pick<Landmark['image'], 'src' | 'width' | 'height' | 'color' | 'credit'>;
+  type Photo = Pick<LandmarkDetails['image'], 'src' | 'width' | 'height' | 'color' | 'credit'>;
   /** Steps the open card's gallery; set while a card with several photos is showing. */
   let stepPhoto: ((delta: number) => void) | null = null;
 
@@ -491,10 +501,123 @@ async function start(): Promise<void> {
     if (!(e.target as HTMLElement).closest('a, .lightbox-step')) lightbox.close();
   });
 
-  function renderCard(lm: Landmark): void {
+  /**
+   * Shows a landmark's card: at once with what is already known (name, place, the small
+   * photo), then in full when the rest has arrived from the API.
+   */
+  function openCard(lm: Landmark): void {
+    let settled = false;
+    let partial = false; // this landmark's partial card is what is showing
+    const fill = (): void => {
+      loadDetails(lm.id).then(
+        (details) => {
+          settled = true;
+          if (selected === lm) renderCard(details, partial);
+        },
+        (err) => {
+          settled = true;
+          console.error(err);
+          if (selected !== lm) return;
+          partial = true;
+          renderPartialCard(lm, fill);
+        },
+      );
+    };
+    fill();
+    // (already fetched, by an earlier visit or a hover: the full card is on its way this
+    // very tick, so skip the partial one)
+    queueMicrotask(() => queueMicrotask(() => {
+      if (settled || selected !== lm) return;
+      partial = true;
+      renderPartialCard(lm, null);
+    }));
+  }
+
+  function showCard(...children: Node[]): void {
+    card.replaceChildren(...children);
+    card.hidden = false;
+    // restart the entrance animation when hopping between landmarks
+    card.style.animation = 'none';
+    void card.offsetWidth;
+    card.style.animation = '';
+  }
+
+  /** The small photo, blurred: a stand-in until the full one has loaded. */
+  function earlyPhoto(lm: Landmark): HTMLImageElement {
+    const img = h('img', { class: 'card-photo-early', src: asset(lm.image.thumb), alt: '', draggable: false });
+    img.style.backgroundColor = lm.image.color;
+    return img;
+  }
+
+  function cardNav(lm: Landmark): HTMLElement {
+    const prev = neighbour(lm, -1);
+    const next = neighbour(lm, 1);
+    const navButton = (target: Landmark | undefined, label: string): HTMLButtonElement => {
+      const b = h('button', { type: 'button', disabled: !target }, target ? label : '');
+      if (target) {
+        b.title = target.name;
+        b.addEventListener('click', () => select(target));
+      }
+      return b;
+    };
+    return h(
+      'div',
+      { class: 'card-nav' },
+      navButton(prev, prev ? `← #${prev.rank} ${prev.name}` : ''),
+      navButton(next, next ? `#${next.rank} ${next.name} →` : ''),
+    );
+  }
+
+  /**
+   * The card before its details have arrived, or (with `retry`) when they could not be
+   * fetched: the small photo and the facts every landmark comes with.
+   */
+  function renderPartialCard(lm: Landmark, retry: (() => void) | null): void {
+    stepPhoto = null;
+    const img = earlyPhoto(lm);
+    img.alt = lm.name;
+    const rest = retry
+      ? h(
+          'p',
+          { class: 'card-summary card-failed' },
+          'The rest of this place could not be loaded. ',
+          (() => {
+            const again = h('button', { type: 'button' }, 'Try again');
+            again.addEventListener('click', () => {
+              renderPartialCard(lm, null);
+              retry();
+            });
+            return again;
+          })(),
+        )
+      : (() => {
+          const lines = h('div', { class: 'card-loading' }, h('i'), h('i'), h('i'), h('i'));
+          lines.setAttribute('aria-hidden', 'true');
+          return lines;
+        })();
+    showCard(
+      h('div', { class: 'card-photo' }, img, h('span', { class: 'card-rank' }, `#${lm.rank} of ${landmarks.length}`)),
+      h(
+        'div',
+        { class: 'card-body' },
+        h('p', { class: 'card-tags' }, h('span', {}, lm.region), h('span', {}, lm.category)),
+        h('h2', {}, lm.name),
+        h('p', { class: 'card-place' }, lm.country),
+        rest,
+      ),
+      cardNav(lm),
+    );
+  }
+
+  /** The full card. `settle`: it replaces the partial card, so it should not slide in again. */
+  function renderCard(lm: LandmarkDetails, settle = false): void {
     // The main photo first, then the rest of the gallery.
     const photos: Photo[] = [lm.image, ...(lm.gallery ?? [])];
-    const img = h('img', { alt: lm.name, decoding: 'async', draggable: false });
+    const img = h('img', { class: 'arriving', alt: lm.name, decoding: 'async', draggable: false });
+    // the first photo fades in over the blurred stand-in once it has loaded
+    const arrived = (): void => img.classList.remove('arriving');
+    img.addEventListener('load', arrived, { once: true });
+    img.addEventListener('error', arrived, { once: true });
     const creditList = h('dl', { class: 'card-credit' });
     const dots = photos.map((_, i) => {
       const dot = h('button', { class: 'card-dot', type: 'button' });
@@ -538,18 +661,7 @@ async function start(): Promise<void> {
       return b;
     };
 
-    const prev = landmarks[lm.rank - 2];
-    const next = landmarks[lm.rank];
-    const navButton = (target: Landmark | undefined, label: string): HTMLButtonElement => {
-      const b = h('button', { type: 'button', disabled: !target }, target ? label : '');
-      if (target) {
-        b.title = target.name;
-        b.addEventListener('click', () => select(target));
-      }
-      return b;
-    };
-
-    card.replaceChildren(
+    const parts = [
       (() => {
         // the whole photo is a button that opens it full screen
         const open = h('button', { class: 'card-photo-open', type: 'button', title: 'View larger' }, img);
@@ -558,6 +670,7 @@ async function start(): Promise<void> {
         const frame = h(
           'div',
           { class: 'card-photo' },
+          earlyPhoto(lm),
           open,
           h('span', { class: 'card-rank' }, `#${lm.rank} of ${landmarks.length}`),
         );
@@ -612,19 +725,11 @@ async function start(): Promise<void> {
         h('p', { class: 'card-links' }, extLink(lm.wikipedia, 'Wikipedia ↗')),
         creditList,
       ),
-      h(
-        'div',
-        { class: 'card-nav' },
-        navButton(prev, prev ? `← #${prev.rank} ${prev.name}` : ''),
-        navButton(next, next ? `#${next.rank} ${next.name} →` : ''),
-      ),
-    );
+      cardNav(lm),
+    ];
+    if (settle) card.replaceChildren(...parts);
+    else showCard(...parts);
     showPhoto(0);
-    card.hidden = false;
-    // restart the entrance animation when hopping between landmarks
-    card.style.animation = 'none';
-    void card.offsetWidth;
-    card.style.animation = '';
   }
 
   map.on('click', () => {
@@ -639,8 +744,10 @@ async function start(): Promise<void> {
       return;
     }
     if (e.key === 'Escape') select(null);
-    else if (e.key === 'ArrowRight' && landmarks[selected.rank]) select(landmarks[selected.rank]);
-    else if (e.key === 'ArrowLeft' && landmarks[selected.rank - 2]) select(landmarks[selected.rank - 2]);
+    else if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
+      const target = neighbour(selected, e.key === 'ArrowRight' ? 1 : -1);
+      if (target) select(target);
+    }
   });
 
   mountSearch({

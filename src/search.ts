@@ -81,7 +81,7 @@ export function mountSearch(opts: SearchOptions): void {
       const hits = landmarks.filter((l) => {
         if (query.region && l.region !== query.region) return false;
         if (query.category && l.category !== query.category) return false;
-        const text = `${l.name} ${l.country} ${l.description ?? ''}`.toLowerCase();
+        const text = `${l.name} ${l.country} ${l.region} ${l.category}`.toLowerCase();
         return words.every((w) => text.includes(w));
       });
       return { ids: hits.slice(0, query.limit).map((l) => l.id), total: hits.length, mode: words.length ? 'exact' : 'all' };
@@ -122,7 +122,7 @@ export function mountSearch(opts: SearchOptions): void {
     root.classList.toggle('filtered', filtered);
     input.placeholder = filtered
       ? `Search ${[category, 'places', region && `in ${region}`].filter(Boolean).join(' ')}`
-      : `Search ${landmarks.length.toLocaleString()} places`;
+      : 'Search places';
 
     // The globe shows only what the filters allow.
     filterRequest?.abort();

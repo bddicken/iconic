@@ -6,9 +6,11 @@ export default defineConfig(({ mode }) => {
   const { ICONIC_API_VERSION } = loadEnv(mode, process.cwd(), 'ICONIC_');
   return {
     server: {
-      // The search API is a Cloudflare Worker backed by a database, neither of which runs
-      // under `npm run dev`. Send /api/ requests to the live site instead, so search
-      // behaves the same in development as in production (it is read-only).
+      // The API (landmarks and search) is a Cloudflare Worker backed by a database, neither
+      // of which runs under `npm run dev`. Send /api/ requests to the live site instead, so
+      // development shows what production shows (the API is read-only). `npm run dev:local`
+      // reads landmarks from public/data/landmarks.json instead, to preview ones that have
+      // been built here but not deployed.
       proxy: {
         '/api': {
           target: 'https://iconic.place',

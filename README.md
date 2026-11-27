@@ -10,40 +10,57 @@ npm run dev
 
 ## Deploying
 
-The site is static and is served from Cloudflare at <https://iconic.place>.
+The site is served from Cloudflare at <https://iconic.place>: static files (the app, the
+photos, the map tiles) plus a small Worker that answers `/api/` from the database.
 
 ```bash
 npm run deploy
 ```
 
-That builds `dist/`, syncs the search database, and uploads the site and the search
-Worker with Wrangler (config in `wrangler.jsonc`, cache rules in `public/_headers`). It
-needs a Cloudflare login (`npx wrangler login`) and a PlanetScale login
-(`pscale auth login`) on the machine; no keys or tokens live in this repo. `npm run og` redraws the share image, `public/og.jpg`.
+That builds `dist/`, uploads the site and the Worker with Wrangler (config in
+`wrangler.jsonc`, cache rules in `public/_headers`), and then loads the landmark data
+into the database. The order matters: a new landmark only appears on the site once its
+photos are live. It needs a Cloudflare login (`npx wrangler login`) and a PlanetScale
+login (`pscale auth login`) on the machine; no keys or tokens live in this repo.
+`npm run og` redraws the share image, `public/og.jpg`.
 
-## Search
+## The database
 
-The search box and its filters are answered by a small API, `GET /api/search`, with
-`q` (text), `region`, `category` and `limit`. It returns matching landmark ids, best
-first; the app already has every landmark's details.
+The landmarks live in PlanetScale Postgres (`bddicken/iconic`, branch `main`), and that
+database is the source of truth for the running site: the app has no copy of the data of
+its own and asks the API for everything.
 
-- **Database:** PlanetScale Postgres (`bddicken/iconic`, branch `main`) with one small
-  row per landmark. Text search uses [TIN](https://planetscale.com/docs/postgres/search),
+| Request | Answer |
+| --- | --- |
+| `GET /api/landmarks` | Every landmark in brief (rank, id, name, country, region, category, coordinates, thumbnail), most popular first. Loaded once when the app starts. |
+| `GET /api/landmarks/<id>` | One landmark in full (summary, popularity, photos and their credits). Loaded when its card is opened. |
+| `GET /api/search` | Ids of the landmarks matching `q` (text), `region` and `category`, best first, up to `limit`. |
+
+- **Tables:** `landmarks` has one row per landmark, with the photos and their credits as
+  JSON columns; `dataset` records when the loaded data was generated and loaded.
+- **Loading it:** `npm run db:sync` loads `public/data/landmarks.json`, the output of the
+  data pipeline (see [Adding landmarks](#adding-landmarks)), through the PlanetScale CLI.
+  It adds, updates and removes rows to match, in one transaction, and is safe to re-run.
+  `npm run deploy` runs it for you. That JSON file is only the hand-off from the pipeline
+  to the database: it is not uploaded to the site (`public/.assetsignore`).
+- **Connection:** the Worker (`worker/index.ts`) reaches the database through Cloudflare
+  Hyperdrive (the `HYPERDRIVE` binding in `wrangler.jsonc`), using a read-only database
+  role. The credentials live in Cloudflare, not in this repo.
+- **Caching:** landmark answers are kept in Cloudflare's cache for five minutes, so most
+  visits never touch the database, and a week-old spare copy is served if the database
+  cannot be reached. A change to the data therefore takes up to five minutes to show.
+- **Search:** text search uses [TIN](https://planetscale.com/docs/postgres/search),
   PlanetScale's full-text index, on the name and on a combined description column, with
-  English stemming. Region and category are ordinary indexed columns.
-- **Queries:** `worker/index.ts` builds a TINQL query from the typed words. The last word
+  English stemming. The Worker builds a TINQL query from the typed words: the last word
   also matches as a prefix (for search-as-you-type), a name match counts four times a
   description match, and popular places get a small lift. If nothing matches it retries
-  allowing typos, then on any one word.
-- **Connection:** the Worker reaches the database through Cloudflare Hyperdrive (the
-  `HYPERDRIVE` binding in `wrangler.jsonc`), using a read-only database role. The
-  credentials live in Cloudflare, not in this repo.
-- **Keeping it current:** `npm run db:sync` mirrors `public/data/landmarks.json` into the
-  database through the PlanetScale CLI. It is safe to re-run, and `npm run deploy` runs it
-  for you. It needs `pscale auth login` once on the machine.
-- **In development:** `npm run dev` forwards `/api/` to the live site, so search works
-  locally without a database. To try a Worker version that is uploaded but not live, put
-  `ICONIC_API_VERSION=<version id>` in `.env.local`.
+  allowing typos, then on any one word. Region and category are ordinary indexed columns.
+- **In development:** `npm run dev` forwards `/api/` to the live site, so you see what
+  visitors see without running a database. `npm run dev:local` reads the landmarks from
+  `public/data/landmarks.json` instead, to preview ones you have built but not deployed
+  (search still asks the live site, so it will not find them yet). To try a Worker
+  version that is uploaded but not live, put `ICONIC_API_VERSION=<version id>` in
+  `.env.local`.
 
 ## How it fits together
 
@@ -51,15 +68,16 @@ first; the app already has every landmark's details.
 | --- | --- |
 | `data/landmarks.seed.json` | The curated list. One entry per landmark: id, name, Wikipedia article, country, region, category. **This is the file you edit.** |
 | `scripts/build-data.mjs` | Turns the seed into everything the app needs (coordinates, popularity, photos, photo credits). |
-| `public/data/landmarks.json` | Generated. The structured dataset the app loads, sorted by rank. |
+| `public/data/landmarks.json` | Generated. The structured dataset, sorted by rank, that `npm run db:sync` loads into the database. Not deployed. |
 | `public/images/full/`, `public/images/thumb/` | Generated. One 1600px photo and one 256px marker thumbnail per landmark. |
 | `public/images/gallery/` | Generated. Up to three more 900px photos per landmark, shown in the card's gallery. |
 | `src/select.ts` | Decides which landmarks are drawn for the current camera and where: at most 12 (`MAX_VISIBLE` in `src/main.ts`), most popular first, with crowded ones huddled close beside each other (tied together by a faint line) instead of hidden, then drifting onto their true spots as you zoom in. `MAX_NUDGE` in `src/main.ts` sets how far. |
 | `src/main.ts` | The globe, markers and detail card. |
+| `src/data.ts` | Fetches the landmarks from the API: the brief list at the start, full details per card. |
 | `src/basemap.ts` | The illustrated map style. |
 | `src/search.ts` | The search box, results list and filter chips. |
-| `worker/index.ts` | The search API (a Cloudflare Worker). |
-| `scripts/db-sync.mjs` | Loads the landmark data into the search database. |
+| `worker/index.ts` | The API (a Cloudflare Worker): the landmark list, one landmark in full, and search. |
+| `scripts/db-sync.mjs` | Loads the landmark data into the database. |
 | `scripts/build-landcover.mjs` | Renders the land-colour tiles in `public/tiles/landcover/`. |
 | `scripts/build-ocean.mjs` | Renders the sea-floor tiles in `public/tiles/ocean/`. |
 | `src/countries.json` | Generated by `npm run countries`. Label point and land area of each country; a country is named once it covers about 1% of the screen (`COUNTRY_LABEL_SCREEN_SHARE` in `src/main.ts`). |
@@ -76,7 +94,9 @@ first; the app already has every landmark's details.
 2. Run `npm run data`. It is incremental: only new or changed entries are fetched.
 3. Run `npm run data:sheet` and look through `data/sheets/` to check the photos and their
    round marker crops. `npm run data:sheet -- --gallery` shows each landmark's main photo
-   beside its gallery photos instead.
+   beside its gallery photos instead. `npm run dev:local` shows them on the globe.
+4. Run `npm run deploy` to publish: it uploads the photos, then loads the new entries
+   into the database, which is where the site reads them from.
 
 Optional seed fields:
 
@@ -125,7 +145,7 @@ any `boost`. Both use fixed scales, so scores stay comparable as the list grows.
 
 ## Image credits
 
-Every image comes from Wikimedia Commons. For each one, `landmarks.json` records under
+Every image comes from Wikimedia Commons. For each one, the dataset records under
 `image.credit` (and `gallery[].credit` for gallery photos) the author, license and license
 URL, the Commons page (`sourcePage`), the original file URL and the exact URL the bytes
 were downloaded from. The app shows the credit of whichever photo is on screen.
