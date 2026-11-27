@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+# raw API responses and untouched source downloads; everything the app needs is in public/
+data/cache
+data/originals
+data/sheets
+data/naturalearth

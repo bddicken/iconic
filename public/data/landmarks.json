@@ -1,0 +1,3707 @@
+{
+ "generatedAt": "2026-11-27T01:48:25.046Z",
+ "count": 100,
+ "popularity": "Score 0-100 = 55% English Wikipedia pageviews over the last 12 months (log scale) + 45% number of Wikipedia language editions with an article, plus any editorial boost from the seed. rank 1 = most popular.",
+ "landmarks": [
+  {
+   "rank": 1,
+   "id": "mount-everest",
+   "name": "Mount Everest",
+   "country": "Nepal / China",
+   "region": "Asia",
+   "category": "natural",
+   "lat": 27.98833,
+   "lng": 86.92528,
+   "description": "Earth's highest mountain",
+   "summary": "Mount Everest is the highest mountain on Earth above sea level. It lies in the Mahalangur Himal sub-range of the Himalayas and marks part of the China–Nepal border at its summit. 86 m.",
+   "popularity": 87.6,
+   "metrics": {
+    "pageviews": 2108315,
+    "wikipediaLanguages": 218
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Mount_Everest",
+   "wikidata": "Q513",
+   "image": {
+    "src": "images/full/mount-everest.webp",
+    "thumb": "images/thumb/mount-everest.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#3878b8",
+    "credit": {
+     "title": "File:Mt. Everest from Gokyo Ri November 5, 2012.jpg",
+     "author": "Rdevany",
+     "credit": "This is a digital photograph that I took",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg/1920px-Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 2,
+   "id": "taj-mahal",
+   "name": "Taj Mahal",
+   "country": "India",
+   "region": "Asia",
+   "category": "monument",
+   "lat": 27.175,
+   "lng": 78.0419,
+   "description": "Marble mausoleum in Agra, India",
+   "summary": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan, to house the tomb of his late wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself.",
+   "popularity": 79.5,
+   "metrics": {
+    "pageviews": 1548179,
+    "wikipediaLanguages": 176
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Taj_Mahal",
+   "wikidata": "Q9141",
+   "image": {
+    "src": "images/full/taj-mahal.webp",
+    "thumb": "images/thumb/taj-mahal.webp",
+    "width": 1600,
+    "height": 1052,
+    "color": "#7898c8",
+    "credit": {
+     "title": "File:Taj Mahal (Edited).jpeg",
+     "author": "Yann ; edited by Jim Carter",
+     "credit": "Edited version of File:Taj Mahal, Agra, India.jpg",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1920px-Taj_Mahal_%28Edited%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 3,
+   "id": "eiffel-tower",
+   "name": "Eiffel Tower",
+   "country": "France",
+   "region": "Europe",
+   "category": "monument",
+   "lat": 48.85822,
+   "lng": 2.2945,
+   "description": "Tower in Paris, France",
+   "summary": "The Eiffel Tower is a lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889.",
+   "popularity": 79.3,
+   "metrics": {
+    "pageviews": 1464493,
+    "wikipediaLanguages": 177
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+   "wikidata": "Q243",
+   "image": {
+    "src": "images/full/eiffel-tower.webp",
+    "thumb": "images/thumb/eiffel-tower.webp",
+    "width": 1600,
+    "height": 2961,
+    "color": "#183858",
+    "credit": {
+     "title": "File:Tour Eiffel Wikimedia Commons.jpg",
+     "author": "Benh LIEU SONG",
+     "credit": "Own work",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "attributionRequired": false,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg/1920px-Tour_Eiffel_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 4,
+   "id": "great-wall-of-china",
+   "name": "Great Wall of China",
+   "country": "China",
+   "region": "Asia",
+   "category": "ancient",
+   "lat": 40.43139,
+   "lng": 116.56444,
+   "description": "Series of fortifications in northern China",
+   "summary": "The Great Wall of China is a series of fortifications in China. They were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. The first walls date to the 7th century BC; these were joined together in the Qin dynasty.",
+   "popularity": 78.5,
+   "metrics": {
+    "pageviews": 1410973,
+    "wikipediaLanguages": 175
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+   "wikidata": "Q12501",
+   "image": {
+    "src": "images/full/great-wall-of-china.webp",
+    "thumb": "images/thumb/great-wall-of-china.webp",
+    "width": 1600,
+    "height": 1063,
+    "color": "#283818",
+    "credit": {
+     "title": "File:The Great Wall of China at Jinshanling-edit.jpg",
+     "author": "Severin.stalder",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/1920px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 5,
+   "id": "mount-kilimanjaro",
+   "name": "Mount Kilimanjaro",
+   "country": "Tanzania",
+   "region": "Africa",
+   "category": "natural",
+   "lat": -3.0674,
+   "lng": 37.3556,
+   "description": "Mountain in Tanzania, highest in Africa",
+   "summary": "Mount Kilimanjaro is a large dormant stratovolcano in Tanzania. It is the highest mountain in Africa and the highest free-standing mountain above sea level in the world, at 5,895 m (19,341 ft) above sea level and 4,900 m (16,100 ft) above its plateau base.",
+   "popularity": 74.7,
+   "metrics": {
+    "pageviews": 802792,
+    "wikipediaLanguages": 178
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro",
+   "wikidata": "Q7296",
+   "image": {
+    "src": "images/full/mount-kilimanjaro.webp",
+    "thumb": "images/thumb/mount-kilimanjaro.webp",
+    "width": 1600,
+    "height": 1071,
+    "color": "#b8c8c8",
+    "credit": {
+     "title": "File:Kilimanjaro from Amboseli.jpg",
+     "author": "Sergey Pesterev",
+     "credit": "Own work Alternative: https://unsplash.com/photos/DWXR-nAbxCk Sergey Pesterev",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kilimanjaro_from_Amboseli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/1920px-Kilimanjaro_from_Amboseli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 6,
+   "id": "statue-of-liberty",
+   "name": "Statue of Liberty",
+   "country": "United States",
+   "region": "North America",
+   "category": "monument",
+   "lat": 40.68917,
+   "lng": -74.04444,
+   "description": "Colossal sculpture in New York Harbor",
+   "summary": "The Statue of Liberty is a colossal neoclassical sculpture of a robed and crowned woman located on Liberty Island, part of New York City, in New York Harbor.",
+   "popularity": 73,
+   "metrics": {
+    "pageviews": 1444513,
+    "wikipediaLanguages": 151
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+   "wikidata": "Q9202",
+   "image": {
+    "src": "images/full/statue-of-liberty.webp",
+    "thumb": "images/thumb/statue-of-liberty.webp",
+    "width": 1600,
+    "height": 2452,
+    "color": "#c8d8e8",
+    "credit": {
+     "title": "File:Front view of Statue of Liberty (cropped).jpg",
+     "author": "AskALotl",
+     "credit": "Own work",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "attributionRequired": false,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/1920px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 7,
+   "id": "burj-khalifa",
+   "name": "Burj Khalifa",
+   "country": "United Arab Emirates",
+   "region": "Middle East",
+   "category": "building",
+   "lat": 25.1972,
+   "lng": 55.2742,
+   "description": "Skyscraper in Dubai, United Arab Emirates",
+   "summary": "The Burj Khalifa is a megatall skyscraper in Dubai, United Arab Emirates. 8 m and a roof height of 828 m (2,717 ft). It has been the tallest building in the world since its complete inauguration in 2011, surpassing Taipei 101, which had held the record since 2004.",
+   "popularity": 70.9,
+   "metrics": {
+    "pageviews": 1642628,
+    "wikipediaLanguages": 138
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+   "wikidata": "Q12495",
+   "image": {
+    "src": "images/full/burj-khalifa.webp",
+    "thumb": "images/thumb/burj-khalifa.webp",
+    "width": 1600,
+    "height": 789,
+    "color": "#4878b8",
+    "credit": {
+     "title": "File:Skyline-Dubai-2010.jpg",
+     "author": "Nepenthes",
+     "credit": "Own work",
+     "license": "CC BY-SA 2.5",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Skyline-Dubai-2010.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Skyline-Dubai-2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Skyline-Dubai-2010.jpg/1920px-Skyline-Dubai-2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 8,
+   "id": "colosseum",
+   "name": "Colosseum",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "ancient",
+   "lat": 41.8903,
+   "lng": 12.4922,
+   "description": "Ancient Roman amphitheater in Rome",
+   "summary": "The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is the largest standing amphitheatre in the world. Construction began under Emperor Vespasian in 72 and was completed in AD 80 under his successor and heir, Titus.",
+   "popularity": 69.6,
+   "metrics": {
+    "pageviews": 1200104,
+    "wikipediaLanguages": 143
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Colosseum",
+   "wikidata": "Q10285",
+   "image": {
+    "src": "images/full/colosseum.webp",
+    "thumb": "images/thumb/colosseum.webp",
+    "width": 1600,
+    "height": 1121,
+    "color": "#d8e8f8",
+    "credit": {
+     "title": "File:Colosseo 2020.jpg",
+     "author": "FeaturedPics",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1920px-Colosseo_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 9,
+   "id": "hagia-sophia",
+   "name": "Hagia Sophia",
+   "country": "Turkey",
+   "region": "Europe",
+   "category": "religious",
+   "lat": 41.00833,
+   "lng": 28.98,
+   "description": "Mosque and former church in Istanbul, Turkey",
+   "summary": "Hagia Sophia, officially the Hagia Sophia Grand Mosque, is a mosque and a major cultural and historical site in Istanbul, Turkey. It was formerly a church (360–1453) and a museum (1935–2020).",
+   "popularity": 67.8,
+   "metrics": {
+    "pageviews": 1016662,
+    "wikipediaLanguages": 141
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+   "wikidata": "Q12506",
+   "image": {
+    "src": "images/full/hagia-sophia.webp",
+    "thumb": "images/thumb/hagia-sophia.webp",
+    "width": 1600,
+    "height": 968,
+    "color": "#7898b8",
+    "credit": {
+     "title": "File:Hagia Sophia (228968325).jpeg",
+     "author": "Adli Wahid",
+     "credit": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hagia_Sophia_%28228968325%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/1920px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 10,
+   "id": "louvre",
+   "name": "Louvre",
+   "country": "France",
+   "region": "Europe",
+   "category": "building",
+   "lat": 48.8611,
+   "lng": 2.3358,
+   "description": "Art museum in Paris, France",
+   "summary": "The Louvre is a national art museum in Paris, France. It is located on the Right Bank of the Seine in the city's 1st arrondissement (district) and home to some of the most canonical works of Western art, including the Mona Lisa, Venus de Milo, and Winged Victory.",
+   "popularity": 67.5,
+   "metrics": {
+    "pageviews": 569305,
+    "wikipediaLanguages": 159
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Louvre",
+   "wikidata": "Q19675",
+   "image": {
+    "src": "images/full/louvre.webp",
+    "thumb": "images/thumb/louvre.webp",
+    "width": 1600,
+    "height": 673,
+    "color": "#082858",
+    "credit": {
+     "title": "File:Louvre Museum Wikimedia Commons.jpg",
+     "author": "Benh LIEU SONG ( Flickr )",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Louvre_Museum_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1920px-Louvre_Museum_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 11,
+   "id": "machu-picchu",
+   "name": "Machu Picchu",
+   "country": "Peru",
+   "region": "South America",
+   "category": "ancient",
+   "lat": -13.16333,
+   "lng": -72.54556,
+   "description": "15th-century Inca citadel in Peru",
+   "summary": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge at 2,430 meters (7,970 ft).",
+   "popularity": 67.2,
+   "metrics": {
+    "pageviews": 1224156,
+    "wikipediaLanguages": 132
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Machu_Picchu",
+   "wikidata": "Q676203",
+   "image": {
+    "src": "images/full/machu-picchu.webp",
+    "thumb": "images/thumb/machu-picchu.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#5878a8",
+    "credit": {
+     "title": "File:Machu Picchu, 2023 (012).jpg",
+     "author": "Draceane",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/1920px-Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 12,
+   "id": "kaaba",
+   "name": "Kaaba",
+   "country": "Saudi Arabia",
+   "region": "Middle East",
+   "category": "religious",
+   "lat": 21.4225,
+   "lng": 39.82617,
+   "description": "Building at the center of Masjid al-Haram",
+   "summary": "The Kaaba, also spelled Kaʽba, Kaʽbah or Kabah, sometimes referred to as al-Kaʽba al-Musharrafa, is a stone building at the center of Islam's most important mosque and holiest site, the Masjid al-Haram in Mecca, Saudi Arabia. It is considered by Muslims to be the Baytullah and determines the qibla for Muslims around the world.",
+   "popularity": 66.4,
+   "metrics": {
+    "pageviews": 1246467,
+    "wikipediaLanguages": 128
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Kaaba",
+   "wikidata": "Q29466",
+   "image": {
+    "src": "images/full/kaaba.webp",
+    "thumb": "images/thumb/kaaba.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#182838",
+    "credit": {
+     "title": "File:The Ka'ba, Great Mosque of Mecca, Saudi Arabia (4).jpg",
+     "author": "Richard Mortel",
+     "credit": "https://www.flickr.com/photos/43714545@N06/50702603023/",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Ka%27ba,_Great_Mosque_of_Mecca,_Saudi_Arabia_(4).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Ka%27ba%2C_Great_Mosque_of_Mecca%2C_Saudi_Arabia_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/The_Ka%27ba%2C_Great_Mosque_of_Mecca%2C_Saudi_Arabia_%284%29.jpg/1920px-The_Ka%27ba%2C_Great_Mosque_of_Mecca%2C_Saudi_Arabia_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 13,
+   "id": "white-house",
+   "name": "White House",
+   "country": "United States",
+   "region": "North America",
+   "category": "building",
+   "lat": 38.89778,
+   "lng": -77.03639,
+   "description": "Residence and workplace of the US president",
+   "summary": "The White House is the official residence and workplace of the president of the United States. S. president since John Adams in 1800 when the national capital was moved from Philadelphia. The White House is also a metonym for the Executive Office of the President.",
+   "popularity": 66.1,
+   "metrics": {
+    "pageviews": 1042297,
+    "wikipediaLanguages": 133
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/White_House",
+   "wikidata": "Q35525",
+   "image": {
+    "src": "images/full/white-house.webp",
+    "thumb": "images/thumb/white-house.webp",
+    "width": 1600,
+    "height": 1066,
+    "color": "#080808",
+    "credit": {
+     "title": "File:WhiteHouseSouthFacadeHDR.jpg",
+     "author": "This image or media was taken or created by Matt H. Wade . To see his entire portfolio, click here . @ thatmattwade This image is protected by copyright ! If you would like to use it, please read this first.",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:WhiteHouseSouthFacadeHDR.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/WhiteHouseSouthFacadeHDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/WhiteHouseSouthFacadeHDR.jpg/1920px-WhiteHouseSouthFacadeHDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 14,
+   "id": "sagrada-familia",
+   "name": "Sagrada Família",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "religious",
+   "lat": 41.40369,
+   "lng": 2.17433,
+   "description": "Basilica under construction since 1882 in Barcelona, Spain",
+   "summary": "Basílica i Temple Expiatori de la Sagrada Família, or simply Sagrada Família, is a Catholic Basilica under construction in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Spanish architect Antoni Gaudí, it is the tallest church in the world.",
+   "popularity": 65.7,
+   "metrics": {
+    "pageviews": 2352176,
+    "wikipediaLanguages": 104
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+   "wikidata": "Q48435",
+   "image": {
+    "src": "images/full/sagrada-familia.webp",
+    "thumb": "images/thumb/sagrada-familia.webp",
+    "width": 1227,
+    "height": 1786,
+    "color": "#e8e8e8",
+    "credit": {
+     "title": "File:SF maig 2 cropped.jpg",
+     "author": "Canaan",
+     "credit": "SF maig 2026.jpg",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/SF_maig_2_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/e/ef/SF_maig_2_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 15,
+   "id": "angkor-wat",
+   "name": "Angkor Wat",
+   "country": "Cambodia",
+   "region": "Asia",
+   "category": "religious",
+   "lat": 13.4125,
+   "lng": 103.86667,
+   "description": "Buddhist temple complex in Cambodia",
+   "summary": "Angkor Wat is a Theravada Buddhist temple complex, originally built as a Vaishnava Hindu temple, in Siem Reap, Cambodia. It is the largest religious complex in the world.",
+   "popularity": 64.9,
+   "metrics": {
+    "pageviews": 841754,
+    "wikipediaLanguages": 135
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Angkor_Wat",
+   "wikidata": "Q43473",
+   "image": {
+    "src": "images/full/angkor-wat.webp",
+    "thumb": "images/thumb/angkor-wat.webp",
+    "width": 1600,
+    "height": 1088,
+    "color": "#98d8f8",
+    "credit": {
+     "title": "File:Angkor Wat.jpg",
+     "author": "Bjørn Christian Tørrissen",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Angkor_Wat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/1920px-Angkor_Wat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 16,
+   "id": "empire-state-building",
+   "name": "Empire State Building",
+   "country": "United States",
+   "region": "North America",
+   "category": "building",
+   "lat": 40.7483,
+   "lng": -73.9856,
+   "description": "Office skyscraper in Manhattan, New York",
+   "summary": "The Empire State Building is a 102-story, supertall skyscraper in the Midtown South neighborhood of Manhattan, New York City, United States. The building was designed in the Art Deco style by Shreve, Lamb & Harmon and constructed between 1930 and 1931. Its name is derived from \"Empire State\", the nickname of New York state.",
+   "popularity": 63.3,
+   "metrics": {
+    "pageviews": 1112588,
+    "wikipediaLanguages": 119
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Empire_State_Building",
+   "wikidata": "Q9188",
+   "image": {
+    "src": "images/full/empire-state-building.webp",
+    "thumb": "images/thumb/empire-state-building.webp",
+    "width": 846,
+    "height": 1270,
+    "color": "#585858",
+    "credit": {
+     "title": "File:Empire State Building (aerial view).jpg",
+     "author": "Sam Valadi",
+     "credit": "https://www.flickr.com/photos/132084522@N05/17339180506",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "attributionRequired": false,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_(aerial_view).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 17,
+   "id": "stonehenge",
+   "name": "Stonehenge",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "category": "ancient",
+   "lat": 51.17889,
+   "lng": -1.82611,
+   "description": "Prehistoric monument in England",
+   "summary": "Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. 1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones which are held in place with mortise and tenon joints—a feature unique among contemporary monuments.",
+   "popularity": 63.2,
+   "metrics": {
+    "pageviews": 1123081,
+    "wikipediaLanguages": 118
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Stonehenge",
+   "wikidata": "Q39671",
+   "image": {
+    "src": "images/full/stonehenge.webp",
+    "thumb": "images/thumb/stonehenge.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#88a8e8",
+    "credit": {
+     "title": "File:Stonehenge2007 07 30.jpg",
+     "author": "garethwiscombe",
+     "credit": "https://www.flickr.com/photos/garethwiscombe/1071477228/in/photostream/",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1920px-Stonehenge2007_07_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 18,
+   "id": "mount-fuji",
+   "name": "Mount Fuji",
+   "country": "Japan",
+   "region": "Asia",
+   "category": "natural",
+   "lat": 35.36083,
+   "lng": 138.7275,
+   "description": "Volcano in Japan",
+   "summary": "24 m. It is the highest mountain in Japan, the second-highest volcano on any Asian island, and the seventh-highest peak of an island on Earth. Mount Fuji last erupted from 1707 to 1708.",
+   "popularity": 63,
+   "metrics": {
+    "pageviews": 727989,
+    "wikipediaLanguages": 132
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Mount_Fuji",
+   "wikidata": "Q39231",
+   "image": {
+    "src": "images/full/mount-fuji.webp",
+    "thumb": "images/thumb/mount-fuji.webp",
+    "width": 1600,
+    "height": 782,
+    "color": "#5878a8",
+    "credit": {
+     "title": "File:View of Mount Fuji from Ōwakudani 20211202.jpg",
+     "author": "Suicasmo",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/1920px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 19,
+   "id": "st-peters-basilica",
+   "name": "St. Peter's Basilica",
+   "country": "Vatican City",
+   "region": "Europe",
+   "category": "religious",
+   "lat": 41.90222,
+   "lng": 12.45333,
+   "description": "Roman Catholic basilica and landmark in Vatican City",
+   "summary": "The Papal Basilica of Saint Peter in the Vatican, or simply St. Peter's Basilica, is a church of the Italian Renaissance located in Vatican City, an independent microstate enclaved within the city of Rome, Italy. It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old St.",
+   "popularity": 62.3,
+   "metrics": {
+    "pageviews": 682878,
+    "wikipediaLanguages": 131
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
+   "wikidata": "Q12512",
+   "image": {
+    "src": "images/full/st-peters-basilica.webp",
+    "thumb": "images/thumb/st-peters-basilica.webp",
+    "width": 1600,
+    "height": 836,
+    "color": "#2868a8",
+    "credit": {
+     "title": "File:Basilica di San Pietro in Vaticano September 2015-1a.jpg",
+     "author": "Alvesgaspar",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1920px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 20,
+   "id": "great-barrier-reef",
+   "name": "Great Barrier Reef",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "natural",
+   "lat": -16.4,
+   "lng": 145.8,
+   "description": "Coral reef system in Queensland, Australia",
+   "summary": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres (1,400 mi) over an area of approximately 344,400 square kilometres (133,000 mi2). The reef is located in the Coral Sea, off the coast of Queensland, Australia.",
+   "popularity": 61.2,
+   "metrics": {
+    "pageviews": 414432,
+    "wikipediaLanguages": 143
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+   "wikidata": "Q7343",
+   "image": {
+    "src": "images/full/great-barrier-reef.webp",
+    "thumb": "images/thumb/great-barrier-reef.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#0878a8",
+    "credit": {
+     "title": "File:Aerial View of Great Barrier Reef (Ank Kumar) 02.jpg",
+     "author": "Ank Kumar",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Great_Barrier_Reef_(Ank_Kumar)_02.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_02.jpg/1920px-Aerial_View_of_Great_Barrier_Reef_%28Ank_Kumar%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 21,
+   "id": "niagara-falls",
+   "name": "Niagara Falls",
+   "country": "Canada / United States",
+   "region": "North America",
+   "category": "natural",
+   "lat": 43.0799,
+   "lng": -79.0747,
+   "description": "Waterfalls between the United States and Canada",
+   "summary": "S. state of New York. The largest of the three is Horseshoe Falls, which straddles the international border of the two countries. It is also known as the Canadian Falls. The smaller American Falls and Bridal Veil Falls lie within the United States.",
+   "popularity": 59.6,
+   "metrics": {
+    "pageviews": 621069,
+    "wikipediaLanguages": 123
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Niagara_Falls",
+   "wikidata": "Q34221",
+   "image": {
+    "src": "images/full/niagara-falls.webp",
+    "thumb": "images/thumb/niagara-falls.webp",
+    "width": 1600,
+    "height": 1064,
+    "color": "#080808",
+    "credit": {
+     "title": "File:3Falls Niagara.jpg",
+     "author": "Saffron Blaze",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/3Falls_Niagara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/3Falls_Niagara.jpg/1920px-3Falls_Niagara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 22,
+   "id": "galapagos-islands",
+   "name": "Galápagos Islands",
+   "country": "Ecuador",
+   "region": "South America",
+   "category": "natural",
+   "lat": -0.5,
+   "lng": -90.5,
+   "description": "Ecuadorian volcanic archipelago",
+   "summary": "The Galápagos Islands are an archipelago of volcanic islands in the Eastern Pacific, located around the equator, 485 nautical miles west of the mainland of South America. They form the Galápagos Province of the Republic of Ecuador, with a population of slightly over 33,450 in 2020.",
+   "popularity": 59,
+   "metrics": {
+    "pageviews": 728222,
+    "wikipediaLanguages": 115
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands",
+   "wikidata": "Q38095",
+   "image": {
+    "src": "images/full/galapagos-islands.webp",
+    "thumb": "images/thumb/galapagos-islands.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#e8b878",
+    "credit": {
+     "title": "File:Lobo marino (Zalophus californianus wollebaeki), Punta Pitt, isla de San Cristóbal, islas Galápagos, Ecuador, 2015-07-24, DD 11.JPG",
+     "author": "Diego Delso",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Lobo_marino_(Zalophus_californianus_wollebaeki),_Punta_Pitt,_isla_de_San_Crist%C3%B3bal,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-24,_DD_11.JPG",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG/1920px-Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 23,
+   "id": "mount-rushmore",
+   "name": "Mount Rushmore",
+   "country": "United States",
+   "region": "North America",
+   "category": "monument",
+   "lat": 43.87889,
+   "lng": -103.45917,
+   "description": "Mountain with U.S. presidential sculptures",
+   "summary": "The Mount Rushmore National Memorial is a national memorial featuring a colossal sculpture carved into the granite face of Mount Rushmore in the Black Hills, about 2 mi (3 km) southwest of Keystone, South Dakota, United States.",
+   "popularity": 58.7,
+   "metrics": {
+    "pageviews": 1424736,
+    "wikipediaLanguages": 91
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Mount_Rushmore",
+   "wikidata": "Q83497",
+   "image": {
+    "src": "images/full/mount-rushmore.webp",
+    "thumb": "images/thumb/mount-rushmore.webp",
+    "width": 1600,
+    "height": 1088,
+    "color": "#083888",
+    "credit": {
+     "title": "File:Mount Rushmore detail view (100MP).jpg",
+     "author": "Thomas Wolf , www.foto-tw.de",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Mount_Rushmore_detail_view_(100MP).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/1920px-Mount_Rushmore_detail_view_%28100MP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 24,
+   "id": "notre-dame-de-paris",
+   "name": "Notre-Dame de Paris",
+   "country": "France",
+   "region": "Europe",
+   "category": "religious",
+   "lat": 48.85306,
+   "lng": 2.35,
+   "description": "Cathedral in Paris, France, built 1163–1345",
+   "summary": "Notre-Dame de Paris, often referred to simply as Notre-Dame, is a medieval Catholic cathedral and basilica on the Île de la Cité, in the 4th arrondissement of Paris, France. It is the cathedral church of the Roman Catholic Archdiocese of Paris.",
+   "popularity": 58.4,
+   "metrics": {
+    "pageviews": 654739,
+    "wikipediaLanguages": 116
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+   "wikidata": "Q2981",
+   "image": {
+    "src": "images/full/notre-dame-de-paris.webp",
+    "thumb": "images/thumb/notre-dame-de-paris.webp",
+    "width": 1600,
+    "height": 1057,
+    "color": "#0878d8",
+    "credit": {
+     "title": "File:Notre-Dame de Paris, 4 October 2017.jpg",
+     "author": "Ali Sabbagh",
+     "credit": "Notre Dam De Paris",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "attributionRequired": false,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris,_4_October_2017.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/1920px-Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 25,
+   "id": "petra",
+   "name": "Petra",
+   "country": "Jordan",
+   "region": "Middle East",
+   "category": "ancient",
+   "lat": 30.3285,
+   "lng": 35.4444,
+   "description": "Ancient rock-cut historical city in Jordan",
+   "summary": "Petra is an ancient city and archaeological site in southern Jordan. Famous for its rock-cut architecture and water conduit systems, Petra is also called the \"Rose City\" because of the colour of the sandstone from which it is carved. The city is one of the New 7 Wonders of the World and a UNESCO World Heritage Site.",
+   "popularity": 57.6,
+   "metrics": {
+    "pageviews": 901156,
+    "wikipediaLanguages": 102
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Petra",
+   "wikidata": "Q5788",
+   "image": {
+    "src": "images/full/petra.webp",
+    "thumb": "images/thumb/petra.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#c8a888",
+    "credit": {
+     "title": "File:Al Deir Petra.JPG",
+     "author": "Azurfrog",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Al_Deir_Petra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/1920px-Al_Deir_Petra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 26,
+   "id": "leaning-tower-of-pisa",
+   "name": "Leaning Tower of Pisa",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "building",
+   "lat": 43.72306,
+   "lng": 10.39639,
+   "description": "Bell tower in Pisa, Italy",
+   "summary": "The Leaning Tower of Pisa, or simply the Tower of Pisa, is the campanile, or freestanding bell tower, of Pisa Cathedral. It is known for its nearly four-degree lean, the result of an unstable foundation. The tower is one of three structures in Pisa's Cathedral Square, which includes the cathedral and Pisa Baptistry.",
+   "popularity": 57.4,
+   "metrics": {
+    "pageviews": 591775,
+    "wikipediaLanguages": 115
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+   "wikidata": "Q39054",
+   "image": {
+    "src": "images/full/leaning-tower-of-pisa.webp",
+    "thumb": "images/thumb/leaning-tower-of-pisa.webp",
+    "width": 1600,
+    "height": 2233,
+    "color": "#787878",
+    "credit": {
+     "title": "File:Italy - Pisa - Leaning Tower.jpg",
+     "author": "Arne Müseler",
+     "credit": "own work http://www.arne-mueseler.com",
+     "license": "CC BY-SA 3.0 de",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Leaning_Tower.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg/1920px-Italy_-_Pisa_-_Leaning_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 27,
+   "id": "palace-of-versailles",
+   "name": "Palace of Versailles",
+   "country": "France",
+   "region": "Europe",
+   "category": "building",
+   "lat": 48.8047,
+   "lng": 2.1203,
+   "description": "Former royal residence in Versailles, France",
+   "summary": "The Palace of Versailles is a château and historic monument in Versailles in the Yvelines department of France, southwest of Paris. It served as the principal residence of the French kings Louis XIV, Louis XV, and Louis XVI.",
+   "popularity": 56.6,
+   "metrics": {
+    "pageviews": 722164,
+    "wikipediaLanguages": 105
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+   "wikidata": "Q2946",
+   "image": {
+    "src": "images/full/palace-of-versailles.webp",
+    "thumb": "images/thumb/palace-of-versailles.webp",
+    "width": 1600,
+    "height": 838,
+    "color": "#b8a8a8",
+    "credit": {
+     "title": "File:Versailles Palace (FRA) – Equestrian Olympic Venue.jpg",
+     "author": "ToucanWings",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Versailles_Palace_(FRA)_%E2%80%93_Equestrian_Olympic_Venue.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg/1920px-Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 28,
+   "id": "golden-gate-bridge",
+   "name": "Golden Gate Bridge",
+   "country": "United States",
+   "region": "North America",
+   "category": "bridge",
+   "lat": 37.81972,
+   "lng": -122.47861,
+   "description": "Bridge in the San Francisco Bay Area",
+   "summary": "6 km) strait connecting San Francisco Bay and the Pacific Ocean in California, United States. S. Route 101 and California State Route 1 across the strait. S. Bicycle Route 95.",
+   "popularity": 56.2,
+   "metrics": {
+    "pageviews": 647929,
+    "wikipediaLanguages": 107
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+   "wikidata": "Q44440",
+   "image": {
+    "src": "images/full/golden-gate-bridge.webp",
+    "thumb": "images/thumb/golden-gate-bridge.webp",
+    "width": 1600,
+    "height": 1000,
+    "color": "#78a8d8",
+    "credit": {
+     "title": "File:Golden Gate Bridge as seen from Battery East.jpg",
+     "author": "Frank Schulenburg",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/1920px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 29,
+   "id": "grand-canyon",
+   "name": "Grand Canyon",
+   "country": "United States",
+   "region": "North America",
+   "category": "natural",
+   "lat": 36.3,
+   "lng": -112.75,
+   "description": "Steep-sided canyon in Arizona, US",
+   "summary": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile.",
+   "popularity": 55.4,
+   "metrics": {
+    "pageviews": 507284,
+    "wikipediaLanguages": 112
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Grand_Canyon",
+   "wikidata": "Q118841",
+   "image": {
+    "src": "images/full/grand-canyon.webp",
+    "thumb": "images/thumb/grand-canyon.webp",
+    "width": 1600,
+    "height": 1028,
+    "color": "#080808",
+    "credit": {
+     "title": "File:Canyon River Tree (165872763).jpeg",
+     "author": "Lennart Sikkema",
+     "credit": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
+     "license": "CC BY 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Canyon_River_Tree_(165872763).jpeg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Canyon_River_Tree_%28165872763%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Canyon_River_Tree_%28165872763%29.jpeg/1920px-Canyon_River_Tree_%28165872763%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 30,
+   "id": "forbidden-city",
+   "name": "Forbidden City",
+   "country": "China",
+   "region": "Asia",
+   "category": "building",
+   "lat": 39.91583,
+   "lng": 116.39083,
+   "description": "Imperial palace complex in Beijing, China",
+   "summary": "The Forbidden City is the imperial palace complex in the center of the Imperial City in Beijing, China. It was the residence of twenty-four Ming and Qing dynasty Emperors and was the center of political power in China from 1420 to 1924.",
+   "popularity": 54.5,
+   "metrics": {
+    "pageviews": 647199,
+    "wikipediaLanguages": 100
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Forbidden_City",
+   "wikidata": "Q80290",
+   "image": {
+    "src": "images/full/forbidden-city.webp",
+    "thumb": "images/thumb/forbidden-city.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#383828",
+    "credit": {
+     "title": "File:Forbidden City, Beijing - panoramio (1).jpg",
+     "author": "David Stanley",
+     "credit": "https://web.archive.org/web/20161017131327/http://www.panoramio.com/photo/41987355",
+     "license": "CC BY 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Forbidden_City,_Beijing_-_panoramio_(1).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Forbidden_City%2C_Beijing_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Forbidden_City%2C_Beijing_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 31,
+   "id": "taipei-101",
+   "name": "Taipei 101",
+   "country": "Taiwan",
+   "region": "Asia",
+   "category": "building",
+   "lat": 25.0336,
+   "lng": 121.5647,
+   "description": "Skyscraper in Taiwan",
+   "summary": "Taipei 101, formerly known as the Taipei World Financial Center, is a 508-meter, 101-story skyscraper in Taipei, Taiwan. It is owned by the Taipei Financial Center Corporation. It was officially classified as the world's tallest building from its opening on 31 December 2004 until it was surpassed by the Burj Khalifa in 2009.",
+   "popularity": 54.5,
+   "metrics": {
+    "pageviews": 1077313,
+    "wikipediaLanguages": 83
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Taipei_101",
+   "wikidata": "Q83101",
+   "image": {
+    "src": "images/full/taipei-101.webp",
+    "thumb": "images/thumb/taipei-101.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#88a8b8",
+    "credit": {
+     "title": "File:Taipei skyline 2014.jpg",
+     "author": "Andrew Van Ova",
+     "credit": "originally posted to Flickr as [1]",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Taipei_skyline_2014.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Taipei_skyline_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Taipei_skyline_2014.jpg/1920px-Taipei_skyline_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 32,
+   "id": "chichen-itza",
+   "name": "Chichén Itzá",
+   "country": "Mexico",
+   "region": "North America",
+   "category": "ancient",
+   "lat": 20.68306,
+   "lng": -88.56861,
+   "description": "Pre-Columbian Maya city in Mexico",
+   "summary": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archeological site is located in Tinúm Municipality, Yucatán, Mexico, between the cities of Valladolid and Mérida.",
+   "popularity": 54,
+   "metrics": {
+    "pageviews": 622282,
+    "wikipediaLanguages": 99
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Chichen_Itza",
+   "wikidata": "Q5859",
+   "image": {
+    "src": "images/full/chichen-itza.webp",
+    "thumb": "images/thumb/chichen-itza.webp",
+    "width": 1600,
+    "height": 851,
+    "color": "#88a8c8",
+    "credit": {
+     "title": "File:Chichen Itza 3.jpg",
+     "author": "Daniel Schwen",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1920px-Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 33,
+   "id": "christ-the-redeemer",
+   "name": "Christ the Redeemer",
+   "country": "Brazil",
+   "region": "South America",
+   "category": "monument",
+   "lat": -22.95194,
+   "lng": -43.21056,
+   "description": "Colossal statue in Rio de Janeiro, Brazil",
+   "summary": "Christ the Redeemer is an Art Deco statue of Jesus in Rio de Janeiro, Brazil, created by French-Polish sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot and Romanian sculptor Gheorghe Leonida who sculpted the face.",
+   "popularity": 54,
+   "metrics": {
+    "pageviews": 749246,
+    "wikipediaLanguages": 93
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+   "wikidata": "Q79961",
+   "image": {
+    "src": "images/full/christ-the-redeemer.webp",
+    "thumb": "images/thumb/christ-the-redeemer.webp",
+    "width": 1600,
+    "height": 2399,
+    "color": "#384858",
+    "credit": {
+     "title": "File:Christ the Redeemer - Cristo Redentor.jpg",
+     "author": "Arne Müseler",
+     "credit": "own work http://www.arne-mueseler.com",
+     "license": "CC BY-SA 3.0 de",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/1920px-Christ_the_Redeemer_-_Cristo_Redentor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 34,
+   "id": "neuschwanstein-castle",
+   "name": "Neuschwanstein Castle",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "building",
+   "lat": 47.5575,
+   "lng": 10.74944,
+   "description": "Palace in Bavaria, Germany",
+   "summary": "Neuschwanstein Castle is a 19th-century historicist palace on a rugged hill of the foothills of the Alps in the very south of Germany, near the border with Austria.",
+   "popularity": 53.9,
+   "metrics": {
+    "pageviews": 809367,
+    "wikipediaLanguages": 90
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+   "wikidata": "Q4152",
+   "image": {
+    "src": "images/full/neuschwanstein-castle.webp",
+    "thumb": "images/thumb/neuschwanstein-castle.webp",
+    "width": 1600,
+    "height": 1218,
+    "color": "#88b8e8",
+    "credit": {
+     "title": "File:Schloss Neuschwanstein (45 mm).jpg",
+     "author": "AuHaidhausen",
+     "credit": "Own work",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_(45_mm).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Schloss_Neuschwanstein_%2845_mm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Schloss_Neuschwanstein_%2845_mm%29.jpg/1920px-Schloss_Neuschwanstein_%2845_mm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 35,
+   "id": "terracotta-army",
+   "name": "Terracotta Army",
+   "country": "China",
+   "region": "Asia",
+   "category": "ancient",
+   "lat": 34.385,
+   "lng": 109.27306,
+   "description": "Collection of ancient Chinese military statues",
+   "summary": "The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first emperor of China. It is a form of funerary art buried with the emperor in 210–209 BCE in his mausoleum with the purpose of protecting him in his afterlife.",
+   "popularity": 53.6,
+   "metrics": {
+    "pageviews": 819134,
+    "wikipediaLanguages": 88
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Terracotta_Army",
+   "wikidata": "Q47672",
+   "image": {
+    "src": "images/full/terracotta-army.webp",
+    "thumb": "images/thumb/terracotta-army.webp",
+    "width": 1600,
+    "height": 1060,
+    "color": "#b8b8a8",
+    "credit": {
+     "title": "File:51714-Terracota-Army.jpg",
+     "author": "xiquinhosilva",
+     "credit": "https://www.flickr.com/photos/xiquinho/27718581472/in/album-72157669496699682/",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/51714-Terracota-Army.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/1920px-51714-Terracota-Army.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 36,
+   "id": "mont-saint-michel",
+   "name": "Mont-Saint-Michel",
+   "country": "France",
+   "region": "Europe",
+   "category": "building",
+   "lat": 48.636,
+   "lng": -1.511,
+   "description": "Tidal island in Normandy, France",
+   "summary": "Mont-Saint-Michel is a tidal island and mainland commune in Normandy, France.",
+   "popularity": 53.4,
+   "metrics": {
+    "pageviews": 852474,
+    "wikipediaLanguages": 86
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Mont-Saint-Michel",
+   "wikidata": "Q20892",
+   "image": {
+    "src": "images/full/mont-saint-michel.webp",
+    "thumb": "images/thumb/mont-saint-michel.webp",
+    "width": 1600,
+    "height": 900,
+    "color": "#c8d8d8",
+    "credit": {
+     "title": "File:Mont-Saint-Michel vu du ciel.jpg",
+     "author": "Amaustan",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Mont-Saint-Michel_vu_du_ciel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/1920px-Mont-Saint-Michel_vu_du_ciel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 37,
+   "id": "acropolis-of-athens",
+   "name": "Acropolis of Athens",
+   "country": "Greece",
+   "region": "Europe",
+   "category": "ancient",
+   "lat": 37.97167,
+   "lng": 23.72611,
+   "description": "Ancient citadel above the city of Athens",
+   "summary": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens, Greece, and contains the remains of several ancient buildings of great architectural and historical significance, the most famous being the Parthenon.",
+   "popularity": 51.4,
+   "metrics": {
+    "pageviews": 535396,
+    "wikipediaLanguages": 93
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Acropolis_of_Athens",
+   "wikidata": "Q131013",
+   "image": {
+    "src": "images/full/acropolis-of-athens.webp",
+    "thumb": "images/thumb/acropolis-of-athens.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#586898",
+    "credit": {
+     "title": "File:1029 Acropolis of Athens in Greece at night Photo by Giles Laurent.jpg",
+     "author": "Giles Laurent",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg/1920px-1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 38,
+   "id": "alhambra",
+   "name": "Alhambra",
+   "country": "Spain",
+   "region": "Europe",
+   "category": "building",
+   "lat": 37.1775,
+   "lng": -3.59,
+   "description": "Palace and fortress complex in Granada, Spain",
+   "summary": "The Alhambra is a palace and fortress complex located in Granada, Spain. It is one of the most famous monuments of Islamic architecture and the only well-preserved palace from the medieval Islamic world. Additionally, the palace contains notable examples of Spanish Renaissance architecture.",
+   "popularity": 51.3,
+   "metrics": {
+    "pageviews": 561410,
+    "wikipediaLanguages": 91
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Alhambra",
+   "wikidata": "Q47476",
+   "image": {
+    "src": "images/full/alhambra.webp",
+    "thumb": "images/thumb/alhambra.webp",
+    "width": 1600,
+    "height": 1065,
+    "color": "#e8e8e8",
+    "credit": {
+     "title": "File:Dawn Charles V Palace Alhambra Granada Andalusia Spain.jpg",
+     "author": "Jebulon",
+     "credit": "Own work",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "attributionRequired": false,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/1920px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 39,
+   "id": "big-ben",
+   "name": "Big Ben",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "category": "building",
+   "lat": 51.5007,
+   "lng": -0.1245,
+   "description": "Clock tower in London, England",
+   "summary": "Big Ben is the nickname for the Great Bell of the Great Clock of Westminster, and, by extension, for the clock tower that stands at the north end of the Palace of Westminster in London, England. Originally named the Clock Tower, the structure was renamed the Elizabeth Tower in 2012 to mark the Diamond Jubilee of Queen Elizabeth II.",
+   "popularity": 51.3,
+   "metrics": {
+    "pageviews": 637077,
+    "wikipediaLanguages": 87
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Big_Ben",
+   "wikidata": "Q41225",
+   "image": {
+    "src": "images/full/big-ben.webp",
+    "thumb": "images/thumb/big-ben.webp",
+    "width": 1600,
+    "height": 2844,
+    "color": "#b8c8d8",
+    "credit": {
+     "title": "File:Elizabeth Tower and the north front of the Palace of Westminster, London.jpg",
+     "author": "Christian David",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg/1920px-Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 40,
+   "id": "persepolis",
+   "name": "Persepolis",
+   "country": "Iran",
+   "region": "Middle East",
+   "category": "ancient",
+   "lat": 29.935,
+   "lng": 52.89,
+   "description": "Ceremonial capital of the Achaemenid Empire",
+   "summary": "Persepolis was the ceremonial capital of the Achaemenid Empire. It is situated in the plains of Marvdasht, encircled by the southern Zagros Mountains, Fars province of Iran. It is one of the key Iranian cultural heritage sites and a UNESCO World Heritage Site.",
+   "popularity": 50.7,
+   "metrics": {
+    "pageviews": 477374,
+    "wikipediaLanguages": 94
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Persepolis",
+   "wikidata": "Q129072",
+   "image": {
+    "src": "images/full/persepolis.webp",
+    "thumb": "images/thumb/persepolis.webp",
+    "width": 1600,
+    "height": 1060,
+    "color": "#a8b8c8",
+    "credit": {
+     "title": "File:2018-09-21 Iran, Persepolis, Tachara (from the southeast).jpg",
+     "author": "Laurens R. Krol",
+     "credit": "Own work",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg/1920px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 41,
+   "id": "sydney-opera-house",
+   "name": "Sydney Opera House",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "building",
+   "lat": -33.85681,
+   "lng": 151.21514,
+   "description": "Performing arts centre in Australia",
+   "summary": "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. Located on the foreshore of Sydney Harbour, it is widely regarded as one of the world's most famous and distinctive buildings, and a masterpiece of 20th-century architecture.",
+   "popularity": 50,
+   "metrics": {
+    "pageviews": 426052,
+    "wikipediaLanguages": 95
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+   "wikidata": "Q45178",
+   "image": {
+    "src": "images/full/sydney-opera-house.webp",
+    "thumb": "images/thumb/sydney-opera-house.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#08a8e8",
+    "credit": {
+     "title": "File:Sydney Opera House 2026.jpg",
+     "author": "BAVhah",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sydney_Opera_House_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Sydney_Opera_House_2026.jpg/1920px-Sydney_Opera_House_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 42,
+   "id": "dome-of-the-rock",
+   "name": "Dome of the Rock",
+   "country": "Jerusalem",
+   "region": "Middle East",
+   "category": "religious",
+   "lat": 31.778,
+   "lng": 35.2354,
+   "description": "Islamic building in Al-Aqsa, Jerusalem",
+   "summary": "The Dome of the Rock is an octagonal Islamic shrine at the center of the Al-Aqsa mosque compound on the Temple Mount in the Old City of Jerusalem.",
+   "popularity": 49.7,
+   "metrics": {
+    "pageviews": 533849,
+    "wikipediaLanguages": 86
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Dome_of_the_Rock",
+   "wikidata": "Q172077",
+   "image": {
+    "src": "images/full/dome-of-the-rock.webp",
+    "thumb": "images/thumb/dome-of-the-rock.webp",
+    "width": 1600,
+    "height": 1079,
+    "color": "#284888",
+    "credit": {
+     "title": "File:Jerusalem DomeoftheRock J65 (cropped).JPG",
+     "author": "Ludvig14",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Jerusalem_DomeoftheRock_J65_(cropped).JPG",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Jerusalem_DomeoftheRock_J65_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Jerusalem_DomeoftheRock_J65_%28cropped%29.JPG/1920px-Jerusalem_DomeoftheRock_J65_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 43,
+   "id": "uluru",
+   "name": "Uluru",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "natural",
+   "lat": -25.345,
+   "lng": 131.03611,
+   "description": "Sandstone monolith in the Northern Territory, Australia",
+   "summary": "Uluru, also known as Ayers Rock and officially gazetted as Uluru / Ayers Rock, is a large sandstone monolith. It crops out near the centre of Australia in the southern part of the Northern Territory, 335 km (208 mi) south-west of Alice Springs.",
+   "popularity": 49.6,
+   "metrics": {
+    "pageviews": 444436,
+    "wikipediaLanguages": 92
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Uluru",
+   "wikidata": "Q33910",
+   "image": {
+    "src": "images/full/uluru.webp",
+    "thumb": "images/thumb/uluru.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#587898",
+    "credit": {
+     "title": "File:ULURU.jpg",
+     "author": "Ek2030372672",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:ULURU.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/ULURU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/1920px-ULURU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 44,
+   "id": "victoria-falls",
+   "name": "Victoria Falls",
+   "country": "Zambia / Zimbabwe",
+   "region": "Africa",
+   "category": "natural",
+   "lat": -17.92444,
+   "lng": 25.85667,
+   "description": "Waterfall on the Zambezi River in Zambia and Zimbabwe",
+   "summary": "Victoria Falls is a waterfall on the Zambezi River, located on the border between Zambia and Zimbabwe. It is one of the world's largest waterfalls, with a width of 1,708 m (5,604 ft). The region around it has a high degree of biodiversity in both plants and animals.",
+   "popularity": 49.5,
+   "metrics": {
+    "pageviews": 305292,
+    "wikipediaLanguages": 104
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Victoria_Falls",
+   "wikidata": "Q43278",
+   "image": {
+    "src": "images/full/victoria-falls.webp",
+    "thumb": "images/thumb/victoria-falls.webp",
+    "width": 1600,
+    "height": 2486,
+    "color": "#284858",
+    "credit": {
+     "title": "File:Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 04.jpg",
+     "author": "Diego Delso",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg/1920px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 45,
+   "id": "petronas-towers",
+   "name": "Petronas Towers",
+   "country": "Malaysia",
+   "region": "Asia",
+   "category": "building",
+   "lat": 3.1578,
+   "lng": 101.7117,
+   "description": "Interlinked supertall skyscraper in Kuala Lumpur, Malaysia",
+   "summary": "9 m (1,483 ft). From 1998 to 2004, they were the tallest buildings in the world until they were surpassed by the Taipei 101 skyscraper in Taiwan.",
+   "popularity": 49.4,
+   "metrics": {
+    "pageviews": 472104,
+    "wikipediaLanguages": 89
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Petronas_Towers",
+   "wikidata": "Q83063",
+   "image": {
+    "src": "images/full/petronas-towers.webp",
+    "thumb": "images/thumb/petronas-towers.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#b8b8b8",
+    "credit": {
+     "title": "File:Kuala Lumpur Malaysia Petronas-Twin-Towers-01.jpg",
+     "author": "CEphoto, Uwe Aranas",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Petronas-Twin-Towers-01.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Kuala_Lumpur_Malaysia_Petronas-Twin-Towers-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Kuala_Lumpur_Malaysia_Petronas-Twin-Towers-01.jpg/1920px-Kuala_Lumpur_Malaysia_Petronas-Twin-Towers-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 46,
+   "id": "cappadocia",
+   "name": "Cappadocia",
+   "country": "Turkey",
+   "region": "Europe",
+   "category": "natural",
+   "lat": 38.61833,
+   "lng": 34.86722,
+   "description": "Historical region in Central Anatolia, Turkey",
+   "summary": "Cappadocia is a historical region in Central Anatolia region, Turkey. It is largely in the provinces of Nevşehir, Kayseri, Aksaray, Kırşehir, Sivas and Niğde. Today, the touristic Cappadocia Region is located in Nevşehir province.",
+   "popularity": 48.9,
+   "metrics": {
+    "pageviews": 404755,
+    "wikipediaLanguages": 92
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Cappadocia",
+   "wikidata": "Q217265",
+   "image": {
+    "src": "images/full/cappadocia.webp",
+    "thumb": "images/thumb/cappadocia.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#6888b8",
+    "credit": {
+     "title": "File:Cappadocia balloon trip, Ortahisar Castle (11893715185).jpg",
+     "author": "Arian Zwegers from Brussels, Belgium",
+     "credit": "Cappadocia balloon trip, Ortahisar Castle",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Cappadocia_balloon_trip,_Ortahisar_Castle_(11893715185).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg/1920px-Cappadocia_balloon_trip%2C_Ortahisar_Castle_%2811893715185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 47,
+   "id": "matterhorn",
+   "name": "Matterhorn",
+   "country": "Switzerland / Italy",
+   "region": "Europe",
+   "category": "natural",
+   "lat": 45.97639,
+   "lng": 7.65861,
+   "description": "Mountain in the Swiss and Italian Alps",
+   "summary": "The Matterhorn is a mountain of the Alps, straddling the main watershed and border between Switzerland and Italy. It is a large, near-symmetric pyramidal peak in the extended Monte Rosa area of the Pennine Alps, whose summit is 4,478 metres (14,692 ft) above sea level, making it one of the highest summits in the Alps and Europe.",
+   "popularity": 47.9,
+   "metrics": {
+    "pageviews": 466710,
+    "wikipediaLanguages": 83
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Matterhorn",
+   "wikidata": "Q1374",
+   "image": {
+    "src": "images/full/matterhorn.webp",
+    "thumb": "images/thumb/matterhorn.webp",
+    "width": 1600,
+    "height": 1066,
+    "color": "#5898e8",
+    "credit": {
+     "title": "File:Matterhorn from Domhütte - 2.jpg",
+     "author": "Photo: chil, on Camptocamp.org Derivative work: Zacharie Grossen",
+     "credit": "Camptocamp.org",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domh%C3%BCtte_-_2.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Matterhorn_from_Domh%C3%BCtte_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/6/60/Matterhorn_from_Domh%C3%BCtte_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 48,
+   "id": "golden-temple",
+   "name": "Golden Temple",
+   "country": "India",
+   "region": "Asia",
+   "category": "religious",
+   "lat": 31.62,
+   "lng": 74.87639,
+   "description": "Sikh religious site in Punjab, India",
+   "summary": "The Golden Temple is a gurdwara located in Amritsar, Punjab, India. It is the pre-eminent spiritual site of Sikhism and its holiest site. The gurdwara complex is a collection of buildings around the sanctum sanctorum and the sarovar, known as the Amrit Sarovar.",
+   "popularity": 47.8,
+   "metrics": {
+    "pageviews": 434048,
+    "wikipediaLanguages": 85
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Golden_Temple",
+   "wikidata": "Q180422",
+   "image": {
+    "src": "images/full/golden-temple.webp",
+    "thumb": "images/thumb/golden-temple.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#d8d8e8",
+    "credit": {
+     "title": "File:The Golden Temple of Amrithsar 7.jpg",
+     "author": "Shagil Kannur",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Golden_Temple_of_Amrithsar_7.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Golden_Temple_of_Amrithsar_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/1920px-The_Golden_Temple_of_Amrithsar_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 49,
+   "id": "brooklyn-bridge",
+   "name": "Brooklyn Bridge",
+   "country": "United States",
+   "region": "North America",
+   "category": "bridge",
+   "lat": 40.7057,
+   "lng": -73.9964,
+   "description": "Bridge in New York City",
+   "summary": "The Brooklyn Bridge is a cable-stayed suspension bridge in New York City, spanning the East River between the boroughs of Manhattan and Brooklyn. Opened on May 24, 1883, the Brooklyn Bridge was the first fixed crossing of the East River. 7 m) above mean high water.",
+   "popularity": 47.6,
+   "metrics": {
+    "pageviews": 451585,
+    "wikipediaLanguages": 83
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+   "wikidata": "Q125006",
+   "image": {
+    "src": "images/full/brooklyn-bridge.webp",
+    "thumb": "images/thumb/brooklyn-bridge.webp",
+    "width": 1600,
+    "height": 533,
+    "color": "#68a8d8",
+    "credit": {
+     "title": "File:Brooklyn Bridge and the Lower Manhattan skyline from Pebble Beach, New York.jpg",
+     "author": "Christian David",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach,_New_York.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg/1920px-Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 50,
+   "id": "cn-tower",
+   "name": "CN Tower",
+   "country": "Canada",
+   "region": "North America",
+   "category": "building",
+   "lat": 43.64256,
+   "lng": -79.38708,
+   "description": "Communications and observation tower in Toronto, Canada",
+   "summary": "3 ft) communications and observation tower in Toronto, Ontario, Canada. Completed in 1976, it is located in downtown Toronto, built on the former Railway Lands. Its name \"CN\" refers to Canadian National, the railway company that built the tower.",
+   "popularity": 46.8,
+   "metrics": {
+    "pageviews": 460912,
+    "wikipediaLanguages": 79
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/CN_Tower",
+   "wikidata": "Q134883",
+   "image": {
+    "src": "images/full/cn-tower.webp",
+    "thumb": "images/thumb/cn-tower.webp",
+    "width": 1600,
+    "height": 873,
+    "color": "#5898c8",
+    "credit": {
+     "title": "File:Toronto skyline viewed from Trillium Park.jpg",
+     "author": "Maksim Sokolov (maxergon.com)",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Toronto_skyline_viewed_from_Trillium_Park.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Toronto_skyline_viewed_from_Trillium_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Toronto_skyline_viewed_from_Trillium_Park.jpg/1920px-Toronto_skyline_viewed_from_Trillium_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 51,
+   "id": "moai-easter-island",
+   "name": "Moai of Easter Island",
+   "country": "Chile",
+   "region": "Oceania",
+   "category": "ancient",
+   "lat": -27.1258,
+   "lng": -109.2769,
+   "description": "Monolithic statues on Easter Island",
+   "summary": "Moai or moꞌai are monolithic human figures carved from stone by the Rapa Nui people, on Rapa Nui in eastern Polynesia between the years 1250 and 1500. Nearly half are still at Rano Raraku, the main moai quarry, but hundreds were transported from there and set on stone platforms called ahu around the island's perimeter.",
+   "popularity": 46.6,
+   "metrics": {
+    "pageviews": 447586,
+    "wikipediaLanguages": 79
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Moai",
+   "wikidata": "Q20350",
+   "image": {
+    "src": "images/full/moai-easter-island.webp",
+    "thumb": "images/thumb/moai-easter-island.webp",
+    "width": 800,
+    "height": 600,
+    "color": "#c8d8e8",
+    "credit": {
+     "title": "File:AhuTongariki.JPG",
+     "author": "Ian Sewell",
+     "credit": "IanAndWendy.com Photo gallery from Easter Island",
+     "license": "CC BY 2.5",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:AhuTongariki.JPG",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/AhuTongariki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/5/50/AhuTongariki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 52,
+   "id": "iguazu-falls",
+   "name": "Iguazu Falls",
+   "country": "Argentina / Brazil",
+   "region": "South America",
+   "category": "natural",
+   "lat": -25.68667,
+   "lng": -54.44472,
+   "description": "Waterfalls on the Iguazú River on the border of Argentina and Brazil",
+   "summary": "The Iguazú Falls or Iguaçu Falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná. Together, they make up the largest waterfall system in the world. The falls divide the river into the upper and lower Iguazu.",
+   "popularity": 46.5,
+   "metrics": {
+    "pageviews": 316453,
+    "wikipediaLanguages": 90
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Iguazu_Falls",
+   "wikidata": "Q36332",
+   "image": {
+    "src": "images/full/iguazu-falls.webp",
+    "thumb": "images/thumb/iguazu-falls.webp",
+    "width": 1500,
+    "height": 925,
+    "color": "#b8c8c8",
+    "credit": {
+     "title": "File:Aerial Foz de Iguaçu 26 Nov 2005.jpg",
+     "author": "Mariordo (Mario Roberto Durán Ortiz)",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 53,
+   "id": "tower-bridge",
+   "name": "Tower Bridge",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "category": "bridge",
+   "lat": 51.5056,
+   "lng": -0.0753,
+   "description": "Bridge over the Thames in London, England",
+   "summary": "Tower Bridge is a Grade I listed combined bascule, suspension, and, until 1960, cantilever bridge in London, built between 1886 and 1894, designed by Horace Jones and engineered by John Wolfe Barry with the help of Henry Marc Brunel.",
+   "popularity": 46.2,
+   "metrics": {
+    "pageviews": 354900,
+    "wikipediaLanguages": 85
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Tower_Bridge",
+   "wikidata": "Q83125",
+   "image": {
+    "src": "images/full/tower-bridge.webp",
+    "thumb": "images/thumb/tower-bridge.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#181818",
+    "credit": {
+     "title": "File:Tower Bridge at Dawn.jpg",
+     "author": "Fuzzypiggy",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_at_Dawn.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Tower_Bridge_at_Dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Tower_Bridge_at_Dawn.jpg/1920px-Tower_Bridge_at_Dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 54,
+   "id": "teotihuacan",
+   "name": "Teotihuacan",
+   "country": "Mexico",
+   "region": "North America",
+   "category": "ancient",
+   "lat": 19.6925,
+   "lng": -98.84389,
+   "description": "Ancient Mesoamerican city",
+   "summary": "Teotihuacan is an ancient Mesoamerican city located in a sub-valley of the Valley of Mexico, which is located in the State of Mexico, 40 kilometers (25 mi) northeast of modern-day Mexico City.",
+   "popularity": 45.9,
+   "metrics": {
+    "pageviews": 548456,
+    "wikipediaLanguages": 69
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Teotihuacan",
+   "wikidata": "Q172613",
+   "image": {
+    "src": "images/full/teotihuacan.webp",
+    "thumb": "images/thumb/teotihuacan.webp",
+    "width": 1600,
+    "height": 1064,
+    "color": "#080808",
+    "credit": {
+     "title": "File:ZA77 Teotihuacán edo de mex Herberto de la rosa.jpg",
+     "author": "Hdlrosa",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg/1920px-ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 55,
+   "id": "pyramids-of-giza",
+   "name": "Pyramids of Giza",
+   "country": "Egypt",
+   "region": "Africa",
+   "category": "ancient",
+   "lat": 29.97611,
+   "lng": 31.13278,
+   "description": "Archaeological site near Cairo, Egypt",
+   "summary": "The Giza pyramid complex in Egypt is home to the Great Pyramid, the pyramid of Khafre, and the pyramid of Menkaure, along with their associated pyramid complexes and the Great Sphinx. All were built during the Fourth Dynasty of the Old Kingdom of ancient Egypt, between c. 2600 – c. 2500 BC.",
+   "popularity": 45.6,
+   "metrics": {
+    "pageviews": 302109,
+    "wikipediaLanguages": 88
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+   "wikidata": "Q12508",
+   "image": {
+    "src": "images/full/pyramids-of-giza.webp",
+    "thumb": "images/thumb/pyramids-of-giza.webp",
+    "width": 1600,
+    "height": 667,
+    "color": "#b8c8e8",
+    "credit": {
+     "title": "File:Pyramids of the Giza Necropolis.jpg",
+     "author": "KennyOMG",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pyramids_of_the_Giza_Necropolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/1920px-Pyramids_of_the_Giza_Necropolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 56,
+   "id": "brandenburg-gate",
+   "name": "Brandenburg Gate",
+   "country": "Germany",
+   "region": "Europe",
+   "category": "monument",
+   "lat": 52.5163,
+   "lng": 13.3777,
+   "description": "Triumphal arch and gate in Berlin, Germany",
+   "summary": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany. One of the best-known landmarks of the country, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel, the former capital of the Margraviate of Brandenburg.",
+   "popularity": 45.5,
+   "metrics": {
+    "pageviews": 336904,
+    "wikipediaLanguages": 84
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+   "wikidata": "Q82425",
+   "image": {
+    "src": "images/full/brandenburg-gate.webp",
+    "thumb": "images/thumb/brandenburg-gate.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#1888e8",
+    "credit": {
+     "title": "File:Brandenburger Tor abends.jpg",
+     "author": "Thomas Wolf , www.foto-tw.de",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 57,
+   "id": "angel-falls",
+   "name": "Angel Falls",
+   "country": "Venezuela",
+   "region": "South America",
+   "category": "natural",
+   "lat": 5.9675,
+   "lng": -62.53556,
+   "description": "Tallest single drop waterfall in the world, Venezuela",
+   "summary": "Angel Falls is a waterfall in Venezuela. It is the world's tallest uninterrupted waterfall, with a height of 979 metres (3,212 ft), and a plunge of 807 m (2,648 ft). The waterfall drops over the edge of the Auyán-tepui mountain in the Canaima National Park, a UNESCO World Heritage Site in the Gran Sabana region of Bolívar State.",
+   "popularity": 44.9,
+   "metrics": {
+    "pageviews": 253116,
+    "wikipediaLanguages": 91
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Angel_Falls",
+   "wikidata": "Q80299",
+   "image": {
+    "src": "images/full/angel-falls.webp",
+    "thumb": "images/thumb/angel-falls.webp",
+    "width": 392,
+    "height": 598,
+    "color": "#081828",
+    "credit": {
+     "title": "File:SaltoAngel1.jpg",
+     "author": "Rich Childs",
+     "credit": "https://www.flickr.com/photos/rich_childs/228035591/",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:SaltoAngel1.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/SaltoAngel1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/e/e9/SaltoAngel1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 58,
+   "id": "santorini",
+   "name": "Santorini",
+   "country": "Greece",
+   "region": "Europe",
+   "category": "urban",
+   "lat": 36.415,
+   "lng": 25.4325,
+   "description": "Greek island in the Aegean Sea",
+   "summary": "Santorini, officially Thira or Thera, is a Greek island in the southern Aegean Sea, about 200 km (120 mi) southeast from the mainland. It is the largest island of a small, circular archipelago formed by the Santorini caldera.",
+   "popularity": 44.9,
+   "metrics": {
+    "pageviews": 396994,
+    "wikipediaLanguages": 76
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Santorini",
+   "wikidata": "Q129296",
+   "image": {
+    "src": "images/full/santorini.webp",
+    "thumb": "images/thumb/santorini.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#e8e8e8",
+    "credit": {
+     "title": "File:1000 Three domes of Oia in Santorini Photo by Giles Laurent.jpg",
+     "author": "Giles Laurent",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg/1920px-1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 59,
+   "id": "borobudur",
+   "name": "Borobudur",
+   "country": "Indonesia",
+   "region": "Asia",
+   "category": "religious",
+   "lat": -7.608,
+   "lng": 110.204,
+   "description": "9th-century Buddhist temple in Java, Indonesia",
+   "summary": "Borobudur, also transcribed Barabudur, is a 9th-century Mahayana Buddhist temple in Magelang Regency, near the town of Muntilan, northwest of the city of Yogyakarta, in Central Java, Indonesia.",
+   "popularity": 43.8,
+   "metrics": {
+    "pageviews": 233299,
+    "wikipediaLanguages": 89
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Borobudur",
+   "wikidata": "Q42798",
+   "image": {
+    "src": "images/full/borobudur.webp",
+    "thumb": "images/thumb/borobudur.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#282828",
+    "credit": {
+     "title": "File:Pradaksina.jpg",
+     "author": "Heri nugroho",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Pradaksina.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pradaksina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/1920px-Pradaksina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 60,
+   "id": "times-square",
+   "name": "Times Square",
+   "country": "United States",
+   "region": "North America",
+   "category": "urban",
+   "lat": 40.7575,
+   "lng": -73.9858,
+   "description": "Intersection and area in Manhattan, New York",
+   "summary": "Times Square is one of the world's busiest pedestrian intersections, tourist destinations, and entertainment hubs. It is formed by the junction of Broadway, Seventh Avenue, and 42nd Street in Midtown Manhattan, New York City.",
+   "popularity": 43.4,
+   "metrics": {
+    "pageviews": 389379,
+    "wikipediaLanguages": 70
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Times_Square",
+   "wikidata": "Q11259",
+   "image": {
+    "src": "images/full/times-square.webp",
+    "thumb": "images/thumb/times-square.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#383838",
+    "credit": {
+     "title": "File:New york times square-terabass.jpg",
+     "author": "Terabass",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:New_york_times_square-terabass.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/New_york_times_square-terabass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/1920px-New_york_times_square-terabass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 61,
+   "id": "abu-simbel",
+   "name": "Abu Simbel",
+   "country": "Egypt",
+   "region": "Africa",
+   "category": "ancient",
+   "lat": 22.33694,
+   "lng": 31.62556,
+   "description": "UNESCO World Heritage Site in southern Egypt",
+   "summary": "Abu Simbel is a historic site comprising two massive rock-cut temples in the village of Abu Simbel, Aswan Governorate, Upper Egypt, near the border with Sudan. It is located on the western bank of Lake Nasser, about 230 km (140 mi) southwest of Aswan.",
+   "popularity": 43.3,
+   "metrics": {
+    "pageviews": 239560,
+    "wikipediaLanguages": 86
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Abu_Simbel",
+   "wikidata": "Q134140",
+   "image": {
+    "src": "images/full/abu-simbel.webp",
+    "thumb": "images/thumb/abu-simbel.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#4878b8",
+    "credit": {
+     "title": "File:Ramsis, Aswan Governorate, Egypt - panoramio.jpg",
+     "author": "youssef_alam",
+     "credit": "https://web.archive.org/web/20161013233830/http://www.panoramio.com/photo/27079522",
+     "license": "CC BY 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Ramsis,_Aswan_Governorate,_Egypt_-_panoramio.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg/1920px-Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 62,
+   "id": "bora-bora",
+   "name": "Bora Bora",
+   "country": "French Polynesia",
+   "region": "Oceania",
+   "category": "natural",
+   "lat": -16.501,
+   "lng": -151.74,
+   "description": "Island in French Polynesia",
+   "summary": "Bora Bora is a French island group in the Leeward Islands, comprising the western part of the Society Islands of French Polynesia, an overseas collectivity of the French Republic in the South Pacific. 55 km2 (12 sq mi). The main island, located about 230 kilometres northwest of Papeete, is surrounded by a lagoon and a barrier reef.",
+   "popularity": 42.5,
+   "metrics": {
+    "pageviews": 382522,
+    "wikipediaLanguages": 67
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Bora_Bora",
+   "wikidata": "Q183113",
+   "image": {
+    "src": "images/full/bora-bora.webp",
+    "thumb": "images/thumb/bora-bora.webp",
+    "width": 1600,
+    "height": 853,
+    "color": "#082858",
+    "credit": {
+     "title": "File:Bora Bora (16542797633).jpg",
+     "author": "The TerraMar Project",
+     "credit": "Bora Bora",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Bora_Bora_(16542797633).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bora_Bora_%2816542797633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bora_Bora_%2816542797633%29.jpg/1920px-Bora_Bora_%2816542797633%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 63,
+   "id": "saint-basils-cathedral",
+   "name": "Saint Basil's Cathedral",
+   "country": "Russia",
+   "region": "Europe",
+   "category": "religious",
+   "lat": 55.7525,
+   "lng": 37.62306,
+   "description": "1561 Orthodox church in Moscow, Russia",
+   "summary": "The Cathedral of Vasily the Blessed, commonly known as Saint Basil's Cathedral, is a Russian Orthodox church on Red Square in the historic centre of Moscow. It is one of the most popular cultural symbols of Russia.",
+   "popularity": 41.7,
+   "metrics": {
+    "pageviews": 265167,
+    "wikipediaLanguages": 76
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+   "wikidata": "Q129846",
+   "image": {
+    "src": "images/full/saint-basils-cathedral.webp",
+    "thumb": "images/thumb/saint-basils-cathedral.webp",
+    "width": 1600,
+    "height": 1774,
+    "color": "#c8d8e8",
+    "credit": {
+     "title": "File:Saint Basil's Cathedral in Moscow.jpg",
+     "author": "Tsy1980",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_in_Moscow.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg/1920px-Saint_Basil%27s_Cathedral_in_Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 64,
+   "id": "potala-palace",
+   "name": "Potala Palace",
+   "country": "China (Tibet)",
+   "region": "Asia",
+   "category": "building",
+   "lat": 29.65778,
+   "lng": 91.11694,
+   "description": "Fortress in Lhasa, Tibet",
+   "summary": "Potala Palace is a museum complex in Lhasa, the capital of the Tibet Autonomous Region of China. It was formerly the winter palace of the Dalai Lamas, and from 1649 until 1959 served as the Dalai Lamas' residence. The palace complex became a museum following the annexation of Tibet by the People's Republic of China.",
+   "popularity": 41.1,
+   "metrics": {
+    "pageviews": 204093,
+    "wikipediaLanguages": 82
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Potala_Palace",
+   "wikidata": "Q71229",
+   "image": {
+    "src": "images/full/potala-palace.webp",
+    "thumb": "images/thumb/potala-palace.webp",
+    "width": 1600,
+    "height": 900,
+    "color": "#1858b8",
+    "credit": {
+     "title": "File:Potala Palace HQ.jpg",
+     "author": "Lhasa Government",
+     "credit": "http://www.lasa.gov.cn/lasa/sybg/201909/c6c621e59ea14af69090b6aaa9f6b6bc/images/5ecb779a68ba4dea978122034ff52410.jpg",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Potala_Palace_HQ.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Potala_Palace_HQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Potala_Palace_HQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 65,
+   "id": "sydney-harbour-bridge",
+   "name": "Sydney Harbour Bridge",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "bridge",
+   "lat": -33.85222,
+   "lng": 151.21056,
+   "description": "Bridge across Sydney Harbour in Australia",
+   "summary": "The Sydney Harbour Bridge is a steel through arch bridge in Sydney, New South Wales, Australia, spanning Sydney Harbour from the central business district (CBD) to the North Shore. The view of the bridge, the harbour, and the nearby Sydney Opera House is widely regarded as an iconic image of Sydney, and of Australia itself.",
+   "popularity": 37.7,
+   "metrics": {
+    "pageviews": 214807,
+    "wikipediaLanguages": 66
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge",
+   "wikidata": "Q54495",
+   "image": {
+    "src": "images/full/sydney-harbour-bridge.webp",
+    "thumb": "images/thumb/sydney-harbour-bridge.webp",
+    "width": 1600,
+    "height": 900,
+    "color": "#4888d8",
+    "credit": {
+     "title": "File:Sydney Harbour Bridge-16 October 2025.jpg",
+     "author": "Servite et contribuere",
+     "credit": "Own work",
+     "license": "CC0",
+     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "attributionRequired": false,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge-16_October_2025.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sydney_Harbour_Bridge-16_October_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sydney_Harbour_Bridge-16_October_2025.jpg/1920px-Sydney_Harbour_Bridge-16_October_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 66,
+   "id": "sigiriya",
+   "name": "Sigiriya",
+   "country": "Sri Lanka",
+   "region": "Asia",
+   "category": "ancient",
+   "lat": 7.95694,
+   "lng": 80.75972,
+   "description": "Ancient rock fortress near Dambulla, Sri Lanka",
+   "summary": "Sigiriya or Sinhagiri is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka. It is a site of historical and archaeological significance that is dominated by a massive column of granite approximately 180 m (590 ft) high.",
+   "popularity": 37.6,
+   "metrics": {
+    "pageviews": 261504,
+    "wikipediaLanguages": 59
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Sigiriya",
+   "wikidata": "Q272153",
+   "image": {
+    "src": "images/full/sigiriya.webp",
+    "thumb": "images/thumb/sigiriya.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#a8c8f8",
+    "credit": {
+     "title": "File:Sigiriya (141688197).jpeg",
+     "author": "Wrobell",
+     "credit": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Sigiriya_(141688197).jpeg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sigiriya_%28141688197%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Sigiriya_%28141688197%29.jpeg/1920px-Sigiriya_%28141688197%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 67,
+   "id": "ha-long-bay",
+   "name": "Ha Long Bay",
+   "country": "Vietnam",
+   "region": "Asia",
+   "category": "natural",
+   "lat": 20.9,
+   "lng": 107.2,
+   "description": "Bay in northern Vietnam",
+   "summary": "Hạ Long Bay or Halong Bay is a bay located in Northeastern Vietnam, administered by the city of Quảng Ninh. The name Hạ Long means \"descending dragon\". It features thousands of limestone karsts and islets in various shapes and sizes, for which it is listed as a UNESCO World Heritage Site and a popular travel destination.",
+   "popularity": 36.2,
+   "metrics": {
+    "pageviews": 145392,
+    "wikipediaLanguages": 73
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay",
+   "wikidata": "Q190128",
+   "image": {
+    "src": "images/full/ha-long-bay.webp",
+    "thumb": "images/thumb/ha-long-bay.webp",
+    "width": 1600,
+    "height": 1123,
+    "color": "#c8c8d8",
+    "credit": {
+     "title": "File:Ha Long Bay in 2019.jpg",
+     "author": "Taewangkorea",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_in_2019.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ha_Long_Bay_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ha_Long_Bay_in_2019.jpg/1920px-Ha_Long_Bay_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 68,
+   "id": "monument-valley",
+   "name": "Monument Valley",
+   "country": "United States",
+   "region": "North America",
+   "category": "natural",
+   "lat": 36.98333,
+   "lng": -110.1,
+   "description": "Region of the Colorado Plateau, US",
+   "summary": "Monument Valley is a region of the Colorado Plateau characterized by a cluster of sandstone buttes, with the largest reaching 1,000 ft (300 m) above the valley floor. The most famous butte formations are located in northeastern Arizona along the Utah–Arizona state line.",
+   "popularity": 35.2,
+   "metrics": {
+    "pageviews": 244566,
+    "wikipediaLanguages": 51
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Monument_Valley",
+   "wikidata": "Q192017",
+   "image": {
+    "src": "images/full/monument-valley.webp",
+    "thumb": "images/thumb/monument-valley.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#a8d8f8",
+    "credit": {
+     "title": "File:Monument Valley, Utah, USA (23611451292).jpg",
+     "author": "Domenico Convertini",
+     "credit": "https://www.flickr.com/photos/con4tini/23611451292/",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Monument_Valley,_Utah,_USA_(23611451292).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Monument_Valley%2C_Utah%2C_USA_%2823611451292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Monument_Valley%2C_Utah%2C_USA_%2823611451292%29.jpg/1920px-Monument_Valley%2C_Utah%2C_USA_%2823611451292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 69,
+   "id": "table-mountain",
+   "name": "Table Mountain",
+   "country": "South Africa",
+   "region": "Africa",
+   "category": "natural",
+   "lat": -33.96218,
+   "lng": 18.40988,
+   "description": "Mountain overlooking Cape Town, South Africa",
+   "summary": "Table Mountain is a flat-topped mountain forming a prominent landmark overlooking the city of Cape Town in South Africa.",
+   "popularity": 35.2,
+   "metrics": {
+    "pageviews": 144483,
+    "wikipediaLanguages": 69
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Table_Mountain",
+   "wikidata": "Q213360",
+   "image": {
+    "src": "images/full/table-mountain.webp",
+    "thumb": "images/thumb/table-mountain.webp",
+    "width": 1600,
+    "height": 1047,
+    "color": "#3888d8",
+    "credit": {
+     "title": "File:Table Mountain DanieVDM.jpg",
+     "author": "Danie van der Merwe from Cape Town, South Africa",
+     "credit": "View of Table Mountain from Bloubergstrand",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Table_Mountain_DanieVDM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_Mountain_DanieVDM.jpg/1920px-Table_Mountain_DanieVDM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 70,
+   "id": "salar-de-uyuni",
+   "name": "Salar de Uyuni",
+   "country": "Bolivia",
+   "region": "South America",
+   "category": "natural",
+   "lat": -20.13377,
+   "lng": -67.48913,
+   "description": "Salt flat in Bolivia",
+   "summary": "Salar de Uyuni is the largest salt flat in the world, with an area of approximately 10,582 square kilometres (4,086 mi2). It is situated in southwestern Bolivia, within the Daniel Campos Province of the Potosí Department, near the crest of the Andes Mountains, at an elevation of 3,656 m (11,995 ft) above sea level.",
+   "popularity": 34.7,
+   "metrics": {
+    "pageviews": 182252,
+    "wikipediaLanguages": 59
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Salar_de_Uyuni",
+   "wikidata": "Q76122",
+   "image": {
+    "src": "images/full/salar-de-uyuni.webp",
+    "thumb": "images/thumb/salar-de-uyuni.webp",
+    "width": 856,
+    "height": 642,
+    "color": "#c8c8c8",
+    "credit": {
+     "title": "File:Salar Uyuni au01.jpg",
+     "author": "Anouchka Unel",
+     "credit": "Own work",
+     "license": "FAL",
+     "licenseUrl": "http://artlibre.org/licence/lal/en",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Salar_Uyuni_au01.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Salar_Uyuni_au01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Salar_Uyuni_au01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 71,
+   "id": "hollywood-sign",
+   "name": "Hollywood Sign",
+   "country": "United States",
+   "region": "North America",
+   "category": "monument",
+   "lat": 34.13406,
+   "lng": -118.32159,
+   "description": "Landmark in Los Angeles, California",
+   "summary": "The Hollywood Sign is an American landmark and cultural icon overlooking Hollywood, Los Angeles. Originally the Hollywoodland Sign, it is on Mount Lee, above Beachwood Canyon in the Santa Monica Mountains. 2 m) long. Due to increasing recognition, the sign was left up; the last four letters \"LAND\" were removed in 1949.",
+   "popularity": 34.1,
+   "metrics": {
+    "pageviews": 280347,
+    "wikipediaLanguages": 42
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Hollywood_Sign",
+   "wikidata": "Q180376",
+   "image": {
+    "src": "images/full/hollywood-sign.webp",
+    "thumb": "images/thumb/hollywood-sign.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#080808",
+    "credit": {
+     "title": "File:Hollywood sign (8485145044).jpg",
+     "author": "Gnaphron",
+     "credit": "https://www.flickr.com/photos/gnaphron/8485145044/in/dateposted/",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Hollywood_sign_(8485145044).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hollywood_sign_%288485145044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/1920px-Hollywood_sign_%288485145044%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 72,
+   "id": "itsukushima-shrine",
+   "name": "Itsukushima Shrine",
+   "country": "Japan",
+   "region": "Asia",
+   "category": "religious",
+   "lat": 34.2959,
+   "lng": 132.3199,
+   "description": "Shinto shrine in Hiroshima Prefecture, Japan",
+   "summary": "Itsukushima Shrine is a Shinto shrine on the island of Itsukushima, best known for its \"floating\" torii. It is in the city of Hatsukaichi, in Hiroshima Prefecture in Japan, accessible from the mainland by ferry at Miyajimaguchi Station.",
+   "popularity": 33.9,
+   "metrics": {
+    "pageviews": 126557,
+    "wikipediaLanguages": 68
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Itsukushima_Shrine",
+   "wikidata": "Q191763",
+   "image": {
+    "src": "images/full/itsukushima-shrine.webp",
+    "thumb": "images/thumb/itsukushima-shrine.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#d8e8f8",
+    "credit": {
+     "title": "File:Itsukushima Shrine Torii Gate (13890465459).jpg",
+     "author": "redlegsfan21",
+     "credit": "Flickr",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_Torii_Gate_(13890465459).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg/1920px-Itsukushima_Shrine_Torii_Gate_%2813890465459%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 73,
+   "id": "las-vegas-strip",
+   "name": "Las Vegas Strip",
+   "country": "United States",
+   "region": "North America",
+   "category": "urban",
+   "lat": 36.1147,
+   "lng": -115.1728,
+   "description": "Stretch of Las Vegas Boulevard with many resorts, shows, and casinos",
+   "summary": "The Las Vegas Strip is a stretch of Las Vegas Boulevard in Clark County, Nevada, that is known for its concentration of resort hotels and casinos. 8 km) long, and is immediately south of the Las Vegas city limits in the unincorporated towns of Paradise and Winchester, but is often referred to simply as \"Las Vegas\".",
+   "popularity": 33.5,
+   "metrics": {
+    "pageviews": 301940,
+    "wikipediaLanguages": 37
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Las_Vegas_Strip",
+   "wikidata": "Q745608",
+   "image": {
+    "src": "images/full/las-vegas-strip.webp",
+    "thumb": "images/thumb/las-vegas-strip.webp",
+    "width": 1600,
+    "height": 1050,
+    "color": "#080808",
+    "credit": {
+     "title": "File:Las Vegas Strip at night, 2012.jpg",
+     "author": "Clément Bardot",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Strip_at_night,_2012.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Las_Vegas_Strip_at_night%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Las_Vegas_Strip_at_night%2C_2012.jpg/1920px-Las_Vegas_Strip_at_night%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 74,
+   "id": "marina-bay-sands",
+   "name": "Marina Bay Sands",
+   "country": "Singapore",
+   "region": "Asia",
+   "category": "building",
+   "lat": 1.2825,
+   "lng": 103.86,
+   "description": "Integrated resort in Singapore",
+   "summary": "Marina Bay Sands is an integrated resort fronting Marina Bay in Singapore and a landmark of the city. 88 billion).",
+   "popularity": 33.4,
+   "metrics": {
+    "pageviews": 273471,
+    "wikipediaLanguages": 40
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Marina_Bay_Sands",
+   "wikidata": "Q548679",
+   "image": {
+    "src": "images/full/marina-bay-sands.webp",
+    "thumb": "images/thumb/marina-bay-sands.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#586868",
+    "credit": {
+     "title": "File:Marina Bay Sands (I).jpg",
+     "author": "This Photo was taken by Supanut Arunoprayote . Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่ง ข้อความบอกกล่าวด้วย ) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .",
+     "credit": "Own work",
+     "license": "CC BY 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_(I).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Marina_Bay_Sands_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Marina_Bay_Sands_%28I%29.jpg/1920px-Marina_Bay_Sands_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 75,
+   "id": "charles-bridge",
+   "name": "Charles Bridge",
+   "country": "Czech Republic",
+   "region": "Europe",
+   "category": "bridge",
+   "lat": 50.08639,
+   "lng": 14.41194,
+   "description": "Medieval stone arch bridge across the Vltava river in Prague, Czechia",
+   "summary": "Charles Bridge is a medieval stone arch bridge that crosses the Vltava river in Prague, Czech Republic. Its construction started in 1357 under the auspices of King Charles IV, and finished in the early 15th century. The bridge replaced the old Judith Bridge built 1158–1172 that had been severely damaged by a flood in 1342.",
+   "popularity": 32.8,
+   "metrics": {
+    "pageviews": 135514,
+    "wikipediaLanguages": 61
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Bridge",
+   "wikidata": "Q204871",
+   "image": {
+    "src": "images/full/charles-bridge.webp",
+    "thumb": "images/thumb/charles-bridge.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#98a8b8",
+    "credit": {
+     "title": "File:Prague 07-2016 view from Lesser Town Tower of Charles Bridge img3.jpg",
+     "author": "A.Savin",
+     "credit": "Own work",
+     "license": "FAL",
+     "licenseUrl": "http://artlibre.org/licence/lal/en",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg/1920px-Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 76,
+   "id": "ait-benhaddou",
+   "name": "Aït Benhaddou",
+   "country": "Morocco",
+   "region": "Africa",
+   "category": "ancient",
+   "lat": 31.04722,
+   "lng": -7.12889,
+   "description": "Historical village in southeastern Morocco",
+   "summary": "Aït Benhaddou is a historic ighrem or ksar along the former caravan route between the Sahara and Marrakesh in Morocco. It is considered a great example of Moroccan earthen clay architecture and has been a UNESCO World Heritage Site since 1987.",
+   "popularity": 32.4,
+   "metrics": {
+    "pageviews": 120308,
+    "wikipediaLanguages": 63
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/A%C3%AFt_Benhaddou",
+   "wikidata": "Q309436",
+   "image": {
+    "src": "images/full/ait-benhaddou.webp",
+    "thumb": "images/thumb/ait-benhaddou.webp",
+    "width": 1600,
+    "height": 990,
+    "color": "#6888c8",
+    "credit": {
+     "title": "File:Ksar Aït Benhaddou, Marocco (أيت بن حدو، المغرب, ⴰⵢⵜ ⵃⴰⴷⴷⵓ).jpg",
+     "author": "Petar Milošević",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Ksar_A%C3%AFt_Benhaddou,_Marocco_(%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg/1920px-Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 77,
+   "id": "gyeongbokgung",
+   "name": "Gyeongbokgung Palace",
+   "country": "South Korea",
+   "region": "Asia",
+   "category": "building",
+   "lat": 37.57988,
+   "lng": 126.9768,
+   "description": "Palace in Seoul, South Korea",
+   "summary": "Gyeongbokgung is a former royal palace in Seoul, South Korea. Established in 1395, it was the first royal palace of the Joseon dynasty, and is now one of the most significant tourist attractions in the country.",
+   "popularity": 32,
+   "metrics": {
+    "pageviews": 196028,
+    "wikipediaLanguages": 45
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Gyeongbokgung",
+   "wikidata": "Q482485",
+   "image": {
+    "src": "images/full/gyeongbokgung.webp",
+    "thumb": "images/thumb/gyeongbokgung.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#5898d8",
+    "credit": {
+     "title": "File:광화문 월대.jpg",
+     "author": "서울관광 아카이브",
+     "credit": "https://archive.visitseoul.net/html/searchView.jsp?contentsId=10032",
+     "license": "KOGL Type 1",
+     "licenseUrl": "http://www.kogl.or.kr/info/licenseType1.do",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/1920px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 78,
+   "id": "serengeti",
+   "name": "Serengeti National Park",
+   "country": "Tanzania",
+   "region": "Africa",
+   "category": "natural",
+   "lat": -2.4,
+   "lng": 34.6,
+   "description": "National park in Tanzania",
+   "summary": "The Serengeti National Park is a large national park in northern Tanzania that stretches over 14,763 km2 (5,700 sq mi). It is located in eastern Mara Region and northeastern Simiyu Region and contains over 15,000 km2 (5,800 sq mi) of savanna. The park was established in 1940.",
+   "popularity": 31.4,
+   "metrics": {
+    "pageviews": 95021,
+    "wikipediaLanguages": 67
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Serengeti_National_Park",
+   "wikidata": "Q11812902",
+   "image": {
+    "src": "images/full/serengeti.webp",
+    "thumb": "images/thumb/serengeti.webp",
+    "width": 1600,
+    "height": 922,
+    "color": "#7888a8",
+    "credit": {
+     "title": "File:Serengeti-Landscape-2012.JPG",
+     "author": "Bjørn Christian Tørrissen",
+     "credit": "Own work by uploader, http://bjornfree.com/galleries.html",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Serengeti-Landscape-2012.JPG",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Serengeti-Landscape-2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Serengeti-Landscape-2012.JPG/1920px-Serengeti-Landscape-2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 79,
+   "id": "cliffs-of-moher",
+   "name": "Cliffs of Moher",
+   "country": "Ireland",
+   "region": "Europe",
+   "category": "natural",
+   "lat": 52.97175,
+   "lng": -9.42633,
+   "description": "Sea cliffs in County Clare, Ireland",
+   "summary": "The Cliffs of Moher are sea cliffs located at the southwestern edge of the Burren region in County Clare, Ireland. They run for about 14 kilometres.",
+   "popularity": 31.3,
+   "metrics": {
+    "pageviews": 185153,
+    "wikipediaLanguages": 44
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Cliffs_of_Moher",
+   "wikidata": "Q239477",
+   "image": {
+    "src": "images/full/cliffs-of-moher.webp",
+    "thumb": "images/thumb/cliffs-of-moher.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#b8d8f8",
+    "credit": {
+     "title": "File:Cliffs-Of-Moher-OBriens-From-South.JPG",
+     "author": "Bjørn Christian Tørrissen",
+     "credit": "Own work by uploader, http://bjornfree.com/galleries.html",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Cliffs-Of-Moher-OBriens-From-South.JPG",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cliffs-Of-Moher-OBriens-From-South.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Cliffs-Of-Moher-OBriens-From-South.JPG/1920px-Cliffs-Of-Moher-OBriens-From-South.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 80,
+   "id": "bagan",
+   "name": "Bagan",
+   "country": "Myanmar",
+   "region": "Asia",
+   "category": "ancient",
+   "lat": 21.1725,
+   "lng": 94.86,
+   "description": "UNESCO historical city in Mandalay Region, Myanmar",
+   "summary": "Bagan is a medieval city and a UNESCO World Heritage Site in the Mandalay Region of Myanmar. From the 9th to 13th centuries, the city was the capital of the Pagan Kingdom, the first kingdom that unified the regions that would later constitute Myanmar.",
+   "popularity": 30.4,
+   "metrics": {
+    "pageviews": 88537,
+    "wikipediaLanguages": 65
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Bagan",
+   "wikidata": "Q29317",
+   "image": {
+    "src": "images/full/bagan.webp",
+    "thumb": "images/thumb/bagan.webp",
+    "width": 1424,
+    "height": 931,
+    "color": "#a8a8a8",
+    "credit": {
+     "title": "File:Bagan, Burma.jpg",
+     "author": "Corto Maltese 1999",
+     "credit": "Originally uploaded to Flickr as View over the plain of Bagan",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Bagan,_Burma.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bagan%2C_Burma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bagan%2C_Burma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 81,
+   "id": "fushimi-inari-taisha",
+   "name": "Fushimi Inari Taisha",
+   "country": "Japan",
+   "region": "Asia",
+   "category": "religious",
+   "lat": 34.96722,
+   "lng": 135.77278,
+   "description": "Shinto shrine near Kyoto, Japan",
+   "summary": "Fushimi Inari-taisha is the head shrine of the kami Inari, located in Fushimi-ku, Kyoto, Japan. 5 mi) and take approximately 2 hours to walk up. It is unclear whether the mountain's name, Inariyama, or the shrine's name came first.",
+   "popularity": 30.3,
+   "metrics": {
+    "pageviews": 190272,
+    "wikipediaLanguages": 39
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha",
+   "wikidata": "Q714828",
+   "image": {
+    "src": "images/full/fushimi-inari-taisha.webp",
+    "thumb": "images/thumb/fushimi-inari-taisha.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#080808",
+    "credit": {
+     "title": "File:Torii path with lantern at Fushimi Inari Taisha Shrine, Kyoto, Japan.jpg",
+     "author": "Basile Morin",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/1920px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 82,
+   "id": "wadi-rum",
+   "name": "Wadi Rum",
+   "country": "Jordan",
+   "region": "Middle East",
+   "category": "natural",
+   "lat": 29.59306,
+   "lng": 35.42,
+   "description": "Valley in southern Jordan",
+   "summary": "Wadi Rum (Arabic: وادي رم Wādī Ramm, also Wādī al-Ramm, known also as the Valley of the Moon or Red mountains, is a valley cut into the sandstone and granite rock in southern Jordan, near the border with Saudi Arabia and about 60 km to the east of the city of Aqaba. With an area of 720 km2 it is the largest wadi in Jordan.",
+   "popularity": 29,
+   "metrics": {
+    "pageviews": 106198,
+    "wikipediaLanguages": 53
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Wadi_Rum",
+   "wikidata": "Q40729",
+   "image": {
+    "src": "images/full/wadi-rum.webp",
+    "thumb": "images/thumb/wadi-rum.webp",
+    "width": 1600,
+    "height": 1064,
+    "color": "#c84818",
+    "credit": {
+     "title": "File:Mountain in Wadi Rum, Jordan.jpg",
+     "author": "Daniel Case",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum,_Jordan.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Mountain_in_Wadi_Rum%2C_Jordan.jpg/1920px-Mountain_in_Wadi_Rum%2C_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 83,
+   "id": "torres-del-paine",
+   "name": "Torres del Paine",
+   "country": "Chile",
+   "region": "South America",
+   "category": "natural",
+   "lat": -51,
+   "lng": -73,
+   "description": "National park in southern Chilean Patagonia",
+   "summary": "Torres del Paine National Park is a national park encompassing mountains, glaciers, lakes, and rivers in southern Chilean Patagonia. The Cordillera del Paine group of mountains is the park's centerpiece. It lies in a transition area between the Magellanic subpolar forests and the Patagonian Steppes.",
+   "popularity": 27.7,
+   "metrics": {
+    "pageviews": 125896,
+    "wikipediaLanguages": 42
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park",
+   "wikidata": "Q901646",
+   "image": {
+    "src": "images/full/torres-del-paine.webp",
+    "thumb": "images/thumb/torres-del-paine.webp",
+    "width": 1600,
+    "height": 1000,
+    "color": "#f8f8f8",
+    "credit": {
+     "title": "File:Cuernos del Paine from Lake Pehoé.jpg",
+     "author": "Miguel Vieira ( talk · contribs )",
+     "credit": "Own work",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "attributionRequired": false,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Cuernos_del_Paine_from_Lake_Peho%C3%A9.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cuernos_del_Paine_from_Lake_Peho%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cuernos_del_Paine_from_Lake_Peho%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 84,
+   "id": "zhangjiajie",
+   "name": "Zhangjiajie National Forest Park",
+   "country": "China",
+   "region": "Asia",
+   "category": "natural",
+   "lat": 29.34992,
+   "lng": 110.43515,
+   "description": "National forest in Hunan, China",
+   "summary": "Zhangjiajie National Forest Park is a national forest park located in Zhangjiajie, Hunan Province, China. It is one of several national parks within the Wulingyuan Scenic Area.",
+   "popularity": 27.6,
+   "metrics": {
+    "pageviews": 147978,
+    "wikipediaLanguages": 36
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park",
+   "wikidata": "Q3895620",
+   "image": {
+    "src": "images/full/zhangjiajie.webp",
+    "thumb": "images/thumb/zhangjiajie.webp",
+    "width": 1600,
+    "height": 799,
+    "color": "#e8e8e8",
+    "credit": {
+     "title": "File:1 tianzishan wulingyuan zhangjiajie 2012.jpg",
+     "author": "chensiyuan",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1920px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 85,
+   "id": "wat-arun",
+   "name": "Wat Arun",
+   "country": "Thailand",
+   "region": "Asia",
+   "category": "religious",
+   "lat": 13.74361,
+   "lng": 100.48889,
+   "description": "Buddhist temple in central Bangkok, Thailand",
+   "summary": "Wat Arun Ratchawararam Ratchawaramahawihan or Wat Arun is a Buddhist temple (wat) in the Bangkok Yai district of Bangkok, Thailand. It is situated in Thonburi on the west bank of the Chao Phraya River. The temple derives its name from the Hindu god Aruṇa, often personified as the rays of the rising sun.",
+   "popularity": 27.4,
+   "metrics": {
+    "pageviews": 113639,
+    "wikipediaLanguages": 44
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Wat_Arun",
+   "wikidata": "Q724970",
+   "image": {
+    "src": "images/full/wat-arun.webp",
+    "thumb": "images/thumb/wat-arun.webp",
+    "width": 1600,
+    "height": 1068,
+    "color": "#5878a8",
+    "credit": {
+     "title": "File:เจดีย์ประธานทรงปรางค์วัดอรุณ2.jpg",
+     "author": "Mastertongapollo",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg/1920px-%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 86,
+   "id": "half-dome",
+   "name": "Half Dome, Yosemite",
+   "country": "United States",
+   "region": "North America",
+   "category": "natural",
+   "lat": 37.74604,
+   "lng": -119.53294,
+   "description": "Granitic dome in Yosemite National Park, California",
+   "summary": "Half Dome is a quartz monzonite batholith at the eastern end of Yosemite Valley in Yosemite National Park, California. It is a well-known rock formation in the park, named for its distinct shape. One side is a sheer face while the other three sides are smooth and round, making it appear like a dome cut in half.",
+   "popularity": 27.2,
+   "metrics": {
+    "pageviews": 148516,
+    "wikipediaLanguages": 34
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Half_Dome",
+   "wikidata": "Q925252",
+   "image": {
+    "src": "images/full/half-dome.webp",
+    "thumb": "images/thumb/half-dome.webp",
+    "width": 1600,
+    "height": 1508,
+    "color": "#4898d8",
+    "credit": {
+     "title": "File:Half Dome with Eastern Yosemite Valley (Zuschnitt).jpg",
+     "author": "Thomas Wolf , www.foto-tw.de",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Half_Dome_with_Eastern_Yosemite_Valley_(Zuschnitt).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Half_Dome_with_Eastern_Yosemite_Valley_%28Zuschnitt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Half_Dome_with_Eastern_Yosemite_Valley_%28Zuschnitt%29.jpg/1920px-Half_Dome_with_Eastern_Yosemite_Valley_%28Zuschnitt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 87,
+   "id": "paro-taktsang",
+   "name": "Tiger's Nest (Paro Taktsang)",
+   "country": "Bhutan",
+   "region": "Asia",
+   "category": "religious",
+   "lat": 27.49191,
+   "lng": 89.36349,
+   "description": "Buddhist temple complex in Paro, Bhutan",
+   "summary": "Paro Taktsang is a sacred Vajrayana Himalayan Buddhist site located in the cliffside of the upper Paro valley in Bhutan. It is one of thirteen Tiger's Nest caves in which Padmasambhava practiced and taught Vajrayana.",
+   "popularity": 26.1,
+   "metrics": {
+    "pageviews": 99915,
+    "wikipediaLanguages": 43
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Paro_Taktsang",
+   "wikidata": "Q2209873",
+   "image": {
+    "src": "images/full/paro-taktsang.webp",
+    "thumb": "images/thumb/paro-taktsang.webp",
+    "width": 1600,
+    "height": 1048,
+    "color": "#080808",
+    "credit": {
+     "title": "File:Paro Taktsang, Bhutan (edited).jpg",
+     "author": "Original: Nina R from Africa Derivative work: UnpetitproleX",
+     "credit": "Paro Taktsang, Bhutan This file was derived from: Paro Taktsang, Bhutan (49694480001).jpg",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Paro_Taktsang,_Bhutan_(edited).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Paro_Taktsang%2C_Bhutan_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Paro_Taktsang%2C_Bhutan_%28edited%29.jpg/1920px-Paro_Taktsang%2C_Bhutan_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 88,
+   "id": "antelope-canyon",
+   "name": "Antelope Canyon",
+   "country": "United States",
+   "region": "North America",
+   "category": "natural",
+   "lat": 36.86196,
+   "lng": -111.37434,
+   "description": "Landform in the Navajo Nation, Arizona",
+   "summary": "Navajo Upper Antelope Canyon is a slot canyon in the American Southwest, on Navajo land east of Lechee, Arizona. It includes six separate, scenic slot canyon sections on the Navajo Reservation, referred to as Upper Antelope Canyon, Rattle Snake Canyon, Owl Canyon, Mountain Sheep Canyon, Canyon X and Lower Antelope Canyon.",
+   "popularity": 25.4,
+   "metrics": {
+    "pageviews": 96387,
+    "wikipediaLanguages": 41
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Antelope_Canyon",
+   "wikidata": "Q308926",
+   "image": {
+    "src": "images/full/antelope-canyon.webp",
+    "thumb": "images/thumb/antelope-canyon.webp",
+    "width": 1600,
+    "height": 2133,
+    "color": "#982808",
+    "credit": {
+     "title": "File:USA Antelope-Canyon.jpg",
+     "author": "Lucas Löffler",
+     "credit": "Own work",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "attributionRequired": false,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:USA_Antelope-Canyon.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/USA_Antelope-Canyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/b/b5/USA_Antelope-Canyon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 89,
+   "id": "registan",
+   "name": "Registan",
+   "country": "Uzbekistan",
+   "region": "Asia",
+   "category": "building",
+   "lat": 39.65472,
+   "lng": 66.97556,
+   "description": "Historical center of Samarkand, Uzbekistan",
+   "summary": "Registan, officially the Registan Square is a historic public square in the city of Samarkand, Uzbekistan. It served as the heart of the Timurid Empire and later as the city's commercial, educational, and ceremonial center.",
+   "popularity": 24.5,
+   "metrics": {
+    "pageviews": 55016,
+    "wikipediaLanguages": 56
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Registan",
+   "wikidata": "Q1373583",
+   "image": {
+    "src": "images/full/registan.webp",
+    "thumb": "images/thumb/registan.webp",
+    "width": 1462,
+    "height": 1097,
+    "color": "#4878b8",
+    "credit": {
+     "title": "File:RegistanSquare Samarkand.jpg",
+     "author": "Registan_-_Gusjer.jpg : Gustavo Jeronimo from Aranjuez, Spain derivative work: MrPanyGoff",
+     "credit": "Registan_-_Gusjer.jpg",
+     "license": "CC BY 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:RegistanSquare_Samarkand.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RegistanSquare_Samarkand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RegistanSquare_Samarkand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  },
+  {
+   "rank": 90,
+   "id": "grand-prismatic-spring",
+   "name": "Grand Prismatic Spring, Yellowstone",
+   "country": "United States",
+   "region": "North America",
+   "category": "natural",
+   "lat": 44.525,
+   "lng": -110.8381,
+   "description": "Largest hot spring in the United States",
+   "summary": "The Grand Prismatic Spring is the largest hot spring in the Yellowstone National Park, and the third largest in the world, after Frying Pan Lake in New Zealand and Boiling Lake in Dominica. It is located in the Midway Geyser Basin.",
+   "popularity": 24.2,
+   "metrics": {
+    "pageviews": 111967,
+    "wikipediaLanguages": 31
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Grand_Prismatic_Spring",
+   "wikidata": "Q1422831",
+   "image": {
+    "src": "images/full/grand-prismatic-spring.webp",
+    "thumb": "images/thumb/grand-prismatic-spring.webp",
+    "width": 1600,
+    "height": 1133,
+    "color": "#d8e8e8",
+    "credit": {
+     "title": "File:Aerial image of Grand Prismatic Spring (view from the south).jpg",
+     "author": "Carsten Steger",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Grand_Prismatic_Spring_(view_from_the_south).jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg/1920px-Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 91,
+   "id": "milford-sound",
+   "name": "Milford Sound",
+   "country": "New Zealand",
+   "region": "Oceania",
+   "category": "natural",
+   "lat": -44.64806,
+   "lng": 167.90556,
+   "description": "Fiord in the southwest of New Zealand's South Island",
+   "summary": "Milford Sound is a fiord in the south west of New Zealand's South Island within Fiordland National Park, Piopiotahi Marine Reserve, and the Te Wahipounamu World Heritage site. It has been judged the world's top travel destination in an international survey and is acclaimed as New Zealand's most famous tourist destination.",
+   "popularity": 23.7,
+   "metrics": {
+    "pageviews": 85378,
+    "wikipediaLanguages": 38
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Milford_Sound",
+   "wikidata": "Q187197",
+   "image": {
+    "src": "images/full/milford-sound.webp",
+    "thumb": "images/thumb/milford-sound.webp",
+    "width": 1600,
+    "height": 579,
+    "color": "#98b8e8",
+    "credit": {
+     "title": "File:Milford Sound (New Zealand).JPG",
+     "author": "Maros M r a z ( Maros )",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Milford_Sound_(New_Zealand).JPG",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Milford_Sound_%28New_Zealand%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Milford_Sound_%28New_Zealand%29.JPG/1920px-Milford_Sound_%28New_Zealand%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 92,
+   "id": "grand-canal-venice",
+   "name": "Grand Canal, Venice",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "urban",
+   "lat": 45.438,
+   "lng": 12.3359,
+   "description": "Water channel in Venice, Italy",
+   "summary": "The Grand Canal is the largest channel in Venice, Italy, forming one of the major water-traffic corridors in the city.",
+   "popularity": 23.6,
+   "metrics": {
+    "pageviews": 59045,
+    "wikipediaLanguages": 50
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Grand_Canal_(Venice)",
+   "wikidata": "Q309243",
+   "image": {
+    "src": "images/full/grand-canal-venice.webp",
+    "thumb": "images/thumb/grand-canal-venice.webp",
+    "width": 1600,
+    "height": 875,
+    "color": "#c8d8d8",
+    "credit": {
+     "title": "File:View of the Grand Canal from Rialto to Ca'Foscari.jpg",
+     "author": "Didier Descouens",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg/1920px-View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 93,
+   "id": "twelve-apostles",
+   "name": "Twelve Apostles",
+   "country": "Australia",
+   "region": "Oceania",
+   "category": "natural",
+   "lat": -38.6659,
+   "lng": 143.1044,
+   "description": "Limestone stacks in Australia",
+   "summary": "The Twelve Apostles are a collection of limestone stacks off the shore of Port Campbell National Park, by the Great Ocean Road in Victoria, Australia.",
+   "popularity": 23.5,
+   "metrics": {
+    "pageviews": 83206,
+    "wikipediaLanguages": 38
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Twelve_Apostles_(Victoria)",
+   "wikidata": "Q475623",
+   "image": {
+    "src": "images/full/twelve-apostles.webp",
+    "thumb": "images/thumb/twelve-apostles.webp",
+    "width": 1600,
+    "height": 1066,
+    "color": "#787878",
+    "credit": {
+     "title": "File:The Twelve Apostles 2011.jpg",
+     "author": "Michael J Fromholtz",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Twelve_Apostles_2011.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/The_Twelve_Apostles_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Twelve_Apostles_2011.jpg/1920px-The_Twelve_Apostles_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 94,
+   "id": "perito-moreno-glacier",
+   "name": "Perito Moreno Glacier",
+   "country": "Argentina",
+   "region": "South America",
+   "category": "natural",
+   "lat": -50.5,
+   "lng": -73.13333,
+   "description": "Glacier located in the Patagonian Andes",
+   "summary": "The Perito Moreno, Francisco Gormaz or Bismarck Glacier is a glacier located in Los Glaciares National Park in southwest Santa Cruz Province, Argentina, and originated in the Magallanes Region in Chile, being also part of the Bernardo O'Higgins National Park. It is one of the most important tourist attractions in the Argentine Patagonia.",
+   "popularity": 21.4,
+   "metrics": {
+    "pageviews": 61965,
+    "wikipediaLanguages": 39
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Perito_Moreno_Glacier",
+   "wikidata": "Q367943",
+   "image": {
+    "src": "images/full/perito-moreno-glacier.webp",
+    "thumb": "images/thumb/perito-moreno-glacier.webp",
+    "width": 1600,
+    "height": 686,
+    "color": "#78b8e8",
+    "credit": {
+     "title": "File:Perito Moreno Glacier 2023.jpg",
+     "author": "Fernando",
+     "credit": "Own work",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_2023.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Perito_Moreno_Glacier_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Perito_Moreno_Glacier_2023.jpg/1920px-Perito_Moreno_Glacier_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 95,
+   "id": "tre-cime-di-lavaredo",
+   "name": "Tre Cime di Lavaredo",
+   "country": "Italy",
+   "region": "Europe",
+   "category": "natural",
+   "lat": 46.61667,
+   "lng": 12.3,
+   "description": "Mountains in Italy",
+   "summary": "The Tre Cime di Lavaredo, also called the Drei Zinnen, are three distinctive battlement-like peaks, in the Sexten Dolomites of northeastern Italy. They are one of the best-known mountain groups in the Alps. The three peaks, from east to west, are:Cima Piccola / Kleine Zinne Cima Grande / Große Zinne Cima Ovest / Westliche Zinne.",
+   "popularity": 18.9,
+   "metrics": {
+    "pageviews": 62607,
+    "wikipediaLanguages": 28
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Tre_Cime_di_Lavaredo",
+   "wikidata": "Q1257207",
+   "image": {
+    "src": "images/full/tre-cime-di-lavaredo.webp",
+    "thumb": "images/thumb/tre-cime-di-lavaredo.webp",
+    "width": 1600,
+    "height": 916,
+    "color": "#c8c8c8",
+    "credit": {
+     "title": "File:2019 Tre Cime.jpg",
+     "author": "Tiia Monto",
+     "credit": "Own work",
+     "license": "CC BY-SA 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:2019_Tre_Cime.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/2019_Tre_Cime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2019_Tre_Cime.jpg/1920px-2019_Tre_Cime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 96,
+   "id": "moraine-lake",
+   "name": "Moraine Lake",
+   "country": "Canada",
+   "region": "North America",
+   "category": "natural",
+   "lat": 51.3225,
+   "lng": -116.18556,
+   "description": "Glacial lake in Alberta, Canada",
+   "summary": "7 mi) outside the village of Lake Louise, Alberta, Canada. It is situated in the Valley of the Ten Peaks, at an elevation of approximately 1,884 metres (6,181 ft). The lake has a surface area of 50 hectares.",
+   "popularity": 18.3,
+   "metrics": {
+    "pageviews": 44806,
+    "wikipediaLanguages": 37
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Moraine_Lake",
+   "wikidata": "Q1072342",
+   "image": {
+    "src": "images/full/moraine-lake.webp",
+    "thumb": "images/thumb/moraine-lake.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#98c8f8",
+    "credit": {
+     "title": "File:Moraine Lake 17092005.jpg",
+     "author": "Gorgo",
+     "credit": "Photo taken by author",
+     "license": "Public domain",
+     "licenseUrl": null,
+     "attributionRequired": false,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/1920px-Moraine_Lake_17092005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 97,
+   "id": "lalibela",
+   "name": "Church of Saint George, Lalibela",
+   "country": "Ethiopia",
+   "region": "Africa",
+   "category": "religious",
+   "lat": 12.03174,
+   "lng": 39.04113,
+   "description": "Rock-hewn church in Lalibela, Ethiopia",
+   "summary": "The Church of Saint George is one of eleven rock-hewn monolithic churches in Lalibela, a town in the Amhara Region of Ethiopia. Originally named Roha (Warwar), the historical and religious site was named Lalibela after the King Gebre Mesqel Lalibela of the Zagwe dynasty, who commissioned its construction.",
+   "popularity": 17.4,
+   "metrics": {
+    "pageviews": 44592,
+    "wikipediaLanguages": 33
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Church_of_Saint_George%2C_Lalibela",
+   "wikidata": "Q7971367",
+   "image": {
+    "src": "images/full/lalibela.webp",
+    "thumb": "images/thumb/lalibela.webp",
+    "width": 1600,
+    "height": 1387,
+    "color": "#080808",
+    "credit": {
+     "title": "File:Lalibela, san giorgio, esterno 24.jpg",
+     "author": "Sailko",
+     "credit": "Own work",
+     "license": "CC BY 3.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Lalibela,_san_giorgio,_esterno_24.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg/1920px-Lalibela%2C_san_giorgio%2C_esterno_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 98,
+   "id": "victoria-harbour",
+   "name": "Victoria Harbour",
+   "country": "Hong Kong",
+   "region": "Asia",
+   "category": "urban",
+   "lat": 22.29,
+   "lng": 114.17,
+   "description": "Harbour in Hong Kong",
+   "summary": "Victoria Harbour is a natural landform harbour in Hong Kong separating Hong Kong Island to the south from the Kowloon Peninsula to the north. It is a major trading hub, as well as a tourist attraction. Lying in the middle of the territory's dense urban region, the harbour is also the site of annual fireworks displays and promenades.",
+   "popularity": 16.5,
+   "metrics": {
+    "pageviews": 49260,
+    "wikipediaLanguages": 26
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Victoria_Harbour",
+   "wikidata": "Q155643",
+   "image": {
+    "src": "images/full/victoria-harbour.webp",
+    "thumb": "images/thumb/victoria-harbour.webp",
+    "width": 1600,
+    "height": 757,
+    "color": "#181808",
+    "credit": {
+     "title": "File:Hong Kong Harbour Night 2019-06-11.jpg",
+     "author": "Benh LIEU SONG ( Flickr )",
+     "credit": "Hong Kong Harbour Night 2019",
+     "license": "CC BY-SA 4.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg/1920px-Hong_Kong_Harbour_Night_2019-06-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 99,
+   "id": "sossusvlei",
+   "name": "Sossusvlei",
+   "country": "Namibia",
+   "region": "Africa",
+   "category": "natural",
+   "lat": -24.73983,
+   "lng": 15.28765,
+   "description": "Salt and clay pan in the Namib Desert, Namibia",
+   "summary": "Sossusvlei is a salt and clay pan surrounded by high red dunes, located in the southern part of the Namib Desert, in the Namib-Naukluft National Park of Namibia. The name \"Sossusvlei\" is often used in an extended meaning to refer to the surrounding area. These landmarks are some of the major visitor attractions of Namibia.",
+   "popularity": 11.2,
+   "metrics": {
+    "pageviews": 26085,
+    "wikipediaLanguages": 25
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Sossusvlei",
+   "wikidata": "Q1932730",
+   "image": {
+    "src": "images/full/sossusvlei.webp",
+    "thumb": "images/thumb/sossusvlei.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#a87858",
+    "credit": {
+     "title": "File:Sossusvlei.jpg",
+     "author": "Ikiwaner",
+     "credit": "Own work",
+     "license": "GFDL 1.2",
+     "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Sossusvlei.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sossusvlei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Sossusvlei.jpg/1920px-Sossusvlei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    }
+   }
+  },
+  {
+   "rank": 100,
+   "id": "avenue-of-the-baobabs",
+   "name": "Avenue of the Baobabs",
+   "country": "Madagascar",
+   "region": "Africa",
+   "category": "natural",
+   "lat": -20.25,
+   "lng": 44.41944,
+   "description": "Protected area in Madagascar",
+   "summary": "8 between Morondava and Belon'i Tsiribihina in the Menabe region of western Madagascar. Its striking landscape draws travelers from around the world, making it one of the most visited locations in the region.",
+   "popularity": 9.8,
+   "metrics": {
+    "pageviews": 23383,
+    "wikipediaLanguages": 23
+   },
+   "wikipedia": "https://en.wikipedia.org/wiki/Avenue_of_the_Baobabs",
+   "wikidata": "Q788084",
+   "image": {
+    "src": "images/full/avenue-of-the-baobabs.webp",
+    "thumb": "images/thumb/avenue-of-the-baobabs.webp",
+    "width": 1536,
+    "height": 726,
+    "color": "#e8e8d8",
+    "credit": {
+     "title": "File:Adansonia grandidieri Pat Hooper.jpg",
+     "author": "Pat Hooper from Chicago, IL, USA",
+     "credit": "cropped version of pat1_14_11a-lg",
+     "license": "CC BY-SA 2.0",
+     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "attributionRequired": true,
+     "sourcePage": "https://commons.wikimedia.org/wiki/File:Adansonia_grandidieri_Pat_Hooper.jpg",
+     "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Adansonia_grandidieri_Pat_Hooper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/3/38/Adansonia_grandidieri_Pat_Hooper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    }
+   }
+  }
+ ]
+}

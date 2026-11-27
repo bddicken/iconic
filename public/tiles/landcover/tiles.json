@@ -1,0 +1,5 @@
+{
+  "tiles": "tiles/landcover/{z}/{x}/{y}.webp",
+  "maxzoom": 5,
+  "attribution": "Land cover: <a href=\"https://www.naturalearthdata.com\" target=\"_blank\" rel=\"noopener\">Natural Earth</a>"
+}

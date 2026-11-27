@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0a0b1e" />
+    <meta name="description" content="Spin the globe and explore the world's most iconic places, landmarks and natural wonders." />
+    <title>Iconic · the world's landmarks on a globe</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="map" aria-label="Globe of iconic landmarks"></div>
+
+    <header class="brand">
+      <h1>Iconic</h1>
+    </header>
+
+    <nav class="actions" aria-label="Explore">
+      <button id="random" type="button">Surprise me</button>
+    </nav>
+
+    <p id="notice" class="notice" role="alert" hidden></p>
+
+    <aside id="card" class="card" aria-live="polite" hidden></aside>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
